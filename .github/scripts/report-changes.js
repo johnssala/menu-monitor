@@ -23,8 +23,11 @@ for (const change of changes) {
     ...(change.removed.length ? change.removed.map(x => `- ${x}`) : ["- None"])
   ].join("\n");
 
+  const tmpFile = "issue-body.txt";
+  fs.writeFileSync(tmpFile, body);
+
   execSync(
-    `gh issue create --title ${JSON.stringify(title)} --body ${JSON.stringify(body)}`,
+    `gh issue create --title ${JSON.stringify(title)} --body-file ${tmpFile}`,
     { stdio: "inherit" }
   );
 }

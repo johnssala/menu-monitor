@@ -84,6 +84,7 @@ async function extractPageContent(page) {
     const lines = rawLines.filter(line => {
       const l = line.toLowerCase();
 
+      // remove obvious junk
       if (
         l.includes("show navigation") ||
         l.includes("show search") ||
@@ -92,10 +93,15 @@ async function extractPageContent(page) {
         l.includes("terms of use") ||
         l.includes("legal notices") ||
         l.includes("all rights reserved") ||
-        l.includes("site map")
-      ) {
-        return false;
-      }
+        l.includes("site map") ||
+        l.includes("_satellite") ||   // REMOVE DISNEY JS
+        l.includes("function(") ||    // REMOVE JS
+        l.includes("<img") ||         // REMOVE HTML
+        l.includes("http")            // REMOVE URLs
+      ) return false;
+
+      // remove long garbage blocks
+      if (line.length > 200) return false;
 
       return true;
     });
