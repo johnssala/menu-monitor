@@ -195,7 +195,7 @@ async function fetchMenu(browser, menu) {
     });
 
     // Give dynamic page content time to render
-    await page.waitForTimeout(5000);
+    await new Promise(resolve => setTimeout(resolve, 5000));
 
     // Wait for likely menu text to appear if it does
     await page.waitForFunction(
