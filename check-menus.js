@@ -68,85 +68,57 @@ function normalizeText(text) {
 }
 
 async function extractPageContent(page) {
-  await page.waitForSelector("body", { timeout: 60000 });
-
   return await page.evaluate(() => {
     const root =
       document.querySelector("main") ||
       document.querySelector('[role="main"]') ||
       document.body;
 
-    const rawLines = ((root ? root.innerText : document.body.innerText) || "")
-      .split("\n")
-      .map(line => line.trim())
-      .filter(Boolean);
+    const sections = [];
+    let currentSection = null;
 
-    const lines = rawLines.filter(line => {
-      const l = line.toLowerCase();
+    const elements = root.querySelectorAll("h1, h2, h3, h4, p, li");
 
+    elements.forEach(el => {
+      const text = el.innerText?.trim();
+      if (!text) return;
+
+      const l = text.toLowerCase();
+
+      // skip junk
       if (
-        l.includes("show navigation") ||
-        l.includes("show search") ||
-        l === "tickets" ||
         l.includes("privacy policy") ||
         l.includes("terms of use") ||
         l.includes("legal notices") ||
         l.includes("all rights reserved") ||
-        l.includes("site map") ||
-        l.includes("show more links") ||
-        l.includes("_satellite") ||
-        l.includes("function ()") ||
-        l.includes("callback:") ||
-        l.includes("return document.queryselector") ||
-        l.includes("trackclick") ||
-        l.includes("annualpassholders") ||
-        l.includes("parksandtickets")
-      ) {
-        return false;
+        l.includes("show navigation") ||
+        l.includes("show search") ||
+        l.includes("show more links")
+      ) return;
+
+      // detect menu start
+      if (el.tagName === "H2" && l.includes("menu")) {
+        currentSection = { title: text, items: [] };
+        sections.push(currentSection);
+        return;
       }
 
-      if (
-        line.startsWith("function") ||
-        line.startsWith("return ") ||
-        line.startsWith("callback:") ||
-        line.startsWith("var ") ||
-        line.startsWith("$el") ||
-        line === "});" ||
-        line === "}" ||
-        line === "]," ||
-        line === ");"
-      ) {
-        return false;
+      // detect section headers
+      if (el.tagName === "H3") {
+        currentSection = { title: text, items: [] };
+        sections.push(currentSection);
+        return;
       }
 
-      if (line.length > 200) {
-        return false;
-      }
+      if (!currentSection) return;
 
-      return true;
+      currentSection.items.push(text);
     });
 
-    const startIndex = lines.findIndex(line => /menu/i.test(line));
-
-    const finalLines = startIndex !== -1
-      ? lines.slice(startIndex)
-      : lines;
-
-    const stopIndex = finalLines.findIndex(line =>
-      /show more links|privacy policy|all rights reserved/i.test(line)
-    );
-
-    const cleanedLines = stopIndex !== -1
-      ? finalLines.slice(0, stopIndex)
-      : finalLines;
-
     return {
-      sections: [
-        {
-          title: "page",
-          items: cleanedLines
-        }
-      ]
+      sections: sections.length
+        ? sections
+        : [{ title: "page", items: [] }]
     };
   });
 }
