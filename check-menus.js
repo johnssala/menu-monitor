@@ -55,30 +55,38 @@ function stableHash(obj) {
   return crypto.createHash("sha256").update(JSON.stringify(obj)).digest("hex");
 }
 
+function stripPrices(text) {
+  return (text || "")
+    .replace(/\$\s*\d+(?:\.\d{1,2})?/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 function normalizeText(text) {
-  return text.replace(/\s+/g, " ").trim();
+  return stripPrices(text);
 }
 
-// Replace these extractors with the real selectors you discover
-async function extractDisneyMenu(page) {
-  // Example placeholder:
-  await page.waitForSelector("body", { timeout: PAGE_TIMEOUT_MS });
+async function extractPageContent(page) {
+  await page.waitForSelector("body", { timeout: 60000 });
 
   return await page.evaluate(() => {
-    const text = document.body.innerText || "";
-    return {
-      sections: [{ title: "full-page-fallback", items: text.split("\n").map(s => s.trim()).filter(Boolean) }]
-    };
-  });
-}
+    const root =
+      document.querySelector("main") ||
+      document.querySelector('[role="main"]') ||
+      document.body;
 
-async function extractUniversalMenu(page) {
-  await page.waitForSelector("body", { timeout: PAGE_TIMEOUT_MS });
+    const lines = (root ? root.innerText : document.body.innerText)
+      .split("\n")
+      .map(line => line.trim())
+      .filter(Boolean);
 
-  return await page.evaluate(() => {
-    const text = document.body.innerText || "";
     return {
-      sections: [{ title: "full-page-fallback", items: text.split("\n").map(s => s.trim()).filter(Boolean) }]
+      sections: [
+        {
+          title: "page",
+          items: lines
+        }
+      ]
     };
   });
 }
@@ -124,15 +132,7 @@ async function fetchMenu(browser, menu) {
       timeout: PAGE_TIMEOUT_MS
     });
 
-    let raw;
-    if (menu.type === "disney") {
-      raw = await extractDisneyMenu(page);
-    } else if (menu.type === "universal") {
-      raw = await extractUniversalMenu(page);
-    } else {
-      throw new Error(`Unknown menu type: ${menu.type}`);
-    }
-
+    const raw = await extractPageContent(page);
     return normalizeMenu(raw);
   } finally {
     await page.close();

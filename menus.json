@@ -3,14 +3,12 @@
     "id": "dca-paradise-garden-grill",
     "park": "Disney California Adventure",
     "name": "Paradise Garden Grill",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/paradise-garden-grill/menus/",
-    "type": "disney"
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/paradise-garden-grill/menus/"
   },
   {
     "id": "ioa-three-broomsticks",
     "park": "Islands of Adventure",
     "name": "Leaky Cauldron",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/three-broomsticks/menu.html",
-    "type": "universal"
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/three-broomsticks/menu.html"
   }
 ]
