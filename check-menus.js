@@ -9,6 +9,7 @@ const SNAPSHOT_DIR = path.join(ROOT, "snapshots");
 const REPORT_FILE = path.join(ROOT, "changed-report.json");
 
 // Tune these
+// Batch size controls how many menus are checked per day
 const BATCH_SIZE = 2;
 const REQUEST_DELAY_MS = 20000; // 20 sec between pages
 const PAGE_TIMEOUT_MS = 90000;
@@ -75,16 +76,53 @@ async function extractPageContent(page) {
       document.querySelector('[role="main"]') ||
       document.body;
 
-    const lines = (root ? root.innerText : document.body.innerText)
+    const rawLines = (root ? root.innerText : document.body.innerText)
       .split("\n")
       .map(line => line.trim())
       .filter(Boolean);
+
+    const lines = rawLines.filter(line => {
+      const l = line.toLowerCase();
+
+      if (
+        l.includes("show navigation") ||
+        l.includes("show search") ||
+        l === "tickets" ||
+        l.includes("privacy policy") ||
+        l.includes("terms of use") ||
+        l.includes("legal notices") ||
+        l.includes("all rights reserved") ||
+        l.includes("site map")
+      ) {
+        return false;
+      }
+
+      if (line.length > 250) {
+        return false;
+      }
+
+      return true;
+    });
+
+    const startIndex = lines.findIndex(line => /menu/i.test(line));
+
+    const finalLines = startIndex !== -1
+      ? lines.slice(startIndex)
+      : lines;
+
+    const stopIndex = finalLines.findIndex(line =>
+      /show more links|privacy policy|all rights reserved/i.test(line)
+    );
+
+    const cleanedLines = stopIndex !== -1
+      ? finalLines.slice(0, stopIndex)
+      : finalLines;
 
     return {
       sections: [
         {
           title: "page",
-          items: lines
+          items: cleanedLines
         }
       ]
     };
@@ -92,10 +130,12 @@ async function extractPageContent(page) {
 }
 
 function normalizeMenu(raw) {
-  const sections = (raw.sections || []).map((section) => ({
-    title: normalizeText(section.title || ""),
-    items: (section.items || []).map(normalizeText).filter(Boolean)
-  })).filter(section => section.title || section.items.length);
+  const sections = (raw.sections || [])
+    .map((section) => ({
+      title: normalizeText(section.title || ""),
+      items: (section.items || []).map(normalizeText).filter(Boolean)
+    }))
+    .filter(section => section.title || section.items.length);
 
   return { sections };
 }
