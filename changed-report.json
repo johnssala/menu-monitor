@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "dca-paradise-garden-grill",
+    "name": "Paradise Garden Grill",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/paradise-garden-grill/menus/",
+    "added": [
+      "Coco Sipper"
+    ],
+    "removed": []
+  }
+]
