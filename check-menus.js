@@ -76,7 +76,7 @@ async function extractPageContent(page) {
       document.querySelector('[role="main"]') ||
       document.body;
 
-    const rawLines = (root ? root.innerText : document.body.innerText)
+    const rawLines = ((root ? root.textContent : document.body.textContent) || "")
       .split("\n")
       .map(line => line.trim())
       .filter(Boolean);
@@ -94,10 +94,6 @@ async function extractPageContent(page) {
         l.includes("all rights reserved") ||
         l.includes("site map")
       ) {
-        return false;
-      }
-
-      if (line.length > 250) {
         return false;
       }
 
