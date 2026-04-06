@@ -194,6 +194,23 @@ async function fetchMenu(browser, menu) {
       timeout: PAGE_TIMEOUT_MS
     });
 
+    // Give dynamic page content time to render
+    await page.waitForTimeout(5000);
+
+    // Wait for likely menu text to appear if it does
+    await page.waitForFunction(
+      () => {
+        const text = (
+          document.querySelector("main")?.innerText ||
+          document.body.innerText ||
+          ""
+        );
+
+        return /seasonal offerings|entrées|plant-based|desserts|beverages|kids' meal/i.test(text);
+      },
+      { timeout: 20000 }
+    ).catch(() => {});
+
     const raw = await extractPageContent(page);
     return normalizeMenu(raw);
   } finally {
