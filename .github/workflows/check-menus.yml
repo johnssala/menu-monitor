@@ -55,9 +55,13 @@ jobs:
           git commit -m "Update menu snapshots"
 
           for i in 1 2 3; do
-            git pull --rebase origin main
+            git reset --hard HEAD
+            git clean -fd
 
-            if git push origin main; then
+            git fetch origin main
+            git rebase origin/main
+
+            if git push origin HEAD:main; then
               echo "Push succeeded."
               exit 0
             fi
