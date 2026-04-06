@@ -76,7 +76,7 @@ async function extractPageContent(page) {
       document.querySelector('[role="main"]') ||
       document.body;
 
-    const rawLines = ((root ? root.textContent : document.body.textContent) || "")
+    const rawLines = ((root ? root.innerText : document.body.innerText) || "")
       .split("\n")
       .map(line => line.trim())
       .filter(Boolean);
@@ -84,7 +84,6 @@ async function extractPageContent(page) {
     const lines = rawLines.filter(line => {
       const l = line.toLowerCase();
 
-      // remove obvious junk
       if (
         l.includes("show navigation") ||
         l.includes("show search") ||
@@ -94,14 +93,35 @@ async function extractPageContent(page) {
         l.includes("legal notices") ||
         l.includes("all rights reserved") ||
         l.includes("site map") ||
-        l.includes("_satellite") ||   // REMOVE DISNEY JS
-        l.includes("function(") ||    // REMOVE JS
-        l.includes("<img") ||         // REMOVE HTML
-        l.includes("http")            // REMOVE URLs
-      ) return false;
+        l.includes("show more links") ||
+        l.includes("_satellite") ||
+        l.includes("function ()") ||
+        l.includes("callback:") ||
+        l.includes("return document.queryselector") ||
+        l.includes("trackclick") ||
+        l.includes("annualpassholders") ||
+        l.includes("parksandtickets")
+      ) {
+        return false;
+      }
 
-      // remove long garbage blocks
-      if (line.length > 200) return false;
+      if (
+        line.startsWith("function") ||
+        line.startsWith("return ") ||
+        line.startsWith("callback:") ||
+        line.startsWith("var ") ||
+        line.startsWith("$el") ||
+        line === "});" ||
+        line === "}" ||
+        line === "]," ||
+        line === ");"
+      ) {
+        return false;
+      }
+
+      if (line.length > 200) {
+        return false;
+      }
 
       return true;
     });
