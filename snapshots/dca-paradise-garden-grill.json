@@ -3,37 +3,10 @@
     {
       "title": "page",
       "items": [
-        "Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions.",
-        "location: [",
-        "'WDPRO.Analytics.wdwQuery',",
-        "function () {",
-        "return document.querySelector('.gnbParksAndTickets,.gnbCategory.parks-and-tickets');",
-        "}",
-        "],",
-        "callback: function ($) {",
-        "hov('ParksAndTickets', 'parks-and-tickets', 'ParksTickets');",
-        "hov('PlacesToStay', 'places-to-stay', 'PlacesToStay');",
-        "hov('ThingsToDo', 'things-to-do', 'ThingsToDo');",
-        "hov('Help', 'help', 'Help');",
-        "hov('AnnualPassholders', 'annual-passports', 'AnnualPassports');",
-        "function hov(mainGnbClass, childClass, linkId) {",
-        "var timer,",
-        "$el = $('.gnb' + mainGnbClass + ',.gnbCategory.' + childClass);",
-        "if ($el.hasClass(childClass)) $el = $el.parent();",
-        "$el.hover(",
-        "function () {",
-        "timer = setTimeout(function () {",
-        "s_wdpro.trackClick({}, 'DLR_Header_' + linkId + '_Hover');",
-        "}, 1001);",
-        "},",
-        "function () {",
-        "clearTimeout(timer);",
-        "}",
-        ");",
-        "}",
-        "}",
-        "});",
-        "});"
+        "Lunch And Dinner Menu",
+        "Disney California Adventure Park, Paradise Gardens Park",
+        "Fast Casual Dining",
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
       ]
     }
   ]
