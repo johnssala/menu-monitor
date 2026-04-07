@@ -1,8 +1,152 @@
 [
     {
+        "id": "ioa-blondies",
+        "park": "Islands of Adventure",
+        "name": "Blondie's",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/blondies/menu.html"
+    },
+    {
+        "id": "ioa-cafe-4",
+        "park": "Islands of Adventure",
+        "name": "Cafe 4",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/cafe-4/menu.html"
+    },
+    {
+        "id": "ioa-captain-america-diner",
+        "park": "Islands of Adventure",
+        "name": "Captain America Diner",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/captain-america-diner/menu.html"
+    },
+    {
+        "id": "ioa-chill-ice-cream",
+        "park": "Islands of Adventure",
+        "name": "Chill Ice Cream",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/chill-ice-cream/menu.html"
+    },
+    {
+        "id": "ioa-cinnabon",
+        "park": "Islands of Adventure",
+        "name": "Cinnabon",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/cinnabon-ioa/menu.html"
+    },
+    {
+        "id": "ioa-circus-mcgurkus-cafe-stoo-pendous",
+        "park": "Islands of Adventure",
+        "name": "Circus McGurkus Cafe Stoo-pendous",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/circus-mcgurkus-cafe-stoo-pendous/menu.html"
+    },
+    {
+        "id": "ioa-comic-strip-cafe",
+        "park": "Islands of Adventure",
+        "name": "Comic Strip Cafe",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/comic-strip-cafe/menu.html"
+    },
+    {
+        "id": "ioa-confisco-grille-everyday",
+        "park": "Islands of Adventure",
+        "name": "Confisco Grille (Everyday)",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/confisco-grille/menu.html"
+    },
+    {
+        "id": "ioa-confisco-grille-kids",
+        "park": "Islands of Adventure",
+        "name": "Confisco Grille (Kids)",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/confisco-grille/kids_menu.html"
+    },
+    {
+        "id": "ioa-confisco-grille-dessert",
+        "park": "Islands of Adventure",
+        "name": "Confisco Grille (Dessert)",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/confisco-grille/dessert_menu.html"
+    },
+    {
+        "id": "ioa-confisco-grille-navigators-club",
+        "park": "Islands of Adventure",
+        "name": "Confisco Grille Navigator's Club",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/confisco-grille/navigators-club-menu.html"
+    },
+    {
+        "id": "ioa-croissant-moon-bakery",
+        "park": "Islands of Adventure",
+        "name": "Croissant Moon Bakery",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/croissant-moon-bakery/menu.html"
+    },
+    {
+        "id": "ioa-doc-sugrues-desert-kebab-house",
+        "park": "Islands of Adventure",
+        "name": "Doc Sugrue's Desert Kebab House",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/doc-sugrues-desert-kebab-house/menu.html"
+    },
+    {
+        "id": "ioa-fire-eaters-grill",
+        "park": "Islands of Adventure",
+        "name": "Fire Eater's Grill",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/fire-eaters-grill/menu.html"
+    },
+    {
+        "id": "ioa-green-eggs-and-ham-cafe",
+        "park": "Islands of Adventure",
+        "name": "Green Eggs and Ham Cafe",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/green-eggs-and-ham-cafe/menu.html"
+    },
+    {
+        "id": "ioa-hop-on-pop-ice-cream-shop",
+        "park": "Islands of Adventure",
+        "name": "Hop on Pop Ice Cream Shop",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/hop-on-pop-ice-cream-shop/menu.html"
+    },
+    {
+        "id": "ioa-moose-juice-goose-juice",
+        "park": "Islands of Adventure",
+        "name": "Moose Juice, Goose Juice",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/moose-juice-goose-juice/menu.html"
+    },
+    {
+        "id": "ioa-mythos-restaurant-everyday",
+        "park": "Islands of Adventure",
+        "name": "Mythos Restaurant (Everyday)",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/mythos-restaurant/menu.html"
+    },
+    {
+        "id": "ioa-mythos-restaurant-dessert",
+        "park": "Islands of Adventure",
+        "name": "Mythos Restaurant (Dessert)",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/mythos-restaurant/dessert-menu.html"
+    },
+    {
+        "id": "ioa-mythos-restaurant-kids",
+        "park": "Islands of Adventure",
+        "name": "Mythos Restaurant (Kids)",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/mythos-restaurant/kids-menu.html"
+    },
+    {
+        "id": "ioa-pizza-predattoria",
+        "park": "Islands of Adventure",
+        "name": "Pizza Predattoria",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/pizza-predattoria/menu.html"
+    },
+    {
+        "id": "ioa-the-burger-digs",
+        "park": "Islands of Adventure",
+        "name": "The Burger Digs",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-burger-digs/menu.html"
+    },
+    {
         "id": "ioa-three-broomsticks",
         "park": "Islands of Adventure",
         "name": "Three Broomsticks",
-        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/three-broomsticks/mnu.html"
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/three-broomsticks/menu.html"
+    },
+    {
+        "id": "ioa-thunder-falls-terrace",
+        "park": "Islands of Adventure",
+        "name": "Thunder Falls Terrace",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/thunder-falls-terrace/menu.html"
+    },
+    {
+        "id": "ioa-wimpys",
+        "park": "Islands of Adventure",
+        "name": "Wimpy's",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/wimpys/menu.html"
     }
 ]

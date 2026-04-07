@@ -1,0 +1,128 @@
+[
+    {
+        "id": "eu-atlantic",
+        "park": "Epic Universe",
+        "name": "Atlantic",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/atlantic/menu.html"
+    },
+    {
+        "id": "eu-bar-moonshine",
+        "park": "Epic Universe",
+        "name": "Bar Moonshine",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/bar-moonshine/menu.html"
+    },
+    {
+        "id": "eu-cafe-lair-de-la-sirene",
+        "park": "Epic Universe",
+        "name": "Café L'air De La Sirène",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/cafe-lair-de-la-sirene/menu.html"
+    },
+    {
+        "id": "eu-comet-dogs",
+        "park": "Epic Universe",
+        "name": "Comet Dogs",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/comet-dogs/menu.html"
+    },
+    {
+        "id": "eu-das-stakehaus",
+        "park": "Epic Universe",
+        "name": "Das Stakehaus",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/das-stakehaus/menu.html"
+    },
+    {
+        "id": "eu-de-laceys-cottage",
+        "park": "Epic Universe",
+        "name": "De Lacey's Cottage",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/de-laceys/menu.html"
+    },
+    {
+        "id": "eu-frosty-moon",
+        "park": "Epic Universe",
+        "name": "Frosty Moon",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/frosty-moon/menu.html"
+    },
+    {
+        "id": "eu-hooligans-grog-and-gruel",
+        "park": "Epic Universe",
+        "name": "Hooligan's Grog & Gruel",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/hooligans-grog-and-gruel/menu.html"
+    },
+    {
+        "id": "eu-le-gobelet-noir",
+        "park": "Epic Universe",
+        "name": "Le Gobelet Noir",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/le-gobelet-noir/menu.html"
+    },
+    {
+        "id": "eu-mead-hall",
+        "park": "Epic Universe",
+        "name": "Mead Hall",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/mead-hall/menu.html"
+    },
+    {
+        "id": "eu-meteor-astropub",
+        "park": "Epic Universe",
+        "name": "Meteor Astropub",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/meteor-astropub/menu.html"
+    },
+    {
+        "id": "eu-pizza-moon",
+        "park": "Epic Universe",
+        "name": "Pizza Moon",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/pizza-moon/menu.html"
+    },
+    {
+        "id": "eu-spit-fyre-grill",
+        "park": "Epic Universe",
+        "name": "Spit Fyre Grill",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/spit-fyre-grill/menu.html"
+    },
+    {
+        "id": "eu-star-sui-bao",
+        "park": "Epic Universe",
+        "name": "Star Sui Bao",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/star-sui-bao/menu.html"
+    },
+    {
+        "id": "eu-the-blue-dragon-pan-asian-restaurant",
+        "park": "Epic Universe",
+        "name": "The Blue Dragon Pan-Asian Restaurant",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-blue-dragon-pan-asian-restaurant/menu.html"
+    },
+    {
+        "id": "eu-the-bubbly-barrel",
+        "park": "Epic Universe",
+        "name": "The Bubbly Barrel",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-bubbly-barrel/menu.html"
+    },
+    {
+        "id": "eu-the-burning-blade-tavern",
+        "park": "Epic Universe",
+        "name": "The Burning Blade Tavern",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-burning-blade-tavern/menu.html"
+    },
+    {
+        "id": "eu-the-oak-and-star-tavern",
+        "park": "Epic Universe",
+        "name": "The Oak & Star Tavern",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-oak-and-star-tavern/menu.html"
+    },
+    {
+        "id": "eu-toadstool-cafe",
+        "park": "Epic Universe",
+        "name": "Toadstool Cafe",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/toadstool-cafe/menu.html"
+    },
+    {
+        "id": "eu-turbo-boost-treats",
+        "park": "Epic Universe",
+        "name": "Turbo-Boost Treats",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/turbo-boost-treats/menu.html"
+    },
+    {
+        "id": "eu-yoshis-snack-island",
+        "park": "Epic Universe",
+        "name": "Yoshi's Snack Island",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/yoshis-snack-island/menu.html"
+    }
+]

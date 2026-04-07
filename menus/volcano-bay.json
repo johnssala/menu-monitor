@@ -1,0 +1,26 @@
+[
+    {
+        "id": "vb-bambu",
+        "park": "Volcano Bay",
+        "name": "Bambu",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/bambu/menu.html"
+    },
+    {
+        "id": "vb-kohola-reef-restaurant-and-social-club",
+        "park": "Volcano Bay",
+        "name": "Kohola Reef Restaurant & Social Club",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/kohola-reef-restaurant-social/menu.html"
+    },
+    {
+        "id": "vb-the-feasting-frog",
+        "park": "Volcano Bay",
+        "name": "The Feasting Frog",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-feasting-frog/menu.html"
+    },
+    {
+        "id": "vb-whakawaiwai-eats",
+        "park": "Volcano Bay",
+        "name": "Whakawaiwai Eats",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/whakawaiwai-eats/menu.html"
+    }
+]
