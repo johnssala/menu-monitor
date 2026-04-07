@@ -1,0 +1,266 @@
+[
+    {
+        "id": "dl-alien-pizza-planet",
+        "park": "Disneyland Park",
+        "name": "Alien Pizza Planet",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/alien-pizza-planet/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "dl-bengal-barbecue",
+        "park": "Disneyland Park",
+        "name": "Bengal Barbecue",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/bengal-barbecue/menus/"
+    },
+    {
+        "id": "dl-blue-bayou-restaurant-lunch",
+        "park": "Disneyland Park",
+        "name": "Blue Bayou Restaurant (Lunch)",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/blue-bayou-restaurant/menus/lunch/"
+    },
+    {
+        "id": "dl-blue-bayou-restaurant-dinner",
+        "park": "Disneyland Park",
+        "name": "Blue Bayou Restaurant (Dinner)",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/blue-bayou-restaurant/menus/dinner/"
+    },
+    {
+        "id": "dl-cafe-daisy",
+        "park": "Disneyland Park",
+        "name": "Café Daisy",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/cafe-daisy/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "dl-cafe-orleans-lunch",
+        "park": "Disneyland Park",
+        "name": "Cafe Orleans (Lunch)",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/cafe-orleans/menus/lunch/"
+    },
+    {
+        "id": "dl-cafe-orleans-dinner",
+        "park": "Disneyland Park",
+        "name": "Cafe Orleans (Dinner)",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/cafe-orleans/menus/dinner/"
+    },
+    {
+        "id": "dl-carnation-cafe-breakfast",
+        "park": "Disneyland Park",
+        "name": "Carnation Cafe (Breakfast)",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/carnation-cafe/menus/breakfast/"
+    },
+    {
+        "id": "dl-carnation-cafe-lunch",
+        "park": "Disneyland Park",
+        "name": "Carnation Cafe (Lunch)",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/carnation-cafe/menus/lunch/"
+    },
+    {
+        "id": "dl-carnation-cafe-dinner",
+        "park": "Disneyland Park",
+        "name": "Carnation Cafe (Dinner)",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/carnation-cafe/menus/dinner/"
+    },
+    {
+        "id": "dl-docking-bay-7-food-and-cargo",
+        "park": "Disneyland Park",
+        "name": "Docking Bay 7 Food and Cargo",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/docking-bay-7-food-and-cargo/menus/"
+    },
+    {
+        "id": "dl-edelweiss-snacks",
+        "park": "Disneyland Park",
+        "name": "Edelweiss Snacks",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/edelweiss-snacks/menus/snack/"
+    },
+    {
+        "id": "dl-galactic-grill-breakfast",
+        "park": "Disneyland Park",
+        "name": "Galactic Grill (Breakfast)",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/breakfast/"
+    },
+    {
+        "id": "dl-galactic-grill-lunch-and-dinner",
+        "park": "Disneyland Park",
+        "name": "Galactic Grill (Lunch & Dinner)",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "dl-gibson-girl-ice-cream-parlor",
+        "park": "Disneyland Park",
+        "name": "Gibson Girl Ice Cream Parlor",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/gibson-girl-ice-cream-parlor/menus/snack/"
+    },
+    {
+        "id": "dl-harbour-galley",
+        "park": "Disneyland Park",
+        "name": "Harbour Galley",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/harbour-galley/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "dl-hungry-bear-barbecue-jamboree",
+        "park": "Disneyland Park",
+        "name": "Hungry Bear Barbecue Jamboree",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/hungry-bear-barbecue/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "dl-jolly-holiday-bakery-cafe-breakfast",
+        "park": "Disneyland Park",
+        "name": "Jolly Holiday Bakery Cafe (Breakfast)",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/breakfast/"
+    },
+    {
+        "id": "dl-jolly-holiday-bakery-cafe-lunch-and-dinner",
+        "park": "Disneyland Park",
+        "name": "Jolly Holiday Bakery Cafe (Lunch & Dinner)",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "dl-market-house-breakfast",
+        "park": "Disneyland Park",
+        "name": "Market House - Starbucks (Breakfast)",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/breakfast/"
+    },
+    {
+        "id": "dl-market-house-lunch-and-dinner",
+        "park": "Disneyland Park",
+        "name": "Market House - Starbucks (Lunch & Dinner)",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "dl-maurices-treats",
+        "park": "Disneyland Park",
+        "name": "Maurice's Treats",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/maurices-treats/menus/snack/"
+    },
+    {
+        "id": "dl-milk-stand-galaxys-edge",
+        "park": "Disneyland Park",
+        "name": "Milk Stand – Star Wars: Galaxy's Edge",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/milk-stand/menus/"
+    },
+    {
+        "id": "dl-mint-julep-bar",
+        "park": "Disneyland Park",
+        "name": "Mint Julep Bar",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/mint-julep-bar/menus/snack/"
+    },
+    {
+        "id": "dl-ogas-cantina-breakfast",
+        "park": "Disneyland Park",
+        "name": "Oga's Cantina (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/breakfast/"
+    },
+    {
+        "id": "dl-ogas-cantina-lunch",
+        "park": "Disneyland Park",
+        "name": "Oga's Cantina (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/lunch/"
+    },
+    {
+        "id": "dl-ogas-cantina-dinner",
+        "park": "Disneyland Park",
+        "name": "Oga's Cantina (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/dinner/"
+    },
+    {
+        "id": "dl-plaza-inn-breakfast",
+        "park": "Disneyland Park",
+        "name": "Plaza Inn (Breakfast)",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/plaza-inn/menus/breakfast/"
+    },
+    {
+        "id": "dl-plaza-inn-lunch-and-dinner",
+        "park": "Disneyland Park",
+        "name": "Plaza Inn (Lunch & Dinner)",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/plaza-inn/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "dl-rancho-del-zocalo-restaurante",
+        "park": "Disneyland Park",
+        "name": "Rancho del Zocalo Restaurante",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/rancho-del-zocalo-restaurante/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "dl-red-rose-taverne-breakfast",
+        "park": "Disneyland Park",
+        "name": "Red Rose Taverne (Breakfast)",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/breakfast/"
+    },
+    {
+        "id": "dl-red-rose-taverne-lunch-and-dinner",
+        "park": "Disneyland Park",
+        "name": "Red Rose Taverne (Lunch & Dinner)",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "dl-refreshment-corner",
+        "park": "Disneyland Park",
+        "name": "Refreshment Corner",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/refreshment-corner/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "dl-river-belle-terrace-lunch",
+        "park": "Disneyland Park",
+        "name": "River Belle Terrace (Lunch)",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/lunch/"
+    },
+    {
+        "id": "dl-river-belle-terrace-dinner",
+        "park": "Disneyland Park",
+        "name": "River Belle Terrace (Dinner)",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/dinner/"
+    },
+    {
+        "id": "dl-ronto-roasters-breakfast",
+        "park": "Disneyland Park",
+        "name": "Ronto Roasters (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/breakfast/"
+    },
+    {
+        "id": "dl-ronto-roasters-lunch-and-dinner",
+        "park": "Disneyland Park",
+        "name": "Ronto Roasters (Lunch & Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "dl-royal-street-veranda",
+        "park": "Disneyland Park",
+        "name": "Royal Street Veranda",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/royal-street-veranda/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "dl-stage-door-cafe",
+        "park": "Disneyland Park",
+        "name": "Stage Door Cafe",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/stage-door-cafe/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "dl-the-golden-horseshoe",
+        "park": "Disneyland Park",
+        "name": "The Golden Horseshoe",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/golden-horseshoe-restaurant/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "dl-the-tropical-hideaway",
+        "park": "Disneyland Park",
+        "name": "The Tropical Hideaway",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/tropical-hideaway/menus/snack/"
+    },
+    {
+        "id": "dl-tianas-palace",
+        "park": "Disneyland Park",
+        "name": "Tiana's Palace",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/tianas-palace/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "dl-tiki-juice-bar",
+        "park": "Disneyland Park",
+        "name": "Tiki Juice Bar",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/tiki-juice-bar/menus/snack/"
+    },
+    {
+        "id": "dl-troubadour-tavern",
+        "park": "Disneyland Park",
+        "name": "Troubadour Tavern",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/troubadour-tavern/menus/"
+    }
+]

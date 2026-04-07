@@ -13,7 +13,7 @@ for (const change of changes) {
   let body;
 
   if (change.error) {
-    title = `Broken menu link: ${change.name} (${change.park})`;
+    title = `Broken menu link: ${change.name} at ${change.park}`;
 
     body = [
       `The menu page could not be loaded.`,
@@ -28,7 +28,7 @@ for (const change of changes) {
       `This likely means the page was removed, moved, or changed structure.`
     ].join("\n");
   } else {
-    title = `Menu changed: ${change.name} (${change.park})`;
+    title = `Menu changed: ${change.name} at ${change.park}`;
 
     body = [
       `A change was detected for **${change.name}** in **${change.park}**.`,
