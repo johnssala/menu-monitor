@@ -1,75 +1,69 @@
 {
   "sections": [
     {
-      "title": "Lunch And Dinner Menu",
+      "title": "Universal Islands of Adventure",
       "items": [
-        "Please inform a manager or Chef's Assistant prior to ordering if someone in your party requires special dietary accommodations"
+        "Universal Studios Florida"
       ]
     },
     {
-      "title": "Three Broomsticks Breakfast Menu",
+      "title": "Universal Studios Florida",
       "items": [
-        "Adult 19.99 Children 13.99",
-        "Butterbeer™ waffle served with Butterbeer™ syrup, Butterbeer™ cream, fresh strawberries and a butter barrel",
-        "fresh scrambled eggs, sausage links, black pudding, English bacon, baked beans, grilled tomato, sautéed mushrooms and breakfast potatoes",
-        "fresh scrambled eggs, breakfast potatoes, crisp bacon, and link sausage with butter croissant",
-        "three fluffy buttermilk pancakes, crisp bacon, and link sausage with butter croissant",
-        "a colorful array of fresh fruit served with croissants accompanied with assorted jams",
-        "old fashioned steamed oats with fresh fruit and butter croissant",
-        "fresh scrambled eggs, sausage link, English bacon, baked beans, grilled tomato, sautéed mushrooms and breakfast potatoes",
-        "fresh scrambled eggs, breakfast potatoes, crisp bacon, and link sausage with butter croissant",
-        "two fluffy buttermilk pancakes, crisp bacon, and link sausage with butter croissant",
-        "a colorful array of fresh fruit served with croissants accompanied with assorted jams",
-        "old fashioned steamed oats with fresh fruit and butter croissant",
-        "apple, orange",
-        "2%, chocolate",
-        "Butterbeer™ waffle served with Butterbeer™ syrup, Butterbeer™ cream, fresh strawberries and a butter barrel",
-        "served with corn on the cob and roasted potatoes (Request no BBQ sauce for gluten-sensitive options)",
-        "(Request no BBQ sauce for gluten-sensitive options)",
-        "served with corn on the cob and roasted potatoes (Request no BBQ sauce for gluten-sensitive options)",
-        "(Request no BBQ sauce for gluten-sensitive options)",
-        "served with corn on the cob and roasted potatoes",
-        "ground beef, lamb & vegetables crowned with potatoes, served with roasted root vegetables and sautéed broccoli",
-        "fresh north Atlantic cod battered & fried with chips and tartar sauce (Request no tartar sauce for egg-sensitive options)",
-        "(Request no tartar sauce for egg-sensitive options)",
-        "mixed greens, Roma tomatoes, cucumbers, farro, dried cranberries, corn, sharp cheddar cheese, rotisserie smoked chicken, mustard ale dressing",
-        "seasoned Beyond® meat, mushrooms, peas and carrots, topped with mashed potatoes, served with roasted root vegetables and sautéed broccoli",
-        "feast on a bountiful combination of rotisserie smoked chicken & spareribs, corn on the cob, roasted root vegetables, sautéed broccoli and roasted potatoes. Platter serves four. Add a starter salad for an additional charge per person.",
-        "per person",
-        "leek & potato or pumpkin soup side salad and choice of dressing request no croutons for dairy-sensitive options",
-        "side salad and choice of dressing",
-        "request no croutons for dairy-sensitive options",
-        "leek & potato or pumpkin (request potato leek soup for soy protein-sensitive options)",
-        "(request potato leek soup for soy protein-sensitive options)",
-        "garlic herb roasted",
-        "jacket potato with broccoli florets, Cheddar cheese sauce",
-        "jacket potato with vegan meat, peas and carrots, vegan mozzarella cheese",
-        "jacket potato with bacon, Cheddar cheese sauce, scallions, sour cream",
-        "jacket potato with butter & sour cream",
-        "with choice of dressing",
-        "strawberry and peanut butter, vanilla or chocolate",
-        "layered chocolate cake with fresh berries & cream",
-        "a non-alcoholic sweet drink reminiscent of shortbread and butterscotch, served in a holiday themed stainless souvenir cup",
-        "a non-alcoholic sweet drink reminiscent of shortbread and butterscotch, served in a stainless souvenir cup",
-        "a non-alcoholic sweet drink reminiscent of shortbread and butterscotch, served in a souvenir cup",
-        "a non-alcoholic sweet drink reminiscent of shortbread and butterscotch",
-        "a non-alcoholic sweet drink reminiscent of shortbread and butterscotch, served in a souvenir cup",
-        "a non-alcoholic sweet drink reminiscent of shortbread and butterscotch",
-        "a non-alcoholic sweet drink reminiscent of shortbread and butterscotch",
-        "apple or pear",
-        "sweet, unsweetened, raspberry, lemonade mix",
-        "apple cider, cinnamon, cloves, star anise, and nutmeg",
-        "choice of 2% or chocolate",
-        "choice of apple or orange",
-        "fire whisky, apple whiskey, apple cider, cinnamon, cloves, star anise, and nutmeg",
-        "Scottish red ale, amber in color, with a splash of citrus",
-        "unique lager with a light crisp, malty finish",
-        "refreshing traditional English Mild with a light malty flavor profile and a clean finish",
-        "traditional brown ale with roasty caramel/toffee notes and warming finish",
-        "GS – Gluten Sensitive DS – Dairy Sensitive ES – Egg Sensitive PS - Peanut Sensitive TNS – Tree Nut Sensitive FS - Fish Sensitive",
-        "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive V - Vegetarian VG - Vegan",
-        "Menu items and pricing are subject to change without notice."
+        "Universal Volcano Bay"
       ]
+    },
+    {
+      "title": "Universal Volcano Bay",
+      "items": [
+        "Universal CityWalk"
+      ]
+    },
+    {
+      "title": "Universal CityWalk",
+      "items": [
+        "The Wizarding World of Harry Potter™"
+      ]
+    },
+    {
+      "title": "The Wizarding World of Harry Potter™",
+      "items": [
+        "Explore Popular Pages",
+        "Homepage"
+      ]
+    },
+    {
+      "title": "Homepage",
+      "items": [
+        "Deals & Specials"
+      ]
+    },
+    {
+      "title": "Deals & Specials",
+      "items": [
+        "Tickets"
+      ]
+    },
+    {
+      "title": "Tickets",
+      "items": [
+        "Vacation Packages"
+      ]
+    },
+    {
+      "title": "Vacation Packages",
+      "items": [
+        "Rides & Attractions"
+      ]
+    },
+    {
+      "title": "Rides & Attractions",
+      "items": [
+        "Hotels"
+      ]
+    },
+    {
+      "title": "Hotels",
+      "items": []
     }
   ]
 }
