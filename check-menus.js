@@ -4,7 +4,7 @@ const crypto = require("crypto");
 const puppeteer = require("puppeteer");
 
 const ROOT = __dirname;
-const MENUS_FILE = path.join(ROOT, "menus.json");
+const MENUS_DIR = path.join(ROOT, "menus");
 const SNAPSHOT_DIR = path.join(ROOT, "snapshots");
 const REPORT_FILE = path.join(ROOT, "changed-report.json");
 
@@ -23,7 +23,24 @@ function sleep(ms) {
 }
 
 function loadMenus() {
-  return JSON.parse(fs.readFileSync(MENUS_FILE, "utf8"));
+  const files = fs
+    .readdirSync(MENUS_DIR)
+    .filter((file) => file.endsWith(".json"));
+
+  let menus = [];
+
+  for (const file of files) {
+    const filePath = path.join(MENUS_DIR, file);
+    const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
+
+    if (!Array.isArray(data)) {
+      throw new Error(`${file} must contain a JSON array`);
+    }
+
+    menus = menus.concat(data);
+  }
+
+  return menus;
 }
 
 function getDayBucket(totalMenus, batchSize) {
