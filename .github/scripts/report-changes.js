@@ -13,7 +13,7 @@ for (const change of changes) {
   let body;
 
   if (change.error) {
-    title = `Broken menu link: ${change.name} at ${change.park}`;
+    title = `Broken menu link: ${change.name} (${change.park})`;
 
     body = [
       `The menu page could not be loaded.`,

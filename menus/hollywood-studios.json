@@ -1,0 +1,206 @@
+[
+    {
+        "id": "hs-50s-prime-time-cafe-lunch",
+        "park": "Hollywood Studios",
+        "name": "50's Prime Time Café (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/50s-prime-time-cafe/menus/lunch/"
+    },
+    {
+        "id": "hs-50s-prime-time-cafe-dinner",
+        "park": "Hollywood Studios",
+        "name": "50's Prime Time Café (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/50s-prime-time-cafe/menus/dinner/"
+    },
+    {
+        "id": "hs-abc-commissary",
+        "park": "Hollywood Studios",
+        "name": "ABC Commissary",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/abc-commissary/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "hs-anaheim-produce",
+        "park": "Hollywood Studios",
+        "name": "Anaheim Produce",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/anaheim-produce/menus/all-day/"
+    },
+    {
+        "id": "hs-backlot-express",
+        "park": "Hollywood Studios",
+        "name": "Backlot Express",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/backlot-express/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "hs-baseline-tap-house",
+        "park": "Hollywood Studios",
+        "name": "BaseLine Tap House",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/baseline-tap-house/menus/bar-%E2%80%93-lounge/"
+    },
+    {
+        "id": "hs-catalina-eddies",
+        "park": "Hollywood Studios",
+        "name": "Catalina Eddie's",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/catalina-eddies/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "hs-docking-bay-7-food-and-cargo-lunch",
+        "park": "Hollywood Studios",
+        "name": "Docking Bay 7 Food and Cargo (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/docking-bay-7-food-and-cargo/menus/lunch/"
+    },
+    {
+        "id": "hs-docking-bay-7-food-and-cargo-dinner",
+        "park": "Hollywood Studios",
+        "name": "Docking Bay 7 Food and Cargo (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/docking-bay-7-food-and-cargo/menus/dinner/"
+    },
+    {
+        "id": "hs-dockside-diner",
+        "park": "Hollywood Studios",
+        "name": "Dockside Diner",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/dockside-diner/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "hs-epic-eats",
+        "park": "Hollywood Studios",
+        "name": "Epic Eats",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/epic-eats/menus/all-day/"
+    },
+    {
+        "id": "hs-fairfax-fare-breakfast",
+        "park": "Hollywood Studios",
+        "name": "Fairfax Fare (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/breakfast/"
+    },
+    {
+        "id": "hs-fairfax-fare-lunch-and-dinner",
+        "park": "Hollywood Studios",
+        "name": "Fairfax Fare (Lunch & Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "hs-hollywood-and-vine-breakfast",
+        "park": "Hollywood Studios",
+        "name": "Hollywood & Vine (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-and-vine/menus/breakfast/"
+    },
+    {
+        "id": "hs-hollywood-and-vine-lunch",
+        "park": "Hollywood Studios",
+        "name": "Hollywood & Vine (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-and-vine/menus/lunch/"
+    },
+    {
+        "id": "hs-hollywood-and-vine-dinner",
+        "park": "Hollywood Studios",
+        "name": "Hollywood & Vine (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-and-vine/menus/dinner/"
+    },
+    {
+        "id": "hs-hollywood-scoops",
+        "park": "Hollywood Studios",
+        "name": "Hollywood Scoops",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-scoops/menus/snack/"
+    },
+    {
+        "id": "hs-ice-cold-hydraulics",
+        "park": "Hollywood Studios",
+        "name": "Ice Cold Hydraulics",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ice-cold-hydraulics/menus/all-day/"
+    },
+    {
+        "id": "hs-kat-sakas-kettle",
+        "park": "Hollywood Studios",
+        "name": "Kat Saka's Kettle",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/kat-sakas-kettle/menus/snack/"
+    },
+    {
+        "id": "hs-krnr-the-rock-station",
+        "park": "Hollywood Studios",
+        "name": "KRNR The Rock Station",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/krnr-the-rock-station/menus/all-day/"
+    },
+    {
+        "id": "hs-milk-stand-galaxys-edge",
+        "park": "Hollywood Studios",
+        "name": "Milk Stand – Star Wars: Galaxy's Edge",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/milk-stand/menus/snack/"
+    },
+    {
+        "id": "hs-ronto-roasters-breakfast",
+        "park": "Hollywood Studios",
+        "name": "Ronto Roasters (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/breakfast/"
+    },
+    {
+        "id": "hs-ronto-roasters-lunch-and-dinner",
+        "park": "Hollywood Studios",
+        "name": "Ronto Roasters (Lunch & Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "hs-rosies-all-american-cafe",
+        "park": "Hollywood Studios",
+        "name": "Rosie's All-American Café",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/rosies-all-american-cafe/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "hs-roundup-rodeo-bbq-lunch",
+        "park": "Hollywood Studios",
+        "name": "Roundup Rodeo BBQ (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/roundup-rodeo-bbq/menus/lunch/"
+    },
+    {
+        "id": "hs-roundup-rodeo-bbq-dinner",
+        "park": "Hollywood Studios",
+        "name": "Roundup Rodeo BBQ (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/roundup-rodeo-bbq/menus/dinner/"
+    },
+    {
+        "id": "hs-sci-fi-dine-in-theater-restaurant-lunch",
+        "park": "Hollywood Studios",
+        "name": "Sci-Fi Dine-In Theater Restaurant (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/sci-fi-dine-in-theater/menus/lunch/"
+    },
+    {
+        "id": "hs-sci-fi-dine-in-theater-restaurant-dinner",
+        "park": "Hollywood Studios",
+        "name": "Sci-Fi Dine-In Theater Restaurant (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/sci-fi-dine-in-theater/menus/dinner/"
+    },
+    {
+        "id": "hs-the-hollywood-brown-derby-lunch",
+        "park": "Hollywood Studios",
+        "name": "The Hollywood Brown Derby (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/lunch/"
+    },
+    {
+        "id": "hs-the-hollywood-brown-derby-dinner",
+        "park": "Hollywood Studios",
+        "name": "The Hollywood Brown Derby (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/dinner/"
+    },
+    {
+        "id": "hs-the-hollywood-brown-derby-lounge",
+        "park": "Hollywood Studios",
+        "name": "The Hollywood Brown Derby Lounge",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby-lounge/menus/bar-%E2%80%93-lounge/"
+    },
+    {
+        "id": "hs-the-trolley-car-cafe",
+        "park": "Hollywood Studios",
+        "name": "The Trolley Car Café (Starbucks)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/trolley-car-cafe/menus/"
+    },
+    {
+        "id": "hs-woodys-lunch-box-breakfast",
+        "park": "Hollywood Studios",
+        "name": "Woody's Lunch Box (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/breakfast/"
+    },
+    {
+        "id": "hs-woodys-lunch-box-lunch-and-dinner",
+        "park": "Hollywood Studios",
+        "name": "Woody's Lunch Box (Lunch & Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/lunch-and-dinner/"
+    }
+]

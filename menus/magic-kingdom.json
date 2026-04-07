@@ -94,5 +94,179 @@
         "park": "Magic Kingdom",
         "name": "Golden Oak Outpost (Lunch & Dinner)",
         "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/golden-oak-outpost/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "mk-jungle-navigation-skipper-canteen-lunch",
+        "park": "Magic Kingdom",
+        "name": "Jungle Navigation Co. LTD Skipper Canteen (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/jungle-navigation-skipper-canteen/menus/lunch/"
+    },
+    {
+        "id": "mk-jungle-navigation-skipper-canteen-dinner",
+        "park": "Magic Kingdom",
+        "name": "Jungle Navigation Co. LTD Skipper Canteen (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/jungle-navigation-skipper-canteen/menus/dinner/"
+    },
+    {
+        "id": "mk-liberty-square-market",
+        "park": "Magic Kingdom",
+        "name": "Liberty Square Market",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/liberty-square-market/menus/"
+    },
+    {
+        "id": "mk-liberty-tree-tavern-lunch",
+        "park": "Magic Kingdom",
+        "name": "Liberty Tree Tavern (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/liberty-tree-tavern/menus/lunch/"
+    },
+    {
+        "id": "mk-liberty-tree-tavern-dinner",
+        "park": "Magic Kingdom",
+        "name": "Liberty Tree Tavern (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/liberty-tree-tavern/menus/dinner/"
+    },
+    {
+        "id": "mk-main-street-bakery",
+        "park": "Magic Kingdom",
+        "name": "Main Street Bakery (Starbucks)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/main-street-bakery/menus/"
+    },
+    {
+        "id": "mk-pecos-bill-tall-tale-inn-and-cafe",
+        "park": "Magic Kingdom",
+        "name": "Pecos Bill Tall Tale Inn and Cafe",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/pecos-bill-tall-tale-inn-and-cafe/menus/"
+    },
+    {
+        "id": "mk-pinocchio-village-haus",
+        "park": "Magic Kingdom",
+        "name": "Pinocchio Village Haus",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/pinocchio-village-haus/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "mk-plaza-ice-cream-parlor",
+        "park": "Magic Kingdom",
+        "name": "Plaza Ice Cream Parlor",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-ice-cream-parlor/menus/snack/"
+    },
+    {
+        "id": "mk-prince-erics-village-market",
+        "park": "Magic Kingdom",
+        "name": "Prince Eric's Village Market",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/prince-eric-village-market/menus/snack/"
+    },
+    {
+        "id": "mk-sleepy-hollow",
+        "park": "Magic Kingdom",
+        "name": "Sleepy Hollow",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/sleepy-hollow/menus/all-day/"
+    },
+    {
+        "id": "mk-storybook-treats",
+        "park": "Magic Kingdom",
+        "name": "Storybook Treats",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/storybook-treats/menus/snack/"
+    },
+    {
+        "id": "mk-sunshine-tree-terrace",
+        "park": "Magic Kingdom",
+        "name": "Sunshine Tree Terrace",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/sunshine-tree-terrace/menus/snack/"
+    },
+    {
+        "id": "mk-the-crystal-palace-breakfast",
+        "park": "Magic Kingdom",
+        "name": "The Crystal Palace (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/crystal-palace/menus/breakfast/"
+    },
+    {
+        "id": "mk-the-crystal-palace-lunch",
+        "park": "Magic Kingdom",
+        "name": "The Crystal Palace (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/crystal-palace/menus/lunch/"
+    },
+    {
+        "id": "mk-the-crystal-palace-dinner",
+        "park": "Magic Kingdom",
+        "name": "The Crystal Palace (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/crystal-palace/menus/dinner/"
+    },
+    {
+        "id": "mk-the-diamond-horseshoe-lunch",
+        "park": "Magic Kingdom",
+        "name": "The Diamond Horseshoe (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/diamond-horseshoe/menus/lunch/"
+    },
+    {
+        "id": "mk-the-diamond-horseshoe-dinner",
+        "park": "Magic Kingdom",
+        "name": "The Diamond Horseshoe (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/diamond-horseshoe/menus/dinner/"
+    },
+    {
+        "id": "mk-the-friars-nook-breakfast",
+        "park": "Magic Kingdom",
+        "name": "The Friar's Nook (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/breakfast/"
+    },
+    {
+        "id": "mk-the-friars-nook-lunch-and-dinner",
+        "park": "Magic Kingdom",
+        "name": "The Friar's Nook (Lunch & Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "mk-the-lunching-pad-breakfast",
+        "park": "Magic Kingdom",
+        "name": "The Lunching Pad (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/lunching-pad/menus/breakfast/"
+    },
+    {
+        "id": "mk-the-lunching-pad-lunch-and-dinner",
+        "park": "Magic Kingdom",
+        "name": "The Lunching Pad (Lunch & Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/lunching-pad/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "mk-the-plaza-restaurant-lunch",
+        "park": "Magic Kingdom",
+        "name": "The Plaza Restaurant (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-restaurant/menus/lunch/"
+    },
+    {
+        "id": "mk-the-plaza-restaurant-dinner",
+        "park": "Magic Kingdom",
+        "name": "The Plaza Restaurant (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-restaurant/menus/dinner/"
+    },
+    {
+        "id": "mk-tonys-town-square-restaurant-lunch",
+        "park": "Magic Kingdom",
+        "name": "Tony's Town Square Restaurant (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/tonys-town-square-restaurant/menus/lunch/"
+    },
+    {
+        "id": "mk-tonys-town-square-restaurant-dinner",
+        "park": "Magic Kingdom",
+        "name": "Tony's Town Square Restaurant (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/tonys-town-square-restaurant/menus/dinner/"
+    },
+    {
+        "id": "mk-tortuga-tavern",
+        "park": "Magic Kingdom",
+        "name": "Tortuga Tavern",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/tortuga-tavern/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "mk-westward-ho-breakfast",
+        "park": "Magic Kingdom",
+        "name": "Westward Ho (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/westward-ho/menus/breakfast/"
+    },
+    {
+        "id": "mk-westward-ho-lunch-and-dinner",
+        "park": "Magic Kingdom",
+        "name": "Westward Ho (Lunch & Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/westward-ho/menus/lunch-and-dinner/"
     }
 ]

@@ -1,0 +1,212 @@
+[
+    {
+        "id": "ak-anandapur-ice-cream-truck",
+        "park": "Animal Kingdom",
+        "name": "Anandapur Ice Cream Truck",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/anandapur-ice-cream-truck/menus/"
+    },
+    {
+        "id": "ak-caravan-road",
+        "park": "Animal Kingdom",
+        "name": "Caravan Road",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/caravan-road/menus/snack/"
+    },
+    {
+        "id": "ak-creature-comforts",
+        "park": "Animal Kingdom",
+        "name": "Creature Comforts (Starbucks)",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/creature-comforts/menus/coffee-%E2%80%93-bakery/"
+    },
+    {
+        "id": "ak-drinkwallah",
+        "park": "Animal Kingdom",
+        "name": "Drinkwallah",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/drinkwallah/menus/snack/"
+    },
+    {
+        "id": "ak-eight-spoon-cafe",
+        "park": "Animal Kingdom",
+        "name": "Eight Spoon Café",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/eight-spoon-cafe/menus/snack/"
+    },
+    {
+        "id": "ak-flame-tree-barbecue",
+        "park": "Animal Kingdom",
+        "name": "Flame Tree Barbecue",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/flame-tree-barbecue/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "ak-harambe-fruit-market",
+        "park": "Animal Kingdom",
+        "name": "Harambe Fruit Market",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/harambe-fruit-market/menus/snack/"
+    },
+    {
+        "id": "ak-harambe-market",
+        "park": "Animal Kingdom",
+        "name": "Harambe Market",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/harambe-market/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "ak-isle-of-java-breakfast",
+        "park": "Animal Kingdom",
+        "name": "Isle of Java (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/isle-of-java/menus/breakfast/"
+    },
+    {
+        "id": "ak-isle-of-java-snack",
+        "park": "Animal Kingdom",
+        "name": "Isle of Java (Snack)",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/isle-of-java/menus/snack/"
+    },
+    {
+        "id": "ak-kusafiri-coffee-shop-and-bakery-breakfast",
+        "park": "Animal Kingdom",
+        "name": "Kusafiri Coffee Shop & Bakery (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/kusafiri-coffee-shop-and-bakery/menus/breakfast/"
+    },
+    {
+        "id": "ak-kusafiri-coffee-shop-and-bakery-lunch-and-dinner",
+        "park": "Animal Kingdom",
+        "name": "Kusafiri Coffee Shop & Bakery (Lunch & Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/kusafiri-coffee-shop-and-bakery/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "ak-mahindi",
+        "park": "Animal Kingdom",
+        "name": "Mahindi",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/mahindi/menus/snack/"
+    },
+    {
+        "id": "ak-nomad-lounge",
+        "park": "Animal Kingdom",
+        "name": "Nomad Lounge",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/nomad-lounge/menus/bar-%E2%80%93-lounge/"
+    },
+    {
+        "id": "ak-pizzafari",
+        "park": "Animal Kingdom",
+        "name": "Pizzafari",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/pizzafari/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "ak-pongu-pongu",
+        "park": "Animal Kingdom",
+        "name": "Pongu Pongu",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/pongu-pongu/menus/snack/"
+    },
+    {
+        "id": "ak-rainforest-cafe-breakfast",
+        "park": "Animal Kingdom",
+        "name": "Rainforest Cafe (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/rainforest-cafe-animal-kingdom/menus/breakfast/"
+    },
+    {
+        "id": "ak-rainforest-cafe-lunch",
+        "park": "Animal Kingdom",
+        "name": "Rainforest Cafe (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/rainforest-cafe-animal-kingdom/menus/lunch/"
+    },
+    {
+        "id": "ak-rainforest-cafe-dinner",
+        "park": "Animal Kingdom",
+        "name": "Rainforest Cafe (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/rainforest-cafe-animal-kingdom/menus/dinner/"
+    },
+    {
+        "id": "ak-satuli-canteen-breakfast",
+        "park": "Animal Kingdom",
+        "name": "Satu'li Canteen (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/satuli-canteen/menus/breakfast/"
+    },
+    {
+        "id": "ak-satuli-canteen-lunch-and-dinner",
+        "park": "Animal Kingdom",
+        "name": "Satu'li Canteen (Lunch & Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/satuli-canteen/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "ak-tamu-tamu-refreshments-breakfast",
+        "park": "Animal Kingdom",
+        "name": "Tamu Tamu Refreshments (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tamu-tamu-refreshments/menus/breakfast/"
+    },
+    {
+        "id": "ak-tamu-tamu-refreshments-snack",
+        "park": "Animal Kingdom",
+        "name": "Tamu Tamu Refreshments (Snack)",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tamu-tamu-refreshments/menus/snack/"
+    },
+    {
+        "id": "ak-terra-treats",
+        "park": "Animal Kingdom",
+        "name": "Terra Treats",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/terra-treats/menus/snack/"
+    },
+    {
+        "id": "ak-the-smiling-crocodile",
+        "park": "Animal Kingdom",
+        "name": "The Smiling Crocodile",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/smiling-crocodile/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "ak-tiffins-restaurant-lunch",
+        "park": "Animal Kingdom",
+        "name": "Tiffins Restaurant (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tiffins/menus/lunch/"
+    },
+    {
+        "id": "ak-tiffins-restaurant-dinner",
+        "park": "Animal Kingdom",
+        "name": "Tiffins Restaurant (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tiffins/menus/dinner/"
+    },
+    {
+        "id": "ak-trek-snacks",
+        "park": "Animal Kingdom",
+        "name": "Trek Snacks",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/trek-snacks/menus/snack/"
+    },
+    {
+        "id": "ak-tusker-house-restaurant-breakfast",
+        "park": "Animal Kingdom",
+        "name": "Tusker House Restaurant (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tusker-house-restaurant/menus/breakfast/"
+    },
+    {
+        "id": "ak-tusker-house-restaurant-lunch",
+        "park": "Animal Kingdom",
+        "name": "Tusker House Restaurant (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tusker-house-restaurant/menus/lunch/"
+    },
+    {
+        "id": "ak-tusker-house-restaurant-dinner",
+        "park": "Animal Kingdom",
+        "name": "Tusker House Restaurant (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tusker-house-restaurant/menus/dinner/"
+    },
+    {
+        "id": "ak-yak-and-yeti-local-food-cafes-breakfast",
+        "park": "Animal Kingdom",
+        "name": "Yak & Yeti Local Food Cafes (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/yak-and-yeti-local-foods-cafe/menus/breakfast/"
+    },
+    {
+        "id": "ak-yak-and-yeti-local-food-cafes-lunch-and-dinner",
+        "park": "Animal Kingdom",
+        "name": "Yak & Yeti Local Food Cafes (Lunch & Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/yak-and-yeti-local-foods-cafe/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "ak-yak-and-yeti-restaurant-lunch",
+        "park": "Animal Kingdom",
+        "name": "Yak & Yeti Restaurant (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/yak-and-yeti-restaurant/menus/lunch/"
+    },
+    {
+        "id": "ak-yak-and-yeti-restaurant-dinner",
+        "park": "Animal Kingdom",
+        "name": "Yak & Yeti Restaurant (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/yak-and-yeti-restaurant/menus/dinner/"
+    }
+]

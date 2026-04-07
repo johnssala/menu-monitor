@@ -1,0 +1,50 @@
+[
+    {
+        "id": "bb-arctic-expeditions",
+        "park": "Blizzard Beach",
+        "name": "Arctic Expeditions",
+        "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/arctic-expeditions/menus/snack/"
+    },
+    {
+        "id": "bb-avalunch",
+        "park": "Blizzard Beach",
+        "name": "Avalunch",
+        "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/avalunch/menus/snack/"
+    },
+    {
+        "id": "bb-cooling-hut-all-day",
+        "park": "Blizzard Beach",
+        "name": "Cooling Hut (All-Day)",
+        "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/cooling-hut/menus/all-day/"
+    },
+    {
+        "id": "bb-cooling-hut-snack",
+        "park": "Blizzard Beach",
+        "name": "Cooling Hut (Snack)",
+        "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/cooling-hut/menus/snack/"
+    },
+    {
+        "id": "bb-i-c-expeditions",
+        "park": "Blizzard Beach",
+        "name": "I.C. Expeditions",
+        "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/i-c-expeditions/menus/snack/"
+    },
+    {
+        "id": "bb-lottawatta-lodge-all-day",
+        "park": "Blizzard Beach",
+        "name": "Lottawatta Lodge (All-Day)",
+        "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/lottawatta-lodge/menus/all-day/"
+    },
+    {
+        "id": "bb-lottawatta-lodge-lunch-and-dinner",
+        "park": "Blizzard Beach",
+        "name": "Lottawatta Lodge (Lunch & Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/lottawatta-lodge/menus/lunch-and-dinner/"
+    },
+    {
+        "id": "bb-warming-hut",
+        "park": "Blizzard Beach",
+        "name": "Warming Hut",
+        "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/warming-hut/menus/snack/"
+    }
+]

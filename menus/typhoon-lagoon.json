@@ -1,0 +1,38 @@
+[
+    {
+        "id": "tl-happy-landings-ice-cream",
+        "park": "Typhoon Lagoon",
+        "name": "Happy Landings Ice Cream",
+        "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/happy-landings-ice-cream/menus/snack/"
+    },
+    {
+        "id": "tl-leaning-palms",
+        "park": "Typhoon Lagoon",
+        "name": "Leaning Palms",
+        "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/leaning-palms/menus/lunch/"
+    },
+    {
+        "id": "tl-lowtide-lous",
+        "park": "Typhoon Lagoon",
+        "name": "Lowtide Lou's",
+        "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/low-tide-lou/menus/snack/"
+    },
+    {
+        "id": "tl-snack-shack",
+        "park": "Typhoon Lagoon",
+        "name": "Snack Shack",
+        "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/snack-shack/menus/snack/"
+    },
+    {
+        "id": "tl-surf-doggies",
+        "park": "Typhoon Lagoon",
+        "name": "Surf Doggies",
+        "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/surf-doggies/menus/snack/"
+    },
+    {
+        "id": "tl-typhoon-tillys",
+        "park": "Typhoon Lagoon",
+        "name": "Typhoon Tilly's",
+        "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/typhoon-tilly/menus/lunch-and-dinner/"
+    }
+]
