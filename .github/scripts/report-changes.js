@@ -9,40 +9,39 @@ if (!changes.length) {
 }
 
 for (const change of changes) {
+  let title;
+  let body;
+
   if (change.error) {
-    const title = `Broken menu link: ${change.name} at ${change.park}`;
+    title = `Broken menu link: ${change.name} at ${change.park}`;
 
-    const body = `
-    The menu page could not be loaded.
+    body = [
+      `The menu page could not be loaded.`,
+      ``,
+      `**Location:** ${change.park}`,
+      `**Restaurant:** ${change.name}`,
+      `**URL:** ${change.url}`,
+      ``,
+      `**Error:**`,
+      `${change.error}`,
+      ``,
+      `This likely means the page was removed, moved, or changed structure.`
+    ].join("\n");
+  } else {
+    title = `Menu changed: ${change.name} (${change.park})`;
 
-    **Location:** ${change.park}  
-    **Restaurant:** ${change.name}  
-    **URL:** ${change.url}
-
-    **Error:**
-    ${change.error}
-
-    This likely means the page was removed, moved, or changed structure.
-    `;
-
-    await createOrUpdateIssue(title, body);
-
-    continue;
+    body = [
+      `A change was detected for **${change.name}** in **${change.park}**.`,
+      ``,
+      `Source: ${change.url}`,
+      ``,
+      `### Added`,
+      ...(change.added.length ? change.added.map(x => `- ${x}`) : ["- None"]),
+      ``,
+      `### Removed`,
+      ...(change.removed.length ? change.removed.map(x => `- ${x}`) : ["- None"])
+    ].join("\n");
   }
-
-  const title = `Menu changed: ${change.name} (${change.park})`;
-
-  const body = [
-    `A change was detected for **${change.name}** in **${change.park}**.`,
-    ``,
-    `Source: ${change.url}`,
-    ``,
-    `### Added`,
-    ...(change.added.length ? change.added.map(x => `- ${x}`) : ["- None"]),
-    ``,
-    `### Removed`,
-    ...(change.removed.length ? change.removed.map(x => `- ${x}`) : ["- None"])
-  ].join("\n");
 
   const tmpFile = "issue-body.txt";
   fs.writeFileSync(tmpFile, body);
