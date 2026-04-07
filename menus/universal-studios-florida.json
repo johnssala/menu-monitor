@@ -1,0 +1,146 @@
+[
+    {
+        "id": "usf-dreamworks-imagination-cafe",
+        "park": "Universal Studios Florida",
+        "name": "DreamWorks Imagination Cafe",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/dreamworks-imagination-cafe/menu.html"
+    },
+    {
+        "id": "usf-finnegans-bar-and-grill-everyday",
+        "park": "Universal Studios Florida",
+        "name": "Finnegan's Bar & Grill (Everyday)",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/finnegans-bar-grill/menu.html"
+    },
+    {
+        "id": "usf-finnegans-bar-and-grill-kids",
+        "park": "Universal Studios Florida",
+        "name": "Finnegan's Bar & Grill (Kids)",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/finnegans-bar-grill/kids-menu.html"
+    },
+    {
+        "id": "usf-finnegans-bar-and-grill-dessert",
+        "park": "Universal Studios Florida",
+        "name": "Finnegan's Bar & Grill (Dessert)",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/finnegans-bar-grill/dessert-menu.html"
+    },
+    {
+        "id": "usf-florean-fortescues-ice-cream-parlour",
+        "park": "Universal Studios Florida",
+        "name": "Florean Fortescue's Ice Cream Parlour",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/florean-fortescues-ice-cream-parlour/menu.html"
+    },
+    {
+        "id": "usf-freeze-ray-pops",
+        "park": "Universal Studios Florida",
+        "name": "Freeze Ray Pops",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/freeze-ray-pops/menu.html"
+    },
+    {
+        "id": "usf-haagen-dazs",
+        "park": "Universal Studios Florida",
+        "name": "Häagen-Dazs",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/haagen-dazs/menu.html"
+    },
+    {
+        "id": "usf-illuminations-minion-cafe",
+        "park": "Universal Studios Florida",
+        "name": "Illumination's Minion Cafe",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/illuminations-minion-cafe/menu.html"
+    },
+    {
+        "id": "usf-krusty-burger",
+        "park": "Universal Studios Florida",
+        "name": "Krusty Burger",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/krusty-burger/menu.html"
+    },
+    {
+        "id": "usf-leaky-cauldron-breakfast",
+        "park": "Universal Studios Florida",
+        "name": "Leaky Cauldron (Breakfast)",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/leaky-cauldron/breakfast-menu.html"
+    },
+    {
+        "id": "usf-leaky-cauldron-lunch-and-dinner",
+        "park": "Universal Studios Florida",
+        "name": "Leaky Cauldron (Lunch & Dinner)",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/leaky-cauldron/menu.html"
+    },
+    {
+        "id": "usf-lombards-seafood-grille-everyday",
+        "park": "Universal Studios Florida",
+        "name": "Lombard's Seafood Grille (Everyday)",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/lombards-seafood-grille/menu.html"
+    },
+    {
+        "id": "usf-lombards-seafood-grille-kids",
+        "park": "Universal Studios Florida",
+        "name": "Lombard's Seafood Grille (Kids')",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/lombards-seafood-grille/kids-menu.html"
+    },
+    {
+        "id": "usf-lombards-seafood-grille-dessert",
+        "park": "Universal Studios Florida",
+        "name": "Lombard's Seafood Grille (Dessert)",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/lombards-seafood-grille/dessert-menu.html"
+    },
+    {
+        "id": "usf-louies-italian-restaurant",
+        "park": "Universal Studios Florida",
+        "name": "Louie's Italian Restaurant",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/louies-italian-restaurant/menu.html"
+    },
+    {
+        "id": "usf-luigis-pizza",
+        "park": "Universal Studios Florida",
+        "name": "Luigi's Pizza",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/luigis-pizza/menu.html"
+    },
+    {
+        "id": "usf-mels-drive-in",
+        "park": "Universal Studios Florida",
+        "name": "Mel's Drive-In",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/mels-drive-in/menu.html"
+    },
+    {
+        "id": "usf-richters-burger-co",
+        "park": "Universal Studios Florida",
+        "name": "Richter's Burger Co.",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/richters-burger-co/menu.html"
+    },
+    {
+        "id": "usf-san-francisco-pastry-company",
+        "park": "Universal Studios Florida",
+        "name": "San Francisco Pastry Company",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/san-francisco-pastry-company/menu.html"
+    },
+    {
+        "id": "usf-schwabs-pharmacy",
+        "park": "Universal Studios Florida",
+        "name": "Schwab's Pharmacy",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/schwabs-pharmacy/menu.html"
+    },
+    {
+        "id": "usf-the-fountain-of-fair-fortune",
+        "park": "Universal Studios Florida",
+        "name": "The Fountain of Fair Fortune",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-fountain-of-fair-fortune/menu-drink.html"
+    },
+    {
+        "id": "usf-the-hopping-pot",
+        "park": "Universal Studios Florida",
+        "name": "The Hopping Pot",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-hopping-pot/menu.html"
+    },
+    {
+        "id": "usf-today-cafe",
+        "park": "Universal Studios Florida",
+        "name": "TODAY Cafe",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/today-cafe/menu.html"
+    },
+    {
+        "id": "usf-trolls-treats",
+        "park": "Universal Studios Florida",
+        "name": "Trolls Treats",
+        "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/trolls-treats/menu.html"
+    }
+]
