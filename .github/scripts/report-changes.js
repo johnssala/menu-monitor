@@ -9,6 +9,27 @@ if (!changes.length) {
 }
 
 for (const change of changes) {
+  if (change.error) {
+    const title = `Broken menu link: ${change.name} at ${change.park}`;
+
+    const body = `
+    The menu page could not be loaded.
+
+    **Location:** ${change.park}  
+    **Restaurant:** ${change.name}  
+    **URL:** ${change.url}
+
+    **Error:**
+    ${change.error}
+
+    This likely means the page was removed, moved, or changed structure.
+    `;
+
+    await createOrUpdateIssue(title, body);
+
+    continue;
+  }
+
   const title = `Menu changed: ${change.name} (${change.park})`;
 
   const body = [

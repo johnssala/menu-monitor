@@ -198,7 +198,7 @@ async function fetchMenu(browser, menu) {
         return /seasonal offerings|entrées|plant-based|desserts|beverages|kids' meal/i.test(text);
       },
       { timeout: 20000 }
-    ).catch(() => {});
+    ).catch(() => { });
 
     const raw = await extractPageContent(page);
     return normalizeMenu(raw);
@@ -223,7 +223,23 @@ async function main() {
       const menu = batch[i];
       console.log(`Checking ${menu.id} (${i + 1}/${batch.length})`);
 
-      const newMenu = await fetchMenu(browser, menu);
+      let newMenu;
+
+      try {
+        newMenu = await fetchMenu(browser, menu);
+      } catch (err) {
+        console.error(`Failed to fetch ${menu.id}:`, err.message);
+
+        changes.push({
+          id: menu.id,
+          name: menu.name,
+          park: menu.park,
+          url: menu.url,
+          error: err.message
+        });
+
+        continue;
+      }
       const oldMenu = readSnapshot(menu.id);
 
       if (!oldMenu) {

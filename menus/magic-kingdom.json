@@ -1,8 +1,98 @@
 [
-      {
-    "id": "ioa-three-broomsticks",
-    "park": "Islands of Adventure",
-    "name": "Three Broomsticks",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/three-broomsticks/menu.html"
-  }
+    {
+        "id": "mk-aloha-isle",
+        "park": "Magic Kingdom",
+        "name": "Aloha Isle",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/aloha-isle/menus/snack/"
+    },
+    {
+        "id": "mk-astrofizz",
+        "park": "Magic Kingdom",
+        "name": "Astrofizz",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/astrofizz/menus/"
+    },
+    {
+        "id": "mk-auntie-gravitys-galactic-goodies",
+        "park": "Magic Kingdom",
+        "name": "Auntie Gravity's Galactic Goodies",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/auntie-gravitys-galactic-goodies/menus/"
+    },
+    {
+        "id": "mk-be-our-guest-restaurant-special",
+        "park": "Magic Kingdom",
+        "name": "Be Our Guest Restaurant (Special)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/special/"
+    },
+    {
+        "id": "mk-be-our-guest-restaurant-lunch",
+        "park": "Magic Kingdom",
+        "name": "Be Our Guest Restaurant (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/lunch/"
+    },
+    {
+        "id": "mk-be-our-guest-restaurant-dinner",
+        "park": "Magic Kingdom",
+        "name": "Be Our Guest Restaurant (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/dinner/"
+    },
+    {
+        "id": "mk-caseys-corner",
+        "park": "Magic Kingdom",
+        "name": "Casey's Corner",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/caseys-corner/menus/"
+    },
+    {
+        "id": "mk-chesire-cafe",
+        "park": "Magic Kingdom",
+        "name": "Cheshire Café",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cheshire-cafe/menus/"
+    },
+    {
+        "id": "mk-cinderellas-royal-table-breakfast",
+        "park": "Magic Kingdom",
+        "name": "Cinderella's Royal Table (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cinderella-royal-table/menus/breakfast/"
+    },
+    {
+        "id": "mk-cinderellas-royal-table-lunch",
+        "park": "Magic Kingdom",
+        "name": "Cinderella's Royal Table (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cinderella-royal-table/menus/lunch/"
+    },
+    {
+        "id": "mk-cinderellas-royal-table-dinner",
+        "park": "Magic Kingdom",
+        "name": "Cinderella's Royal Table (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cinderella-royal-table/menus/dinner/"
+    },
+    {
+        "id": "mk-columbia-harbour-house",
+        "park": "Magic Kingdom",
+        "name": "Columbia Harbour House",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/columbia-harbour-house/menus/"
+    },
+    {
+        "id": "mk-cosmic-rays-starlight-cafe",
+        "park": "Magic Kingdom",
+        "name": "Cosmic Ray's Starlight Café",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cosmic-ray-starlight-cafe/menus/"
+    },
+    {
+        "id": "mk-gastons-tavern",
+        "park": "Magic Kingdom",
+        "name": "Gaston's Tavern",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/gastons-tavern/menus/"
+    },
+    {
+        "id": "mk-golden-oak-outpost-breakfast",
+        "park": "Magic Kingdom",
+        "name": "Golden Oak Outpost (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/golden-oak-outpost/menus/breakfast/"
+    },
+    {
+        "id": "mk-golden-oak-outpost-lunch-and-dinner",
+        "park": "Magic Kingdom",
+        "name": "Golden Oak Outpost (Lunch & Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/golden-oak-outpost/menus/lunch-and-dinner/"
+    }
 ]
