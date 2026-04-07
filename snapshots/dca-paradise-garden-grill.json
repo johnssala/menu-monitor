@@ -1,67 +1,8 @@
 {
   "sections": [
     {
-      "title": "Lunch And Dinner Menu",
-      "items": [
-        "Little Green Men Jetpack Sipper",
-        "Jiminy Cricket Sipper",
-        "Coco Sipper",
-        "Disneyland 70th Celebration D Glow Cube",
-        "Disneyland 70th Celebration Sipper",
-        "Disneyland 70th Celebration Travel Tumbler",
-        "Dante Sipper",
-        "Pork Chile Verde Chalupas",
-        "Loaded Chicken Quesadilla",
-        "Al Pastor Tacos",
-        "Tacos Dorados de Camarón",
-        "Carne Asada Wet Burrito",
-        "Cheese Quesadilla",
-        "Street-style Taco",
-        "Café de Olla Tres Leches Cake",
-        "Cantarito-Style Paloma",
-        "Buenaveza Salt & Lime Lager",
-        "Play in the Park Tumbler",
-        "Assorted Fountain Beverages - Regular",
-        "Assorted Fountain Beverages - Large",
-        "DASANI® Bottled Water",
-        "Minute Maid® Apple Juice",
-        "Lowfat Milk",
-        "Coffee - Regular",
-        "Coffee - Decaffeinated",
-        "Hot Tea",
-        "Hot Cocoa",
-        "Guests must speak to a Cast Member about their allergy-friendly request",
-        "Guests must speak to a Cast Member about their allergy-friendly request",
-        "Guests must speak to a Cast Member about their allergy-friendly request",
-        "Guests must speak to a Cast Member about their allergy-friendly request",
-        "Guests must speak to a Cast Member about their allergy-friendly request",
-        "Guests must speak to a Cast Member about their allergy-friendly request",
-        "Guests must speak to a Cast Member about their allergy-friendly request",
-        "Guests must speak to a Cast Member about their allergy-friendly request",
-        "Guests must speak to a Cast Member about their allergy-friendly request",
-        "Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location.",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
-        "Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
-        "Help & Guest Services",
-        "Site Map",
-        "Your Privacy Choices",
-        "Your US State Privacy Rights",
-        "Interest-Based Ads",
-        "Notice of Right to Opt Out of Sale/Sharing"
-      ]
-    },
-    {
-      "title": "Manage Consent Preferences",
-      "items": [
-        "Selling, Sharing, Targeted Advertising",
-        "If you are not logged in, your opt-out will be specific to this property and device or browser. For our other digital properties, to opt out, select “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each. If you clear your tracking history or use another browser or device, you’ll need to opt out again.You can also submit this opt-out form, which may enable us to apply your opt-out more broadly, for example, to stop data sharing in connection with advertising intended to reach you on platforms not operated by Disney (e.g., social media platforms). You may enable online, where available, a universal tool that automatically communicates your opt-out, such as Global Privacy Control (“GPC”), which we’ll process as if you had opted out through the toggle.Even if you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. Please visit Your US State Privacy Rights for more information about your rights and how to exercise them."
-      ]
-    },
-    {
-      "title": "Cookie List",
-      "items": [
-        "checkbox label label"
-      ]
+      "title": "page",
+      "items": []
     }
   ]
 }
