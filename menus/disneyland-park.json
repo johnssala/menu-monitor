@@ -90,6 +90,12 @@
         "url": "https://disneyland.disney.go.com/dining/disneyland/gibson-girl-ice-cream-parlor/menus/snack/"
     },
     {
+        "id": "dl-good-boy-grocers",
+        "park": "Disneyland Park",
+        "name": "Good Boy Grocers",
+        "url": "https://disneyland.disney.go.com/dining/disneyland/good-boy-grocers/menus/"
+    },
+    {
         "id": "dl-harbour-galley",
         "park": "Disneyland Park",
         "name": "Harbour Galley",
