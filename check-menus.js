@@ -94,7 +94,7 @@ async function extractPageContent(page) {
     const sections = [];
     let currentSection = null;
 
-    const elements = root.querySelectorAll("h1, h2, h3, h4, p, li");
+    const elements = root.querySelectorAll("h1, h2, h3, h4, p, li, div, span");
 
     elements.forEach(el => {
       const text = el.innerText?.trim();
