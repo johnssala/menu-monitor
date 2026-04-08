@@ -1,0 +1,51 @@
+{
+  "sections": [
+    {
+      "title": "Everyday Menu",
+      "items": [
+        "Please inform a manager or Chef's Assistant prior to ordering if someone in your party requires special dietary accommodations",
+        "salami, spicy capicola, ham, provolone, arugula, pickled onions, sun-dried tomato pesto and basil aioli served on a crusty baguette served with potato salad or seasonal fruit",
+        "shaved turkey, Gouda, bacon, and roasted tomato aioli served on a croissant served with potato salad or seasonal fruit",
+        "roast beef, smoked provolone, basil–onion mayo, roasted Roma pickled onion relish, arugula, crispy onions served with potato salad or seasonal fruit",
+        "crispy chickpea falafel with lemon tahini sauce, spicy Shatta chili sauce, cucumbers, tomatoes, fresh greens, and pickled red onions, all tucked into warm pita bread served with potato salad or seasonal fruit",
+        "choose from a selection of Mardi Gras themed desserts",
+        "choose from a variety of pastries",
+        "choose from a variety of pastries",
+        "assorted fresh muffins",
+        "warm sweet roll with cream cheese icing, Biscoff® cookie butter and Biscoff® biscuit crumbles",
+        "warm sweet roll with pistachio cream cheese icing, crumbled pistachios and chocolate ganache",
+        "warm sweet roll with whipped cream cheese icing and chocolate ganache",
+        "ham, egg and cheese on a fresh baked croissant",
+        "bacon, egg and cheese on a fresh baked croissant",
+        "includes a choice of fruit bowl, danish or muffin and breakfast drink"
+      ]
+    },
+    {
+      "title": "Beverages",
+      "items": [
+        "Coca-Cola, Coke Zero Sugar, Diet Coke, Sprite, Cherry Coke, Fanta Orange, Lemonade, Root Beer, Gold Peak Iced Tea",
+        "Enjoy more than 100 drink choices and refills thru the day* with the Coca-Cola Freestyle® souvenir cup. Get 3–6 souvenir cups for each, 2 for each, or 1 for at participating Coca-Cola Freestyle® locations. *Valid Coca-Cola Freestyle® Souvenir Cup required to dispense Coca-Cola Freestyle®. Refills are limited to no more than one (1) pour from the Coca-Cola Freestyle® machine per 10 minutes and valid day of purchase only. Sharing is not permitted. Additional restrictions may apply which are subject to change without notice.",
+        "Enjoy more than 100 drink choices and refills thru the day* with the Coca-Cola Freestyle® souvenir cup. Get 3–6 souvenir cups for each, 2 for each, or 1 for at participating Coca-Cola Freestyle® locations.",
+        "*Valid Coca-Cola Freestyle® Souvenir Cup required to dispense Coca-Cola Freestyle®. Refills are limited to no more than one (1) pour from the Coca-Cola Freestyle® machine per 10 minutes and valid day of purchase only. Sharing is not permitted. Additional restrictions may apply which are subject to change without notice.",
+        "add an extra day of free refills to your previously purchased Coca-Cola freestyle® Souvenir Cup",
+        "apple, orange",
+        "Fruit Punch, Mountain Berry Blast",
+        "2%, chocolate",
+        "original or zero ultra",
+        "cappuccino, latte, macchiato, Americano, mocha",
+        "coffee, decaf, hot cocoa",
+        "choose from a variety of flavors",
+        "caramel, chocolate, hazelnut, Irish crème, peppermint, pumpkin, toasted marshmallow, vanilla, white chocolate mocha",
+        "Michelob Ultra, Miller Lite, Yuengling Modelo",
+        "Michelob Ultra, Miller Lite, Yuengling",
+        "Modelo",
+        "Bollini Pinot Grigio Butter Chardonnay Cavicchioli 1928 Prosecco Mimosa",
+        "Bollini Pinot Grigio",
+        "Butter Chardonnay",
+        "Cavicchioli 1928 Prosecco",
+        "Mimosa",
+        "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive V - Vegetarian VG - Vegan"
+      ]
+    }
+  ]
+}
