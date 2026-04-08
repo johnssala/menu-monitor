@@ -10,7 +10,7 @@ const REPORT_FILE = path.join(ROOT, "changed-report.json");
 
 // Tune these
 // Batch size controls how many menus are checked per day
-const BATCH_SIZE = 20;
+const BATCH_SIZE = 25;
 const REQUEST_DELAY_MS = 20000; // 20 sec between pages
 const PAGE_TIMEOUT_MS = 90000;
 
@@ -97,9 +97,19 @@ async function extractPageContent(page) {
     const elements = root.querySelectorAll("h1, h2, h3, h4, p, li, div, span");
 
     elements.forEach(el => {
-      // Skip element if it or any parent has a class containing "legend" or "price"
-      if ((el.tagName === "DIV" || el.tagName === "SPAN") && el.closest('[class*="legend"]') || el.closest('[class*="price"]') ) {
-        return;
+      // Only process div/span that are not legend/price
+      if (el.tagName === "DIV" || el.tagName === "SPAN") {
+        const classList = el.classList ? [...el.classList].map(c => c.toLowerCase()) : [];
+
+        // Skip if it matches legend or price
+        if (classList.some(c => c.includes("price"))) {
+          return;
+        }
+
+        // Only process if class contains "title" or "name" dynamically
+        if (!classList.some(c => c.includes("title") || c.includes("name"))) {
+          return;
+        }
       }
 
       const text = el.innerText?.trim();
@@ -119,22 +129,26 @@ async function extractPageContent(page) {
       ) return;
 
       // detect menu start
-      if (el.tagName === "H2" && l.includes("menu")) {
-        currentSection = { title: text, items: [] };
+      if ((el.tagName === "H1" || el.tagName === "H2") && l.includes("menu")) {
+        currentSection = { title: text, items: [], _seenItems: new Set() }; // track duplicates
         sections.push(currentSection);
         return;
       }
 
       // detect section headers
       if (el.tagName === "H3") {
-        currentSection = { title: text, items: [] };
+        currentSection = { title: text, items: [], _seenItems: new Set() }; // track duplicates
         sections.push(currentSection);
         return;
       }
 
       if (!currentSection) return;
 
-      currentSection.items.push(text);
+      // Only add if not already in this section
+      if (!currentSection._seenItems.has(text)) {
+        currentSection.items.push(text);
+        currentSection._seenItems.add(text);
+      }
     });
 
     return {
@@ -147,10 +161,23 @@ async function extractPageContent(page) {
 
 function normalizeMenu(raw) {
   const sections = (raw.sections || [])
-    .map((section) => ({
-      title: normalizeText(section.title || ""),
-      items: (section.items || []).map(normalizeText).filter(Boolean)
-    }))
+    .map((section) => {
+      const seen = new Set();
+
+      const items = (section.items || [])
+        .map(normalizeText)
+        .filter(Boolean)
+        .filter(item => {
+          if (seen.has(item)) return false;
+          seen.add(item);
+          return true;
+        });
+
+      return {
+        title: normalizeText(section.title || ""),
+        items
+      };
+    })
     .filter(section => section.title || section.items.length);
 
   return { sections };
