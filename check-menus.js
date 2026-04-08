@@ -97,6 +97,11 @@ async function extractPageContent(page) {
     const elements = root.querySelectorAll("h1, h2, h3, h4, p, li, div, span");
 
     elements.forEach(el => {
+      // Skip element if it or any parent has a class containing "legend"
+      if ((el.tagName === "DIV" || el.tagName === "SPAN") && el.closest('[class*="legend"]')) {
+        return;
+      }
+
       const text = el.innerText?.trim();
       if (!text) return;
 
