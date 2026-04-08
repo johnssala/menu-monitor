@@ -10,7 +10,7 @@ const REPORT_FILE = path.join(ROOT, "changed-report.json");
 
 // Tune these
 // Batch size controls how many menus are checked per day
-const BATCH_SIZE = 4;
+const BATCH_SIZE = 20;
 const REQUEST_DELAY_MS = 20000; // 20 sec between pages
 const PAGE_TIMEOUT_MS = 90000;
 
