@@ -1,0 +1,44 @@
+{
+  "sections": [
+    {
+      "title": "Lunch And Dinner Menu",
+      "items": [
+        "Please inform a manager or Chef's Assistant prior to ordering if someone in your party requires special dietary accommodations",
+        "Gluten-free buns are available upon request.",
+        "poke bowl with spicy mayo, blue rice noodles, edamame salad, cucumbers and lotus root",
+        "home-made meatballs and marinara cavatappi, served in a garlic bread cone",
+        "bacon cheeseburger with caramelized onion aioli, tomato and lettuce within a brioche bun and served with crinkle cut fries",
+        "pizza-inspired burger topped with salami, pepperoni, mozzarella cheese, within a brioche bun, topped with a mozzarella stick and served with crinkle cut fries",
+        "hand breaded chicken tenders served with a fluffy waffle, crinkle cut fries and mustard mayo BBQ sauce",
+        "miso salmon topped with gochujang sauce, accompanied by quinoa with vegetables, edamame puree and cucumber relish",
+        "plant based Gardein™ meatballs and marinara cavatappi, served in a garlic bread cone",
+        "red dragon fruit, red quinoa, raspberries, mandarin oranges, almonds, baby spinach, cucumber, and guava vinaigrette",
+        "artisan crust pizza, char cup pepperoni, tangy tomato sauce, mozzarella cheese with crinkle cut fries",
+        "artisan crust pizza, tangy tomato sauce, mozzarella cheese, crinkle cut fries",
+        "1/3 pound all beef hot dog, Fritos® Honey BBQ Twists, cheddar cheese sauce, jalapeño relish, BBQ mayo, with crinkle cut fries"
+      ]
+    },
+    {
+      "title": "Drinks",
+      "items": [
+        "Minute Maid Strawberry Lemonade, cold foam topping, and red stars",
+        "Blue Raspberry ICEE, cold foam topping, and red stars",
+        "Enjoy more than 100 drink choices with the Coca-Cola Freestyle® single-serve cup.",
+        "Fruit Punch, Mountain Berry Blast",
+        "apple, orange",
+        "choice of 2% or chocolate",
+        "coffee, hot tea, hot cocoa",
+        "Enjoy more than 100 drink choices and refills thru the day* with the Coca-Cola Freestyle® souvenir cup. Get 3–6 souvenir cups for each, 2 for each, or 1 for at participating Coca-Cola Freestyle® locations. *Valid Coca-Cola Freestyle® Souvenir Cup required to dispense Coca-Cola Freestyle®. Refills are limited to no more than one (1) pour from the Coca-Cola Freestyle® machine per 10 minutes and valid day of purchase only. Sharing is not permitted. Additional restrictions may apply which are subject to change without notice.",
+        "Enjoy more than 100 drink choices and refills thru the day* with the Coca-Cola Freestyle® souvenir cup. Get 3–6 souvenir cups for each, 2 for each, or 1 for at participating Coca-Cola Freestyle® locations.",
+        "*Valid Coca-Cola Freestyle® Souvenir Cup required to dispense Coca-Cola Freestyle®. Refills are limited to no more than one (1) pour from the Coca-Cola Freestyle® machine per 10 minutes and valid day of purchase only. Sharing is not permitted. Additional restrictions may apply which are subject to change without notice.",
+        "Add an extra day of refills thru the day* to your previously purchased Coca-Cola Freestyle® Souvenir Cup *Valid Coca-Cola Freestyle® Souvenir Cup required to dispense Coca-Cola Freestyle®. Refills are limited to no more than one (1) pour from the Coca-Cola Freestyle® machine per 10 minutes and valid day of purchase only. Sharing is not permitted. Additional restrictions may apply which are subject to change without notice.",
+        "Add an extra day of refills thru the day* to your previously purchased Coca-Cola Freestyle® Souvenir Cup",
+        "*Valid Coca-Cola Freestyle® Souvenir Cup required to dispense Coca-Cola Freestyle®. Refills are limited to no more than one (1) pour from the Coca-Cola Freestyle® machine per 10 minutes and valid day of purchase only. Sharing is not permitted. Additional restrictions may apply which are subject to change without notice.",
+        "GS – Gluten Sensitive DS – Dairy Sensitive ES – Egg Sensitive PS - Peanut Sensitive TNS – Tree Nut Sensitive FS - Fish Sensitive",
+        "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive V - Vegetarian VG - Vegan",
+        "*Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
+        "Menu items and pricing are subject to change without notice."
+      ]
+    }
+  ]
+}

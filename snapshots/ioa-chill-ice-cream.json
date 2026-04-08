@@ -1,0 +1,24 @@
+{
+  "sections": [
+    {
+      "title": "Everyday Menu",
+      "items": [
+        "M&M'S®, Reese's Pieces®, peanuts, OREO®, strawberries, chocolate sprinkles, rainbow sprinkles, hot fudge, caramel, strawberries, whipped topping, chocolate chips, shredded coconut, pineapple chunks, marshmallow fluff, graham cracker crumbs",
+        "choice of soft serve and beverage",
+        "Coca-Cola, Coke Zero Sugar, Diet Coke, Sprite, Barq's Root Beer, Minute Maid Lemonade",
+        "GS – Gluten Sensitive DS – Dairy Sensitive ES – Egg Sensitive PS - Peanut Sensitive TNS – Tree Nut Sensitive FS - Fish Sensitive",
+        "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive",
+        "Please inform a manager or Chef's Assistant prior to ordering if someone in your party requires special dietary accommodations.",
+        "Menu items and pricing are subject to change without notice."
+      ]
+    },
+    {
+      "title": "Soft Serve Sundaes",
+      "items": [
+        "Dole Whip® pineapple sorbet, coconut cream, shredded coconut and pineapple chunks",
+        "Dole Whip® strawberry sorbet, chocolate fudge, marshmallow fluff, chocolate chips and graham cracker crumbs",
+        "Dole Whip® lime sorbet, caramel, graham crackers crumbs and whipped topping"
+      ]
+    }
+  ]
+}
