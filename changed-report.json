@@ -1,177 +1,151 @@
 [
   {
-    "id": "dca-carthay-circle-lounge-dinner",
-    "name": "Carthay Circle Lounge (Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-lounge/menus/dinner/",
-    "error": "page.waitForTimeout is not a function"
-  },
-  {
-    "id": "dca-carthay-circle-restaurant",
-    "name": "Carthay Circle Restaurant",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-restaurant/menus/dinner/",
-    "error": "page.waitForTimeout is not a function"
-  },
-  {
-    "id": "dca-clarabelles-hand-scooped-ice-cream-breakfast",
-    "name": "Clarabelle's Hand-Scooped Ice Cream (Breakfast)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/clarabelles-hand-scooped-ice-cream/menus/breakfast/",
-    "error": "page.waitForTimeout is not a function"
-  },
-  {
-    "id": "dca-clarabelles-hand-scooped-ice-cream-snack",
-    "name": "Clarabelle's Hand-Scooped Ice Cream (Snack)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/clarabelles-hand-scooped-ice-cream/menus/snack/",
-    "error": "page.waitForTimeout is not a function"
-  },
-  {
-    "id": "dca-cocina-cucamonga-mexican-grill",
-    "name": "Cocina Cucamonga Mexican Grill",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/cocina-cucamonga-mexican-grill/menus/lunch-and-dinner/",
-    "error": "page.waitForTimeout is not a function"
-  },
-  {
-    "id": "dca-corn-dog-castle",
-    "name": "Corn Dog Castle",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/corn-dog-castle/menus/snack/",
-    "error": "page.waitForTimeout is not a function"
-  },
-  {
-    "id": "dca-cozy-cone-motel",
-    "name": "Cozy Cone Motel",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/cozy-cone-motel/menus/snack/",
-    "error": "page.waitForTimeout is not a function"
-  },
-  {
-    "id": "dca-fairfax-market",
-    "name": "Fairfax Market",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fairfax-fruit-market/menus/snack/",
-    "error": "page.waitForTimeout is not a function"
-  },
-  {
-    "id": "dca-fiddler-fifer-and-practical-cafe-breakfast",
-    "name": "Fiddler, Fifer & Practical Cafe - Starbucks (Breakast)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fiddler-fifer-and-practical-cafe/menus/breakfast/",
-    "error": "page.waitForTimeout is not a function"
-  },
-  {
     "id": "dca-fiddler-fifer-and-practical-cafe-lunch-and-dinner",
     "name": "Fiddler, Fifer & Practical Cafe - Starbucks (Lunch & Dinner)",
     "park": "Disney California Adventure",
     "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fiddler-fifer-and-practical-cafe/menus/lunch-and-dinner/",
-    "error": "page.waitForTimeout is not a function"
-  },
-  {
-    "id": "dca-fillmores-taste-in",
-    "name": "Fillmore's Taste-In",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fillmores-taste-in/menus/snack/",
-    "error": "page.waitForTimeout is not a function"
-  },
-  {
-    "id": "dca-flos-v8-cafe",
-    "name": "Flo's V8 Cafe",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/flos-v8-cafe/menus/lunch-and-dinner/",
-    "error": "page.waitForTimeout is not a function"
-  },
-  {
-    "id": "dca-ghirardelli-soda-fountain-and-chocolate-shop",
-    "name": "Ghirardelli Soda Fountain and Chocolate Shop",
-    "park": "Disney California Adventure",
-    "url": "https://disneyworld.disney.go.com/dining/disney-springs/ghirardelli-soda-fountain/menus/snack/",
-    "error": "page.waitForTimeout is not a function"
-  },
-  {
-    "id": "dca-jack-jack-cookie-num-nums",
-    "name": "Jack-Jack Cookie Num Nums",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/jack-jack-cookie-num-nums/menus/snack/",
-    "error": "page.waitForTimeout is not a function"
-  },
-  {
-    "id": "dca-lamplight-lounge-brunch",
-    "name": "Lamplight Lounge (Brunch)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge/menus/brunch/",
-    "error": "page.waitForTimeout is not a function"
-  },
-  {
-    "id": "dca-lamplight-lounge-lunch",
-    "name": "Lamplight Lounge (Lunch)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge/menus/lunch/",
-    "error": "page.waitForTimeout is not a function"
-  },
-  {
-    "id": "dca-lamplight-lounge-dinner",
-    "name": "Lamplight Lounge (Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge/menus/dinner/",
-    "error": "page.waitForTimeout is not a function"
-  },
-  {
-    "id": "dca-lamplight-lounge-boardwalk-dining-lunch",
-    "name": "Lamplight Lounge Boardwalk Dining (Lunch)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge-boardwalk-dining/menus/lunch/",
-    "error": "page.waitForTimeout is not a function"
-  },
-  {
-    "id": "dca-lamplight-lounge-boardwalk-dining-dinner",
-    "name": "Lamplight Lounge Boardwalk Dining (Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge-boardwalk-dining/menus/dinner/",
-    "error": "page.waitForTimeout is not a function"
-  },
-  {
-    "id": "dca-lucky-fortune-cookery",
-    "name": "Lucky Fortune Cookery",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lucky-fortune-cookery/menus/lunch-and-dinner/",
-    "error": "page.waitForTimeout is not a function"
-  },
-  {
-    "id": "dca-paradise-garden-grill",
-    "name": "Paradise Garden Grill",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/paradise-garden-grill/menus/lunch-and-dinner/",
-    "error": "page.waitForTimeout is not a function"
-  },
-  {
-    "id": "dca-port-of-san-fransokyo-cerveceria",
-    "name": "Port of San Fransokyo Cervecería",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/port-of-san-fransokyo-cerveceria/menus/snack/",
-    "error": "page.waitForTimeout is not a function"
-  },
-  {
-    "id": "dca-poultry-palace",
-    "name": "Poultry Palace",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/poultry-palace/menus/snack/",
-    "error": "page.waitForTimeout is not a function"
-  },
-  {
-    "id": "dca-pym-test-kitchen-breakfast",
-    "name": "Pym Test Kitchen (Breakfast)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/pym-test-kitchen/menus/breakfast/",
-    "error": "page.waitForTimeout is not a function"
+    "added": [
+      "## Lunch And Dinner Menu"
+    ],
+    "removed": [
+      "## Breakfast Menu",
+      "Impossible™ Breakfast Sandwich",
+      "Bacon, Gouda and Egg Breakfast Sandwich",
+      "Sausage, Cheddar and Egg Breakfast Sandwich",
+      "Double Smoked Bacon, Cheddar and Egg Sandwich",
+      "Bacon and Gruyère Sous Vide Egg Bites",
+      "Ham & Swiss Croissant",
+      "Potato, Cheddar & Chive Bake",
+      "Spinach, Feta & Egg White Wrap",
+      "Egg, Pesto & Mozzarella Sandwich"
+    ]
   },
   {
     "id": "dca-pym-test-kitchen-lunch-and-dinner",
     "name": "Pym Test Kitchen (Lunch & Dinner)",
     "park": "Disney California Adventure",
     "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/pym-test-kitchen/menus/lunch-and-dinner/",
-    "error": "page.waitForTimeout is not a function"
+    "added": [
+      "## Lunch And Dinner Menu",
+      "Spinach and Artichoke Grilled Cheese",
+      "Not so Little Chicken Sandwich",
+      "Pepper Particle Pasta",
+      "Humongous Taco Salad",
+      "Neutron Nachos",
+      "Side Slaw",
+      "PB&J Flavor Lab",
+      "Kid's Buttered Noodles",
+      "Subatomic Chicken Sandwich",
+      "Bite-sized Grilled Cheese",
+      "Gluten/Wheat Allergy-Friendly Kids' Bite-sized Grilled Cheese",
+      "Gluten/Wheat Allergy-Friendly Disney Check Meal - PB&J Flavor Lab",
+      "Gluten/Wheat Allergy-Friendly Side Cuties® Mandarin Orange",
+      "Gluten/Wheat Allergy-Friendly Side Slaw",
+      "Gluten/Wheat Allergy-Friendly Side Crispy Potato Bites",
+      "Egg Allergy-Friendly Quantum Pretzel",
+      "Egg Allergy-Friendly Plant-based Neutron Nachos",
+      "Egg Allergy-Friendly Pepper Particle Pasta",
+      "Egg Allergy-Friendly Kids' Bite-sized Grilled Cheese",
+      "Egg Allergy-Friendly Kid's Buttered Noodles",
+      "Egg Allergy-Friendly Side Cuties® Mandarin Orange",
+      "Egg Allergy-Friendly Side Beer Cheese Sauce",
+      "Egg Allergy-Friendly Side Slaw",
+      "Egg Allergy-Friendly Side Crispy Potato Bites",
+      "Fish/Shellfish Allergy-Friendly Quantum Pretzel",
+      "Fish/Shellfish Allergy-Friendly Pepper Particle Pasta",
+      "Fish/Shellfish Allergy-Friendly Humongous Taco Salad",
+      "Fish/Shellfish Allergy-Friendly Kids' Bite-sized Grilled Cheese",
+      "Fish/Shellfish Allergy-Friendly Subatomic Chicken Sandwich",
+      "Fish/Shellfish Allergy-Friendly Not so Little Chicken Sandwich",
+      "Fish/Shellfish Allergy-Friendly Side Beer Cheese Sauce",
+      "Fish/Shellfish Allergy-Friendly Side Cuties® Mandarin Orange",
+      "Fish/Shellfish Allergy-Friendly Side Slaw",
+      "Fish/Shellfish Allergy-Friendly Side Crispy Potato Bites",
+      "Milk Allergy-Friendly Plant-Based Neutron Nachos",
+      "Milk Allergy-Friendly Quantum Pretzel",
+      "Milk/Dairy Allergy-Friendly Side Cuties® Mandarin Orange",
+      "Milk/Dairy Allergy-Friendly Side Slaw",
+      "Milk/Dairy Allergy-Friendly Side Crispy Potato Bites",
+      "Peanut/Tree Nut Allergy-Friendly Quantum Pretzel",
+      "Peanut/Tree Nut Allergy-Friendly Humongous Taco Salad",
+      "Peanut/Tree Nut Allergy-Friendly Pepper Particle Pasta",
+      "Peanut/Tree Nut Allergy-Friendly Kids' Bite-sized Grilled Cheese",
+      "Peanut/Tree Nut Kid's Buttered Noodles",
+      "Peanut/Tree Nut Allergy-Friendly Subatomic Chicken Sandwich",
+      "Peanut/Tree Nut Allergy-Friendly Side Beer Cheese Sauce",
+      "Peanut/Tree Nut Allergy-Friendly Side Cuties® Mandarin Orange",
+      "Peanut/Treenut Allergy-Friendly Side Slaw",
+      "Peanut/Tree Nut Allergy-Friendly Side Crispy Potato Bites",
+      "Sesame Allergy-Friendly Quantum Pretzel",
+      "Sesame Allergy-Friendly Plant-Based Neutron Nachos",
+      "Sesame Allergy-Friendly Pepper Particle Pasta",
+      "Sesame Allergy-Friendly Humongous Taco Salad",
+      "Sesame Allergy-Friendly Kid's Buttered Noodles",
+      "Sesame Allergy-Friendly Kids' PB&J Flavor Lab",
+      "Sesame Allergy-Friendly Kids' Bite-sized Grilled Cheese",
+      "Sesame Allergy-Friendly Side Beer Cheese Sauce",
+      "Sesame Allergy-Friendly Side Cuties® Mandarin Orange",
+      "Sesame Allergy-Friendly Side Crispy Potato Bites",
+      "Soy Allergy-Friendly Quantum Pretzel",
+      "Soy Allergy-Friendly Kids' Subatomic Chicken Sandwich",
+      "Soy Allergy-Friendly Pepper Particle Pasta",
+      "Soy Allergy-Friendly Kid's Buttered Noodles",
+      "Soy Allergy-Friendly Kids' Bite-sized Grilled Cheese",
+      "Soy Allergy-Friendly Side Beer Cheese Sauce",
+      "Soy Allergy-Friendly Side Cuties® Mandarin Orange",
+      "Soy Allergy-Friendly Side Slaw",
+      "Soy Allergy-Friendly Side Crispy Potato Bites"
+    ],
+    "removed": [
+      "## Breakfast Menu",
+      "Formulated French Toast",
+      "Verde Variant Chilaquiles",
+      "Recalculated Breakfast",
+      "Impossible™ Quantum Garden Breakfast",
+      "Side Turkey Bacon",
+      "Nano Eggs-periment 101",
+      "Semi-Formulated French Toast",
+      "Gluten/Wheat Allergy-Friendly Verde Variant Chilaquiles",
+      "Gluten/Wheat Allergy-Friendly Recalculated Breakfast",
+      "Gluten/Wheat Allergy-Friendly Impossible™ Quantum Garden Breakfast",
+      "Gluten/Wheat Allergy-Friendly Nano Eggs-periment 101",
+      "Gluten/Wheat Allergy-Friendly Side Bacon",
+      "Gluten/Wheat Allergy-Friendly Side Turkey Bacon",
+      "Egg Allergy-Friendly Side Bacon",
+      "Egg Allergy-Friendly Side Turkey Bacon",
+      "Fish/Shellfish Allergy-Friendly Verde Variant Chilaquiles",
+      "Fish/Shellfish Allergy-Friendly Recalculated Breakfast",
+      "Fish/Shellfish Allergy-Friendly Formulated French Toast",
+      "Fish/Shellfish Allergy-Friendly Semi-Formulated French Toast",
+      "Fish/Shellfish Allergy-Friendly Side Bacon",
+      "Fish/Shellfish Allergy-Friendly Side Turkey Bacon",
+      "Fish/Shellfish Allergy-Friendly Impossible™ Quantum Garden Breakfast",
+      "Fish/Shellfish Allergy-Friendly Nano Eggs-periment 101",
+      "Milk Allergy-Friendly Recalculated Breakfast",
+      "Milk/Dairy Allergy-Friendly Side Turkey Bacon",
+      "Milk/Dairy Allergy-Friendly Side Bacon",
+      "Milk/Dairy Allergy-Friendly Impossible™ Quantum Garden Breakfast",
+      "Milk/Dairy Allergy-Friendly Nano Eggs-periment 101",
+      "Peanut/Tree Nut Allergy-Friendly Recalculated Breakfast",
+      "Peanut/Tree Nut Allergy-Friendly Verde Variant Chilaquiles",
+      "Peanut/Tree Nut Allergy-Friendly Side Bacon",
+      "Peanut/Tree Nut Allergy-Friendly Side Turkey Bacon",
+      "Peanut/Tree Nut Allergy-Friendly Nano Eggs-periment 101",
+      "Sesame Allergy-Friendly Verde Variant Chilaquiles",
+      "Sesame Allergy-Friendly Recalculated Breakfast",
+      "Sesame Allergy-Friendly Formulated French Toast",
+      "Sesame Allergy-Friendly Semi-Formulated French Toast",
+      "Sesame Allergy-Friendly Impossible™ Quantum Garden Breakfast",
+      "Sesame Allergy-Friendly Kids Nano Eggs-periment 101",
+      "Sesame Allergy-Friendly Side Bacon",
+      "Sesame Allergy-Friendly Side Turkey Bacon",
+      "Soy Allergy-Friendly Recalculated Breakfast",
+      "Soy Allergy-Friendly Verde Variant Chilaquiles",
+      "Soy Allergy-Friendly Formulated French Toast",
+      "Soy Allergy-Friendly Semi-Formulated French Toast",
+      "Soy Allergy-Friendly Side Bacon",
+      "Soy Allergy-Friendly Side Turkey Bacon",
+      "Soy Allergy-Friendly Nano Eggs-periment 101"
+    ]
   }
 ]
