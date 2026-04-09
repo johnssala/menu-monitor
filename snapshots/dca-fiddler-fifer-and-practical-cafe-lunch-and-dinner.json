@@ -1,12 +1,20 @@
 {
   "sections": [
     {
-      "title": "Lunch And Dinner Menu",
+      "title": "Breakfast Menu",
       "items": [
         "Mickey Hat Cookie",
         "Valentine’s Day Cake Pop",
         "Cinnamon Pull-Apart",
-        "Berry Chia Pudding Parfait",
+        "Impossible™ Breakfast Sandwich",
+        "Bacon, Gouda and Egg Breakfast Sandwich",
+        "Sausage, Cheddar and Egg Breakfast Sandwich",
+        "Double Smoked Bacon, Cheddar and Egg Sandwich",
+        "Bacon and Gruyère Sous Vide Egg Bites",
+        "Ham & Swiss Croissant",
+        "Potato, Cheddar & Chive Bake",
+        "Spinach, Feta & Egg White Wrap",
+        "Egg, Pesto & Mozzarella Sandwich",
         "Banana Walnut & Pecan Loaf",
         "Blueberry Muffin",
         "Butter Croissant",
@@ -18,6 +26,7 @@
         "Pumpkin and Pepita Loaf",
         "Iced Lemon Pound Cake",
         "Cake Pop Trio",
+        "Berry Chia Pudding Parfait",
         "Caramel Frappuccino® Blended Beverage - Grande",
         "Mocha Frappuccino® Blended Beverage - Grande",
         "Java Chip Frappuccino® Blended Beverage - Grande",
