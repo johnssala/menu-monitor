@@ -232,6 +232,24 @@ async function fetchMenu(browser, menu) {
       { timeout: 20000 }
     ).catch(() => { });
 
+    // Detect available menu tabs and click the one matching the URL
+    await page.evaluate((menuUrl) => {
+      const tabs = [...document.querySelectorAll('[role="tab"]')];
+      if (!tabs.length) return;
+
+      // Determine which tab text matches the intended menu
+      const urlPart = menuUrl.split('/menus/')[1]; // e.g., "lunch-and-dinner" or "breakfast"
+      const normalized = urlPart.replace(/-/g, ' ').toLowerCase();
+
+      const targetTab = tabs.find(t => t.innerText.toLowerCase().includes(normalized));
+      if (targetTab) {
+        targetTab.click();
+      }
+    }, menu.url);
+
+    // Wait for content to update after clicking tab
+    await page.waitForTimeout(2000);
+
     const raw = await extractPageContent(page);
     return normalizeMenu(raw);
   } finally {
