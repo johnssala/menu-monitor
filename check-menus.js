@@ -233,22 +233,24 @@ async function fetchMenu(browser, menu) {
     ).catch(() => { });
 
     // Detect available menu tabs and click the one matching the URL
-    await page.evaluate((menuUrl) => {
-      const tabs = [...document.querySelectorAll('[role="tab"]')];
-      if (!tabs.length) return;
+    // Detect available menu tabs and click the one matching the URL, if any
+    const tabs = await page.$$('[role="tab"]');
+    if (tabs.length > 0) {
+      const urlPart = menu.url.split('/menus/')[1]?.replace(/-/g, ' ').toLowerCase() || '';
 
-      // Determine which tab text matches the intended menu
-      const urlPart = menuUrl.split('/menus/')[1]; // e.g., "lunch-and-dinner" or "breakfast"
-      const normalized = urlPart.replace(/-/g, ' ').toLowerCase();
-
-      const targetTab = tabs.find(t => t.innerText.toLowerCase().includes(normalized));
-      if (targetTab) {
-        targetTab.click();
+      for (const tab of tabs) {
+        const tabText = await page.evaluate(el => el.innerText.toLowerCase(), tab);
+        if (tabText.includes(urlPart)) {
+          await tab.click();
+          // Wait for content to update after clicking
+          await page.waitForTimeout(2000);
+          break;
+        }
       }
-    }, menu.url);
-
-    // Wait for content to update after clicking tab
-    await page.waitForTimeout(2000);
+    } else {
+      // No tabs, still wait a short time for page content to render
+      await page.waitForTimeout(1000);
+    }
 
     const raw = await extractPageContent(page);
     return normalizeMenu(raw);
