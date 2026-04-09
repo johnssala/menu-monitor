@@ -126,6 +126,24 @@
         "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/milk-stand/menus/snack/"
     },
     {
+        "id": "hs-ogas-cantina-breakfast",
+        "park": "Hollywood Studios",
+        "name": "Oga's Cantina (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/breakfast/"
+    },
+    {
+        "id": "hs-ogas-cantina-lunch",
+        "park": "Hollywood Studios",
+        "name": "Oga's Cantina (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/lunch/"
+    },
+    {
+        "id": "hs-ogas-cantina-dinner",
+        "park": "Hollywood Studios",
+        "name": "Oga's Cantina (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/dinner/"
+    },
+    {
         "id": "hs-ronto-roasters-breakfast",
         "park": "Hollywood Studios",
         "name": "Ronto Roasters (Breakfast)",

@@ -186,6 +186,12 @@
         "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tusker-house-restaurant/menus/dinner/"
     },
     {
+        "id": "ak-warung-outpost",
+        "park": "Animal Kingdom",
+        "name": "Warung Outpost",
+        "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/warung-outpost/menus/bar-%E2%80%93-lounge/"
+    },
+    {
         "id": "ak-yak-and-yeti-local-food-cafes-breakfast",
         "park": "Animal Kingdom",
         "name": "Yak & Yeti Local Food Cafes (Breakfast)",
