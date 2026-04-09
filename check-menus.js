@@ -18,8 +18,8 @@ if (!fs.existsSync(SNAPSHOT_DIR)) {
   fs.mkdirSync(SNAPSHOT_DIR, { recursive: true });
 }
 
-function sleep(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
+async function wait(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
 }
 
 function loadMenus() {
@@ -215,45 +215,41 @@ async function fetchMenu(browser, menu) {
       timeout: PAGE_TIMEOUT_MS
     });
 
-    // Give dynamic page content time to render
-    await new Promise(resolve => setTimeout(resolve, 5000));
+    // Allow dynamic content to render
+    await wait(5000);
 
-    // Wait for likely menu text to appear if it does
+    // Wait for likely menu text
     await page.waitForFunction(
       () => {
-        const text = (
-          document.querySelector("main")?.innerText ||
-          document.body.innerText ||
-          ""
-        );
-
+        const text = document.querySelector("main")?.innerText || document.body.innerText || "";
         return /seasonal offerings|entrées|plant-based|desserts|beverages|kids' meal/i.test(text);
       },
       { timeout: 20000 }
-    ).catch(() => { });
+    ).catch(() => {});
 
-    // Detect available menu tabs and click the one matching the URL
-    // Detect available menu tabs and click the one matching the URL, if any
+    // Detect tabs and click the one matching the URL, if any
     const tabs = await page.$$('[role="tab"]');
+
     if (tabs.length > 0) {
       const urlPart = menu.url.split('/menus/')[1]?.replace(/-/g, ' ').toLowerCase() || '';
 
       for (const tab of tabs) {
         const tabText = await page.evaluate(el => el.innerText.toLowerCase(), tab);
+
         if (tabText.includes(urlPart)) {
-          await tab.click();
-          // Wait for content to update after clicking
-          await page.waitForTimeout(2000);
+          await tab.click(); // click inside browser
+          await wait(2000); // wait AFTER click
           break;
         }
       }
-    } else {
-      // No tabs, still wait a short time for page content to render
-      await page.waitForTimeout(1000);
     }
+
+    // Final wait for page content
+    await wait(3000);
 
     const raw = await extractPageContent(page);
     return normalizeMenu(raw);
+
   } finally {
     await page.close();
   }
@@ -321,7 +317,7 @@ async function main() {
       }
 
       if (i < batch.length - 1) {
-        await sleep(REQUEST_DELAY_MS);
+        await wait(REQUEST_DELAY_MS);
       }
     }
   } finally {
