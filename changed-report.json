@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "id": "hs-ronto-roasters-lunch-and-dinner",
+    "name": "Ronto Roasters (Lunch & Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/lunch-and-dinner/",
+    "added": [
+      "## Lunch And Dinner Menu",
+      "Zuchii Wrap",
+      "Zuchii Wrap - Gluten/Wheat Allergy-Friendly",
+      "Zuchii Wrap - Egg Allergy-Friendly",
+      "Zuchii Wrap - Fish/Shellfish Allergy-Friendly",
+      "Zuchii Wrap - Milk Allergy-Friendly",
+      "Zuchii Wrap - Peanut/Tree Nut Allergy-Friendly",
+      "Zuchii Wrap - Soy Allergy-Friendly"
+    ],
+    "removed": [
+      "## Breakfast Menu",
+      "Ronto Morning Wrap",
+      "Rising Moons Overnight Oats",
+      "Triple Suns Breakfast Wrap",
+      "Lowfat Milk",
+      "Small Chocolate Milk",
+      "Ronto Morning Wrap - Gluten/Wheat Allergy-Friendly",
+      "Triple Suns Breakfast Wrap - Gluten/Wheat Allergy-Friendly",
+      "Rising Moons Overnight Oats - Gluten/Wheat Allergy-Friendly",
+      "Ronto Morning Wrap - Egg Allergy-Friendly",
+      "Triple Suns Breakfast Wrap - Egg Allergy-Friendly",
+      "Rising Moons Overnight Oats - Egg Allergy-Friendly",
+      "Ronto Morning Wrap - Fish/Shellfish Allergy-Friendly",
+      "Triple Suns Breakfast Wrap - Fish/Shellfish Allergy-Friendly",
+      "Rising Moons Overnight Oats - Fish/Shellfish Allergy-Friendly",
+      "Ronto Morning Wrap - Milk Allergy-Friendly",
+      "Triple Suns Breakfast Wrap - Milk Allergy-Friendly",
+      "Ronto Morning Wrap - Peanut/Tree Nut Allergy-Friendly",
+      "Triple Suns Breakfast Wrap - Peanut/Tree Nut Allergy-Friendly",
+      "Rising Moons Overnight Oats - Peanut/Tree Nut Allergy-Friendly",
+      "Ronto Morning Wrap - Sesame Allergy-Friendly",
+      "Rising Moons Overnight Oats - Sesame Allergy-Friendly",
+      "Ronto Morning Wrap - Soy Allergy-Friendly",
+      "Rising Moons Overnight Oats - Soy Allergy-Friendly"
+    ]
+  },
+  {
+    "id": "hs-woodys-lunch-box-lunch-and-dinner",
+    "name": "Woody's Lunch Box (Lunch & Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/lunch-and-dinner/",
+    "added": [
+      "## Lunch And Dinner Menu",
+      "BBQ Brisket Melt - Sesame Allergy-Friendly",
+      "Smoked Turkey Sandwich - Sesame Allergy-Friendly",
+      "Totchos - Sesame Allergy-Friendly",
+      "Grilled Three-Cheese Sandwich - Sesame Allergy-Friendly",
+      "Kids' Turkey Half-Sandwich Meal - Sesame Allergy-Friendly",
+      "Kid's Grilled Cheese Half Sandwich Meal - Sesame Allergy-Friendly",
+      "Potato Barrels - Sesame Allergy-Friendly",
+      "Mini Babybel® Snack Cheese - Sesame Allergy-Friendly"
+    ],
+    "removed": [
+      "## Breakfast Menu",
+      "Breakfast Bowl",
+      "Kids' Breakfast Bowl"
+    ]
+  }
+]
