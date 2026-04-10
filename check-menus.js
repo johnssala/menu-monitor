@@ -225,20 +225,61 @@ async function fetchMenu(browser, menu) {
         return /seasonal offerings|entrées|plant-based|desserts|beverages|kids' meal/i.test(text);
       },
       { timeout: 20000 }
-    ).catch(() => {});
+    ).catch(() => { });
 
     // Detect tabs and click the one matching the URL, if any
     const tabs = await page.$$('[role="tab"]');
 
     if (tabs.length > 0) {
-      const urlPart = menu.url.split('/menus/')[1]?.replace(/-/g, ' ').toLowerCase() || '';
+      const slug = decodeURIComponent(menu.url.split("/menus/")[1] || "")
+        .toLowerCase()
+        .replace(/[-–—]/g, " ");
+
+      const slugWords = slug.split(" ").filter(Boolean);
 
       for (const tab of tabs) {
-        const tabText = await page.evaluate(el => el.innerText.toLowerCase(), tab);
+        const tabText = await page.evaluate(el =>
+          (el.innerText || "").toLowerCase(),
+          tab
+        );
 
-        if (tabText.includes(urlPart)) {
-          await tab.click(); // click inside browser
-          await wait(2000); // wait AFTER click
+        const matches =
+          slugWords.length &&
+          slugWords.every(w => tabText.includes(w));
+
+        if (matches) {
+          const beforeHash = await page.evaluate(() => {
+            const el =
+              document.querySelector("main") ||
+              document.body;
+
+            const text = el.innerText || "";
+
+            let hash = 0;
+            for (let i = 0; i < text.length; i++) {
+              hash = (hash * 31 + text.charCodeAt(i)) >>> 0;
+            }
+
+            return hash;
+          });
+
+          await tab.click();
+
+          await page.waitForFunction((prevHash) => {
+            const el =
+              document.querySelector("main") ||
+              document.body;
+
+            const text = el.innerText || "";
+
+            let hash = 0;
+            for (let i = 0; i < text.length; i++) {
+              hash = (hash * 31 + text.charCodeAt(i)) >>> 0;
+            }
+
+            return hash !== prevHash;
+          }, { timeout: 15000 }, beforeHash);
+
           break;
         }
       }
