@@ -120,10 +120,22 @@
         "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/krnr-the-rock-station/menus/all-day/"
     },
     {
+        "id": "hs-market",
+        "park": "Hollywood Studios",
+        "name": "Market",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/market/menus/"
+    },
+    {
         "id": "hs-milk-stand-galaxys-edge",
         "park": "Hollywood Studios",
         "name": "Milk Stand – Star Wars: Galaxy's Edge",
         "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/milk-stand/menus/snack/"
+    },
+    {
+        "id": "hs-neighborhood-bakery",
+        "park": "Hollywood Studios",
+        "name": "Neighborhood Bakery",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/neighborhood-bakery/menus/"
     },
     {
         "id": "hs-ogas-cantina-breakfast",
