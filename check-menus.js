@@ -227,61 +227,75 @@ async function fetchMenu(browser, menu) {
       { timeout: 20000 }
     ).catch(() => { });
 
-    // Detect tabs and click the one matching the URL, if any
+    // Wait for tabs
+    await page.waitForSelector('[role="tab"]', { timeout: 10000 }).catch(() => {});
+
+    // Detect tabs and click the best matching one (Disney-safe fuzzy match)
     const tabs = await page.$$('[role="tab"]');
 
     if (tabs.length > 0) {
-      const slug = decodeURIComponent(menu.url.split("/menus/")[1] || "")
-        .toLowerCase()
-        .replace(/[-–—]/g, " ");
+      const slugRaw = decodeURIComponent(menu.url.split("/menus/")[1] || "")
+        .toLowerCase();
 
-      const slugWords = slug.split(" ").filter(Boolean);
+      const slug = slugRaw
+        .replace(/[-–—]/g, " ")
+        .replace(/&/g, "and");
+
+      const slugWords = slug.split(/\s+/).filter(Boolean);
+
+      let bestMatch = null;
+      let bestScore = 0;
 
       for (const tab of tabs) {
         const tabText = await page.evaluate(el =>
-          (el.innerText || "").toLowerCase(),
+          (el.innerText || "").toLowerCase().replace(/&/g, "and"),
           tab
         );
 
-        const matches =
-          slugWords.length &&
-          slugWords.every(w => tabText.includes(w));
-
-        if (matches) {
-          const beforeHash = await page.evaluate(() => {
-            const el =
-              document.querySelector("main") ||
-              document.body;
-
-            const text = el.innerText || "";
-
-            let hash = 0;
-            for (let i = 0; i < text.length; i++) {
-              hash = (hash * 31 + text.charCodeAt(i)) >>> 0;
-            }
-
-            return hash;
-          });
-
-          await tab.click();
-
-          await page.waitForFunction((prevHash) => {
-            const el =
-              document.querySelector("main") ||
-              document.body;
-
-            const text = el.innerText || "";
-
-            let hash = 0;
-            for (let i = 0; i < text.length; i++) {
-              hash = (hash * 31 + text.charCodeAt(i)) >>> 0;
-            }
-
-            return hash !== prevHash;
-          }, { timeout: 15000 }, beforeHash);
-
-          break;
+        let score = 0;
+        for (const word of slugWords) {
+          if (tabText.includes(word)) score++;
         }
+
+        if (score > bestScore) {
+          bestScore = score;
+          bestMatch = tab;
+        }
+      }
+
+      // Fallback for common Disney pattern (lunch/dinner often second tab)
+      if (!bestMatch && slug.includes("lunch")) {
+        bestMatch = tabs[1] || tabs[0];
+      }
+
+      if (bestMatch) {
+        const beforeHash = await page.evaluate(() => {
+          const el = document.querySelector("main") || document.body;
+
+          const text = el.innerText || "";
+
+          let hash = 0;
+          for (let i = 0; i < text.length; i++) {
+            hash = (hash * 31 + text.charCodeAt(i)) >>> 0;
+          }
+
+          return hash;
+        });
+
+        await bestMatch.click();
+
+        await page.waitForFunction((prevHash) => {
+          const el = document.querySelector("main") || document.body;
+
+          const text = el.innerText || "";
+
+          let hash = 0;
+          for (let i = 0; i < text.length; i++) {
+            hash = (hash * 31 + text.charCodeAt(i)) >>> 0;
+          }
+
+          return hash !== prevHash;
+        }, { timeout: 15000 }, beforeHash);
       }
     }
 
