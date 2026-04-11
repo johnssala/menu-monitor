@@ -174,6 +174,18 @@
         "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/sunshine-tree-terrace/menus/snack/"
     },
     {
+        "id": "mk-the-beak-and-barrel-lunch",
+        "park": "Magic Kingdom",
+        "name": "The Beak and Barrel (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/beak-barrel/menus/lunch/"
+    },
+    {
+        "id": "mk-the-beak-and-barrel-dinner",
+        "park": "Magic Kingdom",
+        "name": "The Beak and Barrel (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/beak-barrel/menus/dinner/"
+    },
+    {
         "id": "mk-the-crystal-palace-breakfast",
         "park": "Magic Kingdom",
         "name": "The Crystal Palace (Breakfast)",
