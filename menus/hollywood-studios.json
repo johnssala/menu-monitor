@@ -1,248 +1,236 @@
 [
     {
-        "id": "dca-adorable-snowman-frosted-treats",
-        "park": "Disney California Adventure",
-        "name": "Adorable Snowman Frosted Treats",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/adorable-snowman-frosted-treats/menus/snack/"
+        "id": "hs-50s-prime-time-cafe-lunch",
+        "park": "Hollywood Studios",
+        "name": "50's Prime Time Café (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/50s-prime-time-cafe/menus/lunch/"
     },
     {
-        "id": "dca-aunt-cass-cafe",
-        "park": "Disney California Adventure",
-        "name": "Aunt Cass Café",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/aunt-cass-cafe/menus/lunch-and-dinner/"
+        "id": "hs-50s-prime-time-cafe-dinner",
+        "park": "Hollywood Studios",
+        "name": "50's Prime Time Café (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/50s-prime-time-cafe/menus/dinner/"
     },
     {
-        "id": "dca-award-wieners",
-        "park": "Disney California Adventure",
-        "name": "Award Wieners",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/award-wieners/menus/lunch-and-dinner/"
+        "id": "hs-abc-commissary",
+        "park": "Hollywood Studios",
+        "name": "ABC Commissary",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/abc-commissary/menus/lunch-and-dinner/"
     },
     {
-        "id": "dca-bayside-brews",
-        "park": "Disney California Adventure",
-        "name": "Bayside Brews",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/bayside-brews/menus/snack/"
+        "id": "hs-anaheim-produce",
+        "park": "Hollywood Studios",
+        "name": "Anaheim Produce",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/anaheim-produce/menus/all-day/"
     },
     {
-        "id": "dca-boardwalk-pizza-and-pasta",
-        "park": "Disney California Adventure",
-        "name": "Boardwalk Pizza & Pasta",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/boardwalk-pizza-pasta/menus/lunch-and-dinner/"
+        "id": "hs-backlot-express",
+        "park": "Hollywood Studios",
+        "name": "Backlot Express",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/backlot-express/menus/lunch-and-dinner/"
     },
     {
-        "id": "dca-carthay-circle-lounge-lunch",
-        "park": "Disney California Adventure",
-        "name": "Carthay Circle Lounge (Lunch)",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-lounge/menus/lunch/"
+        "id": "hs-baseline-tap-house",
+        "park": "Hollywood Studios",
+        "name": "BaseLine Tap House",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/baseline-tap-house/menus/bar-%E2%80%93-lounge/"
     },
     {
-        "id": "dca-carthay-circle-lounge-dinner",
-        "park": "Disney California Adventure",
-        "name": "Carthay Circle Lounge (Dinner)",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-lounge/menus/dinner/"
+        "id": "hs-catalina-eddies",
+        "park": "Hollywood Studios",
+        "name": "Catalina Eddie's",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/catalina-eddies/menus/lunch-and-dinner/"
     },
     {
-        "id": "dca-carthay-circle-restaurant",
-        "park": "Disney California Adventure",
-        "name": "Carthay Circle Restaurant",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-restaurant/menus/dinner/"
+        "id": "hs-docking-bay-7-food-and-cargo-lunch",
+        "park": "Hollywood Studios",
+        "name": "Docking Bay 7 Food and Cargo (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/docking-bay-7-food-and-cargo/menus/lunch/"
     },
     {
-        "id": "dca-clarabelles-hand-scooped-ice-cream-breakfast",
-        "park": "Disney California Adventure",
-        "name": "Clarabelle's Hand-Scooped Ice Cream (Breakfast)",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/clarabelles-hand-scooped-ice-cream/menus/breakfast/"
+        "id": "hs-docking-bay-7-food-and-cargo-dinner",
+        "park": "Hollywood Studios",
+        "name": "Docking Bay 7 Food and Cargo (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/docking-bay-7-food-and-cargo/menus/dinner/"
     },
     {
-        "id": "dca-clarabelles-hand-scooped-ice-cream-snack",
-        "park": "Disney California Adventure",
-        "name": "Clarabelle's Hand-Scooped Ice Cream (Snack)",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/clarabelles-hand-scooped-ice-cream/menus/snack/"
+        "id": "hs-dockside-diner",
+        "park": "Hollywood Studios",
+        "name": "Dockside Diner",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/dockside-diner/menus/lunch-and-dinner/"
     },
     {
-        "id": "dca-cocina-cucamonga-mexican-grill",
-        "park": "Disney California Adventure",
-        "name": "Cocina Cucamonga Mexican Grill",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/cocina-cucamonga-mexican-grill/menus/lunch-and-dinner/"
+        "id": "hs-epic-eats",
+        "park": "Hollywood Studios",
+        "name": "Epic Eats",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/epic-eats/menus/all-day/"
     },
     {
-        "id": "dca-corn-dog-castle",
-        "park": "Disney California Adventure",
-        "name": "Corn Dog Castle",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/corn-dog-castle/menus/snack/"
+        "id": "hs-fairfax-fare-breakfast",
+        "park": "Hollywood Studios",
+        "name": "Fairfax Fare (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/breakfast/"
     },
     {
-        "id": "dca-cozy-cone-motel",
-        "park": "Disney California Adventure",
-        "name": "Cozy Cone Motel",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/cozy-cone-motel/menus/snack/"
+        "id": "hs-fairfax-fare-lunch-and-dinner",
+        "park": "Hollywood Studios",
+        "name": "Fairfax Fare (Lunch & Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/lunch-and-dinner/"
     },
     {
-        "id": "dca-fairfax-market",
-        "park": "Disney California Adventure",
-        "name": "Fairfax Market",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fairfax-fruit-market/menus/snack/"
+        "id": "hs-hollywood-and-vine-breakfast",
+        "park": "Hollywood Studios",
+        "name": "Hollywood & Vine (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-and-vine/menus/breakfast/"
     },
     {
-        "id": "dca-fiddler-fifer-and-practical-cafe-breakfast",
-        "park": "Disney California Adventure",
-        "name": "Fiddler, Fifer & Practical Cafe - Starbucks (Breakfast)",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fiddler-fifer-and-practical-cafe/menus/breakfast/"
+        "id": "hs-hollywood-and-vine-lunch",
+        "park": "Hollywood Studios",
+        "name": "Hollywood & Vine (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-and-vine/menus/lunch/"
     },
     {
-        "id": "dca-fiddler-fifer-and-practical-cafe-lunch-and-dinner",
-        "park": "Disney California Adventure",
-        "name": "Fiddler, Fifer & Practical Cafe - Starbucks (Lunch & Dinner)",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fiddler-fifer-and-practical-cafe/menus/lunch-and-dinner/"
+        "id": "hs-hollywood-and-vine-dinner",
+        "park": "Hollywood Studios",
+        "name": "Hollywood & Vine (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-and-vine/menus/dinner/"
     },
     {
-        "id": "dca-fillmores-taste-in",
-        "park": "Disney California Adventure",
-        "name": "Fillmore's Taste-In",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fillmores-taste-in/menus/snack/"
+        "id": "hs-hollywood-scoops",
+        "park": "Hollywood Studios",
+        "name": "Hollywood Scoops",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-scoops/menus/snack/"
     },
     {
-        "id": "dca-flos-v8-cafe",
-        "park": "Disney California Adventure",
-        "name": "Flo's V8 Cafe",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/flos-v8-cafe/menus/lunch-and-dinner/"
+        "id": "hs-ice-cold-hydraulics",
+        "park": "Hollywood Studios",
+        "name": "Ice Cold Hydraulics",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ice-cold-hydraulics/menus/all-day/"
     },
     {
-        "id": "dca-ghirardelli-soda-fountain-and-chocolate-shop",
-        "park": "Disney California Adventure",
-        "name": "Ghirardelli Soda Fountain and Chocolate Shop",
-        "url": "https://disneyworld.disney.go.com/dining/disney-springs/ghirardelli-soda-fountain/menus/snack/"
+        "id": "hs-kat-sakas-kettle",
+        "park": "Hollywood Studios",
+        "name": "Kat Saka's Kettle",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/kat-sakas-kettle/menus/snack/"
     },
     {
-        "id": "dca-jack-jack-cookie-num-nums",
-        "park": "Disney California Adventure",
-        "name": "Jack-Jack Cookie Num Nums",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/jack-jack-cookie-num-nums/menus/snack/"
+        "id": "hs-krnr-the-rock-station",
+        "park": "Hollywood Studios",
+        "name": "KRNR The Rock Station",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/krnr-the-rock-station/menus/all-day/"
     },
     {
-        "id": "dca-lamplight-lounge-brunch",
-        "park": "Disney California Adventure",
-        "name": "Lamplight Lounge (Brunch)",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge/menus/brunch/"
+        "id": "hs-market",
+        "park": "Hollywood Studios",
+        "name": "Market",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/market/menus/"
     },
     {
-        "id": "dca-lamplight-lounge-lunch",
-        "park": "Disney California Adventure",
-        "name": "Lamplight Lounge (Lunch)",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge/menus/lunch/"
+        "id": "hs-milk-stand-galaxys-edge",
+        "park": "Hollywood Studios",
+        "name": "Milk Stand – Star Wars: Galaxy's Edge",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/milk-stand/menus/snack/"
     },
     {
-        "id": "dca-lamplight-lounge-dinner",
-        "park": "Disney California Adventure",
-        "name": "Lamplight Lounge (Dinner)",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge/menus/dinner/"
+        "id": "hs-neighborhood-bakery",
+        "park": "Hollywood Studios",
+        "name": "Neighborhood Bakery",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/neighborhood-bakery/menus/"
     },
     {
-        "id": "dca-lamplight-lounge-boardwalk-dining-lunch",
-        "park": "Disney California Adventure",
-        "name": "Lamplight Lounge Boardwalk Dining (Lunch)",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge-boardwalk-dining/menus/lunch/"
+        "id": "hs-ogas-cantina-breakfast",
+        "park": "Hollywood Studios",
+        "name": "Oga's Cantina (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/breakfast/"
     },
     {
-        "id": "dca-lamplight-lounge-boardwalk-dining-dinner",
-        "park": "Disney California Adventure",
-        "name": "Lamplight Lounge Boardwalk Dining (Dinner)",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge-boardwalk-dining/menus/dinner/"
+        "id": "hs-ogas-cantina-lunch",
+        "park": "Hollywood Studios",
+        "name": "Oga's Cantina (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/lunch/"
     },
     {
-        "id": "dca-lucky-fortune-cookery",
-        "park": "Disney California Adventure",
-        "name": "Lucky Fortune Cookery",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lucky-fortune-cookery/menus/lunch-and-dinner/"
+        "id": "hs-ogas-cantina-dinner",
+        "park": "Hollywood Studios",
+        "name": "Oga's Cantina (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/dinner/"
     },
     {
-        "id": "dca-paradise-garden-grill",
-        "park": "Disney California Adventure",
-        "name": "Paradise Garden Grill",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/paradise-garden-grill/menus/lunch-and-dinner/"
+        "id": "hs-ronto-roasters-breakfast",
+        "park": "Hollywood Studios",
+        "name": "Ronto Roasters (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/breakfast/"
     },
     {
-        "id": "dca-port-of-san-fransokyo-cerveceria",
-        "park": "Disney California Adventure",
-        "name": "Port of San Fransokyo Cervecería",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/port-of-san-fransokyo-cerveceria/menus/snack/"
+        "id": "hs-ronto-roasters-lunch-and-dinner",
+        "park": "Hollywood Studios",
+        "name": "Ronto Roasters (Lunch & Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/lunch-and-dinner/"
     },
     {
-        "id": "dca-poultry-palace",
-        "park": "Disney California Adventure",
-        "name": "Poultry Palace",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/poultry-palace/menus/snack/"
+        "id": "hs-rosies-all-american-cafe",
+        "park": "Hollywood Studios",
+        "name": "Rosie's All-American Café",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/rosies-all-american-cafe/menus/lunch-and-dinner/"
     },
     {
-        "id": "dca-pym-test-kitchen-breakfast",
-        "park": "Disney California Adventure",
-        "name": "Pym Test Kitchen (Breakfast)",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/pym-test-kitchen/menus/breakfast/"
+        "id": "hs-roundup-rodeo-bbq-lunch",
+        "park": "Hollywood Studios",
+        "name": "Roundup Rodeo BBQ (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/roundup-rodeo-bbq/menus/lunch/"
     },
     {
-        "id": "dca-pym-test-kitchen-lunch-and-dinner",
-        "park": "Disney California Adventure",
-        "name": "Pym Test Kitchen (Lunch & Dinner)",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/pym-test-kitchen/menus/lunch-and-dinner/"
+        "id": "hs-roundup-rodeo-bbq-dinner",
+        "park": "Hollywood Studios",
+        "name": "Roundup Rodeo BBQ (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/roundup-rodeo-bbq/menus/dinner/"
     },
     {
-        "id": "dca-schmoozies",
-        "park": "Disney California Adventure",
-        "name": "Schmoozies!",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/schmoozies-smoothies/menus/snack/"
+        "id": "hs-sci-fi-dine-in-theater-restaurant-lunch",
+        "park": "Hollywood Studios",
+        "name": "Sci-Fi Dine-In Theater Restaurant (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/sci-fi-dine-in-theater/menus/lunch/"
     },
     {
-        "id": "dca-senor-buzz-churros",
-        "park": "Disney California Adventure",
-        "name": "Señor Buzz Churros",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/senor-buzz-churros/menus/snack/"
+        "id": "hs-sci-fi-dine-in-theater-restaurant-dinner",
+        "park": "Hollywood Studios",
+        "name": "Sci-Fi Dine-In Theater Restaurant (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/sci-fi-dine-in-theater/menus/dinner/"
     },
     {
-        "id": "dca-shawarma-palace-breakfast",
-        "park": "Disney California Adventure",
-        "name": "Shawarma Palace (Breakfast)",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/shawarma-palace/menus/breakfast/"
+        "id": "hs-the-hollywood-brown-derby-lunch",
+        "park": "Hollywood Studios",
+        "name": "The Hollywood Brown Derby (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/lunch/"
     },
     {
-        "id": "dca-shawarma-palace-snack",
-        "park": "Disney California Adventure",
-        "name": "Shawarma Palace (Snack)",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/shawarma-palace/menus/snack/"
+        "id": "hs-the-hollywood-brown-derby-dinner",
+        "park": "Hollywood Studios",
+        "name": "The Hollywood Brown Derby (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/dinner/"
     },
     {
-        "id": "dca-smokejumpers-grill-breakfast",
-        "park": "Disney California Adventure",
-        "name": "Smokejumpers Grill (Breakfast)",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/breakfast/"
+        "id": "hs-the-hollywood-brown-derby-lounge",
+        "park": "Hollywood Studios",
+        "name": "The Hollywood Brown Derby Lounge",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby-lounge/menus/bar-%E2%80%93-lounge/"
     },
     {
-        "id": "dca-smokejumpers-grill-lunch-and-dinner",
-        "park": "Disney California Adventure",
-        "name": "Smokejumpers Grill (Lunch & Dinner)",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/lunch-and-dinner/"
+        "id": "hs-the-trolley-car-cafe",
+        "park": "Hollywood Studios",
+        "name": "The Trolley Car Café (Starbucks)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/trolley-car-cafe/menus/"
     },
     {
-        "id": "dca-studio-catering-co",
-        "park": "Disney California Adventure",
-        "name": "Studio Catering Co.",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/studio-catering-co/menus/snack/"
+        "id": "hs-woodys-lunch-box-breakfast",
+        "park": "Hollywood Studios",
+        "name": "Woody's Lunch Box (Breakfast)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/breakfast/"
     },
     {
-        "id": "dca-terran-treats",
-        "park": "Disney California Adventure",
-        "name": "Terran Treats",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/terran-treats/menus/"
-    },
-    {
-        "id": "dca-wine-country-trattoria-lunch",
-        "park": "Disney California Adventure",
-        "name": "Wine Country Trattoria (Lunch)",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/wine-country-trattoria/menus/lunch/"
-    },
-    {
-        "id": "dca-wine-country-trattoria-dinner",
-        "park": "Disney California Adventure",
-        "name": "Wine Country Trattoria (Dinner)",
-        "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/wine-country-trattoria/menus/dinner/"
+        "id": "hs-woodys-lunch-box-lunch-and-dinner",
+        "park": "Hollywood Studios",
+        "name": "Woody's Lunch Box (Lunch & Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/lunch-and-dinner/"
     }
 ]
