@@ -36,6 +36,12 @@
         "url": "https://disneyworld.disney.go.com/dining/epcot/block-hans/menus/bar-%E2%80%93-lounge/"
     },
     {
+        "id": "epcot-canada-popcorn-cart",
+        "park": "EPCOT",
+        "name": "Canada Popcorn Cart",
+        "url": "https://disneyworld.disney.go.com/dining/epcot/popcorn-at-canada-pavilion/menus/snack/"
+    },
+    {
         "id": "epcot-chefs-de-france-lunch",
         "park": "EPCOT",
         "name": "Chefs de France (Lunch)",
@@ -112,6 +118,18 @@
         "park": "EPCOT",
         "name": "Gelateria Toscana",
         "url": "https://disneyworld.disney.go.com/dining/epcot/gelateria-toscana/menus/snack/"
+    },
+    {
+        "id": "epcot-geo-82-lunch",
+        "park": "EPCOT",
+        "name": "GEO-82 (Lunch)",
+        "url": "https://disneyworld.disney.go.com/dining/epcot/geo-82-lounge/menus/lunch/"
+    },
+    {
+        "id": "epcot-geo-82-dinner",
+        "park": "EPCOT",
+        "name": "GEO-82 (Dinner)",
+        "url": "https://disneyworld.disney.go.com/dining/epcot/geo-82-lounge/menus/dinner/"
     },
     {
         "id": "epcot-kabuki-cafe",
@@ -208,6 +226,12 @@
         "park": "EPCOT",
         "name": "Oasis Sweets & Sips",
         "url": "https://disneyworld.disney.go.com/dining/epcot/oasis-sweets-sips/menus/"
+    },
+    {
+        "id": "epcot-pizza-al-taglio",
+        "park": "EPCOT",
+        "name": "Pizza al Taglio",
+        "url": "https://disneyworld.disney.go.com/dining/epcot/pizza-taglio/menus/lunch-and-dinner/"
     },
     {
         "id": "epcot-regal-eagle-smokehouse",
