@@ -1,0 +1,73 @@
+{
+  "sections": [
+    {
+      "title": "Ogreroni Pizza",
+      "items": []
+    },
+    {
+      "title": "Ogre Cheese Pizza",
+      "items": []
+    },
+    {
+      "title": "Po's Kung Fu Bao",
+      "items": []
+    },
+    {
+      "title": "Swamp Strips",
+      "items": []
+    },
+    {
+      "title": "Poppy's Party Mac",
+      "items": []
+    },
+    {
+      "title": "Desserts Menu",
+      "items": [
+        "Desserts"
+      ]
+    },
+    {
+      "title": "Boss Baby Beignets",
+      "items": []
+    },
+    {
+      "title": "Can't Stop The Donut!",
+      "items": []
+    },
+    {
+      "title": "Strawberry Softpaws",
+      "items": []
+    },
+    {
+      "title": "Beverages Menu",
+      "items": [
+        "Beverages"
+      ]
+    },
+    {
+      "title": "ICEE®",
+      "items": []
+    },
+    {
+      "title": "Bottled Water",
+      "items": []
+    },
+    {
+      "title": "Miller Lite, Michalob Ultra, Modelo Especial, High Noon10.75 - 13.00",
+      "items": [
+        "Miller Lite, Michalob Ultra, Modelo Especial, High Noon",
+        "10.75 - 13.00"
+      ]
+    },
+    {
+      "title": "Frozen Slush with Alcohol",
+      "items": [
+        "Unlimited Refill Souvenir Cups"
+      ]
+    },
+    {
+      "title": "Coca-Cola Freestyle® Souvenir Cup",
+      "items": []
+    }
+  ]
+}
