@@ -1,0 +1,67 @@
+{
+  "sections": [
+    {
+      "title": "Snacks and Beverages",
+      "items": [
+        "Galaxy Popcorn -",
+        "Galaxy Popcorn",
+        "Multicolored berry flavored popcorn straight out of the galaxy.",
+        "Super Mushroom Fizz(GF, V)-",
+        "Super Mushroom Fizz",
+        "Lemon lime soda with strawberry popping pearls and a strawberry Super Mushroom Power Up.",
+        "1-Up Mushroom Fizz(GF, V)-",
+        "1-Up Mushroom Fizz",
+        "Lemon lime soda with green apple popping pearls and a lime 1-Up Mushroom Power Up.",
+        "Fire Flower Fizz(GF, V)-",
+        "Fire Flower Fizz",
+        "Lemon lime soda with orange popping pearls and a mango habanero Fire Flower Power Up.",
+        "Super Star Fizz(GF, V)-",
+        "Super Star Fizz",
+        "Lemon lime soda with lemon popping pearls and a mango pineapple Super Star Power Up.",
+        "Super Mushroom Calzone -",
+        "Super Mushroom Calzone",
+        "Mushroom shaped calzone filled with pepperoni, sausage, mozzarella cheese and tomato sauce.",
+        "1-Up Mushroom Calzone(VG)-",
+        "1-Up Mushroom Calzone",
+        "Mushroom shaped calzone filled with spinach, green pepper, mushroom, mozzarella cheese and basil pesto.",
+        "Fire Flower Pretzel(VG)-",
+        "Fire Flower Pretzel",
+        "Fire Flower shaped pretzel. Served with chipotle cheese, mustard, and white queso dipping sauces.",
+        "Super Star Popcorn Cup(GF, V)-",
+        "Super Star Popcorn Cup",
+        "Butter popcorn topped with edible glitter."
+      ]
+    },
+    {
+      "title": "Beverages & Souvenirs",
+      "items": [
+        "Super Star Popcorn Bucket -",
+        "Super Star Popcorn Bucket",
+        "Super Star Popcorn Bucket. Served with butter popcorn topped with edible glitter. Free popcorn refills day of purchase.",
+        "Fire Flower Drink Bottle -",
+        "Fire Flower Drink Bottle",
+        "Choice of Coke, Diet Coke, Coke Zero, or Sprite. Refills day of purchase.",
+        "Super Mushroom Drink Bottle -",
+        "Super Mushroom Drink Bottle",
+        "1-Up Mushroom Drink Bottle -",
+        "1-Up Mushroom Drink Bottle",
+        "Fountain Soda -",
+        "Fountain Soda",
+        "Coke, Diet Coke, Coke Zero, or Sprite",
+        "Premium Water -",
+        "Premium Water"
+      ]
+    },
+    {
+      "title": "Allergy-Friendly Menu",
+      "items": [
+        "Super Star Popcorn",
+        "Butter Popcorn Topped with Edible Glitter",
+        "Drinks - Power Fizz Drinks",
+        "Lemon Lime Soda with Popping Pearls and Power Up",
+        "(VG) - Vegetarian",
+        "(V) - Vegan"
+      ]
+    }
+  ]
+}

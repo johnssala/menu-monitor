@@ -1,0 +1,60 @@
+{
+  "sections": [
+    {
+      "title": "Menu for Studio Scoop",
+      "items": [
+        "Home",
+        "Dining",
+        "Studio Scoop",
+        "The Neapolitan -",
+        "The Neapolitan",
+        "Chocolate, strawberry and vanilla blend soft serve",
+        "Orange Berry -",
+        "Orange Berry",
+        "Blue raspberry, orange, and strawberry blend soft serve",
+        "The Banana Split -",
+        "The Banana Split",
+        "Banana ripple, chocolate and strawberry blend soft serve",
+        "Tropical Sunset -",
+        "Tropical Sunset",
+        "Blue Gloo, orange and watermelon blend soft serve",
+        "Strawberry Serendipity -",
+        "Strawberry Serendipity",
+        "Vanilla ice cream topped with fruit poppers, cotton candy, lollipop, fresh whipped cream and strawberry jam",
+        "Chocolate Carmel Delight -",
+        "Chocolate Carmel Delight",
+        "Vanilla Ice Cream topped with Malt Chocolate Balls, Chocolate Shavings, Caramel Popcorn, Fresh Whipped Cream and Chocolate Syrup",
+        "Chocolate X6 -",
+        "Chocolate X6",
+        "Chocolate milkshake topped with chocolate shavings, brownie wedges, graham crackers, fresh whipped cream and chocolate syrup",
+        "Strawberry Indulgence -",
+        "Strawberry Indulgence",
+        "Strawberry milkshake topped with colorful cereal, candy pops, chocolate covered strawberry, fresh whipped cream and strawberry jam",
+        "Fountain Drink -",
+        "Fountain Drink",
+        "Regular 5.00, Large 5.75",
+        "Premium Water -",
+        "Premium Water",
+        "Hot Chocolate -",
+        "Hot Chocolate"
+      ]
+    },
+    {
+      "title": "Allergy-Friendly Menu",
+      "items": [
+        "Popcorn",
+        "Ice Cream Cones (substitute cone for cup)",
+        "Neapolitan, Tropical Sunset, The Banana Split, Orange berry",
+        "Strawberry Indulgence Milkshake",
+        "Ice Cream Cones",
+        "Sundaes",
+        "Chocolate Caramel Delight, S’mores & More",
+        "Milkshake",
+        "Strawberry Indulgence",
+        "Ice Cream Cones (substitute cone for a cup)",
+        "(VG) - Vegetarian",
+        "(V) - Vegan"
+      ]
+    }
+  ]
+}

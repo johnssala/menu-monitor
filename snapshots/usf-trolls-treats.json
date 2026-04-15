@@ -1,0 +1,36 @@
+{
+  "sections": [
+    {
+      "title": "Poppy-licious Pink",
+      "items": []
+    },
+    {
+      "title": "Brozone Berry",
+      "items": [
+        "Beverages"
+      ]
+    },
+    {
+      "title": "Bottled Soda",
+      "items": []
+    },
+    {
+      "title": "Powerade",
+      "items": []
+    },
+    {
+      "title": "Bottled Water",
+      "items": []
+    },
+    {
+      "title": "High Noon",
+      "items": []
+    },
+    {
+      "title": "NÜTRL",
+      "items": [
+        "Menu items subject to change. Must be 21+ with a valid photo ID to purchase and consume alcoholic beverages."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "sections": [
+    {
+      "title": "Menu for Despicable Delights",
+      "items": [
+        "Home",
+        "Dining",
+        "Despicable Delights",
+        "Nutella™ Banana Pudding -",
+        "Nutella™ Banana Pudding",
+        "Banana pudding, vanilla wafer, Nutella, cocoa butter",
+        "Popcorn Cup -",
+        "Popcorn Cup",
+        "Cinnamon Churro -",
+        "Cinnamon Churro",
+        "Minion Cotton Candy -",
+        "Minion Cotton Candy",
+        "Soft Serve Ice Cream -",
+        "Soft Serve Ice Cream",
+        "Cup or Cone",
+        "Gourmet Pops -",
+        "Gourmet Pops",
+        "Collectible Minion Sipper -",
+        "Collectible Minion Sipper",
+        "Refills *Refill on day of purchase only with valid receipt",
+        "Refills",
+        "*Refill on day of purchase only with valid receipt",
+        "Felonious Float -",
+        "Felonious Float",
+        "Raspberry Icee, banana frozen yogurt, banana candy, whip cream",
+        "Fountain Drinks -",
+        "Fountain Drinks",
+        "Coca-Cola, Coke Zero, Diet Coke, Sprite, Iced Tea, Lemonade Regular , Large",
+        "Regular , Large",
+        "Bottled Water -",
+        "Bottled Water",
+        "Premium Water -",
+        "Premium Water",
+        "(VG) - Vegetarian",
+        "(V) - Vegan"
+      ]
+    }
+  ]
+}
