@@ -136,13 +136,21 @@ async function extractPageContent(page) {
       }
 
       // detect section headers
-      if (el.tagName === "H3") {
-        currentSection = { title: text, items: [], _seenItems: new Set() }; // track duplicates
+      const looksLikeSection =
+        text.length < 80 &&
+        !text.includes(".") &&
+        !text.includes(",");
+
+      if (["H2", "H3", "H4"].includes(el.tagName) && looksLikeSection) {
+        currentSection = { title: text, items: [], _seenItems: new Set() };
         sections.push(currentSection);
         return;
       }
 
-      if (!currentSection) return;
+      if (!currentSection) {
+        currentSection = { title: "menu", items: [], _seenItems: new Set() };
+        sections.push(currentSection);
+      }
 
       // Only add if not already in this section
       if (!currentSection._seenItems.has(text)) {
@@ -227,77 +235,83 @@ async function fetchMenu(browser, menu) {
       { timeout: 20000 }
     ).catch(() => { });
 
-    // Wait for tabs
-    await page.waitForSelector('[role="tab"]', { timeout: 10000 }).catch(() => {});
+    // --------------------
+    // COMBOBOX (ONLY IF IT MAKES SENSE)
+    // --------------------
+    // --------------------
+    const combo = await page.$('button[role="combobox"]');
 
-    // Detect tabs and click the best matching one (Disney-safe fuzzy match)
-    const tabs = await page.$$('[role="tab"]');
+    if (combo) {
+      try {
+        await combo.click();
 
-    if (tabs.length > 0) {
-      const slugRaw = decodeURIComponent(menu.url.split("/menus/")[1] || "")
-        .toLowerCase();
+        await page.waitForSelector('li[role="option"]', {
+          timeout: 5000
+        }).catch(() => null);
 
-      const slug = slugRaw
-        .replace(/[-–—]/g, " ")
-        .replace(/&/g, "and");
+        // small buffer for React/animation/render completion
+        await page.waitForTimeout?.(300) || wait(300);
 
-      const slugWords = slug.split(/\s+/).filter(Boolean);
+        const options = await page.$$('li[role="option"]');
 
-      let bestMatch = null;
-      let bestScore = 0;
+        if (options.length === 0) {
+          // Nothing to select, fall back to default render
+          console.log("Combobox opened but no options found");
+        } else {
+          const slugWords = decodeURIComponent(menu.url.split("/menus/")[1] || "")
+            .toLowerCase()
+            .replace(/[-–—]/g, " ")
+            .replace(/&/g, "and")
+            .split(/\s+/)
+            .filter(Boolean);
 
-      for (const tab of tabs) {
-        const tabText = await page.evaluate(el =>
-          (el.innerText || "").toLowerCase().replace(/&/g, "and"),
-          tab
-        );
+          const score = (text) => {
+            if (!slugWords.length) return 0;
 
-        let score = 0;
-        for (const word of slugWords) {
-          if (tabText.includes(word)) score++;
-        }
+            let s = 0;
+            for (const w of slugWords) {
+              if (text.includes(w)) s++;
+            }
+            return s;
+          };
 
-        if (score > bestScore) {
-          bestScore = score;
-          bestMatch = tab;
-        }
-      }
+          let bestOption = null;
+          let bestScore = 0;
 
-      // Fallback for common Disney pattern (lunch/dinner often second tab)
-      if (!bestMatch && slug.includes("lunch")) {
-        bestMatch = tabs[1] || tabs[0];
-      }
+          for (const opt of options) {
+            const text = await page.evaluate(
+              el => (el.innerText || "").toLowerCase(),
+              opt
+            );
 
-      if (bestMatch) {
-        const beforeHash = await page.evaluate(() => {
-          const el = document.querySelector("main") || document.body;
+            const s = score(text);
 
-          const text = el.innerText || "";
-
-          let hash = 0;
-          for (let i = 0; i < text.length; i++) {
-            hash = (hash * 31 + text.charCodeAt(i)) >>> 0;
+            if (s > bestScore) {
+              bestScore = s;
+              bestOption = opt;
+            }
           }
 
-          return hash;
-        });
+          if (bestOption) {
+            await bestOption.click();
 
-        await bestMatch.click();
-
-        await page.waitForFunction((prevHash) => {
-          const el = document.querySelector("main") || document.body;
-
-          const text = el.innerText || "";
-
-          let hash = 0;
-          for (let i = 0; i < text.length; i++) {
-            hash = (hash * 31 + text.charCodeAt(i)) >>> 0;
+            await page.waitForFunction(() => {
+              const list = document.querySelector('ul[role="listbox"]');
+              return !list || list.hidden || list.classList.contains("hidden");
+            }, { timeout: 5000 }).catch(() => { });
           }
+        }
 
-          return hash !== prevHash;
-        }, { timeout: 15000 }, beforeHash);
+      } catch (err) {
+        console.log("Combobox failed:", err.message);
       }
     }
+
+    // --------------------
+    // ELSE: DO NOTHING
+    // --------------------
+    // snack menus, universal pages, single-menu pages
+    // just scrape whatever is already rendered
 
     // Final wait for page content
     await wait(3000);
