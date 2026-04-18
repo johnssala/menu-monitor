@@ -112,10 +112,10 @@ async function extractPageContent(page) {
     }
 
     // -----------------------------
-    // GLOBAL FILTERS
+    // FILTERS
     // -----------------------------
 
-    function isNoiseText(text = "") {
+    function isNoise(text = "") {
       const t = text.toLowerCase();
 
       return (
@@ -130,7 +130,7 @@ async function extractPageContent(page) {
       );
     }
 
-    function isInBadArea(el) {
+    function isBadArea(el) {
       return (
         el.closest("nav") ||
         el.closest("footer") ||
@@ -139,57 +139,78 @@ async function extractPageContent(page) {
       );
     }
 
-    function hasMenuLikeClass(el) {
-      const cls = (el.className || "").toLowerCase();
-
-      return (
-        cls.includes("title") ||
-        cls.includes("name") ||
-        cls.includes("heading") ||
-        cls.includes("sub_heading") ||
-        cls.includes("menu-type")
-      );
-    }
-
     function isPrice(text = "") {
       return /\$\s*\d/.test(text);
     }
 
+    function hasMenuClass(el) {
+      const cls = (el.className || "").toLowerCase();
+      return (
+        cls.includes("title") ||
+        cls.includes("name") ||
+        cls.includes("heading") ||
+        cls.includes("menu-type")
+      );
+    }
+
     function isValid(el) {
       if (!el) return false;
-
-      if (isInBadArea(el)) return false;
+      if (isBadArea(el)) return false;
 
       const text = el.innerText?.trim();
       if (!text) return false;
 
-      if (isNoiseText(text)) return false;
+      if (isNoise(text)) return false;
       if (isPrice(text)) return false;
 
       return true;
     }
 
-    function isMenuHeader(el, text) {
-      if (!el.tagName.match(/^H[1-4]$/)) return false;
-      return /menu|lunch|breakfast|dinner/i.test(text);
+    // -----------------------------
+    // CLASSIFICATION (IMPORTANT FIX)
+    // -----------------------------
+
+    function isTrueMenuSection(text) {
+      const t = text.toLowerCase();
+
+      return (
+        (t.includes("menu") && (t.includes("lunch") || t.includes("breakfast") || t.includes("dinner"))) ||
+        t.startsWith("menu for") ||
+        t === "menu"
+      );
     }
 
-    function isMenuType(el) {
-      return (el.className || "").includes("menu-type");
+    function isCategoryHeader(el, text) {
+      const t = text.toLowerCase();
+
+      return (
+        el.tagName.match(/^H[1-4]$/) &&
+        !isTrueMenuSection(t) &&
+        !isNoise(t) &&
+        t.length < 40
+      );
     }
 
-    function isMenuItem(el) {
+    function isItem(el) {
+      const text = el.innerText?.trim();
+      if (!text) return false;
+
+      if (isNoise(text)) return false;
+      if (isPrice(text)) return false;
+      if (isBadArea(el)) return false;
+
       const tag = el.tagName;
 
+      // div/span must look like structured content
       if (tag === "DIV" || tag === "SPAN") {
-        return hasMenuLikeClass(el);
+        return hasMenuClass(el);
       }
 
       return true;
     }
 
     // -----------------------------
-    // MAIN SCAN
+    // MAIN LOOP
     // -----------------------------
 
     const elements = root.querySelectorAll(
@@ -201,22 +222,20 @@ async function extractPageContent(page) {
 
       const text = el.innerText.trim();
 
-      // SECTION STARTERS (handles your cases)
-      if (
-        isMenuHeader(el, text) ||
-        isMenuType(el)
-      ) {
+      // 1. REAL SECTION HEADERS
+      if (isTrueMenuSection(text)) {
         currentSection = addSection(text);
         return;
       }
 
-      // fallback section detection if page has no "Menu"
-      if (!sections.length) {
-        currentSection = addSection("menu");
+      // 2. CATEGORY HEADERS (NOT NEW SECTION)
+      if (isCategoryHeader(el, text)) {
+        addItem(currentSection, `— ${text}`);
+        return;
       }
 
-      // ITEM FILTERING
-      if (!isMenuItem(el)) return;
+      // 3. ITEMS ONLY
+      if (!isItem(el)) return;
 
       addItem(currentSection, text);
     });
