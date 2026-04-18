@@ -1,77 +1,475 @@
 {
   "sections": [
     {
-      "title": "Lunch And Dinner Menu",
+      "title": "Tickets & Passes",
       "items": [
-        "Burrata Toast",
-        "Megabot Sipper",
-        "Chicken Ginger - Sesame Tofu Salad",
-        "Chicken Tortilla Soup",
-        "San Fransokyo Clam Chowder",
-        "Creamy Mac & Cheese",
-        "Turkey Pesto Sandwich",
-        "Bunch of Grapes Pull-apart Bread",
-        "Ginger-Sesame Tofu Salad",
-        "Dutch Crunch Baguette",
-        "Baymax Bread",
-        "Sourdough Mickey",
-        "Sourdough Baguette",
-        "Sourdough Loaf",
-        "Sourdough Round",
-        "Turkey Sandwich",
-        "Mac & Cheese",
-        "Potato Chips",
-        "Whole Fruit",
-        "Cuties® Mandarin Orange",
-        "LAY'S® Classic Potato Chips",
-        "Banana Caramel Bread Pudding",
-        "Chocolate Japanese-Style Fluffy Cheesecake",
-        "Chocolate Chip Cookie",
-        "Sugar Cookie",
-        "Strawberry Soju Cocktail",
-        "Bottle Logic, Logic Light Lager, Anaheim, CA",
-        "Honey Lemon-Ade",
-        "Assorted Fountain Beverages - Regular",
-        "Assorted Fountain Beverages - Large",
-        "DASANI® Bottled Water",
-        "Minute Maid® Apple Juice",
-        "Lowfat Milk",
-        "Chocolate Milk",
-        "Hot Cocoa",
-        "Guests must speak to a Cast Member about their allergy-friendly request",
-        "Egg Allergy-Friendly Chicken Ginger-Sesame Tofu Salad",
-        "Egg Allergy-Friendly Ginger-Sesame Tofu Salad",
-        "Egg Allergy-Friendly San Fransokyo Clam Chowder",
-        "Egg Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich",
-        "Egg Allergy-Friendly Side Cuties® Mandarin",
-        "Fish/Shellfish Allergy-Friendly Chicken Ginger-Sesame Tofu Salad",
-        "Fish/Shellfish Allergy-Friendly Plant-based Ginger-Sesame Tofu Salad",
-        "Fish/Shellfish Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich",
-        "Fish/Shellflish Allergy-Friendly Kids' Mac & Cheese",
-        "Fish/Shellfish Allergy-Friendly Japanese-style Cheesecake",
-        "Fish/Shellfish Allergy-Friendly Chocolate Japanese-style Cheesecake",
-        "Fish/Shellfish Allergy-Friendly Side Cuties® Mandarin",
-        "Milk Allergy-Friendly Chicken Ginger-Sesame Tofu Salad",
-        "Milk Allergy-Friendly Plant-based Ginger-Sesame Tofu Salad",
-        "Milk Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich",
-        "Milk Allergy-Friendly Side Cuties® Mandarin",
-        "Peanut/Tree Nut Allergy-Friendly Chicken Ginger-Sesame Tofu Salad",
-        "Peanut/Tree Nut Allergy-Friendly Plant-based Ginger-Sesame Tofu Salad",
-        "Peanut/Tree Nut Allergy-Friendly San Fransokyo Clam Chowder",
-        "Peanut/Tree Nut Allergy-Friendly Sourdough Bread Bowl with Creamy Mac and Cheese",
-        "Peanut/Tree Nut Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich",
-        "Peanut/Tree Nut Allergy-Friendly Kids' Mac & Cheese",
-        "Peanut/Tree Nut Allergy-Friendly Japanese-style Cheesecake",
-        "Peanut/Tree Nut Allergy-Friendly Chocolate Japanese-style Cheesecake",
-        "Peanut/Tree Nut Allergy-Friendly Side Cuties® Mandarin",
-        "Sesame Allergy-Friendly San Fransokyo Clam Chowder",
-        "Sesame Allergy-Friendly Sourdough Bread Bowl with Creamy Mac and Cheese",
-        "Sesame Allergy-Friendly Turkey Sandwich",
-        "Sesame Allergy-Friendly Mac & Cheese",
-        "Sesame Allergy-Friendly Japanese-style Cheesecake",
-        "Sesame Allergy-Friendly Chocolate Japanese-style Cheesecake",
-        "Sesame Allergy-Friendly Side Cuties® Mandarin",
-        "Soy Allergy-Friendly Side Cuties® Mandarin",
+        "Buy Theme Park Tickets",
+        "View Offers & Discounts",
+        "Buy Special Event Tickets",
+        "Buy Theme Park Parking",
+        "Buy Magic Key Passes",
+        "Theme Park Reservations",
+        "Change Theme Park Tickets"
+      ]
+    },
+    {
+      "title": "Plan Your Visit",
+      "items": [
+        "Explore Disneyland Vacations",
+        "Lightning Lane Passes",
+        "Events Calendar",
+        "Maps",
+        "Directions",
+        "Explore Our ParksSee All Hours & Entertainment SchedulePark Hours for Saturday, April 18, 2026",
+        "Explore Our Parks",
+        "See All Hours & Entertainment Schedule",
+        "Park Hours for Saturday, April 18, 2026",
+        "Disneyland Park8:00 AM to 11:00 PM",
+        "Disneyland Park",
+        "Disney California Adventure Park8:00 AM to 10:00 PM",
+        "Disney California Adventure Park",
+        "View All 3 Disneyland Resort Hotels",
+        "Disney's Grand Californian Hotel & SpaCraftsman-style elegance with the all-new Tenaya Stone Spa",
+        "Disney's Grand Californian Hotel & Spa",
+        "Craftsman-style elegance with the all-new Tenaya Stone Spa",
+        "Disneyland HotelModern classic with luxurious rooms and monorail waterslides",
+        "Disneyland Hotel",
+        "Modern classic with luxurious rooms and monorail waterslides",
+        "Pixar Place HotelContemporary design with unique touches of Pixar artistry",
+        "Pixar Place Hotel",
+        "Contemporary design with unique touches of Pixar artistry",
+        "Good Neighbor HotelsDisney-approved quality hotels close to the Disneyland Resort",
+        "Good Neighbor Hotels",
+        "Disney-approved quality hotels close to the Disneyland Resort"
+      ]
+    },
+    {
+      "title": "Reservations",
+      "items": [
+        "My Hotel Reservations",
+        "Disneyland Resort Hotel Packages",
+        "Good Neighbor Hotel Packages",
+        "Maps & Directions",
+        "Save Up to 25% off on Stays This Winter",
+        "Save on Select Stays This Summer",
+        "Why Stay at a Hotel of the Disneyland Resort?",
+        "The Villas at Disneyland Hotel",
+        "Hotel Guest Activities",
+        "View Offers and Discounts"
+      ]
+    },
+    {
+      "title": "Dining",
+      "items": [
+        "Make Reservations",
+        "My Dining Reservations",
+        "Character Dining",
+        "All Dining"
+      ]
+    },
+    {
+      "title": "Activities",
+      "items": [
+        "MagicBand+ Experiences",
+        "Attractions and Entertainment",
+        "Character Experiences",
+        "Crown Collection",
+        "VIP Tours",
+        "Events and Tours",
+        "Recreation",
+        "Spa",
+        "Disney PhotoPass"
+      ]
+    },
+    {
+      "title": "Shopping",
+      "items": [
+        "Disney Store",
+        "Merchandise Mobile Checkout",
+        "All Stores"
+      ]
+    },
+    {
+      "title": "Destinations",
+      "items": [
+        "Downtown Disney District",
+        "Southern California",
+        "Maps & Directions",
+        "Ticket and Reservations Details",
+        "Lightning Lane Passes",
+        "Disneyland Resort 70th Celebration",
+        "Women Who Make The Magic Guided Tour",
+        "Character Dining at Storytellers Cafe",
+        "Key to Disneyland",
+        "View Events",
+        "Magic Key Passes — Now on SaleLearn about the Disneyland Resort annual pass program.",
+        "Magic Key Passes — Now on Sale",
+        "Learn about the Disneyland Resort annual pass program.",
+        "Magic Key DiscountsDiscover food and merchandise savings.",
+        "Magic Key Discounts",
+        "Discover food and merchandise savings.",
+        "Link Magic Key Pass to My ProfileMake theme park entry easier.",
+        "Link Magic Key Pass to My Profile",
+        "Make theme park entry easier.",
+        "Magic Key CalendarView blockout dates by pass type.",
+        "Magic Key Calendar",
+        "View blockout dates by pass type.",
+        "Upgrade Magic Key Passes",
+        "Renew Magic Key Passes"
+      ]
+    },
+    {
+      "title": "Merchandise",
+      "items": [
+        "New Arrivals",
+        "Authentic Custom T-Shirts",
+        "All Parks Products",
+        "Disney Gift Card"
+      ]
+    },
+    {
+      "title": "Locations",
+      "items": [
+        "All Disneyland Shops",
+        "Downtown Disney Shops",
+        "Shop the Stories You Love",
+        "The official online home for every Disney, Pixar & Star Wars fan in your family.",
+        "Disney Store"
+      ]
+    },
+    {
+      "title": "Your Cart",
+      "items": [
+        "Find a Hotel",
+        "Add Tickets",
+        "My PlansHotel, Dining and Activities",
+        "My Plans",
+        "Hotel, Dining and Activities",
+        "My Hotel Reservations",
+        "Link Tickets and Passes",
+        "Change Your Theme Park Tickets",
+        "Theme Park Reservations",
+        "My Photos",
+        "Magic Key Discounts",
+        "Magic Key Calendar",
+        "Upgrade Magic Key Pass",
+        "Renew Magic Key Pass",
+        "Log In or Create Account",
+        "Help Center",
+        "Guest Services",
+        "Guests with Disabilities",
+        "Contact Us",
+        "Pre-Arrival Tips"
+      ]
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        "What is the best time to visit Disneyland Resort?",
+        "Where can I experience Character Dining?",
+        "View All",
+        "Aunt Cass Café"
+      ]
+    },
+    {
+      "title": "Lunch And Dinner Menu",
+      "items": []
+    },
+    {
+      "title": "Burrata Toast",
+      "items": []
+    },
+    {
+      "title": "Megabot Sipper",
+      "items": []
+    },
+    {
+      "title": "Chicken Ginger - Sesame Tofu Salad",
+      "items": []
+    },
+    {
+      "title": "Chicken Tortilla Soup",
+      "items": []
+    },
+    {
+      "title": "San Fransokyo Clam Chowder",
+      "items": []
+    },
+    {
+      "title": "Creamy Mac & Cheese",
+      "items": []
+    },
+    {
+      "title": "Turkey Pesto Sandwich",
+      "items": []
+    },
+    {
+      "title": "Bunch of Grapes Pull-apart Bread",
+      "items": []
+    },
+    {
+      "title": "Ginger-Sesame Tofu Salad",
+      "items": []
+    },
+    {
+      "title": "Dutch Crunch Baguette",
+      "items": []
+    },
+    {
+      "title": "Baymax Bread",
+      "items": []
+    },
+    {
+      "title": "Sourdough Mickey",
+      "items": []
+    },
+    {
+      "title": "Sourdough Baguette",
+      "items": []
+    },
+    {
+      "title": "Sourdough Loaf",
+      "items": []
+    },
+    {
+      "title": "Sourdough Round",
+      "items": []
+    },
+    {
+      "title": "Turkey Sandwich",
+      "items": []
+    },
+    {
+      "title": "Mac & Cheese",
+      "items": []
+    },
+    {
+      "title": "Potato Chips",
+      "items": []
+    },
+    {
+      "title": "Whole Fruit",
+      "items": []
+    },
+    {
+      "title": "Cuties® Mandarin Orange",
+      "items": []
+    },
+    {
+      "title": "LAY'S® Classic Potato Chips",
+      "items": []
+    },
+    {
+      "title": "Banana Caramel Bread Pudding",
+      "items": []
+    },
+    {
+      "title": "Chocolate Japanese-Style Fluffy Cheesecake",
+      "items": []
+    },
+    {
+      "title": "Chocolate Chip Cookie",
+      "items": []
+    },
+    {
+      "title": "Sugar Cookie",
+      "items": []
+    },
+    {
+      "title": "Strawberry Soju Cocktail",
+      "items": [
+        "Bottle Logic, Logic Light Lager, Anaheim, CA"
+      ]
+    },
+    {
+      "title": "Honey Lemon-Ade",
+      "items": []
+    },
+    {
+      "title": "Assorted Fountain Beverages - Regular",
+      "items": []
+    },
+    {
+      "title": "Assorted Fountain Beverages - Large",
+      "items": []
+    },
+    {
+      "title": "DASANI® Bottled Water",
+      "items": []
+    },
+    {
+      "title": "Minute Maid® Apple Juice",
+      "items": []
+    },
+    {
+      "title": "Lowfat Milk",
+      "items": []
+    },
+    {
+      "title": "Chocolate Milk",
+      "items": []
+    },
+    {
+      "title": "Hot Cocoa",
+      "items": []
+    },
+    {
+      "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+      "items": []
+    },
+    {
+      "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+      "items": []
+    },
+    {
+      "title": "Egg Allergy-Friendly Chicken Ginger-Sesame Tofu Salad",
+      "items": []
+    },
+    {
+      "title": "Egg Allergy-Friendly Ginger-Sesame Tofu Salad",
+      "items": []
+    },
+    {
+      "title": "Egg Allergy-Friendly San Fransokyo Clam Chowder",
+      "items": []
+    },
+    {
+      "title": "Egg Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich",
+      "items": []
+    },
+    {
+      "title": "Egg Allergy-Friendly Side Cuties® Mandarin",
+      "items": []
+    },
+    {
+      "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+      "items": []
+    },
+    {
+      "title": "Fish/Shellfish Allergy-Friendly Chicken Ginger-Sesame Tofu Salad",
+      "items": []
+    },
+    {
+      "title": "Fish/Shellfish Allergy-Friendly Plant-based Ginger-Sesame Tofu Salad",
+      "items": []
+    },
+    {
+      "title": "Fish/Shellfish Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich",
+      "items": []
+    },
+    {
+      "title": "Fish/Shellflish Allergy-Friendly Kids' Mac & Cheese",
+      "items": []
+    },
+    {
+      "title": "Fish/Shellfish Allergy-Friendly Japanese-style Cheesecake",
+      "items": []
+    },
+    {
+      "title": "Fish/Shellfish Allergy-Friendly Chocolate Japanese-style Cheesecake",
+      "items": []
+    },
+    {
+      "title": "Fish/Shellfish Allergy-Friendly Side Cuties® Mandarin",
+      "items": []
+    },
+    {
+      "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+      "items": []
+    },
+    {
+      "title": "Milk Allergy-Friendly Chicken Ginger-Sesame Tofu Salad",
+      "items": []
+    },
+    {
+      "title": "Milk Allergy-Friendly Plant-based Ginger-Sesame Tofu Salad",
+      "items": []
+    },
+    {
+      "title": "Milk Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich",
+      "items": []
+    },
+    {
+      "title": "Milk Allergy-Friendly Side Cuties® Mandarin",
+      "items": []
+    },
+    {
+      "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+      "items": []
+    },
+    {
+      "title": "Peanut/Tree Nut Allergy-Friendly Chicken Ginger-Sesame Tofu Salad",
+      "items": []
+    },
+    {
+      "title": "Peanut/Tree Nut Allergy-Friendly Plant-based Ginger-Sesame Tofu Salad",
+      "items": []
+    },
+    {
+      "title": "Peanut/Tree Nut Allergy-Friendly San Fransokyo Clam Chowder",
+      "items": [
+        "Peanut/Tree Nut Allergy-Friendly Sourdough Bread Bowl with Creamy Mac and Cheese"
+      ]
+    },
+    {
+      "title": "Peanut/Tree Nut Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich",
+      "items": []
+    },
+    {
+      "title": "Peanut/Tree Nut Allergy-Friendly Kids' Mac & Cheese",
+      "items": []
+    },
+    {
+      "title": "Peanut/Tree Nut Allergy-Friendly Japanese-style Cheesecake",
+      "items": []
+    },
+    {
+      "title": "Peanut/Tree Nut Allergy-Friendly Chocolate Japanese-style Cheesecake",
+      "items": []
+    },
+    {
+      "title": "Peanut/Tree Nut Allergy-Friendly Side Cuties® Mandarin",
+      "items": []
+    },
+    {
+      "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+      "items": []
+    },
+    {
+      "title": "Sesame Allergy-Friendly San Fransokyo Clam Chowder",
+      "items": []
+    },
+    {
+      "title": "Sesame Allergy-Friendly Sourdough Bread Bowl with Creamy Mac and Cheese",
+      "items": []
+    },
+    {
+      "title": "Sesame Allergy-Friendly Turkey Sandwich",
+      "items": []
+    },
+    {
+      "title": "Sesame Allergy-Friendly Mac & Cheese",
+      "items": []
+    },
+    {
+      "title": "Sesame Allergy-Friendly Japanese-style Cheesecake",
+      "items": []
+    },
+    {
+      "title": "Sesame Allergy-Friendly Chocolate Japanese-style Cheesecake",
+      "items": []
+    },
+    {
+      "title": "Sesame Allergy-Friendly Side Cuties® Mandarin",
+      "items": []
+    },
+    {
+      "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+      "items": []
+    },
+    {
+      "title": "Soy Allergy-Friendly Side Cuties® Mandarin",
+      "items": [
         "Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location.",
         "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
         "Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
@@ -79,9 +477,12 @@
         "Site Map",
         "Your Privacy Choices",
         "Your US State Privacy Rights",
-        "Interest-Based Ads",
-        "Notice of Right to Opt Out of Sale/Sharing"
+        "Interest-Based Ads"
       ]
+    },
+    {
+      "title": "Notice of Right to Opt Out of Sale/Sharing",
+      "items": []
     },
     {
       "title": "Manage Consent Preferences",

@@ -1,53 +1,361 @@
 {
   "sections": [
     {
-      "title": "Lunch Menu",
+      "title": "Tickets & Passes",
       "items": [
-        "Spicy Ahi Tuna Spring Roll",
-        "Vietnamese Twice-cooked Beef Lettuce Wraps",
-        "Spring Salad",
-        "Moroccan Roasted Chicken Meatballs",
-        "Achiote Shrimp",
-        "Bao Buns of Soy-Ginger Braised Pork Belly",
-        "“Naanza\"",
-        "Jamaican Chicken Curry",
-        "Green Thai Curry Baked Bay Scallops",
-        "Cold Water Salmon*",
-        "Yukon Potato & Leek Soup",
-        "Beef and Spinach Cannelloni's",
-        "Braised Short Rib Sliders",
-        "Tahitian Vanilla Bean-Root Beer Float Popsicle",
-        "Hazelnut Crunch Mickey Pop",
-        "Pepperoni Pizza Pinwheels",
-        "Penne Pasta with Marinara",
-        "Pineapple-Ginger Glazed Chicken Skewers",
-        "Classic Martini",
-        "Carthay Mai Tai",
-        "Negroni",
-        "Aviation Cocktail",
-        "Ernest's Daiquiri",
-        "Citrus Berry Punch",
-        "Side Car",
-        "Ginger Rogers",
-        "The Derby",
-        "Scotch Mist",
-        "Pisco Sour",
-        "Classic Manhattan",
-        "Tequila Daisy",
-        "Old Fashioned",
-        "Classic Gin & Tonic",
-        "Dill Gin & Tonic",
-        "Botanical Gin & Tonic",
-        "Sparkling Mare",
-        "Double Pear Martini",
-        "Club Mojito",
-        "Bloody Mary",
-        "Irish Coffee",
-        "Vintage Coffee",
-        "B-52 Coffee",
-        "Golden Road Golden State Cerveza, Los Angeles",
-        "Bootlegger's Old World Hefeweizen",
-        "Stone Brewery Delicious IPA",
+        "Buy Theme Park Tickets",
+        "View Offers & Discounts",
+        "Buy Special Event Tickets",
+        "Buy Theme Park Parking",
+        "Buy Magic Key Passes",
+        "Theme Park Reservations",
+        "Change Theme Park Tickets"
+      ]
+    },
+    {
+      "title": "Plan Your Visit",
+      "items": [
+        "Explore Disneyland Vacations",
+        "Lightning Lane Passes",
+        "Events Calendar",
+        "Maps",
+        "Directions",
+        "Explore Our ParksSee All Hours & Entertainment SchedulePark Hours for Saturday, April 18, 2026",
+        "Explore Our Parks",
+        "See All Hours & Entertainment Schedule",
+        "Park Hours for Saturday, April 18, 2026",
+        "Disneyland Park8:00 AM to 11:00 PM",
+        "Disneyland Park",
+        "Disney California Adventure Park8:00 AM to 10:00 PM",
+        "Disney California Adventure Park",
+        "View All 3 Disneyland Resort Hotels",
+        "Disney's Grand Californian Hotel & SpaCraftsman-style elegance with the all-new Tenaya Stone Spa",
+        "Disney's Grand Californian Hotel & Spa",
+        "Craftsman-style elegance with the all-new Tenaya Stone Spa",
+        "Disneyland HotelModern classic with luxurious rooms and monorail waterslides",
+        "Disneyland Hotel",
+        "Modern classic with luxurious rooms and monorail waterslides",
+        "Pixar Place HotelContemporary design with unique touches of Pixar artistry",
+        "Pixar Place Hotel",
+        "Contemporary design with unique touches of Pixar artistry",
+        "Good Neighbor HotelsDisney-approved quality hotels close to the Disneyland Resort",
+        "Good Neighbor Hotels",
+        "Disney-approved quality hotels close to the Disneyland Resort"
+      ]
+    },
+    {
+      "title": "Reservations",
+      "items": [
+        "My Hotel Reservations",
+        "Disneyland Resort Hotel Packages",
+        "Good Neighbor Hotel Packages",
+        "Maps & Directions",
+        "Save Up to 25% off on Stays This Winter",
+        "Save on Select Stays This Summer",
+        "Why Stay at a Hotel of the Disneyland Resort?",
+        "The Villas at Disneyland Hotel",
+        "Hotel Guest Activities",
+        "View Offers and Discounts"
+      ]
+    },
+    {
+      "title": "Dining",
+      "items": [
+        "Make Reservations",
+        "My Dining Reservations",
+        "Character Dining",
+        "All Dining"
+      ]
+    },
+    {
+      "title": "Activities",
+      "items": [
+        "MagicBand+ Experiences",
+        "Attractions and Entertainment",
+        "Character Experiences",
+        "Crown Collection",
+        "VIP Tours",
+        "Events and Tours",
+        "Recreation",
+        "Spa",
+        "Disney PhotoPass"
+      ]
+    },
+    {
+      "title": "Shopping",
+      "items": [
+        "Disney Store",
+        "Merchandise Mobile Checkout",
+        "All Stores"
+      ]
+    },
+    {
+      "title": "Destinations",
+      "items": [
+        "Downtown Disney District",
+        "Southern California",
+        "Maps & Directions",
+        "Ticket and Reservations Details",
+        "Lightning Lane Passes",
+        "Disneyland Resort 70th Celebration",
+        "Women Who Make The Magic Guided Tour",
+        "Character Dining at Storytellers Cafe",
+        "Key to Disneyland",
+        "View Events",
+        "Magic Key Passes — Now on SaleLearn about the Disneyland Resort annual pass program.",
+        "Magic Key Passes — Now on Sale",
+        "Learn about the Disneyland Resort annual pass program.",
+        "Magic Key DiscountsDiscover food and merchandise savings.",
+        "Magic Key Discounts",
+        "Discover food and merchandise savings.",
+        "Link Magic Key Pass to My ProfileMake theme park entry easier.",
+        "Link Magic Key Pass to My Profile",
+        "Make theme park entry easier.",
+        "Magic Key CalendarView blockout dates by pass type.",
+        "Magic Key Calendar",
+        "View blockout dates by pass type.",
+        "Upgrade Magic Key Passes",
+        "Renew Magic Key Passes"
+      ]
+    },
+    {
+      "title": "Merchandise",
+      "items": [
+        "New Arrivals",
+        "Authentic Custom T-Shirts",
+        "All Parks Products",
+        "Disney Gift Card"
+      ]
+    },
+    {
+      "title": "Locations",
+      "items": [
+        "All Disneyland Shops",
+        "Downtown Disney Shops",
+        "Shop the Stories You Love",
+        "The official online home for every Disney, Pixar & Star Wars fan in your family.",
+        "Disney Store"
+      ]
+    },
+    {
+      "title": "Your Cart",
+      "items": [
+        "Find a Hotel",
+        "Add Tickets",
+        "My PlansHotel, Dining and Activities",
+        "My Plans",
+        "Hotel, Dining and Activities",
+        "My Hotel Reservations",
+        "Link Tickets and Passes",
+        "Change Your Theme Park Tickets",
+        "Theme Park Reservations",
+        "My Photos",
+        "Magic Key Discounts",
+        "Magic Key Calendar",
+        "Upgrade Magic Key Pass",
+        "Renew Magic Key Pass",
+        "Log In or Create Account",
+        "Help Center",
+        "Guest Services",
+        "Guests with Disabilities",
+        "Contact Us",
+        "Pre-Arrival Tips"
+      ]
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        "What is the best time to visit Disneyland Resort?",
+        "Where can I experience Character Dining?",
+        "View All",
+        "Carthay Circle Lounge"
+      ]
+    },
+    {
+      "title": "Lunch Menu",
+      "items": []
+    },
+    {
+      "title": "Spicy Ahi Tuna Spring Roll",
+      "items": []
+    },
+    {
+      "title": "Vietnamese Twice-cooked Beef Lettuce Wraps",
+      "items": []
+    },
+    {
+      "title": "Spring Salad",
+      "items": []
+    },
+    {
+      "title": "Moroccan Roasted Chicken Meatballs",
+      "items": []
+    },
+    {
+      "title": "Achiote Shrimp",
+      "items": []
+    },
+    {
+      "title": "Bao Buns of Soy-Ginger Braised Pork Belly",
+      "items": []
+    },
+    {
+      "title": "“Naanza\"",
+      "items": []
+    },
+    {
+      "title": "Jamaican Chicken Curry",
+      "items": []
+    },
+    {
+      "title": "Green Thai Curry Baked Bay Scallops",
+      "items": []
+    },
+    {
+      "title": "Cold Water Salmon*",
+      "items": []
+    },
+    {
+      "title": "Yukon Potato & Leek Soup",
+      "items": []
+    },
+    {
+      "title": "Beef and Spinach Cannelloni's",
+      "items": []
+    },
+    {
+      "title": "Braised Short Rib Sliders",
+      "items": []
+    },
+    {
+      "title": "Tahitian Vanilla Bean-Root Beer Float Popsicle",
+      "items": []
+    },
+    {
+      "title": "Hazelnut Crunch Mickey Pop",
+      "items": []
+    },
+    {
+      "title": "Pepperoni Pizza Pinwheels",
+      "items": []
+    },
+    {
+      "title": "Penne Pasta with Marinara",
+      "items": []
+    },
+    {
+      "title": "Pineapple-Ginger Glazed Chicken Skewers",
+      "items": []
+    },
+    {
+      "title": "Hazelnut Crunch Mickey Pop",
+      "items": []
+    },
+    {
+      "title": "Classic Martini",
+      "items": []
+    },
+    {
+      "title": "Carthay Mai Tai",
+      "items": []
+    },
+    {
+      "title": "Negroni",
+      "items": []
+    },
+    {
+      "title": "Aviation Cocktail",
+      "items": []
+    },
+    {
+      "title": "Ernest's Daiquiri",
+      "items": []
+    },
+    {
+      "title": "Citrus Berry Punch",
+      "items": []
+    },
+    {
+      "title": "Side Car",
+      "items": []
+    },
+    {
+      "title": "Ginger Rogers",
+      "items": []
+    },
+    {
+      "title": "The Derby",
+      "items": []
+    },
+    {
+      "title": "Scotch Mist",
+      "items": []
+    },
+    {
+      "title": "Pisco Sour",
+      "items": []
+    },
+    {
+      "title": "Classic Manhattan",
+      "items": []
+    },
+    {
+      "title": "Tequila Daisy",
+      "items": []
+    },
+    {
+      "title": "Old Fashioned",
+      "items": []
+    },
+    {
+      "title": "Classic Gin & Tonic",
+      "items": []
+    },
+    {
+      "title": "Dill Gin & Tonic",
+      "items": []
+    },
+    {
+      "title": "Botanical Gin & Tonic",
+      "items": []
+    },
+    {
+      "title": "Sparkling Mare",
+      "items": []
+    },
+    {
+      "title": "Double Pear Martini",
+      "items": []
+    },
+    {
+      "title": "Club Mojito",
+      "items": []
+    },
+    {
+      "title": "Bloody Mary",
+      "items": []
+    },
+    {
+      "title": "Irish Coffee",
+      "items": []
+    },
+    {
+      "title": "Vintage Coffee",
+      "items": []
+    },
+    {
+      "title": "B-52 Coffee",
+      "items": [
+        "Golden Road Golden State Cerveza, Los Angeles"
+      ]
+    },
+    {
+      "title": "Bootlegger's Old World Hefeweizen",
+      "items": []
+    },
+    {
+      "title": "Stone Brewery Delicious IPA",
+      "items": [
         "Karl Strauss® Brewing Company, 70th Anniversary IPA, San Diego CA. (ABV 7.0%)",
         "North Coast Pranqster, Fort Bragg",
         "Karl Strauss® Red Trolley Ale, San Diego",
@@ -72,15 +380,40 @@
         "Cabernet Franc, Peju, Napa Valley",
         "Cabernet Sauvignon, Jordan, Alexander Valley",
         "Cabernet Sauvignon, Sebastiani, Sonoma County",
-        "Cabernet Sauvignon, Groth, Napa Valley",
-        "Rose Petal Soda",
-        "Wildberry Lemonade",
-        "Twin Bill",
-        "Water",
-        "Assorted Fountain Beverages",
-        "Coffee",
-        "Iced Tea",
-        "Hot Cocoa",
+        "Cabernet Sauvignon, Groth, Napa Valley"
+      ]
+    },
+    {
+      "title": "Rose Petal Soda",
+      "items": []
+    },
+    {
+      "title": "Wildberry Lemonade",
+      "items": []
+    },
+    {
+      "title": "Twin Bill",
+      "items": []
+    },
+    {
+      "title": "Water",
+      "items": []
+    },
+    {
+      "title": "Assorted Fountain Beverages",
+      "items": []
+    },
+    {
+      "title": "Coffee",
+      "items": []
+    },
+    {
+      "title": "Iced Tea",
+      "items": []
+    },
+    {
+      "title": "Hot Cocoa",
+      "items": [
         "Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location.",
         "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
         "Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
@@ -88,9 +421,12 @@
         "Site Map",
         "Your Privacy Choices",
         "Your US State Privacy Rights",
-        "Interest-Based Ads",
-        "Notice of Right to Opt Out of Sale/Sharing"
+        "Interest-Based Ads"
       ]
+    },
+    {
+      "title": "Notice of Right to Opt Out of Sale/Sharing",
+      "items": []
     },
     {
       "title": "Manage Consent Preferences",

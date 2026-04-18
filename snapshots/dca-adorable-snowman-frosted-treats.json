@@ -1,25 +1,247 @@
 {
   "sections": [
     {
-      "title": "Snack Menu",
+      "title": "Tickets & Passes",
       "items": [
-        "It’s Lemon!",
-        "It's Mango!",
-        "It's Raspberry!",
-        "It's a Flight!",
-        "Pixar Pier Frosty Parfait",
-        "It's Lemon and Mango Swirl!",
-        "It's Raspberry and Lemon Swirl!",
-        "It's Raspberry and Mango Swirl!",
-        "It's Chile-Lime Lemon!",
-        "It's Chile-Lime Raspberry!",
-        "It's Snow Capped Lemon!",
-        "It's Snow-capped Mango!",
-        "It's Snow-capped Raspberry!",
-        "It's Chile-Lime Mango Margarita!",
-        "Pixar Pier Frosty Parfait with Spiced Rum",
-        "Soft Serve with Spiced Rum",
-        "DASANI® Bottled Water",
+        "Buy Theme Park Tickets",
+        "View Offers & Discounts",
+        "Buy Special Event Tickets",
+        "Buy Theme Park Parking",
+        "Buy Magic Key Passes",
+        "Theme Park Reservations",
+        "Change Theme Park Tickets"
+      ]
+    },
+    {
+      "title": "Plan Your Visit",
+      "items": [
+        "Explore Disneyland Vacations",
+        "Lightning Lane Passes",
+        "Events Calendar",
+        "Maps",
+        "Directions",
+        "Explore Our ParksSee All Hours & Entertainment SchedulePark Hours for Saturday, April 18, 2026",
+        "Explore Our Parks",
+        "See All Hours & Entertainment Schedule",
+        "Park Hours for Saturday, April 18, 2026",
+        "Disneyland Park8:00 AM to 11:00 PM",
+        "Disneyland Park",
+        "Disney California Adventure Park8:00 AM to 10:00 PM",
+        "Disney California Adventure Park",
+        "View All 3 Disneyland Resort Hotels",
+        "Disney's Grand Californian Hotel & SpaCraftsman-style elegance with the all-new Tenaya Stone Spa",
+        "Disney's Grand Californian Hotel & Spa",
+        "Craftsman-style elegance with the all-new Tenaya Stone Spa",
+        "Disneyland HotelModern classic with luxurious rooms and monorail waterslides",
+        "Disneyland Hotel",
+        "Modern classic with luxurious rooms and monorail waterslides",
+        "Pixar Place HotelContemporary design with unique touches of Pixar artistry",
+        "Pixar Place Hotel",
+        "Contemporary design with unique touches of Pixar artistry",
+        "Good Neighbor HotelsDisney-approved quality hotels close to the Disneyland Resort",
+        "Good Neighbor Hotels",
+        "Disney-approved quality hotels close to the Disneyland Resort"
+      ]
+    },
+    {
+      "title": "Reservations",
+      "items": [
+        "My Hotel Reservations",
+        "Disneyland Resort Hotel Packages",
+        "Good Neighbor Hotel Packages",
+        "Maps & Directions",
+        "Save Up to 25% off on Stays This Winter",
+        "Save on Select Stays This Summer",
+        "Why Stay at a Hotel of the Disneyland Resort?",
+        "The Villas at Disneyland Hotel",
+        "Hotel Guest Activities",
+        "View Offers and Discounts"
+      ]
+    },
+    {
+      "title": "Dining",
+      "items": [
+        "Make Reservations",
+        "My Dining Reservations",
+        "Character Dining",
+        "All Dining"
+      ]
+    },
+    {
+      "title": "Activities",
+      "items": [
+        "MagicBand+ Experiences",
+        "Attractions and Entertainment",
+        "Character Experiences",
+        "Crown Collection",
+        "VIP Tours",
+        "Events and Tours",
+        "Recreation",
+        "Spa",
+        "Disney PhotoPass"
+      ]
+    },
+    {
+      "title": "Shopping",
+      "items": [
+        "Disney Store",
+        "Merchandise Mobile Checkout",
+        "All Stores"
+      ]
+    },
+    {
+      "title": "Destinations",
+      "items": [
+        "Downtown Disney District",
+        "Southern California",
+        "Maps & Directions",
+        "Ticket and Reservations Details",
+        "Lightning Lane Passes",
+        "Disneyland Resort 70th Celebration",
+        "Women Who Make The Magic Guided Tour",
+        "Character Dining at Storytellers Cafe",
+        "Key to Disneyland",
+        "View Events",
+        "Magic Key Passes — Now on SaleLearn about the Disneyland Resort annual pass program.",
+        "Magic Key Passes — Now on Sale",
+        "Learn about the Disneyland Resort annual pass program.",
+        "Magic Key DiscountsDiscover food and merchandise savings.",
+        "Magic Key Discounts",
+        "Discover food and merchandise savings.",
+        "Link Magic Key Pass to My ProfileMake theme park entry easier.",
+        "Link Magic Key Pass to My Profile",
+        "Make theme park entry easier.",
+        "Magic Key CalendarView blockout dates by pass type.",
+        "Magic Key Calendar",
+        "View blockout dates by pass type.",
+        "Upgrade Magic Key Passes",
+        "Renew Magic Key Passes"
+      ]
+    },
+    {
+      "title": "Merchandise",
+      "items": [
+        "New Arrivals",
+        "Authentic Custom T-Shirts",
+        "All Parks Products",
+        "Disney Gift Card"
+      ]
+    },
+    {
+      "title": "Locations",
+      "items": [
+        "All Disneyland Shops",
+        "Downtown Disney Shops",
+        "Shop the Stories You Love",
+        "The official online home for every Disney, Pixar & Star Wars fan in your family.",
+        "Disney Store"
+      ]
+    },
+    {
+      "title": "Your Cart",
+      "items": [
+        "Find a Hotel",
+        "Add Tickets",
+        "My PlansHotel, Dining and Activities",
+        "My Plans",
+        "Hotel, Dining and Activities",
+        "My Hotel Reservations",
+        "Link Tickets and Passes",
+        "Change Your Theme Park Tickets",
+        "Theme Park Reservations",
+        "My Photos",
+        "Magic Key Discounts",
+        "Magic Key Calendar",
+        "Upgrade Magic Key Pass",
+        "Renew Magic Key Pass",
+        "Log In or Create Account",
+        "Help Center",
+        "Guest Services",
+        "Guests with Disabilities",
+        "Contact Us",
+        "Pre-Arrival Tips"
+      ]
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "items": [
+        "What is the best time to visit Disneyland Resort?",
+        "Where can I experience Character Dining?",
+        "View All",
+        "Adorable Snowman Frosted Treats"
+      ]
+    },
+    {
+      "title": "Snack Menu",
+      "items": []
+    },
+    {
+      "title": "It’s Lemon!",
+      "items": []
+    },
+    {
+      "title": "It's Mango!",
+      "items": []
+    },
+    {
+      "title": "It's Raspberry!",
+      "items": []
+    },
+    {
+      "title": "It's a Flight!",
+      "items": []
+    },
+    {
+      "title": "Pixar Pier Frosty Parfait",
+      "items": []
+    },
+    {
+      "title": "It's Lemon and Mango Swirl!",
+      "items": []
+    },
+    {
+      "title": "It's Raspberry and Lemon Swirl!",
+      "items": []
+    },
+    {
+      "title": "It's Raspberry and Mango Swirl!",
+      "items": []
+    },
+    {
+      "title": "It's Chile-Lime Lemon!",
+      "items": []
+    },
+    {
+      "title": "It's Chile-Lime Raspberry!",
+      "items": []
+    },
+    {
+      "title": "It's Snow Capped Lemon!",
+      "items": []
+    },
+    {
+      "title": "It's Snow-capped Mango!",
+      "items": []
+    },
+    {
+      "title": "It's Snow-capped Raspberry!",
+      "items": []
+    },
+    {
+      "title": "It's Chile-Lime Mango Margarita!",
+      "items": []
+    },
+    {
+      "title": "Pixar Pier Frosty Parfait with Spiced Rum",
+      "items": []
+    },
+    {
+      "title": "Soft Serve with Spiced Rum",
+      "items": []
+    },
+    {
+      "title": "DASANI® Bottled Water",
+      "items": [
         "Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location.",
         "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
         "Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
@@ -27,9 +249,12 @@
         "Site Map",
         "Your Privacy Choices",
         "Your US State Privacy Rights",
-        "Interest-Based Ads",
-        "Notice of Right to Opt Out of Sale/Sharing"
+        "Interest-Based Ads"
       ]
+    },
+    {
+      "title": "Notice of Right to Opt Out of Sale/Sharing",
+      "items": []
     },
     {
       "title": "Manage Consent Preferences",

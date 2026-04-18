@@ -1,80 +1,474 @@
 {
   "sections": [
     {
-      "title": "Dinner Menu",
+      "title": "Tickets & Passes",
       "items": [
-        "Tiffin Signature Bread Service",
-        "Charcuterie and Cheese Board",
-        "Korean Barbecue Pork Belly Bao Buns",
-        "The Land Salad",
-        "Gobi Manchurian",
-        "Grilled Beef Tenderloin",
-        "Whole-fried Catch of the Day",
-        "Regional Curry Tasting",
-        "Shrimp & Grits",
-        "Butter Chicken",
-        "Oaxacan Pork Duo*",
-        "African Pot de Crème",
-        "Caramel Flan",
-        "Seasonal Sorbet Trio",
-        "Fresh Seasonal Fruit",
-        "Garden Vegetables with Dipping Sauce",
-        "Grilled Shrimp",
-        "Grilled Steak",
-        "Grilled Teriyaki Chicken Thigh",
-        "Korean Impossible® Meatballs",
-        "Jasmine Rice",
-        "Seasonal Vegetables",
-        "White Cheddar Macaroni & Cheese",
-        "Vanilla Ice Cream Sundae",
-        "Specialty Character Drink",
-        "Floral Jasmine Green – Press Pot",
-        "Thunderbolt Darjeeling – Press Pot",
-        "Imperial Earl Grey – Press Pot",
-        "Organic Chamomile Flowers – Press Pot",
-        "Organic Vanilla Rooibos – Press Pot",
-        "English Breakfast – Press Pot",
-        "Masala Black Chai – Press Pot",
-        "Organic Peppermint Leaves – Press Pot",
-        "Mountain Berry – Press Pot",
-        "Joffrey's™ Coffee Peruvian Alto Mayo Protected Forest – Press Pot",
-        "Joffrey's™ Coffee Ethiopia “Natural” Harrar – Press Pot",
-        "Joffrey's™ Coffee Indonesian Blend – Press Pot",
-        "Sumatra Shade-Grown Organic Espresso - Double",
-        "Sumatra Shade-Grown Organic Espresso - Cappuccino",
-        "Sumatra Shade-Grown Organic Espresso – Café Latte",
-        "Zingiber Fizzie",
-        "Hibiscus Henna",
-        "Lillie Gorill-ie",
-        "Kiama Mamma",
-        "Lamu Libation",
-        "Snow Leopard Salvation",
-        "Tempting Tigress",
-        "Annapurna Zing",
-        "Hightower Rocks",
-        "Jenn's Tattoo",
-        "Boto-Rita",
-        "Dalangs Delight",
-        "Leaping Lizzard",
-        "Spice Trader Classic",
-        "Night Monkey",
-        "Keoke Coffee",
-        "Mustang Coffee",
-        "Buena Vista Coffee",
-        "Beer Flight",
-        "Kungaloosh Spiced Excursion Ale Draft - USA",
-        "First Magnitude Wakulla Hefeweizen Draft - USA",
-        "Michelob Ultra Lager Draft - USA",
-        "Dragon Stout - Jamaica",
-        "Sapporo Black Lager - Japan",
-        "Modelo Negra Munich Dunkel-style Lager - Mexico",
-        "Singha Lager - Thailand",
-        "First Magnitude 72 Pale Ale - USA",
-        "Modelo Especial - Mexico",
-        "Tampa Bay Old Elephant Foot IPA - USA",
-        "Rekorderlig Pear Cider",
-        "Schöfferhofer Grapefruit Hefeweizen",
-        "Tiger Eye Gold Ale",
+        "Buy Theme Park Tickets",
+        "View Special Offers",
+        "Buy Special Event Tickets",
+        "Buy Water Park Tickets",
+        "Buy Annual Passes",
+        "See Florida Resident Offers",
+        "Make Theme Park Reservations",
+        "View All Tickets & Passes"
+      ]
+    },
+    {
+      "title": "Plan Your Visit",
+      "items": [
+        "Ticket Buying Guide",
+        "3-Step Planning Guide",
+        "Lightning Lane Passes",
+        "Maps",
+        "Transportation",
+        "Explore Our ParksSee All Hours & Events CalendarPark Hours for Saturday, April 18, 2026",
+        "Explore Our Parks",
+        "See All Hours & Events Calendar",
+        "Park Hours for Saturday, April 18, 2026",
+        "Magic Kingdom8:00 AM to 11:00 PM",
+        "Magic Kingdom",
+        "Disney's Hollywood Studios9:00 AM to 9:30 PM",
+        "Disney's Hollywood Studios",
+        "EPCOT9:00 AM to 9:00 PM",
+        "EPCOT",
+        "Disney's Animal Kingdom8:00 AM to 8:00 PM",
+        "Disney's Animal Kingdom",
+        "Disney's Typhoon LagoonClosed Today",
+        "Disney's Typhoon Lagoon",
+        "Disney's Blizzard Beach10:00 AM to 5:00 PM",
+        "Disney's Blizzard Beach"
+      ]
+    },
+    {
+      "title": "Disney Resorts Collection",
+      "items": [
+        "View All Disney Accommodations",
+        "Deluxe Villas",
+        "Deluxe Resort Hotels",
+        "Moderate Resort Hotels",
+        "Value Resort Hotels",
+        "Campgrounds"
+      ]
+    },
+    {
+      "title": "Other Select Deluxe Hotels",
+      "items": [
+        "Walt Disney World Dolphin Hotel",
+        "Walt Disney World Swan Hotel",
+        "Walt Disney World Swan Reserve"
+      ]
+    },
+    {
+      "title": "More Great Accommodations",
+      "items": [
+        "View More Nearby Hotels",
+        "Four Seasons Resort Orlando at Walt Disney World Resort",
+        "Walt Disney World Official Hotels: Disney Springs Resort Area",
+        "Walt Disney World Official and Gateway Hotels: Bonnet Creek",
+        "Walt Disney World Gateway Hotels",
+        "Maps and Transportation"
+      ]
+    },
+    {
+      "title": "Featured Items",
+      "items": [
+        "View Special Offers",
+        "Stay in the Magic",
+        "Save Up to 30% on Rooms in Late Summer & Early Fall",
+        "Start Planning Your Vacation",
+        "Family Suites at Disney's Art of Animation Resort"
+      ]
+    },
+    {
+      "title": "Dining",
+      "items": [
+        "Make Reservations",
+        "About Dining",
+        "All Dining",
+        "Dining Plans"
+      ]
+    },
+    {
+      "title": "Activities",
+      "items": [
+        "Attractions and Entertainment",
+        "Character Experiences",
+        "Events and Tours",
+        "Enchanting Extras Collection"
+      ]
+    },
+    {
+      "title": "Shopping",
+      "items": [
+        "All Stores",
+        "Latest Park Merchandise"
+      ]
+    },
+    {
+      "title": "Destinations",
+      "items": [
+        "Water Parks",
+        "Disney Springs",
+        "Disney's Boardwalk",
+        "ESPN Wide World of Sports",
+        "Maps and Transportation",
+        "Make a Theme Park Reservation",
+        "Cool KIDS' SUMMER",
+        "EPCOT International Flower & Garden Festival",
+        "Disney Springs - Happily Whatever You’re After",
+        "Disney After Hours Events",
+        "View Events"
+      ]
+    },
+    {
+      "title": "Merchandise",
+      "items": [
+        "New Arrivals",
+        "Authentic Custom T-Shirts",
+        "All Parks Products",
+        "Disney Gift Card"
+      ]
+    },
+    {
+      "title": "All Walt Disney World Shops",
+      "items": [
+        "All Walt Disney World Shops",
+        "Disney Springs Shops",
+        "Shop the Stories You Love",
+        "Get vacation-ready at the official online home for the stories you love.",
+        "Visit Disney Store",
+        "Help Center",
+        "Guest Services",
+        "Guests with Disabilities",
+        "Frequently Asked Questions",
+        "Know Before You Go",
+        "Planning with Our App",
+        "planDisney",
+        "Contact Us"
+      ]
+    },
+    {
+      "title": "Rules",
+      "items": [
+        "Walt Disney World Rules",
+        "Recent Updates",
+        "Prohibited Items",
+        "Smoking Areas",
+        "Weapons Policy",
+        "View All"
+      ]
+    },
+    {
+      "title": "Your Cart",
+      "items": [
+        "Find a Resort",
+        "Add Tickets",
+        "My Plans and Tickets",
+        "My MagicBands and Cards",
+        "My Family & Friends",
+        "My Photos",
+        "Buy Memory Maker",
+        "Annual Passholder Perks",
+        "Theme Park Reservations",
+        "Log In or Create Account",
+        "Tiffins Restaurant"
+      ]
+    },
+    {
+      "title": "Dinner Menu",
+      "items": []
+    },
+    {
+      "title": "Tiffins Signature Bread Service",
+      "items": []
+    },
+    {
+      "title": "Charcuterie and Cheese Board",
+      "items": []
+    },
+    {
+      "title": "Korean Barbecue Pork Belly Bao Buns",
+      "items": []
+    },
+    {
+      "title": "The Land Salad",
+      "items": []
+    },
+    {
+      "title": "Gobi Manchurian",
+      "items": []
+    },
+    {
+      "title": "Grilled Beef Tenderloin",
+      "items": []
+    },
+    {
+      "title": "Whole-fried Catch of the Day",
+      "items": []
+    },
+    {
+      "title": "Regional Curry Tasting",
+      "items": []
+    },
+    {
+      "title": "Shrimp & Grits",
+      "items": []
+    },
+    {
+      "title": "Butter Chicken",
+      "items": []
+    },
+    {
+      "title": "Oaxacan Pork Duo*",
+      "items": []
+    },
+    {
+      "title": "African Pot de Crème",
+      "items": []
+    },
+    {
+      "title": "Caramel Flan",
+      "items": []
+    },
+    {
+      "title": "Seasonal Sorbet Trio",
+      "items": []
+    },
+    {
+      "title": "Fresh Seasonal Fruit",
+      "items": []
+    },
+    {
+      "title": "Garden Vegetables with Dipping Sauce",
+      "items": []
+    },
+    {
+      "title": "Grilled Shrimp",
+      "items": []
+    },
+    {
+      "title": "Grilled Steak",
+      "items": []
+    },
+    {
+      "title": "Grilled Teriyaki Chicken Thigh",
+      "items": []
+    },
+    {
+      "title": "Korean Impossible® Meatballs",
+      "items": []
+    },
+    {
+      "title": "Jasmine Rice",
+      "items": []
+    },
+    {
+      "title": "Fresh Seasonal Fruit",
+      "items": []
+    },
+    {
+      "title": "Seasonal Vegetables",
+      "items": []
+    },
+    {
+      "title": "White Cheddar Macaroni & Cheese",
+      "items": []
+    },
+    {
+      "title": "Vanilla Ice Cream Sundae",
+      "items": []
+    },
+    {
+      "title": "Specialty Character Drink",
+      "items": []
+    },
+    {
+      "title": "Floral Jasmine Green – Press Pot",
+      "items": []
+    },
+    {
+      "title": "Thunderbolt Darjeeling – Press Pot",
+      "items": []
+    },
+    {
+      "title": "Imperial Earl Grey – Press Pot",
+      "items": []
+    },
+    {
+      "title": "Organic Chamomile Flowers – Press Pot",
+      "items": []
+    },
+    {
+      "title": "Organic Vanilla Rooibos – Press Pot",
+      "items": []
+    },
+    {
+      "title": "English Breakfast – Press Pot",
+      "items": []
+    },
+    {
+      "title": "Masala Black Chai – Press Pot",
+      "items": []
+    },
+    {
+      "title": "Organic Peppermint Leaves – Press Pot",
+      "items": []
+    },
+    {
+      "title": "Mountain Berry – Press Pot",
+      "items": []
+    },
+    {
+      "title": "Joffrey's™ Coffee Peruvian Alto Mayo Protected Forest – Press Pot",
+      "items": []
+    },
+    {
+      "title": "Joffrey's™ Coffee Ethiopia “Natural” Harrar – Press Pot",
+      "items": []
+    },
+    {
+      "title": "Joffrey's™ Coffee Indonesian Blend – Press Pot",
+      "items": []
+    },
+    {
+      "title": "Sumatra Shade-Grown Organic Espresso - Double",
+      "items": []
+    },
+    {
+      "title": "Sumatra Shade-Grown Organic Espresso - Cappuccino",
+      "items": []
+    },
+    {
+      "title": "Sumatra Shade-Grown Organic Espresso – Café Latte",
+      "items": []
+    },
+    {
+      "title": "Zingiber Fizzie",
+      "items": []
+    },
+    {
+      "title": "Hibiscus Henna",
+      "items": []
+    },
+    {
+      "title": "Lillie Gorill-ie",
+      "items": []
+    },
+    {
+      "title": "Kiama Mamma",
+      "items": []
+    },
+    {
+      "title": "Lamu Libation",
+      "items": []
+    },
+    {
+      "title": "Snow Leopard Salvation",
+      "items": []
+    },
+    {
+      "title": "Tempting Tigress",
+      "items": []
+    },
+    {
+      "title": "Annapurna Zing",
+      "items": []
+    },
+    {
+      "title": "Hightower Rocks",
+      "items": []
+    },
+    {
+      "title": "Jenn's Tattoo",
+      "items": []
+    },
+    {
+      "title": "Boto-Rita",
+      "items": []
+    },
+    {
+      "title": "Dalangs Delight",
+      "items": []
+    },
+    {
+      "title": "Leaping Lizzard",
+      "items": []
+    },
+    {
+      "title": "Spice Trader Classic",
+      "items": []
+    },
+    {
+      "title": "Night Monkey",
+      "items": []
+    },
+    {
+      "title": "Keoke Coffee",
+      "items": []
+    },
+    {
+      "title": "Mustang Coffee",
+      "items": []
+    },
+    {
+      "title": "Buena Vista Coffee",
+      "items": []
+    },
+    {
+      "title": "Beer Flight",
+      "items": []
+    },
+    {
+      "title": "Kungaloosh Spiced Excursion Ale Draft - USA",
+      "items": []
+    },
+    {
+      "title": "First Magnitude Wakulla Hefeweizen Draft - USA",
+      "items": []
+    },
+    {
+      "title": "Michelob Ultra Lager Draft - USA",
+      "items": []
+    },
+    {
+      "title": "Dragon Stout - Jamaica",
+      "items": []
+    },
+    {
+      "title": "Sapporo Black Lager - Japan",
+      "items": []
+    },
+    {
+      "title": "Modelo Negra Munich Dunkel-style Lager - Mexico",
+      "items": []
+    },
+    {
+      "title": "Singha Lager - Thailand",
+      "items": []
+    },
+    {
+      "title": "First Magnitude 72 Pale Ale - USA",
+      "items": []
+    },
+    {
+      "title": "Modelo Especial - Mexico",
+      "items": []
+    },
+    {
+      "title": "Tampa Bay Old Elephant Foot IPA - USA",
+      "items": []
+    },
+    {
+      "title": "Rekorderlig Pear Cider",
+      "items": []
+    },
+    {
+      "title": "Schöfferhofer Grapefruit Hefeweizen",
+      "items": []
+    },
+    {
+      "title": "Tiger Eye Gold Ale",
+      "items": [
         "Pascual Toso Brut, Mendoza Argentina NV",
         "Graham Beck Brut Rosé, South Africa NV",
         "Raats Original Unwooded, Chenin Blanc Stellenbosch, S. Africa",
@@ -86,12 +480,144 @@
         "Tokara, Cabernet Sauvignon Stellenbosch, S. Africa",
         "Kaiken Terroir Series, Cabernet Sauvignon Vista Flores, Argentina",
         "De Toren Z, Bordeaux Blend Stellenbosch, S. Africa",
-        "Concha y Toro Marques de Casa Concha, Cabernet Sauvignon Maipo, Chile",
-        "Full Wine List Available Upon Request",
-        "White Wine Flight",
-        "Red Wine Flight",
-        "Guests must speak to a Cast Member about their allergy-friendly request",
-        "Fresh Fruit",
+        "Concha y Toro Marques de Casa Concha, Cabernet Sauvignon Maipo, Chile"
+      ]
+    },
+    {
+      "title": "Full Wine List Available Upon Request",
+      "items": []
+    },
+    {
+      "title": "White Wine Flight",
+      "items": []
+    },
+    {
+      "title": "Red Wine Flight",
+      "items": []
+    },
+    {
+      "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+      "items": []
+    },
+    {
+      "title": "Tiffins Signature Bread Service",
+      "items": []
+    },
+    {
+      "title": "Gobi Manchurian",
+      "items": []
+    },
+    {
+      "title": "Korean Barbecue Pork Belly Bao Buns",
+      "items": []
+    },
+    {
+      "title": "Charcuterie and Cheese Board",
+      "items": []
+    },
+    {
+      "title": "The Land Salad",
+      "items": []
+    },
+    {
+      "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+      "items": []
+    },
+    {
+      "title": "Grilled Beef Tenderloin",
+      "items": []
+    },
+    {
+      "title": "Whole-fried Catch of the Day",
+      "items": []
+    },
+    {
+      "title": "Regional Curry Tasting",
+      "items": []
+    },
+    {
+      "title": "Shrimp & Grits",
+      "items": []
+    },
+    {
+      "title": "Butter Chicken",
+      "items": []
+    },
+    {
+      "title": "Oaxacan Pork Duo*",
+      "items": []
+    },
+    {
+      "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+      "items": []
+    },
+    {
+      "title": "African Pot de Crème",
+      "items": []
+    },
+    {
+      "title": "Caramel Flan",
+      "items": []
+    },
+    {
+      "title": "Seasonal Sorbet Trio",
+      "items": []
+    },
+    {
+      "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+      "items": []
+    },
+    {
+      "title": "Fresh Fruit",
+      "items": []
+    },
+    {
+      "title": "Garden Vegetables with Dipping Sauce",
+      "items": []
+    },
+    {
+      "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+      "items": []
+    },
+    {
+      "title": "Grilled Teriyaki Chicken Thigh",
+      "items": []
+    },
+    {
+      "title": "Grilled Shrimp",
+      "items": []
+    },
+    {
+      "title": "Grilled Steak",
+      "items": []
+    },
+    {
+      "title": "Korean Impossible® Meatballs",
+      "items": []
+    },
+    {
+      "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+      "items": []
+    },
+    {
+      "title": "Jasmine Rice",
+      "items": []
+    },
+    {
+      "title": "Fresh Seasonal Fruit",
+      "items": []
+    },
+    {
+      "title": "Seasonal Vegetables",
+      "items": []
+    },
+    {
+      "title": "White Cheddar Macaroni & Cheese",
+      "items": []
+    },
+    {
+      "title": "Vanilla Ice Cream Sundae",
+      "items": [
         "Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location.",
         "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
         "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
@@ -99,9 +625,12 @@
         "7:00 AM to 11:00 PM Eastern Time. Guests under 18 years of age must have parent or guardian permission to call.",
         "Your Privacy Choices",
         "Your US State Privacy Rights",
-        "Interest-Based Ads",
-        "Notice of Right to Opt Out of Sale/Sharing"
+        "Interest-Based Ads"
       ]
+    },
+    {
+      "title": "Notice of Right to Opt Out of Sale/Sharing",
+      "items": []
     },
     {
       "title": "Manage Consent Preferences",

@@ -1,21 +1,234 @@
 {
   "sections": [
     {
-      "title": "Breakfast Menu",
+      "title": "Tickets & Passes",
       "items": [
-        "Breakfast Bowl",
-        "Breakfast Bowl with Bacon or Sausage",
-        "Egg White English Muffin",
-        "Sausage and Egg English Muffin",
-        "Fruit Salad",
-        "Yogurt Parfait",
-        "Hash Brown Bites",
-        "Pancake Sausage Stick",
-        "French Toast",
-        "Simply® Orange",
-        "Minute Maid® Apple Juice",
-        "Freshly Brewed Coffee",
-        "Flavored Coconut Water",
+        "Buy Theme Park Tickets",
+        "View Special Offers",
+        "Buy Special Event Tickets",
+        "Buy Water Park Tickets",
+        "Buy Annual Passes",
+        "See Florida Resident Offers",
+        "Make Theme Park Reservations",
+        "View All Tickets & Passes"
+      ]
+    },
+    {
+      "title": "Plan Your Visit",
+      "items": [
+        "Ticket Buying Guide",
+        "3-Step Planning Guide",
+        "Lightning Lane Passes",
+        "Maps",
+        "Transportation",
+        "Explore Our ParksSee All Hours & Events CalendarPark Hours for Saturday, April 18, 2026",
+        "Explore Our Parks",
+        "See All Hours & Events Calendar",
+        "Park Hours for Saturday, April 18, 2026",
+        "Magic Kingdom8:00 AM to 11:00 PM",
+        "Magic Kingdom",
+        "Disney's Hollywood Studios9:00 AM to 9:30 PM",
+        "Disney's Hollywood Studios",
+        "EPCOT9:00 AM to 9:00 PM",
+        "EPCOT",
+        "Disney's Animal Kingdom8:00 AM to 8:00 PM",
+        "Disney's Animal Kingdom",
+        "Disney's Typhoon LagoonClosed Today",
+        "Disney's Typhoon Lagoon",
+        "Disney's Blizzard Beach10:00 AM to 5:00 PM",
+        "Disney's Blizzard Beach"
+      ]
+    },
+    {
+      "title": "Disney Resorts Collection",
+      "items": [
+        "View All Disney Accommodations",
+        "Deluxe Villas",
+        "Deluxe Resort Hotels",
+        "Moderate Resort Hotels",
+        "Value Resort Hotels",
+        "Campgrounds"
+      ]
+    },
+    {
+      "title": "Other Select Deluxe Hotels",
+      "items": [
+        "Walt Disney World Dolphin Hotel",
+        "Walt Disney World Swan Hotel",
+        "Walt Disney World Swan Reserve"
+      ]
+    },
+    {
+      "title": "More Great Accommodations",
+      "items": [
+        "View More Nearby Hotels",
+        "Four Seasons Resort Orlando at Walt Disney World Resort",
+        "Walt Disney World Official Hotels: Disney Springs Resort Area",
+        "Walt Disney World Official and Gateway Hotels: Bonnet Creek",
+        "Walt Disney World Gateway Hotels",
+        "Maps and Transportation"
+      ]
+    },
+    {
+      "title": "Featured Items",
+      "items": [
+        "View Special Offers",
+        "Stay in the Magic",
+        "Save Up to 30% on Rooms in Late Summer & Early Fall",
+        "Start Planning Your Vacation",
+        "Family Suites at Disney's Art of Animation Resort"
+      ]
+    },
+    {
+      "title": "Dining",
+      "items": [
+        "Make Reservations",
+        "About Dining",
+        "All Dining",
+        "Dining Plans"
+      ]
+    },
+    {
+      "title": "Activities",
+      "items": [
+        "Attractions and Entertainment",
+        "Character Experiences",
+        "Events and Tours",
+        "Enchanting Extras Collection"
+      ]
+    },
+    {
+      "title": "Shopping",
+      "items": [
+        "All Stores",
+        "Latest Park Merchandise"
+      ]
+    },
+    {
+      "title": "Destinations",
+      "items": [
+        "Water Parks",
+        "Disney Springs",
+        "Disney's Boardwalk",
+        "ESPN Wide World of Sports",
+        "Maps and Transportation",
+        "Make a Theme Park Reservation",
+        "Cool KIDS' SUMMER",
+        "EPCOT International Flower & Garden Festival",
+        "Disney Springs - Happily Whatever You’re After",
+        "Disney After Hours Events",
+        "View Events"
+      ]
+    },
+    {
+      "title": "Merchandise",
+      "items": [
+        "New Arrivals",
+        "Authentic Custom T-Shirts",
+        "All Parks Products",
+        "Disney Gift Card"
+      ]
+    },
+    {
+      "title": "All Walt Disney World Shops",
+      "items": [
+        "All Walt Disney World Shops",
+        "Disney Springs Shops",
+        "Shop the Stories You Love",
+        "Get vacation-ready at the official online home for the stories you love.",
+        "Visit Disney Store",
+        "Help Center",
+        "Guest Services",
+        "Guests with Disabilities",
+        "Frequently Asked Questions",
+        "Know Before You Go",
+        "Planning with Our App",
+        "planDisney",
+        "Contact Us"
+      ]
+    },
+    {
+      "title": "Rules",
+      "items": [
+        "Walt Disney World Rules",
+        "Recent Updates",
+        "Prohibited Items",
+        "Smoking Areas",
+        "Weapons Policy",
+        "View All"
+      ]
+    },
+    {
+      "title": "Your Cart",
+      "items": [
+        "Find a Resort",
+        "Add Tickets",
+        "My Plans and Tickets",
+        "My MagicBands and Cards",
+        "My Family & Friends",
+        "My Photos",
+        "Buy Memory Maker",
+        "Annual Passholder Perks",
+        "Theme Park Reservations",
+        "Log In or Create Account",
+        "Yak & Yeti™ Local Food Cafes"
+      ]
+    },
+    {
+      "title": "Breakfast Menu",
+      "items": []
+    },
+    {
+      "title": "Breakfast Bowl",
+      "items": []
+    },
+    {
+      "title": "Breakfast Bowl with Bacon or Sausage",
+      "items": []
+    },
+    {
+      "title": "Egg White English Muffin",
+      "items": []
+    },
+    {
+      "title": "Sausage and Egg English Muffin",
+      "items": []
+    },
+    {
+      "title": "Fruit Salad",
+      "items": []
+    },
+    {
+      "title": "Yogurt Parfait",
+      "items": []
+    },
+    {
+      "title": "Hash Brown Bites",
+      "items": []
+    },
+    {
+      "title": "Pancake Sausage Stick",
+      "items": []
+    },
+    {
+      "title": "French Toast",
+      "items": []
+    },
+    {
+      "title": "Simply® Orange",
+      "items": []
+    },
+    {
+      "title": "Minute Maid® Apple Juice",
+      "items": []
+    },
+    {
+      "title": "Freshly Brewed Coffee",
+      "items": []
+    },
+    {
+      "title": "Flavored Coconut Water",
+      "items": [
         "Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location.",
         "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
         "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
@@ -23,9 +236,12 @@
         "7:00 AM to 11:00 PM Eastern Time. Guests under 18 years of age must have parent or guardian permission to call.",
         "Your Privacy Choices",
         "Your US State Privacy Rights",
-        "Interest-Based Ads",
-        "Notice of Right to Opt Out of Sale/Sharing"
+        "Interest-Based Ads"
       ]
+    },
+    {
+      "title": "Notice of Right to Opt Out of Sale/Sharing",
+      "items": []
     },
     {
       "title": "Manage Consent Preferences",
