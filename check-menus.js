@@ -316,23 +316,36 @@ async function fetchMenu(browser, menu) {
     // COMBOBOX (ONLY IF IT MAKES SENSE)
     // --------------------
     // --------------------
-    const combo = await page.$('button[role="combobox"]');
+    const combo = await page.$('button[role="combobox"], [role="combobox"]');
 
     if (combo) {
       try {
         await combo.click();
 
-        await page.waitForSelector('li[role="option"]', {
-          timeout: 5000
-        }).catch(() => null);
+        // Wait for ANY dropdown-like content (Disney uses different structures)
+        await page.waitForFunction(() => {
+          const candidates = document.querySelectorAll(
+            'li[role="option"], [role="option"], ul[role="listbox"] li, div[role="option"]'
+          );
+          return candidates && candidates.length > 0;
+        }, { timeout: 8000 }).catch(() => null);
 
-        // small buffer for React/animation/render completion
-        await page.waitForTimeout?.(300) || wait(300);
+        await wait(500); // let React settle
 
-        const options = await page.$$('li[role="option"]');
+        let options = await page.$$(
+          'li[role="option"], [role="option"], ul[role="listbox"] li, div[role="option"]'
+        );
+
+        // retry once if empty (very common on Disney sites)
+        if (options.length === 0) {
+          await wait(1500);
+
+          options = await page.$$(
+            'li[role="option"], [role="option"], ul[role="listbox"] li, div[role="option"]'
+          );
+        }
 
         if (options.length === 0) {
-          // Nothing to select, fall back to default render
           console.log("Combobox opened but no options found");
         } else {
           const slugWords = decodeURIComponent(menu.url.split("/menus/")[1] || "")
@@ -356,10 +369,7 @@ async function fetchMenu(browser, menu) {
           let bestScore = 0;
 
           for (const opt of options) {
-            const text = await page.evaluate(
-              el => (el.innerText || "").toLowerCase(),
-              opt
-            );
+            const text = await page.evaluate(el => (el.innerText || "").toLowerCase(), opt);
 
             const s = score(text);
 
@@ -372,10 +382,13 @@ async function fetchMenu(browser, menu) {
           if (bestOption) {
             await bestOption.click();
 
+            // wait for menu refresh after selection
+            await wait(2000);
+
             await page.waitForFunction(() => {
-              const list = document.querySelector('ul[role="listbox"]');
-              return !list || list.hidden || list.classList.contains("hidden");
-            }, { timeout: 5000 }).catch(() => { });
+              const list = document.querySelector('[role="listbox"]');
+              return !list || list.offsetParent === null;
+            }, { timeout: 8000 }).catch(() => { });
           }
         }
 
