@@ -91,19 +91,6 @@ async function extractPageContent(page) {
       document.querySelector('[role="main"]') ||
       document.body;
 
-    const text = root.innerText || "";
-
-    const hasMenuHeading = Array.from(
-      root.querySelectorAll("h1, h2, h3, h4")
-    ).some(el => /menu/i.test(el.innerText || ""));
-
-    const hasMenuType = !!root.querySelector(".menu-type");
-
-    let mode = "fallback";
-
-    if (hasMenuHeading) mode = "heading";
-    else if (hasMenuType) mode = "menu-type";
-
     const sections = [];
 
     function addSection(title) {
@@ -112,118 +99,126 @@ async function extractPageContent(page) {
       return section;
     }
 
-    let currentSection = null;
+    let currentSection = addSection("menu");
+
+    function addItem(section, value) {
+      if (!value) return;
+      const v = value.trim();
+      if (!v) return;
+      if (section._seenItems.has(v)) return;
+
+      section.items.push(v);
+      section._seenItems.add(v);
+    }
+
+    // -----------------------------
+    // GLOBAL FILTERS
+    // -----------------------------
+
+    function isNoiseText(text = "") {
+      const t = text.toLowerCase();
+
+      return (
+        t.includes("privacy") ||
+        t.includes("terms") ||
+        t.includes("all rights reserved") ||
+        t.includes("copyright") ||
+        t.includes("cookie") ||
+        t.includes("navigation") ||
+        t.includes("footer") ||
+        t.includes("accessibility")
+      );
+    }
+
+    function isInBadArea(el) {
+      return (
+        el.closest("nav") ||
+        el.closest("footer") ||
+        el.closest("aside") ||
+        el.closest("[role='navigation']")
+      );
+    }
+
+    function hasMenuLikeClass(el) {
+      const cls = (el.className || "").toLowerCase();
+
+      return (
+        cls.includes("title") ||
+        cls.includes("name") ||
+        cls.includes("heading") ||
+        cls.includes("sub_heading") ||
+        cls.includes("menu-type")
+      );
+    }
+
+    function isPrice(text = "") {
+      return /\$\s*\d/.test(text);
+    }
+
+    function isValid(el) {
+      if (!el) return false;
+
+      if (isInBadArea(el)) return false;
+
+      const text = el.innerText?.trim();
+      if (!text) return false;
+
+      if (isNoiseText(text)) return false;
+      if (isPrice(text)) return false;
+
+      return true;
+    }
+
+    function isMenuHeader(el, text) {
+      if (!el.tagName.match(/^H[1-4]$/)) return false;
+      return /menu|lunch|breakfast|dinner/i.test(text);
+    }
+
+    function isMenuType(el) {
+      return (el.className || "").includes("menu-type");
+    }
+
+    function isMenuItem(el) {
+      const tag = el.tagName;
+
+      if (tag === "DIV" || tag === "SPAN") {
+        return hasMenuLikeClass(el);
+      }
+
+      return true;
+    }
+
+    // -----------------------------
+    // MAIN SCAN
+    // -----------------------------
 
     const elements = root.querySelectorAll(
       "h1, h2, h3, h4, p, li, div, span"
     );
 
-    // helper to safely accept text
-    function addItem(section, value) {
-      if (!value) return;
-      if (section._seenItems.has(value)) return;
-
-      section.items.push(value);
-      section._seenItems.add(value);
-    }
-
-    // ----------------------------
-    // MODE 1: HEADINGS CONTAIN MENU (PRIORITY 1)
-    // ----------------------------
-    if (mode === "heading") {
-      elements.forEach(el => {
-        // Only process div/span that are not legend/price
-        if (el.tagName === "DIV" || el.tagName === "SPAN") {
-          const classList = el.classList ? [...el.classList].map(c => c.toLowerCase()) : [];
-
-          // Skip if it matches legend or price
-          if (classList.some(c => c.includes("price"))) {
-            return;
-          }
-
-          // Only process if class contains "title" or "name" dynamically
-          if (!classList.some(c => c.includes("title") || c.includes("name"))) {
-            return;
-          }
-        }
-
-        const t = el.innerText?.trim();
-        if (!t) return;
-
-        if (el.tagName.match(/^H[1-4]$/) && /menu/i.test(t)) {
-          currentSection = addSection(t);
-          return;
-        }
-
-        if (!currentSection) {
-          currentSection = addSection("menu");
-        }
-
-        addItem(currentSection, t);
-      });
-
-      return { sections };
-    }
-
-    // ----------------------------
-    // MODE 2: .menu-type CONTAINERS (PRIORITY 2)
-    // ----------------------------
-    if (mode === "menu-type") {
-      const containers = root.querySelectorAll(".menu-type");
-
-      containers.forEach(container => {
-        let section = addSection(
-          container.innerText?.trim() || "menu"
-        );
-
-        container
-          .querySelectorAll("h1, h2, h3, h4, p, li, div, span")
-          .forEach(el => {
-            // Only process div/span that are not legend/price
-            if (el.tagName === "DIV" || el.tagName === "SPAN") {
-              const classList = el.classList ? [...el.classList].map(c => c.toLowerCase()) : [];
-
-              // Skip if it matches legend or price
-              if (classList.some(c => c.includes("price"))) {
-                return;
-              }
-
-              // Only process if class contains "title" or "name" dynamically
-              if (!classList.some(c => c.includes("title") || c.includes("name"))) {
-                return;
-              }
-            }
-          });
-      });
-
-      return { sections };
-    }
-
-    // ----------------------------
-    // MODE 3: FALLBACK FULL SCAN (PRIORITY 3)
-    // ----------------------------
-    currentSection = addSection("menu");
-
     elements.forEach(el => {
-      // Only process div/span that are not legend/price
-      if (el.tagName === "DIV" || el.tagName === "SPAN") {
-        const classList = el.classList ? [...el.classList].map(c => c.toLowerCase()) : [];
+      if (!isValid(el)) return;
 
-        // Skip if it matches legend or price
-        if (classList.some(c => c.includes("price"))) {
-          return;
-        }
+      const text = el.innerText.trim();
 
-        // Only process if class contains "title" or "name" dynamically
-        if (!classList.some(c => c.includes("title") || c.includes("name"))) {
-          return;
-        }
+      // SECTION STARTERS (handles your cases)
+      if (
+        isMenuHeader(el, text) ||
+        isMenuType(el)
+      ) {
+        currentSection = addSection(text);
+        return;
       }
-      
-      const t = el.innerText?.trim();
-      if (!t) return;
 
-      addItem(currentSection, t);
+      // fallback section detection if page has no "Menu"
+      if (!sections.length) {
+        currentSection = addSection("menu");
+      }
+
+      // ITEM FILTERING
+      if (!isMenuItem(el)) return;
+
+      addItem(currentSection, text);
     });
 
     return { sections };
