@@ -1,33 +1,47 @@
 {
   "sections": [
     {
-      "title": "Tickets & Passes",
+      "title": "menu",
       "items": [
+        "Show Navigation Tickets Show Search",
+        "Visit Disney.comSkip NavigationUnited States (English)Help",
+        "Visit Disney.com",
+        "United States (English)Help",
+        "United States (English)",
+        "Help",
+        "Tickets & PassesBuy Theme Park TicketsView Offers & DiscountsBuy Special Event TicketsBuy Theme Park ParkingBuy Magic Key PassesTheme Park ReservationsChange Theme Park TicketsPlan Your VisitExplore Disneyland VacationsLightning Lane PassesEvents CalendarMapsDirectionsExplore Our ParksSee All Hours & Entertainment SchedulePark Hours for Saturday, April 18, 2026Disneyland Park8:00 AM to 11:00 PMDisney California Adventure Park8:00 AM to 10:00 PM",
+        "Tickets & PassesBuy Theme Park TicketsView Offers & DiscountsBuy Special Event TicketsBuy Theme Park ParkingBuy Magic Key PassesTheme Park ReservationsChange Theme Park TicketsPlan Your VisitExplore Disneyland VacationsLightning Lane PassesEvents CalendarMapsDirections",
+        "Tickets & Passes",
         "Buy Theme Park Tickets",
         "View Offers & Discounts",
         "Buy Special Event Tickets",
         "Buy Theme Park Parking",
         "Buy Magic Key Passes",
         "Theme Park Reservations",
-        "Change Theme Park Tickets"
-      ]
-    },
-    {
-      "title": "Plan Your Visit",
-      "items": [
+        "Change Theme Park Tickets",
+        "Plan Your Visit",
         "Explore Disneyland Vacations",
         "Lightning Lane Passes",
         "Events Calendar",
         "Maps",
         "Directions",
+        "Explore Our ParksSee All Hours & Entertainment SchedulePark Hours for Saturday, April 18, 2026Disneyland Park8:00 AM to 11:00 PMDisney California Adventure Park8:00 AM to 10:00 PM",
         "Explore Our ParksSee All Hours & Entertainment SchedulePark Hours for Saturday, April 18, 2026",
         "Explore Our Parks",
         "See All Hours & Entertainment Schedule",
         "Park Hours for Saturday, April 18, 2026",
+        "Saturday, April 18, 2026",
         "Disneyland Park8:00 AM to 11:00 PM",
         "Disneyland Park",
+        "8:00 AM to 11:00 PM",
+        "8:00 AM",
+        "11:00 PM",
         "Disney California Adventure Park8:00 AM to 10:00 PM",
         "Disney California Adventure Park",
+        "8:00 AM to 10:00 PM",
+        "10:00 PM",
+        "View All 3 Disneyland Resort HotelsDisney's Grand Californian Hotel & SpaCraftsman-style elegance with the all-new Tenaya Stone SpaDisneyland HotelModern classic with luxurious rooms and monorail waterslidesPixar Place HotelContemporary design with unique touches of Pixar artistryGood Neighbor HotelsDisney-approved quality hotels close to the Disneyland ResortReservationsMy Hotel ReservationsDisneyland Resort Hotel PackagesGood Neighbor Hotel PackagesMaps & DirectionsSave Up to 25% off on Stays This WinterSave on Select Stays This SummerWhy Stay at a Hotel of the Disneyland Resort?The Villas at Disneyland HotelHotel Guest ActivitiesView Offers and Discounts",
+        "View All 3 Disneyland Resort HotelsDisney's Grand Californian Hotel & SpaCraftsman-style elegance with the all-new Tenaya Stone SpaDisneyland HotelModern classic with luxurious rooms and monorail waterslidesPixar Place HotelContemporary design with unique touches of Pixar artistryGood Neighbor HotelsDisney-approved quality hotels close to the Disneyland ResortReservationsMy Hotel ReservationsDisneyland Resort Hotel PackagesGood Neighbor Hotel PackagesMaps & Directions",
         "View All 3 Disneyland Resort Hotels",
         "Disney's Grand Californian Hotel & SpaCraftsman-style elegance with the all-new Tenaya Stone Spa",
         "Disney's Grand Californian Hotel & Spa",
@@ -40,36 +54,27 @@
         "Contemporary design with unique touches of Pixar artistry",
         "Good Neighbor HotelsDisney-approved quality hotels close to the Disneyland Resort",
         "Good Neighbor Hotels",
-        "Disney-approved quality hotels close to the Disneyland Resort"
-      ]
-    },
-    {
-      "title": "Reservations",
-      "items": [
+        "Disney-approved quality hotels close to the Disneyland Resort",
+        "Reservations",
         "My Hotel Reservations",
         "Disneyland Resort Hotel Packages",
         "Good Neighbor Hotel Packages",
         "Maps & Directions",
+        "Save Up to 25% off on Stays This WinterSave on Select Stays This SummerWhy Stay at a Hotel of the Disneyland Resort?The Villas at Disneyland HotelHotel Guest ActivitiesView Offers and Discounts",
         "Save Up to 25% off on Stays This Winter",
         "Save on Select Stays This Summer",
         "Why Stay at a Hotel of the Disneyland Resort?",
         "The Villas at Disneyland Hotel",
         "Hotel Guest Activities",
-        "View Offers and Discounts"
-      ]
-    },
-    {
-      "title": "Dining",
-      "items": [
+        "View Offers and Discounts",
+        "DiningMake ReservationsMy Dining ReservationsCharacter DiningAll DiningActivitiesMagicBand+ ExperiencesAttractions and EntertainmentCharacter ExperiencesCrown CollectionVIP ToursEvents and ToursRecreationSpaDisney PhotoPassShoppingDisney StoreMerchandise Mobile CheckoutAll StoresDestinationsDowntown Disney DistrictSouthern CaliforniaMaps & DirectionsTicket and Reservations DetailsLightning Lane PassesDisneyland Resort 70th CelebrationWomen Who Make The Magic Guided TourCharacter Dining at Storytellers CafeKey to DisneylandDowntown Disney DistrictView Events",
+        "DiningMake ReservationsMy Dining ReservationsCharacter DiningAll DiningActivitiesMagicBand+ ExperiencesAttractions and EntertainmentCharacter ExperiencesCrown CollectionVIP ToursEvents and ToursRecreationSpaDisney PhotoPassShoppingDisney StoreMerchandise Mobile CheckoutAll StoresDestinationsDowntown Disney DistrictSouthern CaliforniaMaps & Directions",
+        "Dining",
         "Make Reservations",
         "My Dining Reservations",
         "Character Dining",
-        "All Dining"
-      ]
-    },
-    {
-      "title": "Activities",
-      "items": [
+        "All Dining",
+        "Activities",
         "MagicBand+ Experiences",
         "Attractions and Entertainment",
         "Character Experiences",
@@ -78,30 +83,22 @@
         "Events and Tours",
         "Recreation",
         "Spa",
-        "Disney PhotoPass"
-      ]
-    },
-    {
-      "title": "Shopping",
-      "items": [
+        "Disney PhotoPass",
+        "Shopping",
         "Disney Store",
         "Merchandise Mobile Checkout",
-        "All Stores"
-      ]
-    },
-    {
-      "title": "Destinations",
-      "items": [
+        "All Stores",
+        "Destinations",
         "Downtown Disney District",
         "Southern California",
-        "Maps & Directions",
+        "Ticket and Reservations DetailsLightning Lane PassesDisneyland Resort 70th CelebrationWomen Who Make The Magic Guided TourCharacter Dining at Storytellers CafeKey to DisneylandDowntown Disney DistrictView Events",
         "Ticket and Reservations Details",
-        "Lightning Lane Passes",
         "Disneyland Resort 70th Celebration",
         "Women Who Make The Magic Guided Tour",
         "Character Dining at Storytellers Cafe",
         "Key to Disneyland",
         "View Events",
+        "Magic Key Passes — Now on SaleLearn about the Disneyland Resort annual pass program.Magic Key DiscountsDiscover food and merchandise savings.Link Magic Key Pass to My ProfileMake theme park entry easier.Magic Key CalendarView blockout dates by pass type.Upgrade Magic Key PassesRenew Magic Key Passes",
         "Magic Key Passes — Now on SaleLearn about the Disneyland Resort annual pass program.",
         "Magic Key Passes — Now on Sale",
         "Learn about the Disneyland Resort annual pass program.",
@@ -115,330 +112,333 @@
         "Magic Key Calendar",
         "View blockout dates by pass type.",
         "Upgrade Magic Key Passes",
-        "Renew Magic Key Passes"
-      ]
-    },
-    {
-      "title": "Merchandise",
-      "items": [
+        "Renew Magic Key Passes",
+        "MerchandiseNew ArrivalsAuthentic Custom T-ShirtsAll Parks ProductsDisney Gift CardLocationsAll Disneyland ShopsDowntown Disney ShopsShop the Stories You LoveThe official online home for every Disney, Pixar & Star Wars fan in your family.Disney Store",
+        "MerchandiseNew ArrivalsAuthentic Custom T-ShirtsAll Parks ProductsDisney Gift CardLocationsAll Disneyland ShopsDowntown Disney Shops",
+        "Merchandise",
         "New Arrivals",
         "Authentic Custom T-Shirts",
         "All Parks Products",
-        "Disney Gift Card"
-      ]
-    },
-    {
-      "title": "Locations",
-      "items": [
+        "Disney Gift Card",
+        "Locations",
         "All Disneyland Shops",
         "Downtown Disney Shops",
+        "Shop the Stories You LoveThe official online home for every Disney, Pixar & Star Wars fan in your family.Disney Store",
         "Shop the Stories You Love",
         "The official online home for every Disney, Pixar & Star Wars fan in your family.",
-        "Disney Store"
-      ]
-    },
-    {
-      "title": "Your Cart",
-      "items": [
+        "Your CartYour Cart is empty.Find a HotelAdd TicketsTotalUSD",
+        "Your Cart",
+        "Your Cart is empty.Find a HotelAdd Tickets",
+        "Your Cart is empty.",
         "Find a Hotel",
         "Add Tickets",
+        "TotalUSD",
+        "Total",
+        "USD",
+        "My PlansHotel, Dining and ActivitiesMy Hotel ReservationsLink Tickets and PassesChange Your Theme Park TicketsTheme Park ReservationsMy PhotosMagic Key DiscountsMagic Key CalendarUpgrade Magic Key PassRenew Magic Key PassLog In or Create Account",
         "My PlansHotel, Dining and Activities",
         "My Plans",
         "Hotel, Dining and Activities",
-        "My Hotel Reservations",
         "Link Tickets and Passes",
         "Change Your Theme Park Tickets",
-        "Theme Park Reservations",
         "My Photos",
-        "Magic Key Discounts",
-        "Magic Key Calendar",
         "Upgrade Magic Key Pass",
         "Renew Magic Key Pass",
         "Log In or Create Account",
+        "Help CenterGuest ServicesGuests with DisabilitiesContact UsPre-Arrival TipsFrequently Asked QuestionsWhat is the best time to visit Disneyland Resort?Where can I experience Character Dining?View All",
+        "Help CenterGuest ServicesGuests with DisabilitiesContact UsPre-Arrival Tips",
         "Help Center",
         "Guest Services",
         "Guests with Disabilities",
         "Contact Us",
-        "Pre-Arrival Tips"
-      ]
-    },
-    {
-      "title": "Frequently Asked Questions",
-      "items": [
+        "Pre-Arrival Tips",
+        "Frequently Asked QuestionsWhat is the best time to visit Disneyland Resort?Where can I experience Character Dining?View All",
+        "Frequently Asked Questions",
         "What is the best time to visit Disneyland Resort?",
         "Where can I experience Character Dining?",
         "View All",
-        "Carthay Circle Lounge"
+        "Show Navigation",
+        "Show Search",
+        "Carthay Circle Lounge Lunch Menu Disney California Adventure Park, Buena Vista Street Signature Dining Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location. * This item is cooked to Guest preference and/or may contain raw or undercooked ingredients. Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
+        "Carthay Circle Lounge Lunch Menu Disney California Adventure Park, Buena Vista Street Signature Dining",
+        "Carthay Circle Lounge Lunch Menu Disney California Adventure Park, Buena Vista Street",
+        "Carthay Circle Lounge",
+        "Lunch Menu"
       ]
     },
     {
       "title": "Lunch Menu",
-      "items": []
-    },
-    {
-      "title": "Spicy Ahi Tuna Spring Roll",
-      "items": []
-    },
-    {
-      "title": "Vietnamese Twice-cooked Beef Lettuce Wraps",
-      "items": []
-    },
-    {
-      "title": "Spring Salad",
-      "items": []
-    },
-    {
-      "title": "Moroccan Roasted Chicken Meatballs",
-      "items": []
-    },
-    {
-      "title": "Achiote Shrimp",
-      "items": []
-    },
-    {
-      "title": "Bao Buns of Soy-Ginger Braised Pork Belly",
-      "items": []
-    },
-    {
-      "title": "“Naanza\"",
-      "items": []
-    },
-    {
-      "title": "Jamaican Chicken Curry",
-      "items": []
-    },
-    {
-      "title": "Green Thai Curry Baked Bay Scallops",
-      "items": []
-    },
-    {
-      "title": "Cold Water Salmon*",
-      "items": []
-    },
-    {
-      "title": "Yukon Potato & Leek Soup",
-      "items": []
-    },
-    {
-      "title": "Beef and Spinach Cannelloni's",
-      "items": []
-    },
-    {
-      "title": "Braised Short Rib Sliders",
-      "items": []
-    },
-    {
-      "title": "Tahitian Vanilla Bean-Root Beer Float Popsicle",
-      "items": []
-    },
-    {
-      "title": "Hazelnut Crunch Mickey Pop",
-      "items": []
-    },
-    {
-      "title": "Pepperoni Pizza Pinwheels",
-      "items": []
-    },
-    {
-      "title": "Penne Pasta with Marinara",
-      "items": []
-    },
-    {
-      "title": "Pineapple-Ginger Glazed Chicken Skewers",
-      "items": []
-    },
-    {
-      "title": "Hazelnut Crunch Mickey Pop",
-      "items": []
-    },
-    {
-      "title": "Classic Martini",
-      "items": []
-    },
-    {
-      "title": "Carthay Mai Tai",
-      "items": []
-    },
-    {
-      "title": "Negroni",
-      "items": []
-    },
-    {
-      "title": "Aviation Cocktail",
-      "items": []
-    },
-    {
-      "title": "Ernest's Daiquiri",
-      "items": []
-    },
-    {
-      "title": "Citrus Berry Punch",
-      "items": []
-    },
-    {
-      "title": "Side Car",
-      "items": []
-    },
-    {
-      "title": "Ginger Rogers",
-      "items": []
-    },
-    {
-      "title": "The Derby",
-      "items": []
-    },
-    {
-      "title": "Scotch Mist",
-      "items": []
-    },
-    {
-      "title": "Pisco Sour",
-      "items": []
-    },
-    {
-      "title": "Classic Manhattan",
-      "items": []
-    },
-    {
-      "title": "Tequila Daisy",
-      "items": []
-    },
-    {
-      "title": "Old Fashioned",
-      "items": []
-    },
-    {
-      "title": "Classic Gin & Tonic",
-      "items": []
-    },
-    {
-      "title": "Dill Gin & Tonic",
-      "items": []
-    },
-    {
-      "title": "Botanical Gin & Tonic",
-      "items": []
-    },
-    {
-      "title": "Sparkling Mare",
-      "items": []
-    },
-    {
-      "title": "Double Pear Martini",
-      "items": []
-    },
-    {
-      "title": "Club Mojito",
-      "items": []
-    },
-    {
-      "title": "Bloody Mary",
-      "items": []
-    },
-    {
-      "title": "Irish Coffee",
-      "items": []
-    },
-    {
-      "title": "Vintage Coffee",
-      "items": []
-    },
-    {
-      "title": "B-52 Coffee",
       "items": [
-        "Golden Road Golden State Cerveza, Los Angeles"
-      ]
-    },
-    {
-      "title": "Bootlegger's Old World Hefeweizen",
-      "items": []
-    },
-    {
-      "title": "Stone Brewery Delicious IPA",
-      "items": [
+        "Disney California Adventure Park, Buena Vista Street",
+        "Signature Dining",
+        "Spicy Ahi Tuna Spring Roll with Avocado, Sesame, Cucumber, Fresh Coriander Vietnamese Twice-cooked Beef Lettuce Wraps with Pineapple-Mint Salsa Spring Salad Romano Beans, Candied Pistachios, Reserved Cheddar Cheese, Strawberries Moroccan Roasted Chicken Meatballs Pomegranate Relish, Tzatziki Achiote Shrimp Tomatillos, Red Grapes, Salsa Macha Bao Buns of Soy-Ginger Braised Pork Belly Fresh Cabbage Kimchi “Naanza\" Fresh Garbanzo Hummus, Moroccan Tomato Chutney, Feta Jamaican Chicken Curry Root Vegetables, Jasmine Rice with Thyme Green Thai Curry Baked Bay Scallops Macadamia Nut, Green Papaya, Thai Basil Cold Water Salmon* Asparagus, Pinenuts, Roasted Bell Pepper-Preserved Lemon Vinaigrette Yukon Potato & Leek Soup Sugar Snap Peas, Orzo Pasta, Nueske’s Smoked Ham Beef and Spinach Cannelloni's Parmesan, Sungold Tomato Pomodoro Braised Short Rib Sliders Caramelized Onions, Sun-dried Tomato Aïoli, Arugula",
+        "Spicy Ahi Tuna Spring Roll with Avocado, Sesame, Cucumber, Fresh Coriander",
+        "Spicy Ahi Tuna Spring Roll",
+        "with Avocado, Sesame, Cucumber, Fresh Coriander",
+        "Vietnamese Twice-cooked Beef Lettuce Wraps with Pineapple-Mint Salsa",
+        "Vietnamese Twice-cooked Beef Lettuce Wraps",
+        "with Pineapple-Mint Salsa",
+        "Spring Salad Romano Beans, Candied Pistachios, Reserved Cheddar Cheese, Strawberries",
+        "Spring Salad",
+        "Romano Beans, Candied Pistachios, Reserved Cheddar Cheese, Strawberries",
+        "Moroccan Roasted Chicken Meatballs Pomegranate Relish, Tzatziki",
+        "Moroccan Roasted Chicken Meatballs",
+        "Pomegranate Relish, Tzatziki",
+        "Achiote Shrimp Tomatillos, Red Grapes, Salsa Macha",
+        "Achiote Shrimp",
+        "Tomatillos, Red Grapes, Salsa Macha",
+        "Bao Buns of Soy-Ginger Braised Pork Belly Fresh Cabbage Kimchi",
+        "Bao Buns of Soy-Ginger Braised Pork Belly",
+        "Fresh Cabbage Kimchi",
+        "“Naanza\" Fresh Garbanzo Hummus, Moroccan Tomato Chutney, Feta",
+        "“Naanza\"",
+        "Fresh Garbanzo Hummus, Moroccan Tomato Chutney, Feta",
+        "Jamaican Chicken Curry Root Vegetables, Jasmine Rice with Thyme",
+        "Jamaican Chicken Curry",
+        "Root Vegetables, Jasmine Rice with Thyme",
+        "Green Thai Curry Baked Bay Scallops Macadamia Nut, Green Papaya, Thai Basil",
+        "Green Thai Curry Baked Bay Scallops",
+        "Macadamia Nut, Green Papaya, Thai Basil",
+        "Cold Water Salmon* Asparagus, Pinenuts, Roasted Bell Pepper-Preserved Lemon Vinaigrette",
+        "Cold Water Salmon*",
+        "Asparagus, Pinenuts, Roasted Bell Pepper-Preserved Lemon Vinaigrette",
+        "Yukon Potato & Leek Soup Sugar Snap Peas, Orzo Pasta, Nueske’s Smoked Ham",
+        "Yukon Potato & Leek Soup",
+        "Sugar Snap Peas, Orzo Pasta, Nueske’s Smoked Ham",
+        "Beef and Spinach Cannelloni's Parmesan, Sungold Tomato Pomodoro",
+        "Beef and Spinach Cannelloni's",
+        "Parmesan, Sungold Tomato Pomodoro",
+        "Braised Short Rib Sliders Caramelized Onions, Sun-dried Tomato Aïoli, Arugula",
+        "Braised Short Rib Sliders",
+        "Caramelized Onions, Sun-dried Tomato Aïoli, Arugula",
+        "Tahitian Vanilla Bean-Root Beer Float Popsicle Hazelnut Crunch Mickey Pop",
+        "Tahitian Vanilla Bean-Root Beer Float Popsicle",
+        "Hazelnut Crunch Mickey Pop",
+        "Pepperoni Pizza Pinwheels served with choice of Small Low-fat Milk or Small DASANI® Water Penne Pasta with Marinara served with choice of Small Low-fat Milk or Small DASANI® Water Pineapple-Ginger Glazed Chicken Skewers Served with choice of Small Low-fat Milk or Small DASANI® Water Kids' menu items for children ages 9 and younger. Look for the Disney Check icon on printed menus to find options that meet Disney's nutrition guidelines.",
+        "Pepperoni Pizza Pinwheels served with choice of Small Low-fat Milk or Small DASANI® Water",
+        "Pepperoni Pizza Pinwheels",
+        "served with choice of Small Low-fat Milk or Small DASANI® Water",
+        "Penne Pasta with Marinara served with choice of Small Low-fat Milk or Small DASANI® Water",
+        "Penne Pasta with Marinara",
+        "Pineapple-Ginger Glazed Chicken Skewers Served with choice of Small Low-fat Milk or Small DASANI® Water",
+        "Pineapple-Ginger Glazed Chicken Skewers",
+        "Served with choice of Small Low-fat Milk or Small DASANI® Water",
+        "Kids' menu items for children ages 9 and younger. Look for the Disney Check icon on printed menus to find options that meet Disney's nutrition guidelines.",
+        "Hazelnut Crunch Mickey Pop Kids' menu items for children ages 9 and younger. Look for the Disney Check icon on printed menus to find options that meet Disney's nutrition guidelines.",
+        "Classic Martini Classically prepared with Hendrick’s Gin or Double Cross Vodka, Lillet Blanc Dry Vermouth, and Gourmet Blue Cheese-Truffle Olives served with an Ice Sphere made from locally sourced Purified Water Carthay Mai Tai Surfrider Rum, Luxardo Maraschino and Orgeat (Almond) Syrups, Pineapple and fresh Citrus Juices, tapped with Myer's Original Dark Rum, garnished with an Orange Wedge and Luxardo Cherry Negroni Beefeater Gin, Campari, and Carpano Antica Sweet Vermouth served over Hard Cubed Ice Aviation Cocktail Plymouth Gin, Crème de Violette Liqueur, Luxardo Maraschino Liqueur, and fresh Lemon Juice, served up Ernest's Daiquiri Bacardi Superior Rum, Luxardo Maraschino Liqueur, fresh Lime and Grapefruit Juice, and Organic Agave Nectar, served up Citrus Berry Punch Pimm’s No. 1 Liqueur, Plymouth Gin, Strawberry, and Lemonade served over Crushed Ice Side Car Hennessy V.S. Cognac, Cointreau, fresh Lemon Juice, and Agave Nectar with a Lemon Peel and a Sugar Rim",
+        "Classic Martini Classically prepared with Hendrick’s Gin or Double Cross Vodka, Lillet Blanc Dry Vermouth, and Gourmet Blue Cheese-Truffle Olives served with an Ice Sphere made from locally sourced Purified Water",
+        "Classic Martini",
+        "Classically prepared with Hendrick’s Gin or Double Cross Vodka, Lillet Blanc Dry Vermouth, and Gourmet Blue Cheese-Truffle Olives served with an Ice Sphere made from locally sourced Purified Water",
+        "Carthay Mai Tai Surfrider Rum, Luxardo Maraschino and Orgeat (Almond) Syrups, Pineapple and fresh Citrus Juices, tapped with Myer's Original Dark Rum, garnished with an Orange Wedge and Luxardo Cherry",
+        "Carthay Mai Tai",
+        "Surfrider Rum, Luxardo Maraschino and Orgeat (Almond) Syrups, Pineapple and fresh Citrus Juices, tapped with Myer's Original Dark Rum, garnished with an Orange Wedge and Luxardo Cherry",
+        "Negroni Beefeater Gin, Campari, and Carpano Antica Sweet Vermouth served over Hard Cubed Ice",
+        "Negroni",
+        "Beefeater Gin, Campari, and Carpano Antica Sweet Vermouth served over Hard Cubed Ice",
+        "Aviation Cocktail Plymouth Gin, Crème de Violette Liqueur, Luxardo Maraschino Liqueur, and fresh Lemon Juice, served up",
+        "Aviation Cocktail",
+        "Plymouth Gin, Crème de Violette Liqueur, Luxardo Maraschino Liqueur, and fresh Lemon Juice, served up",
+        "Ernest's Daiquiri Bacardi Superior Rum, Luxardo Maraschino Liqueur, fresh Lime and Grapefruit Juice, and Organic Agave Nectar, served up",
+        "Ernest's Daiquiri",
+        "Bacardi Superior Rum, Luxardo Maraschino Liqueur, fresh Lime and Grapefruit Juice, and Organic Agave Nectar, served up",
+        "Citrus Berry Punch Pimm’s No. 1 Liqueur, Plymouth Gin, Strawberry, and Lemonade served over Crushed Ice",
+        "Citrus Berry Punch",
+        "Pimm’s No. 1 Liqueur, Plymouth Gin, Strawberry, and Lemonade served over Crushed Ice",
+        "Side Car Hennessy V.S. Cognac, Cointreau, fresh Lemon Juice, and Agave Nectar with a Lemon Peel and a Sugar Rim",
+        "Side Car",
+        "Hennessy V.S. Cognac, Cointreau, fresh Lemon Juice, and Agave Nectar with a Lemon Peel and a Sugar Rim",
+        "Ginger Rogers Plymouth Gin, Luxardo Apricot Liqueur, Noilly Prat Dry Vermouth, and a hint of fresh Lemon Juice, served up The Derby Bulleit Bourbon, fresh Grapefruit Juice, and Honey, served up Scotch Mist Known to be Walt’s Drink of Choice – Johnnie Walker Black Label Scotch with a Lemon Peel served over Crushed Ice Pisco Sour El Gobernador Pisco, fresh Lime Juice, Organic Agave Nectar, Angostura Bitters, and Egg Whites Classic Manhattan Bulleit Rye Small Batch American Whiskey, Carpano Antica Sweet Vermouth, Angostura Bitters, and Luxardo Gourmet Maraschino Cherries served with an Ice Sphere made from locally sourced Purified Water Tequila Daisy Don Julio Reposado Tequila, Cointreau, Crème de Violette Liqueur, fresh Lime Juice, Organic Agave Nectar, and Egg Whites, served up",
+        "Ginger Rogers Plymouth Gin, Luxardo Apricot Liqueur, Noilly Prat Dry Vermouth, and a hint of fresh Lemon Juice, served up",
+        "Ginger Rogers",
+        "Plymouth Gin, Luxardo Apricot Liqueur, Noilly Prat Dry Vermouth, and a hint of fresh Lemon Juice, served up",
+        "The Derby Bulleit Bourbon, fresh Grapefruit Juice, and Honey, served up",
+        "The Derby",
+        "Bulleit Bourbon, fresh Grapefruit Juice, and Honey, served up",
+        "Scotch Mist Known to be Walt’s Drink of Choice – Johnnie Walker Black Label Scotch with a Lemon Peel served over Crushed Ice",
+        "Scotch Mist",
+        "Known to be Walt’s Drink of Choice – Johnnie Walker Black Label Scotch with a Lemon Peel served over Crushed Ice",
+        "Pisco Sour El Gobernador Pisco, fresh Lime Juice, Organic Agave Nectar, Angostura Bitters, and Egg Whites",
+        "Pisco Sour",
+        "El Gobernador Pisco, fresh Lime Juice, Organic Agave Nectar, Angostura Bitters, and Egg Whites",
+        "Classic Manhattan Bulleit Rye Small Batch American Whiskey, Carpano Antica Sweet Vermouth, Angostura Bitters, and Luxardo Gourmet Maraschino Cherries served with an Ice Sphere made from locally sourced Purified Water",
+        "Classic Manhattan",
+        "Bulleit Rye Small Batch American Whiskey, Carpano Antica Sweet Vermouth, Angostura Bitters, and Luxardo Gourmet Maraschino Cherries served with an Ice Sphere made from locally sourced Purified Water",
+        "Tequila Daisy Don Julio Reposado Tequila, Cointreau, Crème de Violette Liqueur, fresh Lime Juice, Organic Agave Nectar, and Egg Whites, served up",
+        "Tequila Daisy",
+        "Don Julio Reposado Tequila, Cointreau, Crème de Violette Liqueur, fresh Lime Juice, Organic Agave Nectar, and Egg Whites, served up",
+        "Old Fashioned Woodford Reserve Bourbon with Angostura and Orange Bitters, a Luxardo Gourmet Maraschino Cherry, and served with an Ice Sphere made from locally sourced Purified Water Classic Gin & Tonic Hendrick’s Gin and Premium Tonic Dill Gin & Tonic Plymouth Gin, Premium Tonic, Zesty Deli Dill Pickle Brine, locally grown Organic Dill, and Lemon Peel Botanical Gin & Tonic Hendrick's Gin, Premium Tonic, Star Anise, Cardamom, and Mint Sparkling Mare Saint-Hilaire Sparkling Wine, St-Germain Elderflower Liqueur, and Aperol Orange Aperitif Double Pear Martini Double Cross and Absolut Pears Vodkas, Pear Nectar, and fresh Lime Juice complemented with a marinated Baby Pear, served up Club Mojito Bacardi Superior Rum, Organic Mint from nearby farms, fresh Lime Juice, and Organic Agave Nectar topped with locally sourced Purified Sparkling Water served over Crushed Ice Bloody Mary Hanson of Sonoma Habanero Organic Vodka, Bloody Mary Mix, Barbecue Bitters, and Dill Pickle Brine garnished with a locally grown Organic Dill Sprig and a dehydrated Horseradish-crusted Tomato Slice",
+        "Old Fashioned Woodford Reserve Bourbon with Angostura and Orange Bitters, a Luxardo Gourmet Maraschino Cherry, and served with an Ice Sphere made from locally sourced Purified Water",
+        "Old Fashioned",
+        "Woodford Reserve Bourbon with Angostura and Orange Bitters, a Luxardo Gourmet Maraschino Cherry, and served with an Ice Sphere made from locally sourced Purified Water",
+        "Classic Gin & Tonic Hendrick’s Gin and Premium Tonic",
+        "Classic Gin & Tonic",
+        "Hendrick’s Gin and Premium Tonic",
+        "Dill Gin & Tonic Plymouth Gin, Premium Tonic, Zesty Deli Dill Pickle Brine, locally grown Organic Dill, and Lemon Peel",
+        "Dill Gin & Tonic",
+        "Plymouth Gin, Premium Tonic, Zesty Deli Dill Pickle Brine, locally grown Organic Dill, and Lemon Peel",
+        "Botanical Gin & Tonic Hendrick's Gin, Premium Tonic, Star Anise, Cardamom, and Mint",
+        "Botanical Gin & Tonic",
+        "Hendrick's Gin, Premium Tonic, Star Anise, Cardamom, and Mint",
+        "Sparkling Mare Saint-Hilaire Sparkling Wine, St-Germain Elderflower Liqueur, and Aperol Orange Aperitif",
+        "Sparkling Mare",
+        "Saint-Hilaire Sparkling Wine, St-Germain Elderflower Liqueur, and Aperol Orange Aperitif",
+        "Double Pear Martini Double Cross and Absolut Pears Vodkas, Pear Nectar, and fresh Lime Juice complemented with a marinated Baby Pear, served up",
+        "Double Pear Martini",
+        "Double Cross and Absolut Pears Vodkas, Pear Nectar, and fresh Lime Juice complemented with a marinated Baby Pear, served up",
+        "Club Mojito Bacardi Superior Rum, Organic Mint from nearby farms, fresh Lime Juice, and Organic Agave Nectar topped with locally sourced Purified Sparkling Water served over Crushed Ice",
+        "Club Mojito",
+        "Bacardi Superior Rum, Organic Mint from nearby farms, fresh Lime Juice, and Organic Agave Nectar topped with locally sourced Purified Sparkling Water served over Crushed Ice",
+        "Bloody Mary Hanson of Sonoma Habanero Organic Vodka, Bloody Mary Mix, Barbecue Bitters, and Dill Pickle Brine garnished with a locally grown Organic Dill Sprig and a dehydrated Horseradish-crusted Tomato Slice",
+        "Bloody Mary",
+        "Hanson of Sonoma Habanero Organic Vodka, Bloody Mary Mix, Barbecue Bitters, and Dill Pickle Brine garnished with a locally grown Organic Dill Sprig and a dehydrated Horseradish-crusted Tomato Slice",
+        "Irish Coffee Jameson Irish Whiskey, hot Coffee and two Sugar Cubes topped with frothy Cream Vintage Coffee Baileys Irish Cream, Tuaca and a splash of hot Coffee served in a Snifter Glass with a stick of Cinnamon B-52 Coffee Grand Marnier, Kahlúa, Baileys Irish Cream, and hot Coffee topped with fresh House-made Whipped Cream",
+        "Irish Coffee Jameson Irish Whiskey, hot Coffee and two Sugar Cubes topped with frothy Cream",
+        "Irish Coffee",
+        "Jameson Irish Whiskey, hot Coffee and two Sugar Cubes topped with frothy Cream",
+        "Vintage Coffee Baileys Irish Cream, Tuaca and a splash of hot Coffee served in a Snifter Glass with a stick of Cinnamon",
+        "Vintage Coffee",
+        "Baileys Irish Cream, Tuaca and a splash of hot Coffee served in a Snifter Glass with a stick of Cinnamon",
+        "B-52 Coffee Grand Marnier, Kahlúa, Baileys Irish Cream, and hot Coffee topped with fresh House-made Whipped Cream",
+        "B-52 Coffee",
+        "Grand Marnier, Kahlúa, Baileys Irish Cream, and hot Coffee topped with fresh House-made Whipped Cream",
+        "Golden Road Golden State Cerveza, Los Angeles (4.8% ABV) Bootlegger's Old World Hefeweizen Fullerton, (5.0% ABV) Stone Brewery Delicious IPA Escondido, (7.7% ABV) Karl Strauss® Brewing Company, 70th Anniversary IPA, San Diego CA. (ABV 7.0%) An intensely single-hopped American IPA bursting with Grapefruit Aromas, Citrus, and Tropical Fruit Flavors (ABV 7.0%) Glass",
+        "Golden Road Golden State Cerveza, Los Angeles (4.8% ABV)",
+        "Golden Road Golden State Cerveza, Los Angeles",
+        "(4.8% ABV)",
+        "Bootlegger's Old World Hefeweizen Fullerton, (5.0% ABV)",
+        "Bootlegger's Old World Hefeweizen",
+        "Fullerton, (5.0% ABV)",
+        "Stone Brewery Delicious IPA Escondido, (7.7% ABV)",
+        "Stone Brewery Delicious IPA",
+        "Escondido, (7.7% ABV)",
+        "Karl Strauss® Brewing Company, 70th Anniversary IPA, San Diego CA. (ABV 7.0%) An intensely single-hopped American IPA bursting with Grapefruit Aromas, Citrus, and Tropical Fruit Flavors (ABV 7.0%) Glass",
+        "Karl Strauss® Brewing Company, 70th Anniversary IPA, San Diego CA. (ABV 7.0%) An intensely single-hopped American IPA bursting with Grapefruit Aromas, Citrus, and Tropical Fruit Flavors (ABV 7.0%)",
         "Karl Strauss® Brewing Company, 70th Anniversary IPA, San Diego CA. (ABV 7.0%)",
+        "An intensely single-hopped American IPA bursting with Grapefruit Aromas, Citrus, and Tropical Fruit Flavors (ABV 7.0%)",
+        "Glass",
+        "North Coast Pranqster, Fort Bragg (ABV 7.6%) Karl Strauss® Red Trolley Ale, San Diego (ABV 5.8%) Firestone Walker Double Barrel Ale, Paso Robles (ABV 5.0%) North Coast Red Seal Ale, Fort Bragg (ABV 5.4%) Ballast Point Sculpin IPA, San Diego (ABV 7.0%) Lost Coast 8 Ball Stout, Eureka (ABV 6.2%)",
+        "North Coast Pranqster, Fort Bragg (ABV 7.6%)",
         "North Coast Pranqster, Fort Bragg",
+        "(ABV 7.6%)",
+        "Karl Strauss® Red Trolley Ale, San Diego (ABV 5.8%)",
         "Karl Strauss® Red Trolley Ale, San Diego",
+        "(ABV 5.8%)",
+        "Firestone Walker Double Barrel Ale, Paso Robles (ABV 5.0%)",
         "Firestone Walker Double Barrel Ale, Paso Robles",
+        "(ABV 5.0%)",
+        "North Coast Red Seal Ale, Fort Bragg (ABV 5.4%)",
         "North Coast Red Seal Ale, Fort Bragg",
+        "(ABV 5.4%)",
+        "Ballast Point Sculpin IPA, San Diego (ABV 7.0%)",
         "Ballast Point Sculpin IPA, San Diego",
+        "(ABV 7.0%)",
+        "Lost Coast 8 Ball Stout, Eureka (ABV 6.2%)",
         "Lost Coast 8 Ball Stout, Eureka",
+        "(ABV 6.2%)",
+        "Sparkling, Banfi, Rosa Regale Brachetto d'Acqui, Piedmont, Italy 2021 Bottle Glass Sparkling, Zonin, Prosecco, Extra Dry, Veneto, Italy NV Bottle Glass Riesling, Dr. Loosen, Dr. L, Mosel, Germany 2021 Bottle Glass Rose, Casta De Vinos, Pitaya, Valle de Guadalupe, Baja CA Bottle Glass Sauvignon Blanc, Bella Grace, Amador County 2021 Bottle Glass Sauvignon Blanc, Wither Hills, Marlborough, New Zealand Bottle Glass Viognier, Zaca Mesa, Santa Ynez Valley Bottle Glass Chenin Blanc, Marc Bredif, Vouvray, Loire Bottle Glass Chardonnay, Jordan, Russian River Valley Bottle Glass",
+        "Sparkling, Banfi, Rosa Regale Brachetto d'Acqui, Piedmont, Italy 2021 Bottle Glass",
         "Sparkling, Banfi, Rosa Regale Brachetto d'Acqui, Piedmont, Italy 2021",
+        "Bottle Glass",
+        "Bottle",
+        "Sparkling, Zonin, Prosecco, Extra Dry, Veneto, Italy NV Bottle Glass",
         "Sparkling, Zonin, Prosecco, Extra Dry, Veneto, Italy NV",
+        "Riesling, Dr. Loosen, Dr. L, Mosel, Germany 2021 Bottle Glass",
         "Riesling, Dr. Loosen, Dr. L, Mosel, Germany 2021",
+        "Rose, Casta De Vinos, Pitaya, Valle de Guadalupe, Baja CA Bottle Glass",
         "Rose, Casta De Vinos, Pitaya, Valle de Guadalupe, Baja CA",
+        "Sauvignon Blanc, Bella Grace, Amador County 2021 Bottle Glass",
         "Sauvignon Blanc, Bella Grace, Amador County 2021",
+        "Sauvignon Blanc, Wither Hills, Marlborough, New Zealand Bottle Glass",
         "Sauvignon Blanc, Wither Hills, Marlborough, New Zealand",
+        "Viognier, Zaca Mesa, Santa Ynez Valley Bottle Glass",
         "Viognier, Zaca Mesa, Santa Ynez Valley",
+        "Chenin Blanc, Marc Bredif, Vouvray, Loire Bottle Glass",
         "Chenin Blanc, Marc Bredif, Vouvray, Loire",
+        "Chardonnay, Jordan, Russian River Valley Bottle Glass",
         "Chardonnay, Jordan, Russian River Valley",
+        "Pinot Noir, Hartford Court, Lands Edge, Sonoma Coast Bottle Glass Pinot Noir, Argyle, Willamette Valley 2021 Bottle Glass Merlot, Rutherford Hill, Napa Valley 2021 Bottle Glass Syrah, Alexander Valley Vineyards, Sonoma County Bottle Glass Zinfandel, Ridge Three Valleys, Sonoma County Bottle Glass Cabernet Franc, Peju, Napa Valley Bottle Glass Cabernet Sauvignon, Jordan, Alexander Valley Bottle Glass Cabernet Sauvignon, Sebastiani, Sonoma County Bottle Glass Cabernet Sauvignon, Groth, Napa Valley Bottle Glass",
+        "Pinot Noir, Hartford Court, Lands Edge, Sonoma Coast Bottle Glass",
         "Pinot Noir, Hartford Court, Lands Edge, Sonoma Coast",
+        "Pinot Noir, Argyle, Willamette Valley 2021 Bottle Glass",
         "Pinot Noir, Argyle, Willamette Valley 2021",
+        "Merlot, Rutherford Hill, Napa Valley 2021 Bottle Glass",
         "Merlot, Rutherford Hill, Napa Valley 2021",
+        "Syrah, Alexander Valley Vineyards, Sonoma County Bottle Glass",
         "Syrah, Alexander Valley Vineyards, Sonoma County",
+        "Zinfandel, Ridge Three Valleys, Sonoma County Bottle Glass",
         "Zinfandel, Ridge Three Valleys, Sonoma County",
+        "Cabernet Franc, Peju, Napa Valley Bottle Glass",
         "Cabernet Franc, Peju, Napa Valley",
+        "Cabernet Sauvignon, Jordan, Alexander Valley Bottle Glass",
         "Cabernet Sauvignon, Jordan, Alexander Valley",
+        "Cabernet Sauvignon, Sebastiani, Sonoma County Bottle Glass",
         "Cabernet Sauvignon, Sebastiani, Sonoma County",
-        "Cabernet Sauvignon, Groth, Napa Valley"
-      ]
-    },
-    {
-      "title": "Rose Petal Soda",
-      "items": []
-    },
-    {
-      "title": "Wildberry Lemonade",
-      "items": []
-    },
-    {
-      "title": "Twin Bill",
-      "items": []
-    },
-    {
-      "title": "Water",
-      "items": []
-    },
-    {
-      "title": "Assorted Fountain Beverages",
-      "items": []
-    },
-    {
-      "title": "Coffee",
-      "items": []
-    },
-    {
-      "title": "Iced Tea",
-      "items": []
-    },
-    {
-      "title": "Hot Cocoa",
-      "items": [
+        "Cabernet Sauvignon, Groth, Napa Valley Bottle Glass",
+        "Cabernet Sauvignon, Groth, Napa Valley",
+        "Rose Petal Soda locally sourced Purified Sparkling Water flavored with delicate Rose Essence and garnished with an edible Sugar-glazed Organic Rose Petal Wildberry Lemonade All-Natural Lemonade with flavors of Blackberry, Strawberry, Raspberry, and Blueberry with a spritz of Purified Sparkling Water Twin Bill a classic combination of natural Lemonade and Iced Tea lightly sweetened with Organic Agave Nectar Water Premium Still (1 L) or Premium Sparkling (1 L) Assorted Fountain Beverages Coffee Regular or Decaf Iced Tea Hot Cocoa",
+        "Rose Petal Soda locally sourced Purified Sparkling Water flavored with delicate Rose Essence and garnished with an edible Sugar-glazed Organic Rose Petal",
+        "Rose Petal Soda",
+        "locally sourced Purified Sparkling Water flavored with delicate Rose Essence and garnished with an edible Sugar-glazed Organic Rose Petal",
+        "Wildberry Lemonade All-Natural Lemonade with flavors of Blackberry, Strawberry, Raspberry, and Blueberry with a spritz of Purified Sparkling Water",
+        "Wildberry Lemonade",
+        "All-Natural Lemonade with flavors of Blackberry, Strawberry, Raspberry, and Blueberry with a spritz of Purified Sparkling Water",
+        "Twin Bill a classic combination of natural Lemonade and Iced Tea lightly sweetened with Organic Agave Nectar",
+        "Twin Bill",
+        "a classic combination of natural Lemonade and Iced Tea lightly sweetened with Organic Agave Nectar",
+        "Water Premium Still (1 L) or Premium Sparkling (1 L)",
+        "Water",
+        "Premium Still (1 L) or Premium Sparkling (1 L)",
+        "Assorted Fountain Beverages",
+        "Coffee Regular or Decaf",
+        "Coffee",
+        "Regular or Decaf",
+        "Iced Tea",
+        "Hot Cocoa",
+        "Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location. * This item is cooked to Guest preference and/or may contain raw or undercooked ingredients. Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
         "Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location.",
         "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
         "Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
+        "$",
+        "0",
+        "Show More Links Help & Guest ServicesSite MapTerms of UseLegal NoticesPrivacy PolicyYour Privacy ChoicesChildren's Online Privacy PolicyYour US State Privacy RightsInterest-Based Ads © Disney, All Rights Reserved",
+        "Show More Links",
+        "Help & Guest ServicesSite MapTerms of UseLegal NoticesPrivacy PolicyYour Privacy ChoicesChildren's Online Privacy PolicyYour US State Privacy RightsInterest-Based Ads © Disney, All Rights Reserved",
         "Help & Guest Services",
         "Site Map",
+        "Terms of Use",
+        "Legal Notices",
+        "Privacy Policy",
         "Your Privacy Choices",
+        "Children's Online Privacy Policy",
         "Your US State Privacy Rights",
-        "Interest-Based Ads"
-      ]
-    },
-    {
-      "title": "Notice of Right to Opt Out of Sale/Sharing",
-      "items": []
-    },
-    {
-      "title": "Manage Consent Preferences",
-      "items": [
+        "Interest-Based Ads",
+        "© Disney, All Rights Reserved",
+        "Notice of Right to Opt Out of Sale/SharingSome US states provide residents (or their authorized agents) with the right to opt out of “targeted advertising,” “selling,” or “sharing” of personal information, as defined by applicable laws. You can move the toggle to the left and click “Submit” to opt out of such activities occurring through this digital property. If you are logged in, we may be able to associate your choice with your account and apply it to data sharing occurring through this digital property (across your browsers and devices) as well as other digital properties of The Walt Disney Family of Companies. You can confirm the status of your choice or opt out or in by clicking “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each property. Manage Consent PreferencesSelling, Sharing, Targeted Advertising Selling, Sharing, Targeted Advertising If you are not logged in, your opt-out will be specific to this property and device or browser. For our other digital properties, to opt out, select “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each. If you clear your tracking history or use another browser or device, you’ll need to opt out again.You can also submit this opt-out form, which may enable us to apply your opt-out more broadly, for example, to stop data sharing in connection with advertising intended to reach you on platforms not operated by Disney (e.g., social media platforms). You may enable online, where available, a universal tool that automatically communicates your opt-out, such as Global Privacy Control (“GPC”), which we’ll process as if you had opted out through the toggle.Even if you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. Please visit Your US State Privacy Rights for more information about your rights and how to exercise them.Back ButtonCookie List Search IconFilter IconClear checkbox label labelApply CancelConsent Leg.Interest checkbox label label checkbox label label checkbox label label Submit",
+        "Notice of Right to Opt Out of Sale/SharingSome US states provide residents (or their authorized agents) with the right to opt out of “targeted advertising,” “selling,” or “sharing” of personal information, as defined by applicable laws. You can move the toggle to the left and click “Submit” to opt out of such activities occurring through this digital property. If you are logged in, we may be able to associate your choice with your account and apply it to data sharing occurring through this digital property (across your browsers and devices) as well as other digital properties of The Walt Disney Family of Companies. You can confirm the status of your choice or opt out or in by clicking “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each property. Manage Consent PreferencesSelling, Sharing, Targeted Advertising Selling, Sharing, Targeted Advertising If you are not logged in, your opt-out will be specific to this property and device or browser. For our other digital properties, to opt out, select “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each. If you clear your tracking history or use another browser or device, you’ll need to opt out again.You can also submit this opt-out form, which may enable us to apply your opt-out more broadly, for example, to stop data sharing in connection with advertising intended to reach you on platforms not operated by Disney (e.g., social media platforms). You may enable online, where available, a universal tool that automatically communicates your opt-out, such as Global Privacy Control (“GPC”), which we’ll process as if you had opted out through the toggle.Even if you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. Please visit Your US State Privacy Rights for more information about your rights and how to exercise them.",
+        "Notice of Right to Opt Out of Sale/Sharing",
+        "Some US states provide residents (or their authorized agents) with the right to opt out of “targeted advertising,” “selling,” or “sharing” of personal information, as defined by applicable laws. You can move the toggle to the left and click “Submit” to opt out of such activities occurring through this digital property. If you are logged in, we may be able to associate your choice with your account and apply it to data sharing occurring through this digital property (across your browsers and devices) as well as other digital properties of The Walt Disney Family of Companies. You can confirm the status of your choice or opt out or in by clicking “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each property.",
+        "Manage Consent Preferences",
+        "Selling, Sharing, Targeted Advertising Selling, Sharing, Targeted Advertising If you are not logged in, your opt-out will be specific to this property and device or browser. For our other digital properties, to opt out, select “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each. If you clear your tracking history or use another browser or device, you’ll need to opt out again.You can also submit this opt-out form, which may enable us to apply your opt-out more broadly, for example, to stop data sharing in connection with advertising intended to reach you on platforms not operated by Disney (e.g., social media platforms). You may enable online, where available, a universal tool that automatically communicates your opt-out, such as Global Privacy Control (“GPC”), which we’ll process as if you had opted out through the toggle.Even if you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. Please visit Your US State Privacy Rights for more information about your rights and how to exercise them.",
         "Selling, Sharing, Targeted Advertising",
-        "If you are not logged in, your opt-out will be specific to this property and device or browser. For our other digital properties, to opt out, select “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each. If you clear your tracking history or use another browser or device, you’ll need to opt out again.You can also submit this opt-out form, which may enable us to apply your opt-out more broadly, for example, to stop data sharing in connection with advertising intended to reach you on platforms not operated by Disney (e.g., social media platforms). You may enable online, where available, a universal tool that automatically communicates your opt-out, such as Global Privacy Control (“GPC”), which we’ll process as if you had opted out through the toggle.Even if you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. Please visit Your US State Privacy Rights for more information about your rights and how to exercise them."
-      ]
-    },
-    {
-      "title": "Cookie List",
-      "items": [
-        "checkbox label label"
+        "If you are not logged in, your opt-out will be specific to this property and device or browser. For our other digital properties, to opt out, select “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each. If you clear your tracking history or use another browser or device, you’ll need to opt out again.You can also submit this opt-out form, which may enable us to apply your opt-out more broadly, for example, to stop data sharing in connection with advertising intended to reach you on platforms not operated by Disney (e.g., social media platforms). You may enable online, where available, a universal tool that automatically communicates your opt-out, such as Global Privacy Control (“GPC”), which we’ll process as if you had opted out through the toggle.Even if you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. Please visit Your US State Privacy Rights for more information about your rights and how to exercise them.",
+        "Back ButtonCookie List Search IconFilter IconClear checkbox label labelApply Cancel",
+        "Back ButtonCookie List",
+        "Cookie List",
+        "Search IconFilter IconClear checkbox label labelApply Cancel",
+        "Search Icon",
+        "Filter Icon",
+        "Clear checkbox label labelApply Cancel",
+        "checkbox label labelApply Cancel",
+        "checkbox label label",
+        "checkbox label",
+        "label",
+        "Apply Cancel",
+        "Consent Leg.Interest checkbox label label checkbox label label checkbox label label",
+        "Consent Leg.Interest",
+        "Consent",
+        "Leg.Interest",
+        "checkbox label label checkbox label label checkbox label label",
+        "Submit"
       ]
     }
   ]

@@ -1,33 +1,47 @@
 {
   "sections": [
     {
-      "title": "Tickets & Passes",
+      "title": "menu",
       "items": [
+        "Show Navigation Tickets Show Search",
+        "Visit Disney.comSkip NavigationUnited States (English)Help",
+        "Visit Disney.com",
+        "United States (English)Help",
+        "United States (English)",
+        "Help",
+        "Tickets & PassesBuy Theme Park TicketsView Offers & DiscountsBuy Special Event TicketsBuy Theme Park ParkingBuy Magic Key PassesTheme Park ReservationsChange Theme Park TicketsPlan Your VisitExplore Disneyland VacationsLightning Lane PassesEvents CalendarMapsDirectionsExplore Our ParksSee All Hours & Entertainment SchedulePark Hours for Saturday, April 18, 2026Disneyland Park8:00 AM to 11:00 PMDisney California Adventure Park8:00 AM to 10:00 PM",
+        "Tickets & PassesBuy Theme Park TicketsView Offers & DiscountsBuy Special Event TicketsBuy Theme Park ParkingBuy Magic Key PassesTheme Park ReservationsChange Theme Park TicketsPlan Your VisitExplore Disneyland VacationsLightning Lane PassesEvents CalendarMapsDirections",
+        "Tickets & Passes",
         "Buy Theme Park Tickets",
         "View Offers & Discounts",
         "Buy Special Event Tickets",
         "Buy Theme Park Parking",
         "Buy Magic Key Passes",
         "Theme Park Reservations",
-        "Change Theme Park Tickets"
-      ]
-    },
-    {
-      "title": "Plan Your Visit",
-      "items": [
+        "Change Theme Park Tickets",
+        "Plan Your Visit",
         "Explore Disneyland Vacations",
         "Lightning Lane Passes",
         "Events Calendar",
         "Maps",
         "Directions",
+        "Explore Our ParksSee All Hours & Entertainment SchedulePark Hours for Saturday, April 18, 2026Disneyland Park8:00 AM to 11:00 PMDisney California Adventure Park8:00 AM to 10:00 PM",
         "Explore Our ParksSee All Hours & Entertainment SchedulePark Hours for Saturday, April 18, 2026",
         "Explore Our Parks",
         "See All Hours & Entertainment Schedule",
         "Park Hours for Saturday, April 18, 2026",
+        "Saturday, April 18, 2026",
         "Disneyland Park8:00 AM to 11:00 PM",
         "Disneyland Park",
+        "8:00 AM to 11:00 PM",
+        "8:00 AM",
+        "11:00 PM",
         "Disney California Adventure Park8:00 AM to 10:00 PM",
         "Disney California Adventure Park",
+        "8:00 AM to 10:00 PM",
+        "10:00 PM",
+        "View All 3 Disneyland Resort HotelsDisney's Grand Californian Hotel & SpaCraftsman-style elegance with the all-new Tenaya Stone SpaDisneyland HotelModern classic with luxurious rooms and monorail waterslidesPixar Place HotelContemporary design with unique touches of Pixar artistryGood Neighbor HotelsDisney-approved quality hotels close to the Disneyland ResortReservationsMy Hotel ReservationsDisneyland Resort Hotel PackagesGood Neighbor Hotel PackagesMaps & DirectionsSave Up to 25% off on Stays This WinterSave on Select Stays This SummerWhy Stay at a Hotel of the Disneyland Resort?The Villas at Disneyland HotelHotel Guest ActivitiesView Offers and Discounts",
+        "View All 3 Disneyland Resort HotelsDisney's Grand Californian Hotel & SpaCraftsman-style elegance with the all-new Tenaya Stone SpaDisneyland HotelModern classic with luxurious rooms and monorail waterslidesPixar Place HotelContemporary design with unique touches of Pixar artistryGood Neighbor HotelsDisney-approved quality hotels close to the Disneyland ResortReservationsMy Hotel ReservationsDisneyland Resort Hotel PackagesGood Neighbor Hotel PackagesMaps & Directions",
         "View All 3 Disneyland Resort Hotels",
         "Disney's Grand Californian Hotel & SpaCraftsman-style elegance with the all-new Tenaya Stone Spa",
         "Disney's Grand Californian Hotel & Spa",
@@ -40,36 +54,27 @@
         "Contemporary design with unique touches of Pixar artistry",
         "Good Neighbor HotelsDisney-approved quality hotels close to the Disneyland Resort",
         "Good Neighbor Hotels",
-        "Disney-approved quality hotels close to the Disneyland Resort"
-      ]
-    },
-    {
-      "title": "Reservations",
-      "items": [
+        "Disney-approved quality hotels close to the Disneyland Resort",
+        "Reservations",
         "My Hotel Reservations",
         "Disneyland Resort Hotel Packages",
         "Good Neighbor Hotel Packages",
         "Maps & Directions",
+        "Save Up to 25% off on Stays This WinterSave on Select Stays This SummerWhy Stay at a Hotel of the Disneyland Resort?The Villas at Disneyland HotelHotel Guest ActivitiesView Offers and Discounts",
         "Save Up to 25% off on Stays This Winter",
         "Save on Select Stays This Summer",
         "Why Stay at a Hotel of the Disneyland Resort?",
         "The Villas at Disneyland Hotel",
         "Hotel Guest Activities",
-        "View Offers and Discounts"
-      ]
-    },
-    {
-      "title": "Dining",
-      "items": [
+        "View Offers and Discounts",
+        "DiningMake ReservationsMy Dining ReservationsCharacter DiningAll DiningActivitiesMagicBand+ ExperiencesAttractions and EntertainmentCharacter ExperiencesCrown CollectionVIP ToursEvents and ToursRecreationSpaDisney PhotoPassShoppingDisney StoreMerchandise Mobile CheckoutAll StoresDestinationsDowntown Disney DistrictSouthern CaliforniaMaps & DirectionsTicket and Reservations DetailsLightning Lane PassesDisneyland Resort 70th CelebrationWomen Who Make The Magic Guided TourCharacter Dining at Storytellers CafeKey to DisneylandDowntown Disney DistrictView Events",
+        "DiningMake ReservationsMy Dining ReservationsCharacter DiningAll DiningActivitiesMagicBand+ ExperiencesAttractions and EntertainmentCharacter ExperiencesCrown CollectionVIP ToursEvents and ToursRecreationSpaDisney PhotoPassShoppingDisney StoreMerchandise Mobile CheckoutAll StoresDestinationsDowntown Disney DistrictSouthern CaliforniaMaps & Directions",
+        "Dining",
         "Make Reservations",
         "My Dining Reservations",
         "Character Dining",
-        "All Dining"
-      ]
-    },
-    {
-      "title": "Activities",
-      "items": [
+        "All Dining",
+        "Activities",
         "MagicBand+ Experiences",
         "Attractions and Entertainment",
         "Character Experiences",
@@ -78,30 +83,22 @@
         "Events and Tours",
         "Recreation",
         "Spa",
-        "Disney PhotoPass"
-      ]
-    },
-    {
-      "title": "Shopping",
-      "items": [
+        "Disney PhotoPass",
+        "Shopping",
         "Disney Store",
         "Merchandise Mobile Checkout",
-        "All Stores"
-      ]
-    },
-    {
-      "title": "Destinations",
-      "items": [
+        "All Stores",
+        "Destinations",
         "Downtown Disney District",
         "Southern California",
-        "Maps & Directions",
+        "Ticket and Reservations DetailsLightning Lane PassesDisneyland Resort 70th CelebrationWomen Who Make The Magic Guided TourCharacter Dining at Storytellers CafeKey to DisneylandDowntown Disney DistrictView Events",
         "Ticket and Reservations Details",
-        "Lightning Lane Passes",
         "Disneyland Resort 70th Celebration",
         "Women Who Make The Magic Guided Tour",
         "Character Dining at Storytellers Cafe",
         "Key to Disneyland",
         "View Events",
+        "Magic Key Passes — Now on SaleLearn about the Disneyland Resort annual pass program.Magic Key DiscountsDiscover food and merchandise savings.Link Magic Key Pass to My ProfileMake theme park entry easier.Magic Key CalendarView blockout dates by pass type.Upgrade Magic Key PassesRenew Magic Key Passes",
         "Magic Key Passes — Now on SaleLearn about the Disneyland Resort annual pass program.",
         "Magic Key Passes — Now on Sale",
         "Learn about the Disneyland Resort annual pass program.",
@@ -115,158 +112,146 @@
         "Magic Key Calendar",
         "View blockout dates by pass type.",
         "Upgrade Magic Key Passes",
-        "Renew Magic Key Passes"
-      ]
-    },
-    {
-      "title": "Merchandise",
-      "items": [
+        "Renew Magic Key Passes",
+        "MerchandiseNew ArrivalsAuthentic Custom T-ShirtsAll Parks ProductsDisney Gift CardLocationsAll Disneyland ShopsDowntown Disney ShopsShop the Stories You LoveThe official online home for every Disney, Pixar & Star Wars fan in your family.Disney Store",
+        "MerchandiseNew ArrivalsAuthentic Custom T-ShirtsAll Parks ProductsDisney Gift CardLocationsAll Disneyland ShopsDowntown Disney Shops",
+        "Merchandise",
         "New Arrivals",
         "Authentic Custom T-Shirts",
         "All Parks Products",
-        "Disney Gift Card"
-      ]
-    },
-    {
-      "title": "Locations",
-      "items": [
+        "Disney Gift Card",
+        "Locations",
         "All Disneyland Shops",
         "Downtown Disney Shops",
+        "Shop the Stories You LoveThe official online home for every Disney, Pixar & Star Wars fan in your family.Disney Store",
         "Shop the Stories You Love",
         "The official online home for every Disney, Pixar & Star Wars fan in your family.",
-        "Disney Store"
-      ]
-    },
-    {
-      "title": "Your Cart",
-      "items": [
+        "Your CartYour Cart is empty.Find a HotelAdd TicketsTotalUSD",
+        "Your Cart",
+        "Your Cart is empty.Find a HotelAdd Tickets",
+        "Your Cart is empty.",
         "Find a Hotel",
         "Add Tickets",
+        "TotalUSD",
+        "Total",
+        "USD",
+        "My PlansHotel, Dining and ActivitiesMy Hotel ReservationsLink Tickets and PassesChange Your Theme Park TicketsTheme Park ReservationsMy PhotosMagic Key DiscountsMagic Key CalendarUpgrade Magic Key PassRenew Magic Key PassLog In or Create Account",
         "My PlansHotel, Dining and Activities",
         "My Plans",
         "Hotel, Dining and Activities",
-        "My Hotel Reservations",
         "Link Tickets and Passes",
         "Change Your Theme Park Tickets",
-        "Theme Park Reservations",
         "My Photos",
-        "Magic Key Discounts",
-        "Magic Key Calendar",
         "Upgrade Magic Key Pass",
         "Renew Magic Key Pass",
         "Log In or Create Account",
+        "Help CenterGuest ServicesGuests with DisabilitiesContact UsPre-Arrival TipsFrequently Asked QuestionsWhat is the best time to visit Disneyland Resort?Where can I experience Character Dining?View All",
+        "Help CenterGuest ServicesGuests with DisabilitiesContact UsPre-Arrival Tips",
         "Help Center",
         "Guest Services",
         "Guests with Disabilities",
         "Contact Us",
-        "Pre-Arrival Tips"
-      ]
-    },
-    {
-      "title": "Frequently Asked Questions",
-      "items": [
+        "Pre-Arrival Tips",
+        "Frequently Asked QuestionsWhat is the best time to visit Disneyland Resort?Where can I experience Character Dining?View All",
+        "Frequently Asked Questions",
         "What is the best time to visit Disneyland Resort?",
         "Where can I experience Character Dining?",
         "View All",
-        "Bayside Brews"
+        "Show Navigation",
+        "Show Search",
+        "Bayside Brews Snack Menu Disney California Adventure Park, Paradise Gardens Park Quick Service Restaurant Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location. * This item is cooked to Guest preference and/or may contain raw or undercooked ingredients. Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
+        "Bayside Brews Snack Menu Disney California Adventure Park, Paradise Gardens Park Quick Service Restaurant",
+        "Bayside Brews Snack Menu Disney California Adventure Park, Paradise Gardens Park",
+        "Bayside Brews",
+        "Snack Menu"
       ]
     },
     {
       "title": "Snack Menu",
-      "items": []
-    },
-    {
-      "title": "Jalapeño Cheese-filled Pretzel",
-      "items": []
-    },
-    {
-      "title": "Cream Cheese-filled Pretzel",
-      "items": []
-    },
-    {
-      "title": "Mickey Mouse Pretzel",
-      "items": []
-    },
-    {
-      "title": "Cheese Cup",
-      "items": []
-    },
-    {
-      "title": "Mini Babybel® snack cheese - 3-pack",
-      "items": []
-    },
-    {
-      "title": "Watermelon Pineapple Margarita",
-      "items": []
-    },
-    {
-      "title": "Crowns & Hops The Dopest Hazy IPA",
-      "items": []
-    },
-    {
-      "title": "Michelada with Crowns & Hops The Dopest Hazy IPA",
-      "items": []
-    },
-    {
-      "title": "Ace Peach Hard Cider",
-      "items": []
-    },
-    {
-      "title": "Michelada Peach Hard Cider",
       "items": [
-        "Karl Strauss® Brewing, Tower X West Coast-style IPA"
-      ]
-    },
-    {
-      "title": "Michelada with Karl Strauss® Tower X IPA",
-      "items": []
-    },
-    {
-      "title": "Pacifico Cerveza Clara",
-      "items": []
-    },
-    {
-      "title": "Michelada with Pacifico",
-      "items": [
-        "Golden Road Brewing, Mango Cart, Los Angeles, CA"
-      ]
-    },
-    {
-      "title": "Michelob Ultra",
-      "items": []
-    },
-    {
-      "title": "Michelada with Michelob Ultra",
-      "items": []
-    },
-    {
-      "title": "DASANI® Bottled Water",
-      "items": [
+        "Disney California Adventure Park, Paradise Gardens Park",
+        "Quick Service Restaurant",
+        "Jalapeño Cheese-filled Pretzel Cream Cheese-filled Pretzel Mickey Mouse Pretzel Cheese Cup Mini Babybel® snack cheese - 3-pack",
+        "Jalapeño Cheese-filled Pretzel",
+        "Cream Cheese-filled Pretzel",
+        "Mickey Mouse Pretzel",
+        "Cheese Cup",
+        "Mini Babybel® snack cheese - 3-pack",
+        "Watermelon Pineapple Margarita Tequila, Watermelon Schnapps and Pineapple Juice with a Chile-Lime-seasoned Rim Crowns & Hops The Dopest Hazy IPA Hazy IPA, Los Angeles, CA (ABV 6.8%) Michelada with Crowns & Hops The Dopest Hazy IPA Ace Peach Hard Cider (ABV 5.0%) Michelada Peach Hard Cider Michelada with Ace Hard Peach Cider Karl Strauss® Brewing, Tower X West Coast-style IPA Classic Piney, and Fruity, Citrusy Hop Flavors. (ABV 7.3%), 60 IBU, San Diego CA Michelada with Karl Strauss® Tower X IPA Pacifico Cerveza Clara Mexican Pilsner-style Lager (ABV 4.4%) Michelada with Pacifico Golden Road Brewing, Mango Cart, Los Angeles, CA Mango Wheat Ale, Anaheim, CA (ABV 4.0%) Michelob Ultra (ABV 4.2%) Michelada with Michelob Ultra",
+        "Watermelon Pineapple Margarita Tequila, Watermelon Schnapps and Pineapple Juice with a Chile-Lime-seasoned Rim",
+        "Watermelon Pineapple Margarita",
+        "Tequila, Watermelon Schnapps and Pineapple Juice with a Chile-Lime-seasoned Rim",
+        "Crowns & Hops The Dopest Hazy IPA Hazy IPA, Los Angeles, CA (ABV 6.8%)",
+        "Crowns & Hops The Dopest Hazy IPA",
+        "Hazy IPA, Los Angeles, CA (ABV 6.8%)",
+        "Michelada with Crowns & Hops The Dopest Hazy IPA",
+        "Ace Peach Hard Cider (ABV 5.0%)",
+        "Ace Peach Hard Cider",
+        "(ABV 5.0%)",
+        "Michelada Peach Hard Cider Michelada with Ace Hard Peach Cider",
+        "Michelada Peach Hard Cider",
+        "Michelada with Ace Hard Peach Cider",
+        "Karl Strauss® Brewing, Tower X West Coast-style IPA Classic Piney, and Fruity, Citrusy Hop Flavors. (ABV 7.3%), 60 IBU, San Diego CA",
+        "Karl Strauss® Brewing, Tower X West Coast-style IPA",
+        "Classic Piney, and Fruity, Citrusy Hop Flavors. (ABV 7.3%), 60 IBU, San Diego CA",
+        "Michelada with Karl Strauss® Tower X IPA",
+        "Pacifico Cerveza Clara Mexican Pilsner-style Lager (ABV 4.4%)",
+        "Pacifico Cerveza Clara",
+        "Mexican Pilsner-style Lager (ABV 4.4%)",
+        "Michelada with Pacifico",
+        "Golden Road Brewing, Mango Cart, Los Angeles, CA Mango Wheat Ale, Anaheim, CA (ABV 4.0%)",
+        "Golden Road Brewing, Mango Cart, Los Angeles, CA",
+        "Mango Wheat Ale, Anaheim, CA (ABV 4.0%)",
+        "Michelob Ultra (ABV 4.2%)",
+        "Michelob Ultra",
+        "(ABV 4.2%)",
+        "Michelada with Michelob Ultra",
+        "DASANI® Bottled Water",
+        "Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location. * This item is cooked to Guest preference and/or may contain raw or undercooked ingredients. Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
         "Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location.",
         "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
         "Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
+        "$",
+        "0",
+        "Show More Links Help & Guest ServicesSite MapTerms of UseLegal NoticesPrivacy PolicyYour Privacy ChoicesChildren's Online Privacy PolicyYour US State Privacy RightsInterest-Based Ads © Disney, All Rights Reserved",
+        "Show More Links",
+        "Help & Guest ServicesSite MapTerms of UseLegal NoticesPrivacy PolicyYour Privacy ChoicesChildren's Online Privacy PolicyYour US State Privacy RightsInterest-Based Ads © Disney, All Rights Reserved",
         "Help & Guest Services",
         "Site Map",
+        "Terms of Use",
+        "Legal Notices",
+        "Privacy Policy",
         "Your Privacy Choices",
+        "Children's Online Privacy Policy",
         "Your US State Privacy Rights",
-        "Interest-Based Ads"
-      ]
-    },
-    {
-      "title": "Notice of Right to Opt Out of Sale/Sharing",
-      "items": []
-    },
-    {
-      "title": "Manage Consent Preferences",
-      "items": [
+        "Interest-Based Ads",
+        "© Disney, All Rights Reserved",
+        "Notice of Right to Opt Out of Sale/SharingSome US states provide residents (or their authorized agents) with the right to opt out of “targeted advertising,” “selling,” or “sharing” of personal information, as defined by applicable laws. You can move the toggle to the left and click “Submit” to opt out of such activities occurring through this digital property. If you are logged in, we may be able to associate your choice with your account and apply it to data sharing occurring through this digital property (across your browsers and devices) as well as other digital properties of The Walt Disney Family of Companies. You can confirm the status of your choice or opt out or in by clicking “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each property. Manage Consent PreferencesSelling, Sharing, Targeted Advertising Selling, Sharing, Targeted Advertising If you are not logged in, your opt-out will be specific to this property and device or browser. For our other digital properties, to opt out, select “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each. If you clear your tracking history or use another browser or device, you’ll need to opt out again.You can also submit this opt-out form, which may enable us to apply your opt-out more broadly, for example, to stop data sharing in connection with advertising intended to reach you on platforms not operated by Disney (e.g., social media platforms). You may enable online, where available, a universal tool that automatically communicates your opt-out, such as Global Privacy Control (“GPC”), which we’ll process as if you had opted out through the toggle.Even if you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. Please visit Your US State Privacy Rights for more information about your rights and how to exercise them.Back ButtonCookie List Search IconFilter IconClear checkbox label labelApply CancelConsent Leg.Interest checkbox label label checkbox label label checkbox label label Submit",
+        "Notice of Right to Opt Out of Sale/SharingSome US states provide residents (or their authorized agents) with the right to opt out of “targeted advertising,” “selling,” or “sharing” of personal information, as defined by applicable laws. You can move the toggle to the left and click “Submit” to opt out of such activities occurring through this digital property. If you are logged in, we may be able to associate your choice with your account and apply it to data sharing occurring through this digital property (across your browsers and devices) as well as other digital properties of The Walt Disney Family of Companies. You can confirm the status of your choice or opt out or in by clicking “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each property. Manage Consent PreferencesSelling, Sharing, Targeted Advertising Selling, Sharing, Targeted Advertising If you are not logged in, your opt-out will be specific to this property and device or browser. For our other digital properties, to opt out, select “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each. If you clear your tracking history or use another browser or device, you’ll need to opt out again.You can also submit this opt-out form, which may enable us to apply your opt-out more broadly, for example, to stop data sharing in connection with advertising intended to reach you on platforms not operated by Disney (e.g., social media platforms). You may enable online, where available, a universal tool that automatically communicates your opt-out, such as Global Privacy Control (“GPC”), which we’ll process as if you had opted out through the toggle.Even if you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. Please visit Your US State Privacy Rights for more information about your rights and how to exercise them.",
+        "Notice of Right to Opt Out of Sale/Sharing",
+        "Some US states provide residents (or their authorized agents) with the right to opt out of “targeted advertising,” “selling,” or “sharing” of personal information, as defined by applicable laws. You can move the toggle to the left and click “Submit” to opt out of such activities occurring through this digital property. If you are logged in, we may be able to associate your choice with your account and apply it to data sharing occurring through this digital property (across your browsers and devices) as well as other digital properties of The Walt Disney Family of Companies. You can confirm the status of your choice or opt out or in by clicking “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each property.",
+        "Manage Consent Preferences",
+        "Selling, Sharing, Targeted Advertising Selling, Sharing, Targeted Advertising If you are not logged in, your opt-out will be specific to this property and device or browser. For our other digital properties, to opt out, select “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each. If you clear your tracking history or use another browser or device, you’ll need to opt out again.You can also submit this opt-out form, which may enable us to apply your opt-out more broadly, for example, to stop data sharing in connection with advertising intended to reach you on platforms not operated by Disney (e.g., social media platforms). You may enable online, where available, a universal tool that automatically communicates your opt-out, such as Global Privacy Control (“GPC”), which we’ll process as if you had opted out through the toggle.Even if you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. Please visit Your US State Privacy Rights for more information about your rights and how to exercise them.",
         "Selling, Sharing, Targeted Advertising",
-        "If you are not logged in, your opt-out will be specific to this property and device or browser. For our other digital properties, to opt out, select “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each. If you clear your tracking history or use another browser or device, you’ll need to opt out again.You can also submit this opt-out form, which may enable us to apply your opt-out more broadly, for example, to stop data sharing in connection with advertising intended to reach you on platforms not operated by Disney (e.g., social media platforms). You may enable online, where available, a universal tool that automatically communicates your opt-out, such as Global Privacy Control (“GPC”), which we’ll process as if you had opted out through the toggle.Even if you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. Please visit Your US State Privacy Rights for more information about your rights and how to exercise them."
-      ]
-    },
-    {
-      "title": "Cookie List",
-      "items": [
-        "checkbox label label"
+        "If you are not logged in, your opt-out will be specific to this property and device or browser. For our other digital properties, to opt out, select “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each. If you clear your tracking history or use another browser or device, you’ll need to opt out again.You can also submit this opt-out form, which may enable us to apply your opt-out more broadly, for example, to stop data sharing in connection with advertising intended to reach you on platforms not operated by Disney (e.g., social media platforms). You may enable online, where available, a universal tool that automatically communicates your opt-out, such as Global Privacy Control (“GPC”), which we’ll process as if you had opted out through the toggle.Even if you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. Please visit Your US State Privacy Rights for more information about your rights and how to exercise them.",
+        "Back ButtonCookie List Search IconFilter IconClear checkbox label labelApply Cancel",
+        "Back ButtonCookie List",
+        "Cookie List",
+        "Search IconFilter IconClear checkbox label labelApply Cancel",
+        "Search Icon",
+        "Filter Icon",
+        "Clear checkbox label labelApply Cancel",
+        "checkbox label labelApply Cancel",
+        "checkbox label label",
+        "checkbox label",
+        "label",
+        "Apply Cancel",
+        "Consent Leg.Interest checkbox label label checkbox label label checkbox label label",
+        "Consent Leg.Interest",
+        "Consent",
+        "Leg.Interest",
+        "checkbox label label checkbox label label checkbox label label",
+        "Submit"
       ]
     }
   ]

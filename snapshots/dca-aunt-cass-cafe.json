@@ -1,33 +1,47 @@
 {
   "sections": [
     {
-      "title": "Tickets & Passes",
+      "title": "menu",
       "items": [
+        "Show Navigation Tickets Show Search",
+        "Visit Disney.comSkip NavigationUnited States (English)Help",
+        "Visit Disney.com",
+        "United States (English)Help",
+        "United States (English)",
+        "Help",
+        "Tickets & PassesBuy Theme Park TicketsView Offers & DiscountsBuy Special Event TicketsBuy Theme Park ParkingBuy Magic Key PassesTheme Park ReservationsChange Theme Park TicketsPlan Your VisitExplore Disneyland VacationsLightning Lane PassesEvents CalendarMapsDirectionsExplore Our ParksSee All Hours & Entertainment SchedulePark Hours for Saturday, April 18, 2026Disneyland Park8:00 AM to 11:00 PMDisney California Adventure Park8:00 AM to 10:00 PM",
+        "Tickets & PassesBuy Theme Park TicketsView Offers & DiscountsBuy Special Event TicketsBuy Theme Park ParkingBuy Magic Key PassesTheme Park ReservationsChange Theme Park TicketsPlan Your VisitExplore Disneyland VacationsLightning Lane PassesEvents CalendarMapsDirections",
+        "Tickets & Passes",
         "Buy Theme Park Tickets",
         "View Offers & Discounts",
         "Buy Special Event Tickets",
         "Buy Theme Park Parking",
         "Buy Magic Key Passes",
         "Theme Park Reservations",
-        "Change Theme Park Tickets"
-      ]
-    },
-    {
-      "title": "Plan Your Visit",
-      "items": [
+        "Change Theme Park Tickets",
+        "Plan Your Visit",
         "Explore Disneyland Vacations",
         "Lightning Lane Passes",
         "Events Calendar",
         "Maps",
         "Directions",
+        "Explore Our ParksSee All Hours & Entertainment SchedulePark Hours for Saturday, April 18, 2026Disneyland Park8:00 AM to 11:00 PMDisney California Adventure Park8:00 AM to 10:00 PM",
         "Explore Our ParksSee All Hours & Entertainment SchedulePark Hours for Saturday, April 18, 2026",
         "Explore Our Parks",
         "See All Hours & Entertainment Schedule",
         "Park Hours for Saturday, April 18, 2026",
+        "Saturday, April 18, 2026",
         "Disneyland Park8:00 AM to 11:00 PM",
         "Disneyland Park",
+        "8:00 AM to 11:00 PM",
+        "8:00 AM",
+        "11:00 PM",
         "Disney California Adventure Park8:00 AM to 10:00 PM",
         "Disney California Adventure Park",
+        "8:00 AM to 10:00 PM",
+        "10:00 PM",
+        "View All 3 Disneyland Resort HotelsDisney's Grand Californian Hotel & SpaCraftsman-style elegance with the all-new Tenaya Stone SpaDisneyland HotelModern classic with luxurious rooms and monorail waterslidesPixar Place HotelContemporary design with unique touches of Pixar artistryGood Neighbor HotelsDisney-approved quality hotels close to the Disneyland ResortReservationsMy Hotel ReservationsDisneyland Resort Hotel PackagesGood Neighbor Hotel PackagesMaps & DirectionsSave Up to 25% off on Stays This WinterSave on Select Stays This SummerWhy Stay at a Hotel of the Disneyland Resort?The Villas at Disneyland HotelHotel Guest ActivitiesView Offers and Discounts",
+        "View All 3 Disneyland Resort HotelsDisney's Grand Californian Hotel & SpaCraftsman-style elegance with the all-new Tenaya Stone SpaDisneyland HotelModern classic with luxurious rooms and monorail waterslidesPixar Place HotelContemporary design with unique touches of Pixar artistryGood Neighbor HotelsDisney-approved quality hotels close to the Disneyland ResortReservationsMy Hotel ReservationsDisneyland Resort Hotel PackagesGood Neighbor Hotel PackagesMaps & Directions",
         "View All 3 Disneyland Resort Hotels",
         "Disney's Grand Californian Hotel & SpaCraftsman-style elegance with the all-new Tenaya Stone Spa",
         "Disney's Grand Californian Hotel & Spa",
@@ -40,36 +54,27 @@
         "Contemporary design with unique touches of Pixar artistry",
         "Good Neighbor HotelsDisney-approved quality hotels close to the Disneyland Resort",
         "Good Neighbor Hotels",
-        "Disney-approved quality hotels close to the Disneyland Resort"
-      ]
-    },
-    {
-      "title": "Reservations",
-      "items": [
+        "Disney-approved quality hotels close to the Disneyland Resort",
+        "Reservations",
         "My Hotel Reservations",
         "Disneyland Resort Hotel Packages",
         "Good Neighbor Hotel Packages",
         "Maps & Directions",
+        "Save Up to 25% off on Stays This WinterSave on Select Stays This SummerWhy Stay at a Hotel of the Disneyland Resort?The Villas at Disneyland HotelHotel Guest ActivitiesView Offers and Discounts",
         "Save Up to 25% off on Stays This Winter",
         "Save on Select Stays This Summer",
         "Why Stay at a Hotel of the Disneyland Resort?",
         "The Villas at Disneyland Hotel",
         "Hotel Guest Activities",
-        "View Offers and Discounts"
-      ]
-    },
-    {
-      "title": "Dining",
-      "items": [
+        "View Offers and Discounts",
+        "DiningMake ReservationsMy Dining ReservationsCharacter DiningAll DiningActivitiesMagicBand+ ExperiencesAttractions and EntertainmentCharacter ExperiencesCrown CollectionVIP ToursEvents and ToursRecreationSpaDisney PhotoPassShoppingDisney StoreMerchandise Mobile CheckoutAll StoresDestinationsDowntown Disney DistrictSouthern CaliforniaMaps & DirectionsTicket and Reservations DetailsLightning Lane PassesDisneyland Resort 70th CelebrationWomen Who Make The Magic Guided TourCharacter Dining at Storytellers CafeKey to DisneylandDowntown Disney DistrictView Events",
+        "DiningMake ReservationsMy Dining ReservationsCharacter DiningAll DiningActivitiesMagicBand+ ExperiencesAttractions and EntertainmentCharacter ExperiencesCrown CollectionVIP ToursEvents and ToursRecreationSpaDisney PhotoPassShoppingDisney StoreMerchandise Mobile CheckoutAll StoresDestinationsDowntown Disney DistrictSouthern CaliforniaMaps & Directions",
+        "Dining",
         "Make Reservations",
         "My Dining Reservations",
         "Character Dining",
-        "All Dining"
-      ]
-    },
-    {
-      "title": "Activities",
-      "items": [
+        "All Dining",
+        "Activities",
         "MagicBand+ Experiences",
         "Attractions and Entertainment",
         "Character Experiences",
@@ -78,30 +83,22 @@
         "Events and Tours",
         "Recreation",
         "Spa",
-        "Disney PhotoPass"
-      ]
-    },
-    {
-      "title": "Shopping",
-      "items": [
+        "Disney PhotoPass",
+        "Shopping",
         "Disney Store",
         "Merchandise Mobile Checkout",
-        "All Stores"
-      ]
-    },
-    {
-      "title": "Destinations",
-      "items": [
+        "All Stores",
+        "Destinations",
         "Downtown Disney District",
         "Southern California",
-        "Maps & Directions",
+        "Ticket and Reservations DetailsLightning Lane PassesDisneyland Resort 70th CelebrationWomen Who Make The Magic Guided TourCharacter Dining at Storytellers CafeKey to DisneylandDowntown Disney DistrictView Events",
         "Ticket and Reservations Details",
-        "Lightning Lane Passes",
         "Disneyland Resort 70th Celebration",
         "Women Who Make The Magic Guided Tour",
         "Character Dining at Storytellers Cafe",
         "Key to Disneyland",
         "View Events",
+        "Magic Key Passes — Now on SaleLearn about the Disneyland Resort annual pass program.Magic Key DiscountsDiscover food and merchandise savings.Link Magic Key Pass to My ProfileMake theme park entry easier.Magic Key CalendarView blockout dates by pass type.Upgrade Magic Key PassesRenew Magic Key Passes",
         "Magic Key Passes — Now on SaleLearn about the Disneyland Resort annual pass program.",
         "Magic Key Passes — Now on Sale",
         "Learn about the Disneyland Resort annual pass program.",
@@ -115,386 +112,266 @@
         "Magic Key Calendar",
         "View blockout dates by pass type.",
         "Upgrade Magic Key Passes",
-        "Renew Magic Key Passes"
-      ]
-    },
-    {
-      "title": "Merchandise",
-      "items": [
+        "Renew Magic Key Passes",
+        "MerchandiseNew ArrivalsAuthentic Custom T-ShirtsAll Parks ProductsDisney Gift CardLocationsAll Disneyland ShopsDowntown Disney ShopsShop the Stories You LoveThe official online home for every Disney, Pixar & Star Wars fan in your family.Disney Store",
+        "MerchandiseNew ArrivalsAuthentic Custom T-ShirtsAll Parks ProductsDisney Gift CardLocationsAll Disneyland ShopsDowntown Disney Shops",
+        "Merchandise",
         "New Arrivals",
         "Authentic Custom T-Shirts",
         "All Parks Products",
-        "Disney Gift Card"
-      ]
-    },
-    {
-      "title": "Locations",
-      "items": [
+        "Disney Gift Card",
+        "Locations",
         "All Disneyland Shops",
         "Downtown Disney Shops",
+        "Shop the Stories You LoveThe official online home for every Disney, Pixar & Star Wars fan in your family.Disney Store",
         "Shop the Stories You Love",
         "The official online home for every Disney, Pixar & Star Wars fan in your family.",
-        "Disney Store"
-      ]
-    },
-    {
-      "title": "Your Cart",
-      "items": [
+        "Your CartYour Cart is empty.Find a HotelAdd TicketsTotalUSD",
+        "Your Cart",
+        "Your Cart is empty.Find a HotelAdd Tickets",
+        "Your Cart is empty.",
         "Find a Hotel",
         "Add Tickets",
+        "TotalUSD",
+        "Total",
+        "USD",
+        "My PlansHotel, Dining and ActivitiesMy Hotel ReservationsLink Tickets and PassesChange Your Theme Park TicketsTheme Park ReservationsMy PhotosMagic Key DiscountsMagic Key CalendarUpgrade Magic Key PassRenew Magic Key PassLog In or Create Account",
         "My PlansHotel, Dining and Activities",
         "My Plans",
         "Hotel, Dining and Activities",
-        "My Hotel Reservations",
         "Link Tickets and Passes",
         "Change Your Theme Park Tickets",
-        "Theme Park Reservations",
         "My Photos",
-        "Magic Key Discounts",
-        "Magic Key Calendar",
         "Upgrade Magic Key Pass",
         "Renew Magic Key Pass",
         "Log In or Create Account",
+        "Help CenterGuest ServicesGuests with DisabilitiesContact UsPre-Arrival TipsFrequently Asked QuestionsWhat is the best time to visit Disneyland Resort?Where can I experience Character Dining?View All",
+        "Help CenterGuest ServicesGuests with DisabilitiesContact UsPre-Arrival Tips",
         "Help Center",
         "Guest Services",
         "Guests with Disabilities",
         "Contact Us",
-        "Pre-Arrival Tips"
-      ]
-    },
-    {
-      "title": "Frequently Asked Questions",
-      "items": [
+        "Pre-Arrival Tips",
+        "Frequently Asked QuestionsWhat is the best time to visit Disneyland Resort?Where can I experience Character Dining?View All",
+        "Frequently Asked Questions",
         "What is the best time to visit Disneyland Resort?",
         "Where can I experience Character Dining?",
         "View All",
-        "Aunt Cass Café"
+        "Show Navigation",
+        "Show Search",
+        "Aunt Cass Café Lunch And Dinner Menu Disney California Adventure Park, San Fransokyo Square Quick Service Restaurant Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location. * This item is cooked to Guest preference and/or may contain raw or undercooked ingredients. Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
+        "Aunt Cass Café Lunch And Dinner Menu Disney California Adventure Park, San Fransokyo Square Quick Service Restaurant",
+        "Aunt Cass Café Lunch And Dinner Menu Disney California Adventure Park, San Fransokyo Square",
+        "Aunt Cass Café",
+        "Lunch And Dinner Menu"
       ]
     },
     {
       "title": "Lunch And Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Burrata Toast",
-      "items": []
-    },
-    {
-      "title": "Megabot Sipper",
-      "items": []
-    },
-    {
-      "title": "Chicken Ginger - Sesame Tofu Salad",
-      "items": []
-    },
-    {
-      "title": "Chicken Tortilla Soup",
-      "items": []
-    },
-    {
-      "title": "San Fransokyo Clam Chowder",
-      "items": []
-    },
-    {
-      "title": "Creamy Mac & Cheese",
-      "items": []
-    },
-    {
-      "title": "Turkey Pesto Sandwich",
-      "items": []
-    },
-    {
-      "title": "Bunch of Grapes Pull-apart Bread",
-      "items": []
-    },
-    {
-      "title": "Ginger-Sesame Tofu Salad",
-      "items": []
-    },
-    {
-      "title": "Dutch Crunch Baguette",
-      "items": []
-    },
-    {
-      "title": "Baymax Bread",
-      "items": []
-    },
-    {
-      "title": "Sourdough Mickey",
-      "items": []
-    },
-    {
-      "title": "Sourdough Baguette",
-      "items": []
-    },
-    {
-      "title": "Sourdough Loaf",
-      "items": []
-    },
-    {
-      "title": "Sourdough Round",
-      "items": []
-    },
-    {
-      "title": "Turkey Sandwich",
-      "items": []
-    },
-    {
-      "title": "Mac & Cheese",
-      "items": []
-    },
-    {
-      "title": "Potato Chips",
-      "items": []
-    },
-    {
-      "title": "Whole Fruit",
-      "items": []
-    },
-    {
-      "title": "Cuties® Mandarin Orange",
-      "items": []
-    },
-    {
-      "title": "LAY'S® Classic Potato Chips",
-      "items": []
-    },
-    {
-      "title": "Banana Caramel Bread Pudding",
-      "items": []
-    },
-    {
-      "title": "Chocolate Japanese-Style Fluffy Cheesecake",
-      "items": []
-    },
-    {
-      "title": "Chocolate Chip Cookie",
-      "items": []
-    },
-    {
-      "title": "Sugar Cookie",
-      "items": []
-    },
-    {
-      "title": "Strawberry Soju Cocktail",
       "items": [
-        "Bottle Logic, Logic Light Lager, Anaheim, CA"
-      ]
-    },
-    {
-      "title": "Honey Lemon-Ade",
-      "items": []
-    },
-    {
-      "title": "Assorted Fountain Beverages - Regular",
-      "items": []
-    },
-    {
-      "title": "Assorted Fountain Beverages - Large",
-      "items": []
-    },
-    {
-      "title": "DASANI® Bottled Water",
-      "items": []
-    },
-    {
-      "title": "Minute Maid® Apple Juice",
-      "items": []
-    },
-    {
-      "title": "Lowfat Milk",
-      "items": []
-    },
-    {
-      "title": "Chocolate Milk",
-      "items": []
-    },
-    {
-      "title": "Hot Cocoa",
-      "items": []
-    },
-    {
-      "title": "Guests must speak to a Cast Member about their allergy-friendly request",
-      "items": []
-    },
-    {
-      "title": "Guests must speak to a Cast Member about their allergy-friendly request",
-      "items": []
-    },
-    {
-      "title": "Egg Allergy-Friendly Chicken Ginger-Sesame Tofu Salad",
-      "items": []
-    },
-    {
-      "title": "Egg Allergy-Friendly Ginger-Sesame Tofu Salad",
-      "items": []
-    },
-    {
-      "title": "Egg Allergy-Friendly San Fransokyo Clam Chowder",
-      "items": []
-    },
-    {
-      "title": "Egg Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich",
-      "items": []
-    },
-    {
-      "title": "Egg Allergy-Friendly Side Cuties® Mandarin",
-      "items": []
-    },
-    {
-      "title": "Guests must speak to a Cast Member about their allergy-friendly request",
-      "items": []
-    },
-    {
-      "title": "Fish/Shellfish Allergy-Friendly Chicken Ginger-Sesame Tofu Salad",
-      "items": []
-    },
-    {
-      "title": "Fish/Shellfish Allergy-Friendly Plant-based Ginger-Sesame Tofu Salad",
-      "items": []
-    },
-    {
-      "title": "Fish/Shellfish Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich",
-      "items": []
-    },
-    {
-      "title": "Fish/Shellflish Allergy-Friendly Kids' Mac & Cheese",
-      "items": []
-    },
-    {
-      "title": "Fish/Shellfish Allergy-Friendly Japanese-style Cheesecake",
-      "items": []
-    },
-    {
-      "title": "Fish/Shellfish Allergy-Friendly Chocolate Japanese-style Cheesecake",
-      "items": []
-    },
-    {
-      "title": "Fish/Shellfish Allergy-Friendly Side Cuties® Mandarin",
-      "items": []
-    },
-    {
-      "title": "Guests must speak to a Cast Member about their allergy-friendly request",
-      "items": []
-    },
-    {
-      "title": "Milk Allergy-Friendly Chicken Ginger-Sesame Tofu Salad",
-      "items": []
-    },
-    {
-      "title": "Milk Allergy-Friendly Plant-based Ginger-Sesame Tofu Salad",
-      "items": []
-    },
-    {
-      "title": "Milk Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich",
-      "items": []
-    },
-    {
-      "title": "Milk Allergy-Friendly Side Cuties® Mandarin",
-      "items": []
-    },
-    {
-      "title": "Guests must speak to a Cast Member about their allergy-friendly request",
-      "items": []
-    },
-    {
-      "title": "Peanut/Tree Nut Allergy-Friendly Chicken Ginger-Sesame Tofu Salad",
-      "items": []
-    },
-    {
-      "title": "Peanut/Tree Nut Allergy-Friendly Plant-based Ginger-Sesame Tofu Salad",
-      "items": []
-    },
-    {
-      "title": "Peanut/Tree Nut Allergy-Friendly San Fransokyo Clam Chowder",
-      "items": [
-        "Peanut/Tree Nut Allergy-Friendly Sourdough Bread Bowl with Creamy Mac and Cheese"
-      ]
-    },
-    {
-      "title": "Peanut/Tree Nut Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich",
-      "items": []
-    },
-    {
-      "title": "Peanut/Tree Nut Allergy-Friendly Kids' Mac & Cheese",
-      "items": []
-    },
-    {
-      "title": "Peanut/Tree Nut Allergy-Friendly Japanese-style Cheesecake",
-      "items": []
-    },
-    {
-      "title": "Peanut/Tree Nut Allergy-Friendly Chocolate Japanese-style Cheesecake",
-      "items": []
-    },
-    {
-      "title": "Peanut/Tree Nut Allergy-Friendly Side Cuties® Mandarin",
-      "items": []
-    },
-    {
-      "title": "Guests must speak to a Cast Member about their allergy-friendly request",
-      "items": []
-    },
-    {
-      "title": "Sesame Allergy-Friendly San Fransokyo Clam Chowder",
-      "items": []
-    },
-    {
-      "title": "Sesame Allergy-Friendly Sourdough Bread Bowl with Creamy Mac and Cheese",
-      "items": []
-    },
-    {
-      "title": "Sesame Allergy-Friendly Turkey Sandwich",
-      "items": []
-    },
-    {
-      "title": "Sesame Allergy-Friendly Mac & Cheese",
-      "items": []
-    },
-    {
-      "title": "Sesame Allergy-Friendly Japanese-style Cheesecake",
-      "items": []
-    },
-    {
-      "title": "Sesame Allergy-Friendly Chocolate Japanese-style Cheesecake",
-      "items": []
-    },
-    {
-      "title": "Sesame Allergy-Friendly Side Cuties® Mandarin",
-      "items": []
-    },
-    {
-      "title": "Guests must speak to a Cast Member about their allergy-friendly request",
-      "items": []
-    },
-    {
-      "title": "Soy Allergy-Friendly Side Cuties® Mandarin",
-      "items": [
+        "Disney California Adventure Park, San Fransokyo Square",
+        "Quick Service Restaurant",
+        "Burrata Toast Toasted Boudin® Sourdough, Onion Jam, Lemon Burrata, Marinated Cherry Tomatoes, Arugula and Balsamic Glaze Megabot Sipper includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply.",
+        "Burrata Toast Toasted Boudin® Sourdough, Onion Jam, Lemon Burrata, Marinated Cherry Tomatoes, Arugula and Balsamic Glaze",
+        "Burrata Toast",
+        "Toasted Boudin® Sourdough, Onion Jam, Lemon Burrata, Marinated Cherry Tomatoes, Arugula and Balsamic Glaze",
+        "Megabot Sipper includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply.",
+        "Megabot Sipper",
+        "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply.",
+        "Chicken Ginger - Sesame Tofu Salad Marinated Tofu, Romaine Lettuce and Ginger-Sesame Dressing Chicken Tortilla Soup Tomato Broth, Diced Chicken, Corn and Tortilla Strips San Fransokyo Clam Chowder Creamy Clam Chowder with Bacon, Potatoes and a hint of White Miso Creamy Mac & Cheese served in a Sourdough Bread Bowl Turkey Pesto Sandwich Roasted Turkey Breast, Pesto Aïoli, Havarti, Bacon, Arugula and Tomato on Dutch Crunch Bread, served with Potato Chips",
+        "Chicken Ginger - Sesame Tofu Salad Marinated Tofu, Romaine Lettuce and Ginger-Sesame Dressing",
+        "Chicken Ginger - Sesame Tofu Salad",
+        "Marinated Tofu, Romaine Lettuce and Ginger-Sesame Dressing",
+        "Chicken Tortilla Soup Tomato Broth, Diced Chicken, Corn and Tortilla Strips",
+        "Chicken Tortilla Soup",
+        "Tomato Broth, Diced Chicken, Corn and Tortilla Strips",
+        "San Fransokyo Clam Chowder Creamy Clam Chowder with Bacon, Potatoes and a hint of White Miso",
+        "San Fransokyo Clam Chowder",
+        "Creamy Clam Chowder with Bacon, Potatoes and a hint of White Miso",
+        "Creamy Mac & Cheese served in a Sourdough Bread Bowl",
+        "Creamy Mac & Cheese",
+        "served in a Sourdough Bread Bowl",
+        "Turkey Pesto Sandwich Roasted Turkey Breast, Pesto Aïoli, Havarti, Bacon, Arugula and Tomato on Dutch Crunch Bread, served with Potato Chips",
+        "Turkey Pesto Sandwich",
+        "Roasted Turkey Breast, Pesto Aïoli, Havarti, Bacon, Arugula and Tomato on Dutch Crunch Bread, served with Potato Chips",
+        "Bunch of Grapes Pull-apart Bread Boudin® Sourdough Pull-apart Bread Ginger-Sesame Tofu Salad Marinated Tofu, Romaine Lettuce and Ginger-Sesame Dressing Dutch Crunch Baguette Baymax Bread Freshly Baked Sourdough Sourdough Mickey freshly Baked Sourdough Mickey shape Sourdough Baguette freshly Baked Sourdough Baguette Sourdough Loaf freshly Baked Sourdough Loaf Sourdough Round freshly Baked Sourdough Round",
+        "Bunch of Grapes Pull-apart Bread Boudin® Sourdough Pull-apart Bread",
+        "Bunch of Grapes Pull-apart Bread",
+        "Boudin® Sourdough Pull-apart Bread",
+        "Ginger-Sesame Tofu Salad Marinated Tofu, Romaine Lettuce and Ginger-Sesame Dressing",
+        "Ginger-Sesame Tofu Salad",
+        "Dutch Crunch Baguette",
+        "Baymax Bread Freshly Baked Sourdough",
+        "Baymax Bread",
+        "Freshly Baked Sourdough",
+        "Sourdough Mickey freshly Baked Sourdough Mickey shape",
+        "Sourdough Mickey",
+        "freshly Baked Sourdough Mickey shape",
+        "Sourdough Baguette freshly Baked Sourdough Baguette",
+        "Sourdough Baguette",
+        "freshly Baked Sourdough Baguette",
+        "Sourdough Loaf freshly Baked Sourdough Loaf",
+        "Sourdough Loaf",
+        "freshly Baked Sourdough Loaf",
+        "Sourdough Round freshly Baked Sourdough Round",
+        "Sourdough Round",
+        "freshly Baked Sourdough Round",
+        "Turkey Sandwich with Cuties® Mandarin Orange, Applesauce, served with choice of small DASANI® water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions Kids' menu items for children ages 9 and younger. Look for the Disney Check icon on printed menus to find options that meet Disney's nutrition guidelines.",
+        "Turkey Sandwich with Cuties® Mandarin Orange, Applesauce, served with choice of small DASANI® water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions",
+        "Turkey Sandwich",
+        "with Cuties® Mandarin Orange, Applesauce, served with choice of small DASANI® water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions",
+        "Kids' menu items for children ages 9 and younger. Look for the Disney Check icon on printed menus to find options that meet Disney's nutrition guidelines.",
+        "Mac & Cheese with Cuties® Mandarin Orange, Applesauce, served with choice of small DASANI® water or small Lowfat Milk Kids' menu items for children ages 9 and younger. Look for the Disney Check icon on printed menus to find options that meet Disney's nutrition guidelines.",
+        "Mac & Cheese with Cuties® Mandarin Orange, Applesauce, served with choice of small DASANI® water or small Lowfat Milk",
+        "Mac & Cheese",
+        "with Cuties® Mandarin Orange, Applesauce, served with choice of small DASANI® water or small Lowfat Milk",
+        "Potato Chips Whole Fruit Green Apple Cuties® Mandarin Orange LAY'S® Classic Potato Chips",
+        "Potato Chips",
+        "Whole Fruit Green Apple",
+        "Whole Fruit",
+        "Green Apple",
+        "Cuties® Mandarin Orange",
+        "LAY'S® Classic Potato Chips",
+        "Banana Caramel Bread Pudding Banana Pudding with Caramelized Butter Sauce, Whipped Topping and Crushed Vanilla Wafers Chocolate Japanese-Style Fluffy Cheesecake topped with Cherry Sauce Chocolate Chip Cookie Sugar Cookie",
+        "Banana Caramel Bread Pudding Banana Pudding with Caramelized Butter Sauce, Whipped Topping and Crushed Vanilla Wafers",
+        "Banana Caramel Bread Pudding",
+        "Banana Pudding with Caramelized Butter Sauce, Whipped Topping and Crushed Vanilla Wafers",
+        "Chocolate Japanese-Style Fluffy Cheesecake topped with Cherry Sauce",
+        "Chocolate Japanese-Style Fluffy Cheesecake",
+        "topped with Cherry Sauce",
+        "Chocolate Chip Cookie",
+        "Sugar Cookie",
+        "Strawberry Soju Cocktail Jinro Soju, Strawberry Purée and Japanese Milk Beverage Bottle Logic, Logic Light Lager, Anaheim, CA (4.2% ABV)",
+        "Strawberry Soju Cocktail Jinro Soju, Strawberry Purée and Japanese Milk Beverage",
+        "Strawberry Soju Cocktail",
+        "Jinro Soju, Strawberry Purée and Japanese Milk Beverage",
+        "Bottle Logic, Logic Light Lager, Anaheim, CA (4.2% ABV)",
+        "Bottle Logic, Logic Light Lager, Anaheim, CA",
+        "(4.2% ABV)",
+        "Honey Lemon-Ade Minute Maid® Lemonade Zero Sugar, Yuzu Puree with Passion Fruit and Strawberry Popping Spheres Assorted Fountain Beverages - Regular Coca-Cola®, Diet Coke®, Sprite®, Fanta® Orange, Coca-Cola® Zero Sugar, Minute Maid® Zero Sugar Lemonade, Gold Peak® Sweet Iced Tea, Gold Peak® Unsweetened Iced Tea Assorted Fountain Beverages - Large Coca-Cola®, Diet Coke®, Sprite®, Fanta® Orange, Coca-Cola® Zero Sugar, Minute Maid® Zero Sugar Lemonade, Gold Peak® Sweet Iced Tea, Gold Peak® Unsweetened Iced Tea DASANI® Bottled Water Minute Maid® Apple Juice Lowfat Milk Chocolate Milk Hot Cocoa",
+        "Honey Lemon-Ade Minute Maid® Lemonade Zero Sugar, Yuzu Puree with Passion Fruit and Strawberry Popping Spheres",
+        "Honey Lemon-Ade",
+        "Minute Maid® Lemonade Zero Sugar, Yuzu Puree with Passion Fruit and Strawberry Popping Spheres",
+        "Assorted Fountain Beverages - Regular Coca-Cola®, Diet Coke®, Sprite®, Fanta® Orange, Coca-Cola® Zero Sugar, Minute Maid® Zero Sugar Lemonade, Gold Peak® Sweet Iced Tea, Gold Peak® Unsweetened Iced Tea",
+        "Assorted Fountain Beverages - Regular",
+        "Coca-Cola®, Diet Coke®, Sprite®, Fanta® Orange, Coca-Cola® Zero Sugar, Minute Maid® Zero Sugar Lemonade, Gold Peak® Sweet Iced Tea, Gold Peak® Unsweetened Iced Tea",
+        "Assorted Fountain Beverages - Large Coca-Cola®, Diet Coke®, Sprite®, Fanta® Orange, Coca-Cola® Zero Sugar, Minute Maid® Zero Sugar Lemonade, Gold Peak® Sweet Iced Tea, Gold Peak® Unsweetened Iced Tea",
+        "Assorted Fountain Beverages - Large",
+        "DASANI® Bottled Water",
+        "Minute Maid® Apple Juice",
+        "Lowfat Milk",
+        "Chocolate Milk",
+        "Hot Cocoa",
+        "Guests must speak to a Cast Member about their allergy-friendly request",
+        "Guests must speak to a Cast Member about their allergy-friendly request Egg Allergy-Friendly Chicken Ginger-Sesame Tofu Salad Marinated Tofu, Romaine Lettuce and Ginger-Sesame Dressing Egg Allergy-Friendly Ginger-Sesame Tofu Salad Marinated Tofu, Romaine Lettuce and Ginger-Sesame Dressing Egg Allergy-Friendly San Fransokyo Clam Chowder Creamy Clam Chowder with Bacon, Potatoes and a hint of White Miso Egg Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich with Cuties® Mandarin Orange, Applesauce, served with choice of small DASANI® water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions Egg Allergy-Friendly Side Cuties® Mandarin",
+        "Egg Allergy-Friendly Chicken Ginger-Sesame Tofu Salad Marinated Tofu, Romaine Lettuce and Ginger-Sesame Dressing",
+        "Egg Allergy-Friendly Chicken Ginger-Sesame Tofu Salad",
+        "Egg Allergy-Friendly Ginger-Sesame Tofu Salad Marinated Tofu, Romaine Lettuce and Ginger-Sesame Dressing",
+        "Egg Allergy-Friendly Ginger-Sesame Tofu Salad",
+        "Egg Allergy-Friendly San Fransokyo Clam Chowder Creamy Clam Chowder with Bacon, Potatoes and a hint of White Miso",
+        "Egg Allergy-Friendly San Fransokyo Clam Chowder",
+        "Egg Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich with Cuties® Mandarin Orange, Applesauce, served with choice of small DASANI® water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions",
+        "Egg Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich",
+        "Egg Allergy-Friendly Side Cuties® Mandarin",
+        "Guests must speak to a Cast Member about their allergy-friendly request Fish/Shellfish Allergy-Friendly Chicken Ginger-Sesame Tofu Salad Marinated Tofu, Romaine Lettuce and Ginger-Sesame Dressing Fish/Shellfish Allergy-Friendly Plant-based Ginger-Sesame Tofu Salad Marinated Tofu, Romaine Lettuce and Ginger-Sesame Dressing Fish/Shellfish Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich with Cuties® Mandarin Orange, Applesauce, served with choice of small DASANI® water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions Fish/Shellflish Allergy-Friendly Kids' Mac & Cheese with Cuties® Mandarin Orange, Applesauce, served with choice of small DASANI® water or small Lowfat Milk Fish/Shellfish Allergy-Friendly Japanese-style Cheesecake Fish/Shellfish Allergy-Friendly Chocolate Japanese-style Cheesecake topped with Cherry Sauce Fish/Shellfish Allergy-Friendly Side Cuties® Mandarin",
+        "Fish/Shellfish Allergy-Friendly Chicken Ginger-Sesame Tofu Salad Marinated Tofu, Romaine Lettuce and Ginger-Sesame Dressing",
+        "Fish/Shellfish Allergy-Friendly Chicken Ginger-Sesame Tofu Salad",
+        "Fish/Shellfish Allergy-Friendly Plant-based Ginger-Sesame Tofu Salad Marinated Tofu, Romaine Lettuce and Ginger-Sesame Dressing",
+        "Fish/Shellfish Allergy-Friendly Plant-based Ginger-Sesame Tofu Salad",
+        "Fish/Shellfish Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich with Cuties® Mandarin Orange, Applesauce, served with choice of small DASANI® water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions",
+        "Fish/Shellfish Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich",
+        "Fish/Shellflish Allergy-Friendly Kids' Mac & Cheese with Cuties® Mandarin Orange, Applesauce, served with choice of small DASANI® water or small Lowfat Milk",
+        "Fish/Shellflish Allergy-Friendly Kids' Mac & Cheese",
+        "Fish/Shellfish Allergy-Friendly Japanese-style Cheesecake",
+        "Fish/Shellfish Allergy-Friendly Chocolate Japanese-style Cheesecake topped with Cherry Sauce",
+        "Fish/Shellfish Allergy-Friendly Chocolate Japanese-style Cheesecake",
+        "Fish/Shellfish Allergy-Friendly Side Cuties® Mandarin",
+        "Guests must speak to a Cast Member about their allergy-friendly request Milk Allergy-Friendly Chicken Ginger-Sesame Tofu Salad Marinated Tofu, Romaine Lettuce and Ginger-Sesame Dressing Milk Allergy-Friendly Plant-based Ginger-Sesame Tofu Salad Marinated Tofu, Romaine Lettuce and Ginger-Sesame Dressing Milk Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich with Cuties® Mandarin Orange, Applesauce, served with choice of small DASANI® water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions Milk Allergy-Friendly Side Cuties® Mandarin",
+        "Milk Allergy-Friendly Chicken Ginger-Sesame Tofu Salad Marinated Tofu, Romaine Lettuce and Ginger-Sesame Dressing",
+        "Milk Allergy-Friendly Chicken Ginger-Sesame Tofu Salad",
+        "Milk Allergy-Friendly Plant-based Ginger-Sesame Tofu Salad Marinated Tofu, Romaine Lettuce and Ginger-Sesame Dressing",
+        "Milk Allergy-Friendly Plant-based Ginger-Sesame Tofu Salad",
+        "Milk Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich with Cuties® Mandarin Orange, Applesauce, served with choice of small DASANI® water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions",
+        "Milk Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich",
+        "Milk Allergy-Friendly Side Cuties® Mandarin",
+        "Guests must speak to a Cast Member about their allergy-friendly request Peanut/Tree Nut Allergy-Friendly Chicken Ginger-Sesame Tofu Salad Marinated Tofu, Romaine Lettuce and Ginger-Sesame Dressing Peanut/Tree Nut Allergy-Friendly Plant-based Ginger-Sesame Tofu Salad Marinated Tofu, Romaine Lettuce and Ginger-Sesame Dressing Peanut/Tree Nut Allergy-Friendly San Fransokyo Clam Chowder Creamy Clam Chowder with Bacon, Potatoes and a hint of White Miso Peanut/Tree Nut Allergy-Friendly Sourdough Bread Bowl with Creamy Mac and Cheese served in a Sourdough Bread Bowl Peanut/Tree Nut Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich with Cuties® Mandarin Orange, Applesauce, served with choice of small DASANI® water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions Peanut/Tree Nut Allergy-Friendly Kids' Mac & Cheese with Cuties® Mandarin Orange, Applesauce, served with choice of small DASANI® water or small Lowfat Milk Peanut/Tree Nut Allergy-Friendly Japanese-style Cheesecake Peanut/Tree Nut Allergy-Friendly Chocolate Japanese-style Cheesecake topped with Cherry Sauce Peanut/Tree Nut Allergy-Friendly Side Cuties® Mandarin",
+        "Peanut/Tree Nut Allergy-Friendly Chicken Ginger-Sesame Tofu Salad Marinated Tofu, Romaine Lettuce and Ginger-Sesame Dressing",
+        "Peanut/Tree Nut Allergy-Friendly Chicken Ginger-Sesame Tofu Salad",
+        "Peanut/Tree Nut Allergy-Friendly Plant-based Ginger-Sesame Tofu Salad Marinated Tofu, Romaine Lettuce and Ginger-Sesame Dressing",
+        "Peanut/Tree Nut Allergy-Friendly Plant-based Ginger-Sesame Tofu Salad",
+        "Peanut/Tree Nut Allergy-Friendly San Fransokyo Clam Chowder Creamy Clam Chowder with Bacon, Potatoes and a hint of White Miso",
+        "Peanut/Tree Nut Allergy-Friendly San Fransokyo Clam Chowder",
+        "Peanut/Tree Nut Allergy-Friendly Sourdough Bread Bowl with Creamy Mac and Cheese served in a Sourdough Bread Bowl",
+        "Peanut/Tree Nut Allergy-Friendly Sourdough Bread Bowl with Creamy Mac and Cheese",
+        "Peanut/Tree Nut Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich with Cuties® Mandarin Orange, Applesauce, served with choice of small DASANI® water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions",
+        "Peanut/Tree Nut Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich",
+        "Peanut/Tree Nut Allergy-Friendly Kids' Mac & Cheese with Cuties® Mandarin Orange, Applesauce, served with choice of small DASANI® water or small Lowfat Milk",
+        "Peanut/Tree Nut Allergy-Friendly Kids' Mac & Cheese",
+        "Peanut/Tree Nut Allergy-Friendly Japanese-style Cheesecake",
+        "Peanut/Tree Nut Allergy-Friendly Chocolate Japanese-style Cheesecake topped with Cherry Sauce",
+        "Peanut/Tree Nut Allergy-Friendly Chocolate Japanese-style Cheesecake",
+        "Peanut/Tree Nut Allergy-Friendly Side Cuties® Mandarin",
+        "Guests must speak to a Cast Member about their allergy-friendly request Sesame Allergy-Friendly San Fransokyo Clam Chowder Creamy Clam Chowder with Bacon, Potatoes and a hint of White Miso Sesame Allergy-Friendly Sourdough Bread Bowl with Creamy Mac and Cheese served in a Sourdough Bread Bowl Sesame Allergy-Friendly Turkey Sandwich On Sourdough, with Cuties® Mandarin Orange, Applesauce, served with choice of small DASANI® water or small Lowfat Milk Sesame Allergy-Friendly Mac & Cheese with Cuties® Mandarin Orange, Applesauce, served with choice of small DASANI® water or small Lowfat Milk Sesame Allergy-Friendly Japanese-style Cheesecake Sesame Allergy-Friendly Chocolate Japanese-style Cheesecake topped with Cherry Sauce Sesame Allergy-Friendly Side Cuties® Mandarin",
+        "Sesame Allergy-Friendly San Fransokyo Clam Chowder Creamy Clam Chowder with Bacon, Potatoes and a hint of White Miso",
+        "Sesame Allergy-Friendly San Fransokyo Clam Chowder",
+        "Sesame Allergy-Friendly Sourdough Bread Bowl with Creamy Mac and Cheese served in a Sourdough Bread Bowl",
+        "Sesame Allergy-Friendly Sourdough Bread Bowl with Creamy Mac and Cheese",
+        "Sesame Allergy-Friendly Turkey Sandwich On Sourdough, with Cuties® Mandarin Orange, Applesauce, served with choice of small DASANI® water or small Lowfat Milk",
+        "Sesame Allergy-Friendly Turkey Sandwich",
+        "On Sourdough, with Cuties® Mandarin Orange, Applesauce, served with choice of small DASANI® water or small Lowfat Milk",
+        "Sesame Allergy-Friendly Mac & Cheese with Cuties® Mandarin Orange, Applesauce, served with choice of small DASANI® water or small Lowfat Milk",
+        "Sesame Allergy-Friendly Mac & Cheese",
+        "Sesame Allergy-Friendly Japanese-style Cheesecake",
+        "Sesame Allergy-Friendly Chocolate Japanese-style Cheesecake topped with Cherry Sauce",
+        "Sesame Allergy-Friendly Chocolate Japanese-style Cheesecake",
+        "Sesame Allergy-Friendly Side Cuties® Mandarin",
+        "Guests must speak to a Cast Member about their allergy-friendly request Soy Allergy-Friendly Side Cuties® Mandarin",
+        "Soy Allergy-Friendly Side Cuties® Mandarin",
+        "Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location. * This item is cooked to Guest preference and/or may contain raw or undercooked ingredients. Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
         "Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location.",
         "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
         "Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
+        "$",
+        "0",
+        "Show More Links Help & Guest ServicesSite MapTerms of UseLegal NoticesPrivacy PolicyYour Privacy ChoicesChildren's Online Privacy PolicyYour US State Privacy RightsInterest-Based Ads © Disney, All Rights Reserved",
+        "Show More Links",
+        "Help & Guest ServicesSite MapTerms of UseLegal NoticesPrivacy PolicyYour Privacy ChoicesChildren's Online Privacy PolicyYour US State Privacy RightsInterest-Based Ads © Disney, All Rights Reserved",
         "Help & Guest Services",
         "Site Map",
+        "Terms of Use",
+        "Legal Notices",
+        "Privacy Policy",
         "Your Privacy Choices",
+        "Children's Online Privacy Policy",
         "Your US State Privacy Rights",
-        "Interest-Based Ads"
-      ]
-    },
-    {
-      "title": "Notice of Right to Opt Out of Sale/Sharing",
-      "items": []
-    },
-    {
-      "title": "Manage Consent Preferences",
-      "items": [
+        "Interest-Based Ads",
+        "© Disney, All Rights Reserved",
+        "Notice of Right to Opt Out of Sale/SharingSome US states provide residents (or their authorized agents) with the right to opt out of “targeted advertising,” “selling,” or “sharing” of personal information, as defined by applicable laws. You can move the toggle to the left and click “Submit” to opt out of such activities occurring through this digital property. If you are logged in, we may be able to associate your choice with your account and apply it to data sharing occurring through this digital property (across your browsers and devices) as well as other digital properties of The Walt Disney Family of Companies. You can confirm the status of your choice or opt out or in by clicking “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each property. Manage Consent PreferencesSelling, Sharing, Targeted Advertising Selling, Sharing, Targeted Advertising If you are not logged in, your opt-out will be specific to this property and device or browser. For our other digital properties, to opt out, select “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each. If you clear your tracking history or use another browser or device, you’ll need to opt out again.You can also submit this opt-out form, which may enable us to apply your opt-out more broadly, for example, to stop data sharing in connection with advertising intended to reach you on platforms not operated by Disney (e.g., social media platforms). You may enable online, where available, a universal tool that automatically communicates your opt-out, such as Global Privacy Control (“GPC”), which we’ll process as if you had opted out through the toggle.Even if you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. Please visit Your US State Privacy Rights for more information about your rights and how to exercise them.Back ButtonCookie List Search IconFilter IconClear checkbox label labelApply CancelConsent Leg.Interest checkbox label label checkbox label label checkbox label label Submit",
+        "Notice of Right to Opt Out of Sale/SharingSome US states provide residents (or their authorized agents) with the right to opt out of “targeted advertising,” “selling,” or “sharing” of personal information, as defined by applicable laws. You can move the toggle to the left and click “Submit” to opt out of such activities occurring through this digital property. If you are logged in, we may be able to associate your choice with your account and apply it to data sharing occurring through this digital property (across your browsers and devices) as well as other digital properties of The Walt Disney Family of Companies. You can confirm the status of your choice or opt out or in by clicking “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each property. Manage Consent PreferencesSelling, Sharing, Targeted Advertising Selling, Sharing, Targeted Advertising If you are not logged in, your opt-out will be specific to this property and device or browser. For our other digital properties, to opt out, select “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each. If you clear your tracking history or use another browser or device, you’ll need to opt out again.You can also submit this opt-out form, which may enable us to apply your opt-out more broadly, for example, to stop data sharing in connection with advertising intended to reach you on platforms not operated by Disney (e.g., social media platforms). You may enable online, where available, a universal tool that automatically communicates your opt-out, such as Global Privacy Control (“GPC”), which we’ll process as if you had opted out through the toggle.Even if you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. Please visit Your US State Privacy Rights for more information about your rights and how to exercise them.",
+        "Notice of Right to Opt Out of Sale/Sharing",
+        "Some US states provide residents (or their authorized agents) with the right to opt out of “targeted advertising,” “selling,” or “sharing” of personal information, as defined by applicable laws. You can move the toggle to the left and click “Submit” to opt out of such activities occurring through this digital property. If you are logged in, we may be able to associate your choice with your account and apply it to data sharing occurring through this digital property (across your browsers and devices) as well as other digital properties of The Walt Disney Family of Companies. You can confirm the status of your choice or opt out or in by clicking “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each property.",
+        "Manage Consent Preferences",
+        "Selling, Sharing, Targeted Advertising Selling, Sharing, Targeted Advertising If you are not logged in, your opt-out will be specific to this property and device or browser. For our other digital properties, to opt out, select “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each. If you clear your tracking history or use another browser or device, you’ll need to opt out again.You can also submit this opt-out form, which may enable us to apply your opt-out more broadly, for example, to stop data sharing in connection with advertising intended to reach you on platforms not operated by Disney (e.g., social media platforms). You may enable online, where available, a universal tool that automatically communicates your opt-out, such as Global Privacy Control (“GPC”), which we’ll process as if you had opted out through the toggle.Even if you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. Please visit Your US State Privacy Rights for more information about your rights and how to exercise them.",
         "Selling, Sharing, Targeted Advertising",
-        "If you are not logged in, your opt-out will be specific to this property and device or browser. For our other digital properties, to opt out, select “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each. If you clear your tracking history or use another browser or device, you’ll need to opt out again.You can also submit this opt-out form, which may enable us to apply your opt-out more broadly, for example, to stop data sharing in connection with advertising intended to reach you on platforms not operated by Disney (e.g., social media platforms). You may enable online, where available, a universal tool that automatically communicates your opt-out, such as Global Privacy Control (“GPC”), which we’ll process as if you had opted out through the toggle.Even if you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. Please visit Your US State Privacy Rights for more information about your rights and how to exercise them."
-      ]
-    },
-    {
-      "title": "Cookie List",
-      "items": [
-        "checkbox label label"
+        "If you are not logged in, your opt-out will be specific to this property and device or browser. For our other digital properties, to opt out, select “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each. If you clear your tracking history or use another browser or device, you’ll need to opt out again.You can also submit this opt-out form, which may enable us to apply your opt-out more broadly, for example, to stop data sharing in connection with advertising intended to reach you on platforms not operated by Disney (e.g., social media platforms). You may enable online, where available, a universal tool that automatically communicates your opt-out, such as Global Privacy Control (“GPC”), which we’ll process as if you had opted out through the toggle.Even if you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. Please visit Your US State Privacy Rights for more information about your rights and how to exercise them.",
+        "Back ButtonCookie List Search IconFilter IconClear checkbox label labelApply Cancel",
+        "Back ButtonCookie List",
+        "Cookie List",
+        "Search IconFilter IconClear checkbox label labelApply Cancel",
+        "Search Icon",
+        "Filter Icon",
+        "Clear checkbox label labelApply Cancel",
+        "checkbox label labelApply Cancel",
+        "checkbox label label",
+        "checkbox label",
+        "label",
+        "Apply Cancel",
+        "Consent Leg.Interest checkbox label label checkbox label label checkbox label label",
+        "Consent Leg.Interest",
+        "Consent",
+        "Leg.Interest",
+        "checkbox label label checkbox label label checkbox label label",
+        "Submit"
       ]
     }
   ]
