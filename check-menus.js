@@ -132,6 +132,21 @@ async function extractPageContent(page) {
     // ----------------------------
     if (mode === "heading") {
       elements.forEach(el => {
+        // Only process div/span that are not legend/price
+        if (el.tagName === "DIV" || el.tagName === "SPAN") {
+          const classList = el.classList ? [...el.classList].map(c => c.toLowerCase()) : [];
+
+          // Skip if it matches legend or price
+          if (classList.some(c => c.includes("price"))) {
+            return;
+          }
+
+          // Only process if class contains "title" or "name" dynamically
+          if (!classList.some(c => c.includes("title") || c.includes("name"))) {
+            return;
+          }
+        }
+
         const t = el.innerText?.trim();
         if (!t) return;
 
@@ -164,9 +179,20 @@ async function extractPageContent(page) {
         container
           .querySelectorAll("h1, h2, h3, h4, p, li, div, span")
           .forEach(el => {
-            const t = el.innerText?.trim();
-            if (!t) return;
-            addItem(section, t);
+            // Only process div/span that are not legend/price
+            if (el.tagName === "DIV" || el.tagName === "SPAN") {
+              const classList = el.classList ? [...el.classList].map(c => c.toLowerCase()) : [];
+
+              // Skip if it matches legend or price
+              if (classList.some(c => c.includes("price"))) {
+                return;
+              }
+
+              // Only process if class contains "title" or "name" dynamically
+              if (!classList.some(c => c.includes("title") || c.includes("name"))) {
+                return;
+              }
+            }
           });
       });
 
@@ -179,6 +205,21 @@ async function extractPageContent(page) {
     currentSection = addSection("menu");
 
     elements.forEach(el => {
+      // Only process div/span that are not legend/price
+      if (el.tagName === "DIV" || el.tagName === "SPAN") {
+        const classList = el.classList ? [...el.classList].map(c => c.toLowerCase()) : [];
+
+        // Skip if it matches legend or price
+        if (classList.some(c => c.includes("price"))) {
+          return;
+        }
+
+        // Only process if class contains "title" or "name" dynamically
+        if (!classList.some(c => c.includes("title") || c.includes("name"))) {
+          return;
+        }
+      }
+      
       const t = el.innerText?.trim();
       if (!t) return;
 
