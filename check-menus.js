@@ -173,21 +173,62 @@ async function extractPageContent(page) {
     function isTrueMenuSection(text) {
       const t = text.toLowerCase();
 
+      // hard reject long garbage blocks
+      if (t.length > 80) return false;
+
+      // reject disclaimer/legal text
+      if (
+        t.includes("guests must") ||
+        t.includes("allergy") ||
+        t.includes("cross-contact") ||
+        t.includes("foodborne") ||
+        t.includes("consuming raw") ||
+        t.includes("subject to change")
+      ) return false;
+
       return (
-        (t.includes("menu") && (t.includes("lunch") || t.includes("breakfast") || t.includes("dinner"))) ||
+        t === "menu" ||
         t.startsWith("menu for") ||
-        t === "menu"
+        t === "breakfast menu" ||
+        t === "lunch menu" ||
+        t === "dinner menu" ||
+        t === "lunch and dinner menu"
       );
     }
 
     function isCategoryHeader(el, text) {
       const t = text.toLowerCase();
 
+      // reject long junk
+      if (t.length > 40) return false;
+
+      // reject location / restaurant repeats
+      if (
+        t.includes("disney") ||
+        t.includes("park") ||
+        t.includes("restaurant") ||
+        t.includes("street")
+      ) return false;
+
       return (
-        el.tagName.match(/^H[1-4]$/) &&
-        !isTrueMenuSection(t) &&
-        !isNoise(t) &&
-        t.length < 40
+        el.tagName.match(/^H[2-4]$/) &&
+        !isTrueMenuSection(t)
+      );
+    }
+
+    function isClearlyNotFood(text) {
+      const t = text.toLowerCase();
+
+      return (
+        t.length > 120 || // huge paragraphs
+        t.includes("guests must") ||
+        t.includes("allergy") ||
+        t.includes("dietary") ||
+        t.includes("copyright") ||
+        t.includes("privacy") ||
+        t.includes("terms") ||
+        t.includes("cookie") ||
+        t.includes("accessibility")
       );
     }
 
@@ -236,6 +277,7 @@ async function extractPageContent(page) {
 
       // 3. ITEMS ONLY
       if (!isItem(el)) return;
+      if (isClearlyNotFood(text)) return;
 
       addItem(currentSection, text);
     });
@@ -316,78 +358,83 @@ async function fetchMenu(browser, menu) {
     // COMBOBOX (ONLY IF IT MAKES SENSE)
     // --------------------
     // --------------------
-    const combo = await page.$('button[role="combobox"], [role="combobox"]');
+    const combo = await page.$('[role="combobox"]');
 
     if (combo) {
       try {
-        await combo.click();
+        await combo.evaluate(el => el.click());
 
-        // Wait for ANY dropdown-like content (Disney uses different structures)
+        // wait for dropdown to actually appear (not just click)
         await page.waitForFunction(() => {
-          const candidates = document.querySelectorAll(
-            'li[role="option"], [role="option"], ul[role="listbox"] li, div[role="option"]'
+          const opts = document.querySelectorAll(
+            '[role="option"], li[role="option"], div[role="option"]'
           );
-          return candidates && candidates.length > 0;
-        }, { timeout: 8000 }).catch(() => null);
+          return opts.length > 0;
+        }, { timeout: 8000 }).catch(() => { });
 
-        await wait(500); // let React settle
+        await wait(800);
 
         let options = await page.$$(
-          'li[role="option"], [role="option"], ul[role="listbox"] li, div[role="option"]'
+          '[role="option"], li[role="option"], div[role="option"]'
         );
 
-        // retry once if empty (very common on Disney sites)
-        if (options.length === 0) {
+        if (!options.length) {
           await wait(1500);
-
           options = await page.$$(
-            'li[role="option"], [role="option"], ul[role="listbox"] li, div[role="option"]'
+            '[role="option"], li[role="option"], div[role="option"]'
           );
         }
 
-        if (options.length === 0) {
-          console.log("Combobox opened but no options found");
-        } else {
-          const slugWords = decodeURIComponent(menu.url.split("/menus/")[1] || "")
-            .toLowerCase()
-            .replace(/[-–—]/g, " ")
-            .replace(/&/g, "and")
-            .split(/\s+/)
-            .filter(Boolean);
+        if (options.length) {
+          const slug = menu.url
+            .split("/menus/")[1]
+            ?.replace(/\/$/, "")
+            ?.toLowerCase()
+            ?.replace(/[-–—]/g, " ")
+            ?.replace(/&/g, "and")
+            ?.trim();
 
-          const score = (text) => {
-            if (!slugWords.length) return 0;
-
-            let s = 0;
-            for (const w of slugWords) {
-              if (text.includes(w)) s++;
-            }
-            return s;
-          };
-
-          let bestOption = null;
-          let bestScore = 0;
+          const best = { el: null, score: -1 };
 
           for (const opt of options) {
-            const text = await page.evaluate(el => (el.innerText || "").toLowerCase(), opt);
+            const text = await page.evaluate(el => el.innerText.toLowerCase(), opt);
 
-            const s = score(text);
+            let score = 0;
+            if (slug && text.includes(slug)) score += 5;
 
-            if (s > bestScore) {
-              bestScore = s;
-              bestOption = opt;
+            // fallback: partial match words
+            const words = slug?.split(/\s+/) || [];
+            for (const w of words) {
+              if (w && text.includes(w)) score++;
+            }
+
+            if (score > best.score) {
+              best = { el: opt, score };
             }
           }
 
-          if (bestOption) {
-            await bestOption.click();
+          if (best.el) {
+            await best.el.evaluate(el => el.scrollIntoView({ block: "center" }));
 
-            // wait for menu refresh after selection
-            await wait(2000);
+            const box = await best.el.boundingBox();
+            if (box) {
+              await page.mouse.move(
+                box.x + box.width / 2,
+                box.y + box.height / 2
+              );
+              await page.mouse.click(
+                box.x + box.width / 2,
+                box.y + box.height / 2
+              );
+            } else {
+              await best.el.click();
+            }
 
+            // wait for menu re-render AFTER selection
+            await wait(4000);
             await page.waitForFunction(() => {
-              const list = document.querySelector('[role="listbox"]');
-              return !list || list.offsetParent === null;
+              const text = document.body.innerText.toLowerCase();
+              return text.includes("menu") || document.querySelector("main");
             }, { timeout: 8000 }).catch(() => { });
           }
         }
