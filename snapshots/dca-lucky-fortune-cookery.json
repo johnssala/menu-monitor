@@ -1,46 +1,77 @@
 {
   "sections": [
     {
+      "title": "menu",
+      "items": []
+    },
+    {
+      "title": "Lucky Fortune Cookery Lunch And Dinner Menu Disney California Adventure Park, San Fransokyo Square Fast Casual Dining Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location. * This item is cooked to Guest preference and/or may contain raw or undercooked ingredients. Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
+      "items": []
+    },
+    {
+      "title": "Lucky Fortune Cookery Lunch And Dinner Menu Disney California Adventure Park, San Fransokyo Square Fast Casual Dining Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location. * This item is cooked to Guest preference and/or may contain raw or undercooked ingredients. Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
+      "items": []
+    },
+    {
+      "title": "Lucky Fortune Cookery Lunch And Dinner Menu Disney California Adventure Park, San Fransokyo Square Fast Casual Dining",
+      "items": []
+    },
+    {
+      "title": "Lucky Fortune Cookery Lunch And Dinner Menu Disney California Adventure Park, San Fransokyo Square",
+      "items": []
+    },
+    {
+      "title": "Lucky Fortune Cookery Lunch And Dinner Menu Disney California Adventure Park, San Fransokyo Square",
+      "items": [
+        "Lucky Fortune Cookery",
+        "— Lucky Fortune Cookery"
+      ]
+    },
+    {
+      "title": "Lunch And Dinner Menu",
+      "items": []
+    },
+    {
       "title": "Lunch And Dinner Menu",
       "items": [
-        "Megabot Sipper",
-        "Bulgogi Bowl",
+        "— Megabot Sipper",
+        "— Bulgogi Bowl",
         "San Fransokyo Noodle Stir-fry with Karaage-inspired Crispy Chicken",
-        "Teriyaki Chicken",
-        "Beef Birria Ramen",
+        "— Teriyaki Chicken",
+        "— Beef Birria Ramen",
         "Karaage-inspired Crispy Chicken Sandwich",
-        "San Fransokyo Noodle Stir-fry",
-        "Add Brown Sugar Tapioca Spheres",
-        "Pot Stickers",
-        "Matcha-Raspberry Baymax Macaron",
-        "Kids Chicken and Rice",
-        "Kids Teriyaki Chicken",
-        "Sapporo Premium Beer",
-        "Brewery X, Tokyo Tea Hard Seltzer",
-        "Pandan Milk Tea",
-        "Baymax Sipper",
-        "Thai Tea",
-        "Hot Green Tea",
-        "Assorted Fountain Beverages - Regular",
-        "Assorted Fountain Beverages - Large",
-        "DASANI® Bottled Water",
-        "Minute Maid® Apple Juice",
-        "Lowfat Milk",
+        "— San Fransokyo Noodle Stir-fry",
+        "— Add Brown Sugar Tapioca Spheres",
+        "— Pot Stickers",
+        "— Matcha-Raspberry Baymax Macaron",
+        "— Kids Chicken and Rice",
+        "— Kids Teriyaki Chicken",
+        "— Sapporo Premium Beer",
+        "— Brewery X, Tokyo Tea Hard Seltzer",
+        "— Pandan Milk Tea",
+        "— Baymax Sipper",
+        "— Thai Tea",
+        "— Hot Green Tea",
+        "— Assorted Fountain Beverages - Regular",
+        "— Assorted Fountain Beverages - Large",
+        "— DASANI® Bottled Water",
+        "— Minute Maid® Apple Juice",
+        "— Lowfat Milk",
         "Guests must speak to a Cast Member about their allergy-friendly request",
         "Gluten/Wheat Allergy-Friendly Teriyaki Chicken",
         "Gluten/Wheat Allergy-Friendly Kids Chicken and Rice",
-        "Egg Allergy-Friendly Teriyaki Chicken",
+        "— Egg Allergy-Friendly Teriyaki Chicken",
         "Egg Allergy-Friendly Plant-based San Fransokyo Noodle Stir-fry",
         "Egg Allergy Friendly Plant-based Kids San Fransokyo Noodle Stir-Fry",
         "Egg Allergy-Friendly Kids Chicken and Rice",
         "Egg Allergy-Friendly Kids Teriyaki Chicken",
-        "Egg Allergy-Friendly Pot Stickers",
-        "Fish Allergy-Friendly Beef Birria Ramen",
+        "— Egg Allergy-Friendly Pot Stickers",
+        "— Fish Allergy-Friendly Beef Birria Ramen",
         "Fish Allergy-Friendly Kids Chicken and Rice",
         "Fish Allergy-Friendly Kids Teriyaki Chicken",
         "Fish/Shellfish Allergy-Friendly Plant-based San Fransokyo Noodle Stir-fry",
-        "Milk Allergy-Friendly Teriyaki Chicken",
-        "Milk Allergy-Friendly Pot Stickers",
+        "— Milk Allergy-Friendly Teriyaki Chicken",
+        "— Milk Allergy-Friendly Pot Stickers",
         "Milk Allergy-Friendly Karaage-inspired Crispy Chicken Sandwich",
         "Milk Allergy-Friendly Plant-based Kids San Fransokyo Noodle Stir-Fry",
         "Milk Allergy-Friendly Kids Chicken and Rice",
@@ -57,24 +88,9 @@
         "Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location.",
         "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
         "Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
-        "Help & Guest Services",
-        "Site Map",
-        "Your Privacy Choices",
-        "Your US State Privacy Rights",
-        "Interest-Based Ads",
-        "Notice of Right to Opt Out of Sale/Sharing"
-      ]
-    },
-    {
-      "title": "Manage Consent Preferences",
-      "items": [
-        "Selling, Sharing, Targeted Advertising",
-        "If you are not logged in, your opt-out will be specific to this property and device or browser. For our other digital properties, to opt out, select “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each. If you clear your tracking history or use another browser or device, you’ll need to opt out again.You can also submit this opt-out form, which may enable us to apply your opt-out more broadly, for example, to stop data sharing in connection with advertising intended to reach you on platforms not operated by Disney (e.g., social media platforms). You may enable online, where available, a universal tool that automatically communicates your opt-out, such as Global Privacy Control (“GPC”), which we’ll process as if you had opted out through the toggle.Even if you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. Please visit Your US State Privacy Rights for more information about your rights and how to exercise them."
-      ]
-    },
-    {
-      "title": "Cookie List",
-      "items": [
+        "Notice of Right to Opt Out of Sale/Sharing",
+        "— Manage Consent Preferences",
+        "— Selling, Sharing, Targeted Advertising",
         "checkbox label label"
       ]
     }

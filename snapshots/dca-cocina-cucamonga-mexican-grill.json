@@ -1,33 +1,64 @@
 {
   "sections": [
     {
+      "title": "menu",
+      "items": []
+    },
+    {
+      "title": "Cocina Cucamonga Mexican Grill Lunch And Dinner Menu Disney California Adventure Park, San Fransokyo Square Fast Casual Dining Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location. * This item is cooked to Guest preference and/or may contain raw or undercooked ingredients. Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
+      "items": []
+    },
+    {
+      "title": "Cocina Cucamonga Mexican Grill Lunch And Dinner Menu Disney California Adventure Park, San Fransokyo Square Fast Casual Dining Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location. * This item is cooked to Guest preference and/or may contain raw or undercooked ingredients. Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
+      "items": []
+    },
+    {
+      "title": "Cocina Cucamonga Mexican Grill Lunch And Dinner Menu Disney California Adventure Park, San Fransokyo Square Fast Casual Dining",
+      "items": []
+    },
+    {
+      "title": "Cocina Cucamonga Mexican Grill Lunch And Dinner Menu Disney California Adventure Park, San Fransokyo Square",
+      "items": []
+    },
+    {
+      "title": "Cocina Cucamonga Mexican Grill Lunch And Dinner Menu Disney California Adventure Park, San Fransokyo Square",
+      "items": [
+        "Cocina Cucamonga Mexican Grill",
+        "— Cocina Cucamonga Mexican Grill"
+      ]
+    },
+    {
+      "title": "Lunch And Dinner Menu",
+      "items": []
+    },
+    {
       "title": "Lunch And Dinner Menu",
       "items": [
-        "Megabot Sipper",
-        "QuesaBirria",
-        "Carne Asada",
-        "Pollo Asado",
-        "San Fransokyo-style Street Corn",
-        "Tacos Dorados de Papa",
-        "Frijoles Charros",
-        "Lime-Cilantro Rice",
-        "Carne Asada Taco",
-        "Pollo Asado Taco",
-        "Strawberry Horchata",
-        "Cantaloupe Agua Fresca",
-        "Baymax Sipper",
-        "Horchata Agua Fresca",
-        "Assorted Fountain Beverages - Regular",
-        "Assorted Fountain Beverages - Large",
-        "DASANI® Bottled Water",
-        "Minute Maid® Apple Juice",
-        "Chocolate Milk",
-        "Lowfat Milk",
-        "Strawberry Horchata with Rum",
+        "— Megabot Sipper",
+        "— QuesaBirria",
+        "— Carne Asada",
+        "— Pollo Asado",
+        "— San Fransokyo-style Street Corn",
+        "— Tacos Dorados de Papa",
+        "— Frijoles Charros",
+        "— Lime-Cilantro Rice",
+        "— Carne Asada Taco",
+        "— Pollo Asado Taco",
+        "— Strawberry Horchata",
+        "— Cantaloupe Agua Fresca",
+        "— Baymax Sipper",
+        "— Horchata Agua Fresca",
+        "— Assorted Fountain Beverages - Regular",
+        "— Assorted Fountain Beverages - Large",
+        "— DASANI® Bottled Water",
+        "— Minute Maid® Apple Juice",
+        "— Chocolate Milk",
+        "— Lowfat Milk",
+        "— Strawberry Horchata with Rum",
         "Karl Strauss® Brewing Company, Karlito's Mexican Lager, San Diego, CA",
         "Karl Strauss® Brewing Company, Karlito's Mexican Lager Michelada",
-        "Classic Lime Margarita",
-        "Horchata Cocktail",
+        "— Classic Lime Margarita",
+        "— Horchata Cocktail",
         "Guests must speak to a Cast Member about their allergy-friendly request",
         "Gluten/Wheat Allergy-Friendly QuesaBirria Street Tacos",
         "Gluten/Wheat Allergy-Friendly Carne Asada Street Tacos",
@@ -43,8 +74,8 @@
         "Egg Allergy-Friendly Tacos Dorados de Papa Street Tacos",
         "Egg Allergy-Friendly Kids' Pollo Asado Taco",
         "Egg Allergy-Friendly Kids' Carne Asada Taco",
-        "Egg Allergy-Friendly Lime-Cilantro Rice",
-        "Egg Allergy-Friendly Frijoles Charros",
+        "— Egg Allergy-Friendly Lime-Cilantro Rice",
+        "— Egg Allergy-Friendly Frijoles Charros",
         "Fish/Shellfish Allergy-Friendly QuesaBirria Street Tacos",
         "Fish/Shellfish Allergy-Friendly Carne Asada Street Tacos",
         "Fish/Shellfish Allergy-Friendly Pollo Asado Street Tacos",
@@ -59,7 +90,7 @@
         "Milk Allergy-Friendly Kids' Pollo Asado Taco",
         "Milk Allergy-Friendly Kids' Carne Asada Taco",
         "Milk Allergy-Friendly Lime-Cilantro Rice",
-        "Milk Allergy-Friendly Frijoles Charros",
+        "— Milk Allergy-Friendly Frijoles Charros",
         "Peanut/Tree Nut Allergy-Friendly QuesaBirria Street Tacos",
         "Peanut/Tree Nut Allergy-Friendly Carne Asada Street Tacos",
         "Peanut/Tree Nut Allergy-Friendly Pollo Asado Street Tacos",
@@ -82,29 +113,14 @@
         "Soy Allergy-Friendly Tacos Dorados de Papa Street Tacos",
         "Soy Allergy-Friendly Kids' Pollo Asado Taco",
         "Soy Allergy-Friendly Kids' Carne Asada Taco",
-        "Soy Allergy-Friendly Lime-Cilantro Rice",
-        "Soy Allergy-Friendly Frijoles Charros",
+        "— Soy Allergy-Friendly Lime-Cilantro Rice",
+        "— Soy Allergy-Friendly Frijoles Charros",
         "Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location.",
         "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
         "Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
-        "Help & Guest Services",
-        "Site Map",
-        "Your Privacy Choices",
-        "Your US State Privacy Rights",
-        "Interest-Based Ads",
-        "Notice of Right to Opt Out of Sale/Sharing"
-      ]
-    },
-    {
-      "title": "Manage Consent Preferences",
-      "items": [
-        "Selling, Sharing, Targeted Advertising",
-        "If you are not logged in, your opt-out will be specific to this property and device or browser. For our other digital properties, to opt out, select “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each. If you clear your tracking history or use another browser or device, you’ll need to opt out again.You can also submit this opt-out form, which may enable us to apply your opt-out more broadly, for example, to stop data sharing in connection with advertising intended to reach you on platforms not operated by Disney (e.g., social media platforms). You may enable online, where available, a universal tool that automatically communicates your opt-out, such as Global Privacy Control (“GPC”), which we’ll process as if you had opted out through the toggle.Even if you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. Please visit Your US State Privacy Rights for more information about your rights and how to exercise them."
-      ]
-    },
-    {
-      "title": "Cookie List",
-      "items": [
+        "Notice of Right to Opt Out of Sale/Sharing",
+        "— Manage Consent Preferences",
+        "— Selling, Sharing, Targeted Advertising",
         "checkbox label label"
       ]
     }

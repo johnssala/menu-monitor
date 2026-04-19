@@ -1,41 +1,71 @@
 {
   "sections": [
     {
+      "title": "menu",
+      "items": []
+    },
+    {
+      "title": "Pym Test Kitchen Breakfast Menu Disney California Adventure Park, Avengers Campus Quick Service Restaurant Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location. * This item is cooked to Guest preference and/or may contain raw or undercooked ingredients. Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
+      "items": []
+    },
+    {
+      "title": "Pym Test Kitchen Breakfast Menu Disney California Adventure Park, Avengers Campus Quick Service Restaurant Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location. * This item is cooked to Guest preference and/or may contain raw or undercooked ingredients. Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
+      "items": []
+    },
+    {
+      "title": "Pym Test Kitchen Breakfast Menu Disney California Adventure Park, Avengers Campus Quick Service Restaurant",
+      "items": []
+    },
+    {
+      "title": "Pym Test Kitchen Breakfast Menu Disney California Adventure Park, Avengers Campus",
+      "items": []
+    },
+    {
+      "title": "Pym Test Kitchen Breakfast Menu Disney California Adventure Park, Avengers Campus",
+      "items": [
+        "Pym Test Kitchen",
+        "— Pym Test Kitchen"
+      ]
+    },
+    {
+      "title": "Breakfast Menu",
+      "items": []
+    },
+    {
       "title": "Breakfast Menu",
       "items": [
-        "Experiment 7290: Cookies & Cream Cold Brew",
-        "Mister Fantastic Straw Clip",
-        "The Fantastic Four: Clobberin’ Sipper",
-        "Spider-Man Straw Clip",
-        "Captain America Shield Sipper",
-        "Quantum Pretzel",
-        "Formulated French Toast",
-        "Verde Variant Chilaquiles",
-        "Recalculated Breakfast",
-        "Impossible™ Quantum Garden Breakfast",
-        "Side Turkey Bacon",
-        "Side Potato Bites",
-        "Side Smoked Bacon",
-        "Side Cheese-Beer Sauce",
-        "Side Cuties® Mandarin",
-        "Nano Eggs-periment 101",
-        "Semi-Formulated French Toast",
-        "Choco Smash Bar",
-        "Proton Punch",
-        "Lowfat Milk",
-        "Coffee",
-        "Hot Cocoa",
-        "Simply® Orange",
-        "Coca-Cola® Freestyle - Regular",
-        "Coca-Cola® Freestyle - Large",
-        "DASANI® Bottled Water",
-        "Glowing Pym Particle Capsule",
-        "Glowing Pym Particle Disc",
-        "Proton Potation",
-        "Topa Topa Brewing Co., Chief Peak IPA",
-        "Kona Brewing Co., Big Wave",
-        "Beer Mimosa",
-        "Sierra Nevada, Sunny Little Thing",
+        "— Mister Fantastic Straw Clip",
+        "— The Fantastic Four: Clobberin’ Sipper",
+        "— Spider-Man Straw Clip",
+        "— Captain America Shield Sipper",
+        "— Quantum Pretzel",
+        "— Formulated French Toast",
+        "— Verde Variant Chilaquiles",
+        "— Recalculated Breakfast",
+        "— Impossible™ Quantum Garden Breakfast",
+        "— Side Turkey Bacon",
+        "— Side Potato Bites",
+        "— Side Smoked Bacon",
+        "— Side Cheese-Beer Sauce",
+        "— Side Cuties® Mandarin",
+        "— Nano Eggs-periment 101",
+        "— Semi-Formulated French Toast",
+        "— Choco Smash Bar",
+        "— Proton Punch",
+        "— Lowfat Milk",
+        "— Coffee",
+        "— Hot Cocoa",
+        "— Simply® Orange",
+        "— Coca-Cola® Freestyle - Regular",
+        "— Coca-Cola® Freestyle - Large",
+        "— DASANI® Bottled Water",
+        "— Glowing Pym Particle Capsule",
+        "— Glowing Pym Particle Disc",
+        "— Proton Potation",
+        "— Topa Topa Brewing Co., Chief Peak IPA",
+        "— Kona Brewing Co., Big Wave",
+        "— Beer Mimosa",
+        "— Sierra Nevada, Sunny Little Thing",
         "Guests must speak to a Cast Member about their allergy-friendly request",
         "Gluten/Wheat Allergy-Friendly Verde Variant Chilaquiles",
         "Gluten/Wheat Allergy-Friendly Recalculated Breakfast",
@@ -43,8 +73,8 @@
         "Gluten/Wheat Allergy-Friendly Nano Eggs-periment 101",
         "Gluten/Wheat Allergy-Friendly Side Bacon",
         "Gluten/Wheat Allergy-Friendly Side Turkey Bacon",
-        "Egg Allergy-Friendly Side Bacon",
-        "Egg Allergy-Friendly Side Turkey Bacon",
+        "— Egg Allergy-Friendly Side Bacon",
+        "— Egg Allergy-Friendly Side Turkey Bacon",
         "Fish/Shellfish Allergy-Friendly Verde Variant Chilaquiles",
         "Fish/Shellfish Allergy-Friendly Recalculated Breakfast",
         "Fish/Shellfish Allergy-Friendly Formulated French Toast",
@@ -55,7 +85,7 @@
         "Fish/Shellfish Allergy-Friendly Nano Eggs-periment 101",
         "Milk Allergy-Friendly Recalculated Breakfast",
         "Milk/Dairy Allergy-Friendly Side Turkey Bacon",
-        "Milk/Dairy Allergy-Friendly Side Bacon",
+        "— Milk/Dairy Allergy-Friendly Side Bacon",
         "Milk/Dairy Allergy-Friendly Impossible™ Quantum Garden Breakfast",
         "Milk/Dairy Allergy-Friendly Nano Eggs-periment 101",
         "Peanut/Tree Nut Allergy-Friendly Recalculated Breakfast",
@@ -69,36 +99,21 @@
         "Sesame Allergy-Friendly Semi-Formulated French Toast",
         "Sesame Allergy-Friendly Impossible™ Quantum Garden Breakfast",
         "Sesame Allergy-Friendly Kids Nano Eggs-periment 101",
-        "Sesame Allergy-Friendly Side Bacon",
+        "— Sesame Allergy-Friendly Side Bacon",
         "Sesame Allergy-Friendly Side Turkey Bacon",
         "Soy Allergy-Friendly Recalculated Breakfast",
         "Soy Allergy-Friendly Verde Variant Chilaquiles",
         "Soy Allergy-Friendly Formulated French Toast",
         "Soy Allergy-Friendly Semi-Formulated French Toast",
-        "Soy Allergy-Friendly Side Bacon",
-        "Soy Allergy-Friendly Side Turkey Bacon",
+        "— Soy Allergy-Friendly Side Bacon",
+        "— Soy Allergy-Friendly Side Turkey Bacon",
         "Soy Allergy-Friendly Nano Eggs-periment 101",
         "Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location.",
         "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
         "Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
-        "Help & Guest Services",
-        "Site Map",
-        "Your Privacy Choices",
-        "Your US State Privacy Rights",
-        "Interest-Based Ads",
-        "Notice of Right to Opt Out of Sale/Sharing"
-      ]
-    },
-    {
-      "title": "Manage Consent Preferences",
-      "items": [
-        "Selling, Sharing, Targeted Advertising",
-        "If you are not logged in, your opt-out will be specific to this property and device or browser. For our other digital properties, to opt out, select “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each. If you clear your tracking history or use another browser or device, you’ll need to opt out again.You can also submit this opt-out form, which may enable us to apply your opt-out more broadly, for example, to stop data sharing in connection with advertising intended to reach you on platforms not operated by Disney (e.g., social media platforms). You may enable online, where available, a universal tool that automatically communicates your opt-out, such as Global Privacy Control (“GPC”), which we’ll process as if you had opted out through the toggle.Even if you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. Please visit Your US State Privacy Rights for more information about your rights and how to exercise them."
-      ]
-    },
-    {
-      "title": "Cookie List",
-      "items": [
+        "Notice of Right to Opt Out of Sale/Sharing",
+        "— Manage Consent Preferences",
+        "— Selling, Sharing, Targeted Advertising",
         "checkbox label label"
       ]
     }
