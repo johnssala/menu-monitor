@@ -1,0 +1,45 @@
+{
+  "sections": [
+    {
+      "title": "menu",
+      "items": [
+        "Garden Grill Restaurant"
+      ]
+    },
+    {
+      "title": "Breakfast Menu",
+      "items": []
+    },
+    {
+      "title": "Breakfast Menu",
+      "items": [
+        "— Breakfast Pastry",
+        "— Fresh Fruit",
+        "— Mickey-shaped Waffles",
+        "— Backyard Grilled Steak*",
+        "— Smoked Bacon",
+        "— Scrambled Free-range Eggs",
+        "— Skillet Potatoes",
+        "— Seasonal Fruit",
+        "— Plant-based Mickey Waffles",
+        "— Impossible™ Breakfast Sausage",
+        "— Scrambled \"Eggs\"",
+        "— Allergy-Friendly Muffins",
+        "— Allergy-Friendly Mickey-shaped Waffles",
+        "— Assorted Fountain Beverages",
+        "— Freshly Brewed Joffrey’s Coffee™",
+        "— Twinings® Hot Tea",
+        "— Specialty Character Drink",
+        "— Legacy Mimosa",
+        "— Bloody Mary",
+        "— Cold Brew Martini",
+        "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
+        "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
+        "Notice of Right to Opt Out of Sale/Sharing",
+        "— Manage Consent Preferences",
+        "— Selling, Sharing, Targeted Advertising",
+        "checkbox label label"
+      ]
+    }
+  ]
+}
