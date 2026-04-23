@@ -1,0 +1,63 @@
+{
+  "sections": [
+    {
+      "title": "menu",
+      "items": [
+        "La Crêperie de Paris"
+      ]
+    },
+    {
+      "title": "Lunch Menu",
+      "items": []
+    },
+    {
+      "title": "Lunch Menu",
+      "items": [
+        "— Soupe du Jour",
+        "— Salade Maison",
+        "— Prix Fixe Menu",
+        "— Classique",
+        "— Poulet",
+        "— Chèvre",
+        "— Saumon",
+        "— Ratatouille",
+        "— Savoyarde",
+        "— Sucre",
+        "— Gourmande",
+        "— Banane",
+        "— Melba",
+        "— Poire",
+        "— Pomme",
+        "— Add-On's",
+        "— Add a Shot to Any Crêpe",
+        "— Brut",
+        "— Doux",
+        "— Demi Sec",
+        "— Rose",
+        "— Chardonnay",
+        "— Merlot",
+        "— Carbernet Sauvignon",
+        "— Rosé de Provence",
+        "— Biere La Belle Epoque",
+        "— Champagne Malard",
+        "— Cider Mojito",
+        "— French Martini",
+        "— Mimosa",
+        "— Assorted Fountain Beverage",
+        "— Jus de Pomme",
+        "— Limonade",
+        "— Evian",
+        "— Espresso",
+        "— Cappuccino",
+        "— Thé",
+        "— Café",
+        "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
+        "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
+        "Notice of Right to Opt Out of Sale/Sharing",
+        "— Manage Consent Preferences",
+        "— Selling, Sharing, Targeted Advertising",
+        "checkbox label label"
+      ]
+    }
+  ]
+}
