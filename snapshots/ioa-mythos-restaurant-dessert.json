@@ -1,24 +1,22 @@
 {
   "sections": [
     {
-      "title": "Dessert Menu",
+      "title": "menu",
       "items": [
-        "Dubai Chocolate Cheesecake(V)-",
+        "Mythos Restaurant™",
+        "— Dessert Menu",
+        "Desserts",
         "Dubai Chocolate Cheesecake",
         "white chocolate cheesecake, toasted kataifi, pistachio paste, lemon curd, dark chocolate ganache",
-        "Cinnamon Bread Pudding(V)-",
         "Cinnamon Bread Pudding",
         "cinnamon bread pudding, topped with vanilla ice cream and drizzled with caramel sauce",
-        "Chocolate Banana Gooey Cake(GS, V)-",
         "Chocolate Banana Gooey Cake",
         "warm flourless chocolate cake, peanut butter ice cream, bananas, caramel sauce, cinnamon sugar plantain chip",
-        "Crème Brûlée(GS, V)-",
         "Crème Brûlée",
         "classic vanilla crème brûlée, whip cream",
         "GS- Gluten Sensitive",
         "V- Vegetarian",
         "Vg- Vegan",
-        "Please inform a Manager or Chef prior to ordering if someone in your party requires special dietary accommodations",
         "An 18% gratuity will be added for parties of 6 or more.",
         "Menu items and pricing are subject to change without notice."
       ]

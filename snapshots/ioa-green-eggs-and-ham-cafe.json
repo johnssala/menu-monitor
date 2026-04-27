@@ -1,11 +1,26 @@
 {
   "sections": [
     {
+      "title": "menu",
+      "items": [
+        "Green Eggs and Ham™ Cafe"
+      ]
+    },
+    {
+      "title": "Lunch And Dinner Menu",
+      "items": []
+    },
+    {
+      "title": "Lunch And Dinner Menu",
+      "items": []
+    },
+    {
       "title": "Lunch And Dinner Menu",
       "items": [
+        "Entrees",
+        "Combos served with single serve fountain beverage",
         "Cheeseburger Tots(FS, GS, PS, SES, SFS, SS, TNS)",
         "Cheeseburger Tots",
-        "bacon cheeseburger inspired tater tots topped with a special sauce, cheese, pickles and red onions 12.49 | Combo 16.99",
         "bacon cheeseburger inspired tater tots topped with a special sauce, cheese, pickles and red onions",
         "12.49 | Combo 16.99",
         "Green Eggs & Ham Tots(FS, GS, PS, SES, SFS, SS, TNS)",
@@ -30,19 +45,15 @@
         "Vegan Pizza Tots",
         "plant based pepperoni, sausage, mozzarella and Parmesan cheese over tater tots 11.49 | Combo 15.99",
         "plant based pepperoni, sausage, mozzarella and Parmesan cheese over tater tots",
-        "Caramel Popcorn Cupcake(FS, PS, SES, SFS, TNS, V)-",
+        "Sweets",
         "Caramel Popcorn Cupcake",
-        "Green Eggs and Ham Chocolate Cheesecake(FS, PS, SES, SFS, SS, TNS, V)-",
         "Green Eggs and Ham Chocolate Cheesecake",
-        "Fountain Soda -",
+        "Beverages",
         "Fountain Soda",
         "Coke, Coke Zero Sugar, Diet Coke, Sprite, Fanta Orange, Minute Maid Lemonade, Root Beer",
-        "Powerade -",
         "Powerade",
         "Fruit Punch, Mountain Berry Blast",
-        "Niagara® Bottled Water -",
         "Niagara® Bottled Water",
-        "GS – Gluten Sensitive DS – Dairy Sensitive ES – Egg Sensitive PS - Peanut Sensitive TNS – Tree Nut Sensitive FS - Fish Sensitive",
         "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive V - Vegetarian VG - Vegan",
         "Menu items and pricing are subject to change without notice."
       ]

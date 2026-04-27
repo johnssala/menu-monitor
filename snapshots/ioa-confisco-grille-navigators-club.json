@@ -1,8 +1,55 @@
 {
   "sections": [
     {
-      "title": "page",
-      "items": []
+      "title": "menu",
+      "items": [
+        "Confisco Grille",
+        "— Navigators Club",
+        "Starters",
+        "Ahi Tuna Nachos*",
+        "Trader Wings",
+        "your choice of traditional style wings with Korean BBQ, hot honey, Buffalo, or garlic Parmesan sauce",
+        "Loaded Nachos",
+        "Roasted Tomato Burrata Dip",
+        "Calabrian Hummus",
+        "Coconut Curry Mussels",
+        "Prince Edward Island mussels, ginger & lemongrass yellow curry broth, lime zest, garlic crostini",
+        "Entrées",
+        "Chicken Quesadilla",
+        "pairs with Confisco Margarita",
+        "Paccheri de la Confisco",
+        "pairs with Vietti Moscato d’Asti",
+        "Pad Thai",
+        "rice noodles, mixed vegetables, bean sprouts, chicken and shrimp tossed in our house-made peanut sauce",
+        "request vegan alternative with crispy tofu and vegan peanut sauce 25.95",
+        "Grilled Angus Beef Churrasco Steak*",
+        "charred skirt steak*, jalapeño bacon & sweet corn relish, tomato, cilantro rice, chimichurri sauce",
+        "pairs with Braai Cabernet Sauvignon",
+        "Quesabirria",
+        "pairs with Jalapeño Margarita",
+        "Sweet and Sour Sticky Ribs",
+        "pairs with Boubloon Cocktail",
+        "Curry Dosa",
+        "potato and serrano chili pepper filling, coconut jalapeño ginger purée, tomato cilantro chutney pairs with A-Z Riesling",
+        "Birria Beef Burger*",
+        "pairs with Modelo Especial™",
+        "Miso Salmon",
+        "pairs with A to Z Wineworks® Riesling",
+        "Santa Fe Salad",
+        "Grilled Chicken 21.95 Shrimp 25.95 Salmon 26.95",
+        "pairs with Cavicchioli Prosecco",
+        "Heart of Romaine Caesar",
+        "crispy romaine hearts, Caesar dressing, toasted bread crouton, Parmesan cheese",
+        "Moroccan Chicken",
+        "Moroccan spiced brick oven half chicken, sweet & spicy carrot glaze, vegetable cous cous, harissa citrus sauce, cilantro",
+        "pairs with Sangria",
+        "GS- Gluten Sensitive",
+        "V- Vegetarian",
+        "Vg- Vegan",
+        "* Consuming raw or undercooked meals may increase your risk of foodborne illness",
+        "An 18% gratuity will be added for parties of 6 or more.",
+        "Menu items and pricing are subject to change without notice."
+      ]
     }
   ]
 }

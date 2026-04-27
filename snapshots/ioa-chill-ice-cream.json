@@ -1,41 +1,29 @@
 {
   "sections": [
     {
-      "title": "Everyday Menu",
+      "title": "menu",
       "items": [
-        "Dipped Waffle Cone -",
+        "Chill Ice Cream",
+        "— Everyday Menu",
+        "Cup & Cones",
         "Dipped Waffle Cone",
-        "Waffle Cone -",
         "Waffle Cone",
-        "Cup -",
         "Cup",
-        "Additional Toppings -",
         "Additional Toppings",
-        "M&M'S®, Reese's Pieces®, peanuts, OREO®, strawberries, chocolate sprinkles, rainbow sprinkles, hot fudge, caramel, strawberries, whipped topping, chocolate chips, shredded coconut, pineapple chunks, marshmallow fluff, graham cracker crumbs",
-        "Ice Cream Floats -",
+        "Floats",
         "Ice Cream Floats",
         "choice of soft serve and beverage",
-        "Fountain Soda -",
+        "Beverages",
         "Fountain Soda",
         "Coca-Cola, Coke Zero Sugar, Diet Coke, Sprite, Barq's Root Beer, Minute Maid Lemonade",
-        "Bottled Water -",
         "Bottled Water",
-        "GS – Gluten Sensitive DS – Dairy Sensitive ES – Egg Sensitive PS - Peanut Sensitive TNS – Tree Nut Sensitive FS - Fish Sensitive",
         "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive",
-        "Please inform a manager or Chef's Assistant prior to ordering if someone in your party requires special dietary accommodations.",
-        "Menu items and pricing are subject to change without notice."
-      ]
-    },
-    {
-      "title": "Soft Serve Sundaes",
-      "items": [
-        "Piña Colada(DS, ES, FS, GS, PS, SES, SFS, SS, VG)-",
+        "Menu items and pricing are subject to change without notice.",
+        "— Soft Serve Sundaes",
         "Piña Colada",
         "Dole Whip® pineapple sorbet, coconut cream, shredded coconut and pineapple chunks",
-        "Strawberry S'mores(ES, FS, PS, SES, SFS, SS, V)-",
         "Strawberry S'mores",
         "Dole Whip® strawberry sorbet, chocolate fudge, marshmallow fluff, chocolate chips and graham cracker crumbs",
-        "Lime Tart(ES, FS, PS, SES, SFS, SS, V)-",
         "Lime Tart",
         "Dole Whip® lime sorbet, caramel, graham crackers crumbs and whipped topping"
       ]
