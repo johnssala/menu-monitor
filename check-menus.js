@@ -119,13 +119,18 @@ async function extractPageContent(page) {
 
       // skip junk
       if (
-        l.includes("privacy policy") ||
-        l.includes("terms of use") ||
+        l.includes("privacy") ||
+        l.includes("terms") ||
         l.includes("legal notices") ||
         l.includes("all rights reserved") ||
-        l.includes("show navigation") ||
+        l.includes("copyright") ||
+        l.includes("cookie") ||
         l.includes("show search") ||
-        l.includes("show more links")
+        l.includes("show more links") ||
+        l.includes("manage consent preferences") ||
+        l.includes("navigation") ||
+        l.includes("footer") ||
+        l.includes("accessibility")
       ) return;
 
       // detect menu start
