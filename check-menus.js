@@ -92,75 +92,197 @@ async function extractPageContent(page) {
       document.body;
 
     const sections = [];
-    let currentSection = null;
 
-    const elements = root.querySelectorAll("h1, h2, h3, h4, p, li, div, span");
+    function addSection(title) {
+      const section = { title, items: [], _seenItems: new Set() };
+      sections.push(section);
+      return section;
+    }
 
-    elements.forEach(el => {
-      // Only process div/span that are not legend/price
-      if (el.tagName === "DIV" || el.tagName === "SPAN") {
-        const classList = el.classList ? [...el.classList].map(c => c.toLowerCase()) : [];
+    let currentSection = addSection("menu");
 
-        // Skip if it matches legend or price
-        if (classList.some(c => c.includes("price"))) {
-          return;
-        }
+    function addItem(section, value) {
+      if (!value) return;
+      const v = value.trim();
+      if (!v) return;
+      if (section._seenItems.has(v)) return;
 
-        // Only process if class contains "title" or "name" dynamically
-        if (!classList.some(c => c.includes("title") || c.includes("name"))) {
-          return;
-        }
-      }
+      section.items.push(v);
+      section._seenItems.add(v);
+    }
+
+    // -----------------------------
+    // FILTERS
+    // -----------------------------
+
+    function isNoise(text = "") {
+      const t = text.toLowerCase();
+
+      return (
+        t.includes("privacy") ||
+        t.includes("terms") ||
+        t.includes("all rights reserved") ||
+        t.includes("copyright") ||
+        t.includes("cookie") ||
+        t.includes("navigation") ||
+        t.includes("footer") ||
+        t.includes("accessibility")
+      );
+    }
+
+    function isBadArea(el) {
+      return (
+        el.closest("nav") ||
+        el.closest("footer") ||
+        el.closest("aside") ||
+        el.closest("[role='navigation']")
+      );
+    }
+
+    function isPrice(text = "") {
+      return /\$\s*\d/.test(text);
+    }
+
+    function hasMenuClass(el) {
+      const cls = (el.className || "").toLowerCase();
+      return (
+        cls.includes("title") ||
+        cls.includes("name") ||
+        cls.includes("heading") ||
+        cls.includes("menu-type")
+      );
+    }
+
+    function isValid(el) {
+      if (!el) return false;
+      if (isBadArea(el)) return false;
 
       const text = el.innerText?.trim();
-      if (!text) return;
+      if (!text) return false;
 
-      const l = text.toLowerCase();
+      if (isNoise(text)) return false;
+      if (isPrice(text)) return false;
 
-      // skip junk
+      return true;
+    }
+
+    // -----------------------------
+    // CLASSIFICATION (IMPORTANT FIX)
+    // -----------------------------
+
+    function isTrueMenuSection(text) {
+      const t = text.toLowerCase();
+
+      // hard reject long garbage blocks
+      if (t.length > 80) return false;
+
+      // reject disclaimer/legal text
       if (
-        l.includes("privacy") ||
-        l.includes("terms") ||
-        l.includes("legal notices") ||
-        l.includes("all rights reserved") ||
-        l.includes("copyright") ||
-        l.includes("cookie") ||
-        l.includes("show search") ||
-        l.includes("show more links") ||
-        l.includes("manage consent preferences") ||
-        l.includes("navigation") ||
-        l.includes("footer") ||
-        l.includes("accessibility")
-      ) return;
+        t.includes("guests must") ||
+        t.includes("allergy") ||
+        t.includes("cross-contact") ||
+        t.includes("foodborne") ||
+        t.includes("consuming raw") ||
+        t.includes("subject to change")
+      ) return false;
 
-      // detect menu start
-      if ((el.tagName === "H1" || el.tagName === "H2") && l.includes("menu")) {
-        currentSection = { title: text, items: [], _seenItems: new Set() }; // track duplicates
-        sections.push(currentSection);
+      return (
+        t === "menu" ||
+        t.startsWith("menu for") ||
+        t === "breakfast menu" ||
+        t === "lunch menu" ||
+        t === "dinner menu" ||
+        t === "lunch and dinner menu"
+      );
+    }
+
+    function isCategoryHeader(el, text) {
+      const t = text.toLowerCase();
+
+      // reject long junk
+      if (t.length > 40) return false;
+
+      // reject location / restaurant repeats
+      if (
+        t.includes("disney") ||
+        t.includes("park") ||
+        t.includes("restaurant") ||
+        t.includes("street")
+      ) return false;
+
+      return (
+        el.tagName.match(/^H[2-4]$/) &&
+        !isTrueMenuSection(t)
+      );
+    }
+
+    function isClearlyNotFood(text) {
+      const t = text.toLowerCase();
+
+      return (
+        t.length > 120 || // huge paragraphs
+        t.includes("guests must") ||
+        t.includes("allergy") ||
+        t.includes("dietary") ||
+        t.includes("copyright") ||
+        t.includes("privacy") ||
+        t.includes("terms") ||
+        t.includes("cookie") ||
+        t.includes("accessibility")
+      );
+    }
+
+    function isItem(el) {
+      const text = el.innerText?.trim();
+      if (!text) return false;
+
+      if (isNoise(text)) return false;
+      if (isPrice(text)) return false;
+      if (isBadArea(el)) return false;
+
+      const tag = el.tagName;
+
+      // div/span must look like structured content
+      if (tag === "DIV" || tag === "SPAN") {
+        return hasMenuClass(el);
+      }
+
+      return true;
+    }
+
+    // -----------------------------
+    // MAIN LOOP
+    // -----------------------------
+
+    const elements = root.querySelectorAll(
+      "h1, h2, h3, h4, p, li, div, span"
+    );
+
+    elements.forEach(el => {
+      if (!isValid(el)) return;
+
+      const text = el.innerText.trim();
+
+      // 1. REAL SECTION HEADERS
+      if (isTrueMenuSection(text)) {
+        currentSection = addSection(text);
         return;
       }
 
-      // detect section headers
-      if (el.tagName === "H3") {
-        currentSection = { title: text, items: [], _seenItems: new Set() }; // track duplicates
-        sections.push(currentSection);
+      // 2. CATEGORY HEADERS (NOT NEW SECTION)
+      if (isCategoryHeader(el, text)) {
+        addItem(currentSection, `— ${text}`);
         return;
       }
 
-      if (!currentSection) return;
+      // 3. ITEMS ONLY
+      if (!isItem(el)) return;
+      if (isClearlyNotFood(text)) return;
 
-      // Only add if not already in this section
-      if (!currentSection._seenItems.has(text)) {
-        currentSection.items.push(text);
-        currentSection._seenItems.add(text);
-      }
+      addItem(currentSection, text);
     });
 
-    return {
-      sections: sections.length
-        ? sections
-        : [{ title: "page", items: [] }]
-    };
+    return { sections };
   });
 }
 
@@ -233,60 +355,95 @@ async function fetchMenu(browser, menu) {
     ).catch(() => { });
 
     // --------------------
-    // COMBOBOX FIX (REPLACE BLOCK)
+    // COMBOBOX (ONLY IF IT MAKES SENSE)
     // --------------------
-    const combo = await page.$('[role="combobox"], button[aria-haspopup="listbox"]');
+    // --------------------
+    const combo = await page.$('[role="combobox"]');
 
     if (combo) {
       try {
-        await combo.click();
-        await wait(1200);
+        await combo.evaluate(el => el.click());
 
+        // wait for options to appear
         await page.waitForFunction(() => {
           return document.querySelectorAll(
-            '[role="option"], li[role="option"], [role="menuitem"], li'
+            '[role="option"], li[role="option"], div[role="option"]'
           ).length > 0;
         }, { timeout: 8000 }).catch(() => { });
 
-        let options = await page.$$(
-          '[role="option"], li[role="option"], [role="menuitem"], li'
+        await wait(500);
+
+        const options = await page.$$(
+          '[role="option"], li[role="option"], div[role="option"]'
         );
 
-        if (!options.length) return;
+        if (options.length) {
 
-        const slug = decodeURIComponent(menu.url.split("/menus/")[1] || "")
-          .toLowerCase()
-          .replace(/[-–—]/g, " ")
-          .trim();
+          // normalize URL expectation
+          const target = menu.url
+            .toLowerCase()
+            .replace(/\/$/, "")
+            .split("/menus/")[1]
+            ?.replace(/[-–—]/g, " ")
+            ?.replace(/&/g, "and")
+            ?.trim();
 
-        const words = slug.split(/\s+/).filter(Boolean);
+          let best = null;
+          let bestScore = -1;
 
-        let best = null;
-        let bestScore = 0;
+          for (const opt of options) {
+            const text = await page.evaluate(el => el.innerText.toLowerCase(), opt);
 
-        for (const opt of options) {
-          const text = await opt.evaluate(el => (el.innerText || "").toLowerCase());
+            let score = 0;
 
-          let score = 0;
-          for (const w of words) {
-            if (text.includes(w)) score++;
+            if (target && text.includes(target)) score += 10;
+
+            // fallback fuzzy match
+            if (target) {
+              const words = target.split(/\s+/);
+              for (const w of words) {
+                if (w && text.includes(w)) score++;
+              }
+            }
+
+            if (score > bestScore) {
+              bestScore = score;
+              best = opt;
+            }
           }
 
-          if (score > bestScore) {
-            bestScore = score;
-            best = opt;
-          }
-        }
+          if (best) {
+            await best.evaluate(el => el.scrollIntoView({ block: "center" }));
 
-        if (best) {
-          await best.click();
-          await wait(3000);
+            await best.click();
+
+            // Wait for ACTUAL content change
+            const before = await page.evaluate(() =>
+              document.body.innerText.slice(0, 500)
+            );
+
+            await page.waitForFunction(
+              (prev) => {
+                return document.body.innerText.slice(0, 500) !== prev;
+              },
+              { timeout: 10000 },
+              before
+            ).catch(() => { });
+
+            await wait(1500);
+          }
         }
 
       } catch (err) {
         console.log("Combobox failed:", err.message);
       }
     }
+
+    // --------------------
+    // ELSE: DO NOTHING
+    // --------------------
+    // snack menus, universal pages, single-menu pages
+    // just scrape whatever is already rendered
 
     // Final wait for page content
     await wait(3000);
