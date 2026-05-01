@@ -1,34 +1,28 @@
 {
   "sections": [
     {
-      "title": "Poppy-licious Pink",
-      "items": []
-    },
-    {
-      "title": "Brozone Berry",
+      "title": "menu",
       "items": [
-        "Beverages"
-      ]
-    },
-    {
-      "title": "Bottled Soda",
-      "items": []
-    },
-    {
-      "title": "Powerade",
-      "items": []
-    },
-    {
-      "title": "Bottled Water",
-      "items": []
-    },
-    {
-      "title": "High Noon",
-      "items": []
-    },
-    {
-      "title": "NÜTRL",
-      "items": [
+        "— Trolls Treats",
+        "Poppy-licious Pink",
+        "— Poppy-licious Pink",
+        "pink lemonade soft serve with flower sprinkles",
+        "Cup- 8.49",
+        "Cone-7.99",
+        "Brozone Berry",
+        "— Brozone Berry",
+        "huckleberry soft serve with green leaf sprinkles",
+        "Bottle Beverages 5.29",
+        "— Bottle Beverages",
+        "Powerade® 5.50",
+        "— Powerade®",
+        "Bottled Water 4.00",
+        "— Bottled Water",
+        "High Noon® 13.00",
+        "— High Noon®",
+        "— Beverages",
+        "Bottled Soda 5.29",
+        "— Bottled Soda",
         "Menu items subject to change. Must be 21+ with a valid photo ID to purchase and consume alcoholic beverages."
       ]
     }

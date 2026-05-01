@@ -1,46 +1,39 @@
 {
   "sections": [
     {
+      "title": "menu",
+      "items": []
+    },
+    {
+      "title": "Menu for Hog's Head™",
+      "items": []
+    },
+    {
+      "title": "Menu for Hog's Head™",
+      "items": []
+    },
+    {
       "title": "Menu for Hog's Head™",
       "items": [
-        "Home",
-        "Dining",
-        "Hog’s Head™",
-        "Angry Orchard -",
+        "Draft Beer",
         "Angry Orchard",
-        "Bass -",
         "Bass",
-        "Bungbarrel Spiced Mead -",
         "Bungbarrel Spiced Mead",
-        "Daisyroot Ale™ -",
         "Daisyroot Ale™",
-        "Darkforest Ale™ -",
         "Darkforest Ale™",
-        "Dragon Scale™ -",
         "Dragon Scale™",
-        "Guinness -",
         "Guinness",
-        "Hogs Head Brew™ -",
         "Hogs Head Brew™",
-        "Stella Artois -",
         "Stella Artois",
-        "Wizard Brew -",
         "Wizard Brew",
-        "Black and Tan -",
         "Black and Tan",
-        "Black Velvet -",
         "Black Velvet",
-        "Hogs Head Bite -",
         "Hogs Head Bite",
-        "Shandy -",
         "Shandy",
-        "Snake Bite -",
         "Snake Bite",
-        "Hot Butterbeer™ (Non-Alcoholic) -",
+        "Butterbeer™",
         "Hot Butterbeer™ (Non-Alcoholic)",
-        "Butterbeer™ (Non-Alcoholic) -",
         "Butterbeer™ (Non-Alcoholic)",
-        "Frozen Butterbeer™ (Non-Alcoholic) -",
         "Frozen Butterbeer™ (Non-Alcoholic)"
       ]
     }
