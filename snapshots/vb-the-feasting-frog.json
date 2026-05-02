@@ -1,8 +1,27 @@
 {
   "sections": [
     {
-      "title": "page",
-      "items": []
+      "title": "menu",
+      "items": [
+        "The Feasting Frog",
+        "Allergen Note",
+        "Food",
+        "Ropa Vieja Walking Taco Combo",
+        "Ancho Pepper Chicken Taco Combo",
+        "Seared Shrimp Tacos Combo",
+        "Chorizo Walking Taco Combo",
+        "Chorizo Tacos Combo",
+        "Beverages",
+        "Fountain Soda",
+        "Coca-Cola, Coke Zero Sugar, Diet Coke, Sprite, Fanta Orange, Lemonade Gold Peak Iced Tea- Sweet, Unsweetened",
+        "Gold Peak Iced Tea- Sweet, Unsweetened",
+        "Premium Bottled Water",
+        "Beer",
+        "Longboard® Corona®",
+        "Corona®",
+        "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive",
+        "Menu items and pricing are subject to change without notice."
+      ]
     }
   ]
 }
