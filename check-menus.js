@@ -126,7 +126,13 @@ async function extractPageContent(page) {
         t.includes("cookie") ||
         t.includes("navigation") ||
         t.includes("footer") ||
-        t.includes("accessibility")
+        t.includes("accessibility") ||
+        t.includes("guests must") ||
+        t.includes("allergy") ||
+        t.includes("dietary") ||
+        t.includes("cross-contact") ||
+        t.includes("foodborne") ||
+        t.includes("subject to change")
       );
     }
 
@@ -263,21 +269,17 @@ async function extractPageContent(page) {
 
       const text = el.innerText.trim();
 
-      // 1. REAL SECTION HEADERS
-      if (isTrueMenuSection(text)) {
-        currentSection = addSection(text);
-        return;
-      }
+      // skip obvious junk early
+      if (isClearlyNotFood(text)) return;
 
-      // 2. CATEGORY HEADERS (NOT NEW SECTION)
+      // category headers
       if (isCategoryHeader(el, text)) {
         addItem(currentSection, `— ${text}`);
         return;
       }
 
-      // 3. ITEMS ONLY
+      // items
       if (!isItem(el)) return;
-      if (isClearlyNotFood(text)) return;
 
       addItem(currentSection, text);
     });
