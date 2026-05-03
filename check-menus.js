@@ -132,7 +132,12 @@ async function extractPageContent(page) {
         t.includes("dietary") ||
         t.includes("cross-contact") ||
         t.includes("foodborne") ||
-        t.includes("subject to change")
+        t.includes("subject to change") ||
+        t.includes("our plant-based menu items are made without animal meat, dairy, eggs and honey") ||
+        t.includes("notice of right") ||
+        t.includes("manage consent preferences") ||
+        t.includes("selling, sharing, targeted advertising") ||
+        t.includes("checkbox label label")
       );
     }
 
