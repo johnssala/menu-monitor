@@ -2,43 +2,14 @@
   "sections": [
     {
       "title": "menu",
-      "items": []
-    },
-    {
-      "title": "Carthay Circle Lounge Lunch Menu Disney California Adventure Park, Buena Vista Street Signature Dining Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location. * This item is cooked to Guest preference and/or may contain raw or undercooked ingredients. Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
-      "items": []
-    },
-    {
-      "title": "Carthay Circle Lounge Lunch Menu Disney California Adventure Park, Buena Vista Street Signature Dining Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location. * This item is cooked to Guest preference and/or may contain raw or undercooked ingredients. Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
-      "items": []
-    },
-    {
-      "title": "Carthay Circle Lounge Lunch Menu Disney California Adventure Park, Buena Vista Street Signature Dining",
-      "items": []
-    },
-    {
-      "title": "Carthay Circle Lounge Lunch Menu Disney California Adventure Park, Buena Vista Street",
-      "items": []
-    },
-    {
-      "title": "Carthay Circle Lounge Lunch Menu Disney California Adventure Park, Buena Vista Street",
       "items": [
         "Carthay Circle Lounge",
-        "— Carthay Circle Lounge"
-      ]
-    },
-    {
-      "title": "Lunch Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch Menu",
-      "items": [
+        "Lunch Menu",
         "— Spicy Ahi Tuna Spring Roll",
         "Vietnamese Twice-cooked Beef Lettuce Wraps",
         "— Spring Salad",
         "— Moroccan Roasted Chicken Meatballs",
-        "— Achiote Shrimp",
+        "— Chilled Mexican Shrimp",
         "Bao Buns of Soy-Ginger Braised Pork Belly",
         "— “Naanza\"",
         "— Jamaican Chicken Curry",
@@ -48,10 +19,10 @@
         "— Beef and Spinach Cannelloni's",
         "— Braised Short Rib Sliders",
         "Tahitian Vanilla Bean-Root Beer Float Popsicle",
-        "— Hazelnut Crunch Mickey Pop",
         "— Pepperoni Pizza Pinwheels",
         "— Penne Pasta with Marinara",
         "— Pineapple-Ginger Glazed Chicken Skewers",
+        "— Hazelnut Crunch Mickey Pop",
         "— Classic Martini",
         "— Carthay Mai Tai",
         "— Negroni",
@@ -69,7 +40,7 @@
         "— Classic Gin & Tonic",
         "— Dill Gin & Tonic",
         "— Botanical Gin & Tonic",
-        "— Sparkling Mare",
+        "Sparkling Mare",
         "— Double Pear Martini",
         "— Club Mojito",
         "— Bloody Mary",
@@ -81,7 +52,7 @@
         "— Stone Brewery Delicious IPA",
         "Karl Strauss® Brewing Company, 70th Anniversary IPA, San Diego CA. (ABV 7.0%)",
         "— North Coast Pranqster, Fort Bragg",
-        "Karl Strauss® Red Trolley Ale, San Diego",
+        "— Karl Strauss® Red Trolley Ale, San Diego",
         "Firestone Walker Double Barrel Ale, Paso Robles",
         "— North Coast Red Seal Ale, Fort Bragg",
         "— Ballast Point Sculpin IPA, San Diego",
@@ -94,7 +65,7 @@
         "Sauvignon Blanc, Wither Hills, Marlborough, New Zealand",
         "— Viognier, Zaca Mesa, Santa Ynez Valley",
         "Chenin Blanc, Marc Bredif, Vouvray, Loire",
-        "Chardonnay, Jordan, Russian River Valley",
+        "— Chardonnay, Jordan, Russian River Valley",
         "Pinot Noir, Hartford Court, Lands Edge, Sonoma Coast",
         "Pinot Noir, Argyle, Willamette Valley 2021",
         "Merlot, Rutherford Hill, Napa Valley 2021",
@@ -112,13 +83,7 @@
         "— Coffee",
         "— Iced Tea",
         "— Hot Cocoa",
-        "Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location.",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
-        "Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
       ]
     }
   ]

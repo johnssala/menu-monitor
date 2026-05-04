@@ -2,53 +2,25 @@
   "sections": [
     {
       "title": "menu",
-      "items": []
-    },
-    {
-      "title": "Boardwalk Pizza & Pasta Lunch And Dinner Menu Disney California Adventure Park, Paradise Gardens Park Fast Casual Dining Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location. * This item is cooked to Guest preference and/or may contain raw or undercooked ingredients. Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
-      "items": []
-    },
-    {
-      "title": "Boardwalk Pizza & Pasta Lunch And Dinner Menu Disney California Adventure Park, Paradise Gardens Park Fast Casual Dining Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location. * This item is cooked to Guest preference and/or may contain raw or undercooked ingredients. Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
-      "items": []
-    },
-    {
-      "title": "Boardwalk Pizza & Pasta Lunch And Dinner Menu Disney California Adventure Park, Paradise Gardens Park Fast Casual Dining",
-      "items": []
-    },
-    {
-      "title": "Boardwalk Pizza & Pasta Lunch And Dinner Menu Disney California Adventure Park, Paradise Gardens Park",
-      "items": []
-    },
-    {
-      "title": "Boardwalk Pizza & Pasta Lunch And Dinner Menu Disney California Adventure Park, Paradise Gardens Park",
       "items": [
         "Boardwalk Pizza & Pasta",
-        "— Boardwalk Pizza & Pasta"
-      ]
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": [
+        "Lunch And Dinner Menu",
         "— Monsters, Inc. Scream Canister Bucket",
         "— Little Green Men Jetpack Sipper",
         "— Jiminy Cricket Sipper",
         "— Coco Sipper",
-        "— Disneyland 70th Celebration Sipper",
+        "Disneyland 70th Celebration Sipper",
         "Disneyland 70th Celebration Travel Tumbler",
         "— Spaghetti with Meatballs",
-        "Four-Cheese Roasted Garlic Chicken Pasta",
-        "Chicken Spinach Artichoke Dip Pizza - Slice",
-        "Chicken Spinach Artichoke Dip Pizza - Whole",
+        "— Four-Cheese Roasted Garlic Chicken Pasta",
+        "— BBQ Chicken Pizza - Slice",
+        "— BBQ Chicken Pizza - Whole",
         "— Cheese Pizza - Slice",
         "— Pepperoni Pizza - Slice",
         "— Creamy Marinara Primavera",
         "— Wedge Salad",
         "— Side Caesar Salad",
+        "— Cinnamon Roll Cheesecake",
         "— Cheesy Bread Sticks with Marinara Sauce",
         "— A Cuties® Mandarin",
         "— Applesauce",
@@ -58,7 +30,7 @@
         "— Wither Hills Sauvignon Blanc",
         "— Garnet, Pinot Noir",
         "— Pixar Pals Travel Mug",
-        "— Play in the Park Tumbler",
+        "Play in the Park Tumbler",
         "— Assorted Fountain Beverages - Regular",
         "— Simply Orange® Juice",
         "— Minute Maid® Apple Juice Box",
@@ -67,59 +39,8 @@
         "— Hot Cocoa",
         "— Hot Tea",
         "— vitaminwater®",
-        "Guests must speak to a Cast Member about their allergy-friendly request",
-        "Gluten/Wheat Allergy-Friendly Pepperoni Pizza - Slice",
-        "Gluten/Wheat Allergy-Friendly Cheese Pizza - Slice",
-        "Gluten/Wheat Allergy-Friendly Four Cheese Roasted Garlic Chicken Pasta",
-        "Gluten/Wheat Allergy-Friendly Creamy Marinara Primavera",
-        "Gluten/Wheat Allergy-Friendly Applesauce",
-        "Gluten/Wheat Allergy-Friendly Cuties®️ Mandarin Orange",
-        "Egg Allergy-Friendly Cheese Pizza - Slice",
-        "Egg Allergy-Friendly Pepperoni Pizza - Slice",
-        "Egg Allergy-Friendly Plant-based Creamy Marinara Primavera",
-        "— Egg Allergy-Friendly Applesauce",
-        "Egg Allergy-Friendly Cuties®️ Mandarin Orange",
-        "Fish/Shellfish Allergy-Friendly Wedge Salad",
-        "Fish/Shellfish Allergy-Friendly Cheese Pizza - Slice",
-        "Fish/Shellfish Allergy-Friendly Pepperoni Pizza - Slice",
-        "Fish/Shellfish Allergy-Friendly Plant-based Creamy Marinara Primavera",
-        "Fish/Shellfish Allergy-Friendly Four Cheese Roasted Garlic Chicken Pasta",
-        "Fish/Shellfish Allergy-Friendly Applesauce",
-        "Fish/Shellfish Allergy-Friendly Cuties®️ Mandarin Orange",
-        "Fish/Shellfish Allergy-Friendly Kid's Spaghetti with Turkey Meatballs",
-        "Milk Allergy-Friendly Plant-based Creamy Marinara Primavera",
-        "— Milk Allergy-Friendly Applesauce",
-        "Milk Allergy-Friendly Cuties®️ Mandarin Orange",
-        "Milk Allergy-Friendly Kid's Pasta with Pomodoro Sauce",
-        "Peanut/Tree Nut Allergy-Friendly Cheese Pizza - Slice",
-        "Peanut/Tree Nut Allergy-Friendly Pepperoni Pizza - Slice",
-        "Peanut/Tree Nut Allergy-Friendly Four Cheese Roasted Garlic Chicken Pasta",
-        "Peanut/Tree Nut Allergy-Friendly Applesauce",
-        "Peanut/Tree Nut Allergy-Friendly Cuties®️ Mandarin Orange",
-        "Peanut/Tree Nut Allergy-Friendly Kid's Spaghetti with Turkey Meatballs",
-        "Sesame Allergy-Friendly Bread Sticks with Marinara Sauce",
-        "— Sesame Allergy-Friendly Wedge Salad",
-        "Sesame Allergy-Friendly Side Caesar Salad",
-        "Sesame Allergy-Friendly Cheese Pizza - Slice",
-        "Sesame Allergy-Friendly Pepperoni Pizza - Slice",
-        "Sesame Allergy-Friendly Four Cheese Roasted Garlic Chicken Pasta",
-        "Sesame Allergy-Friendly Spaghetti with Meatballs",
-        "Sesame Allergy-Friendly Plant-based Creamy Marinara Primavera",
-        "— Sesame Allergy-Friendly Applesauce",
-        "Sesame Allergy-Friendly Cuties®️ Mandarin Orange",
-        "Sesame Allergy-Friendly Kid's Cheese Pizza",
-        "Sesame Allergy-Friendly Kid's Spaghetti with Turkey Meatballs",
-        "Soy Allergy-Friendly Four Cheese Roasted Garlic Chicken Pasta",
-        "— Soy Allergy-Friendly Applesauce",
-        "Soy Allergy-Friendly Cuties®️ Mandarin Orange",
         "— Braille menu available upon request",
-        "Guests must speak to a cast member about their allergy-friendly request. While we take steps to help mitigate cross-contact, we cannot guarantee that any item is completely free of allergens. Our allergy-friendly recipes may use highly refined oils, such as soybean oil, and/or ingredients that are processed in facilities that also process allergens. It is ultimately our Guests' discretion to make an informed choice based upon their individual dietary needs. For more information about allergy-friendly requests, ask to speak with a Special Diets Trained Cast Member upon arrival at the location.",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
-        "Consuming raw or undercooked meats, seafood, shellfish or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Menu offerings and prices are subject to change without notice.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
       ]
     }
   ]
