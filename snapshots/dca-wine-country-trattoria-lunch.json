@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Wine Country Trattoria"
-      ]
-    },
-    {
-      "title": "Lunch Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch Menu",
-      "items": [
+        "Wine Country Trattoria",
+        "Lunch Menu",
         "— Pull-Apart Cheese Bread",
         "— Fried Calamari",
         "— Grapefruit Salad",
@@ -102,11 +94,7 @@
         "— Aglio Olio**",
         "— Plant-Based Banana Brûlée Tart",
         "— Raspberry Sorbet",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
       ]
     }
   ]

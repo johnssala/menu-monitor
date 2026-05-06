@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Smokejumpers Grill"
-      ]
-    },
-    {
-      "title": "Breakfast Menu",
-      "items": []
-    },
-    {
-      "title": "Breakfast Menu",
-      "items": [
+        "Smokejumpers Grill",
+        "Breakfast Menu",
         "Disneyland 70th Celebration D Glow Cube",
         "— French Toast Sticks",
         "— Breakfast Sandwich",
@@ -38,17 +30,9 @@
         "— Minute Maid® Apple Juice",
         "— Lowfat Milk",
         "— Chocolate Milk",
-        "— Egg Allergy-Friendly Chorizo Burrito",
         "— Fish/Shellfish Chorizo Breakfast Burrito",
-        "— Milk Allergy-Friendly Chorizo Burrito",
-        "— Sesame Allergy-Friendly Chorizo Burrito",
-        "— Soy Allergy-Friendly French Toast Sticks",
         "— Braille menu available upon request",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
       ]
     }
   ]

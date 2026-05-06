@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Café Daisy"
-      ]
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": [
+        "Café Daisy",
+        "Lunch And Dinner Menu",
         "— Chicken Bacon Ranch Flop-Over",
         "— The Daisy Dog",
         "— Cheesy Pizza Flop-Over",
@@ -36,24 +28,7 @@
         "— Nitro Cold Brew Coffee",
         "— DASANI® Bottled Water",
         "— Hot Cocoa",
-        "— Gluten/Wheat Allergy-Friendly POWER Pack",
-        "— Egg Allergy-Friendly Side Fries",
-        "— Egg Allergy-Friendly Chicken Tenders",
-        "— Egg Allergy-Friendly POWER Pack",
-        "— Milk Allergy-Friendly Side Fries",
-        "— Milk Allergy-Friendly Chicken Tenders",
-        "— Sesame Allergy-Friendly The Daisy Dog",
-        "— Sesame Allergy-Friendly Side Fries",
-        "— Sesame Allergy-Friendly Mac and Cheesy",
-        "— Sesame Allergy-Friendly Chicken Tenders",
-        "— Sesame Allergy-Friendly POWER Pack",
-        "— Soy Allergy-Friendly Mac and Cheesy",
-        "— Soy Allergy-Friendly POWER Pack",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
       ]
     }
   ]

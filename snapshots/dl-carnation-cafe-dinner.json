@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Carnation Café"
-      ]
-    },
-    {
-      "title": "Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Dinner Menu",
-      "items": [
+        "Carnation Café",
+        "Dinner Menu",
         "— Fried Pickles",
         "— Walt's Chili",
         "— Baked Potato Soup",
@@ -49,11 +41,7 @@
         "— Fountain Beverages",
         "— Brownie",
         "— Scoop of Ice Cream",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
       ]
     }
   ]

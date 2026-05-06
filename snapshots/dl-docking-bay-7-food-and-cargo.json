@@ -3,20 +3,12 @@
     {
       "title": "menu",
       "items": [
-        "Docking Bay 7 Food and Cargo"
-      ]
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": [
-        "Rechargeable Darth Vader Lightsaber Swizzle Stick with Fountain Beverage [Available starting April 28]",
-        "Rechargeable Darth Vader Lightsaber Swizzle Stick with Specialty Beverage [Available starting April 28]",
-        "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Fountain Beverage [Available starting April 28]",
-        "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Specialty Beverage [Available starting April 28]",
+        "Docking Bay 7 Food and Cargo",
+        "Lunch And Dinner Menu",
+        "Rechargeable Darth Vader Lightsaber Swizzle Stick with Fountain Beverage",
+        "Rechargeable Darth Vader Lightsaber Swizzle Stick with Specialty Beverage",
+        "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Fountain Beverage",
+        "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Specialty Beverage",
         "Surabat Valley Greens with Roasted Tip-Yip",
         "Surabat Noodles with Crispy Marinated Eopie",
         "— Fried Chicken Baos",
@@ -34,11 +26,7 @@
         "— Minute Maid® Apple Juice",
         "— Chocolate Milk – Small",
         "— Lowfat Milk",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
       ]
     }
   ]

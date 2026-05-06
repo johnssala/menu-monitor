@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Cafe Orleans"
-      ]
-    },
-    {
-      "title": "Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Dinner Menu",
-      "items": [
+        "Cafe Orleans",
+        "Dinner Menu",
         "— Gumbo",
         "— Caesar Salad",
         "— Braised Beef Short Rib",
@@ -46,11 +38,7 @@
         "— Mashed Potatoes",
         "— Steamed Rice",
         "— Braille menu available upon request",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
       ]
     }
   ]

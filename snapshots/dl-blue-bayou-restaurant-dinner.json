@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Blue Bayou Restaurant"
-      ]
-    },
-    {
-      "title": "Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Dinner Menu",
-      "items": [
+        "Blue Bayou Restaurant",
+        "Dinner Menu",
         "— Vegetable Hearts Salad",
         "Ribeye Steak and Prawns with Western-style Butter*",
         "— Chocolate-Pistachio Cheesecake",
@@ -63,11 +55,7 @@
         "— Hot Chocolate",
         "Ribeye Steak and Prawns with Western Butter",
         "— Braille menu available upon request",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
       ]
     }
   ]

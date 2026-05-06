@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Carnation Café"
-      ]
-    },
-    {
-      "title": "Breakfast Menu",
-      "items": []
-    },
-    {
-      "title": "Breakfast Menu",
-      "items": [
+        "Carnation Café",
+        "Breakfast Menu",
         "— Breakfast Skillet*",
         "— Veggie Skillet",
         "— Breakfast Sandwich",
@@ -45,11 +37,7 @@
         "— Veggie Skillet*",
         "— Breakfast Sandwich*",
         "— Smoked Sausage",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
       ]
     }
   ]

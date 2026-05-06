@@ -3,25 +3,16 @@
     {
       "title": "menu",
       "items": [
-        "Galactic Grill"
-      ]
-    },
-    {
-      "title": "Breakfast Menu",
-      "items": []
-    },
-    {
-      "title": "Breakfast Menu",
-      "items": [
-        "Bantha Sipper [Available Starting April 28]",
-        "Salvaged Protocol Droid Bucket [Available starting April 28]",
-        "Sorgan Cooler with Rechargeable Darth Vader Lightsaber Swizzle Stick [Available starting April 28]",
-        "Sorgan Cooler with Rechargeable Luke Skywalker Lightsaber Swizzle Stick [Available starting April 28]",
-        "Rechargeable Darth Vader Lightsaber Swizzle Stick with Fountain Beverage [Available starting April 28]",
-        "Rechargeable Darth Vader Lightsaber Swizzle Stick with Slushee [Available starting April 28]",
-        "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Fountain Beverage [Available starting April 28]",
-        "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Slushee [Available starting April 28]",
-        "Skyway Straw Clip [Available starting April 22]",
+        "Galactic Grill",
+        "Breakfast Menu",
+        "— Jabba the Hutt Sail Barge Bucket",
+        "Galactic Cargo Fries in a Star Wars Souvenir Bucket",
+        "— Bantha Sipper",
+        "Rechargeable Darth Vader Lightsaber Swizzle Stick with Fountain Beverage",
+        "Rechargeable Darth Vader Lightsaber Swizzle Stick with Slushee",
+        "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Fountain Beverage",
+        "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Slushee",
+        "— Skyway Straw Clip",
         "— Stitch and Angel Heart Bucket",
         "— Yoda Stainless Steel Tumbler",
         "— Little Green Men Jetpack Sipper",
@@ -62,11 +53,7 @@
         "— Hot Cocoa",
         "— Hot Tea",
         "— Braille menu available upon request",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
       ]
     }
   ]
