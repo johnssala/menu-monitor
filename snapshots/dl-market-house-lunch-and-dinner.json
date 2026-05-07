@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Market House"
-      ]
-    },
-    {
-      "title": "Breakfast Menu",
-      "items": []
-    },
-    {
-      "title": "Breakfast Menu",
-      "items": [
+        "Market House",
+        "Breakfast Menu",
         "— Cinnamon Pull-Apart",
         "— Egg, Pesto and Mozzarella Sandwich",
         "— Impossible™ Breakfast Sandwich",
@@ -89,11 +81,7 @@
         "— Minute Maid® Juice Box",
         "— Simply Orange® Orange Juice",
         "— smartwater®",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
       ]
     }
   ]

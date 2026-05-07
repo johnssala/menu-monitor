@@ -1,27 +1,9 @@
 [
   {
-    "id": "dca-schmoozies",
-    "name": "Schmoozies!",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/schmoozies-smoothies/menus/snack/",
-    "added": [
-      "— Mickey-shaped Celebration Waffles"
-    ],
-    "removed": [
-      "— Mickey-shaped Banana-Hazelnut Waffles",
-      "— Iced Honey Matcha Tea",
-      "— Soju-Matcha Cocktail",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "dca-senor-buzz-churros",
-    "name": "Señor Buzz Churros",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/senor-buzz-churros/menus/snack/",
+    "id": "dl-good-boy-grocers",
+    "name": "Good Boy Grocers",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/good-boy-grocers/menus/",
     "added": [],
     "removed": [
       "Notice of Right to Opt Out of Sale/Sharing",
@@ -31,244 +13,20 @@
     ]
   },
   {
-    "id": "dca-shawarma-palace-breakfast",
-    "name": "Shawarma Palace (Breakfast)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/shawarma-palace/menus/breakfast/",
-    "added": [
-      "Breakfast Menu",
-      "— Powerade Fruit Punch"
-    ],
-    "removed": [
-      "## Breakfast Menu",
-      "— Vitamin Water Dragon Fruit",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "dca-shawarma-palace-snack",
-    "name": "Shawarma Palace (Snack)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/shawarma-palace/menus/snack/",
-    "added": [
-      "— Powerade Fruit Punch"
-    ],
-    "removed": [
-      "— Vitamin Water Dragon Fruit",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "dca-smokejumpers-grill-breakfast",
-    "name": "Smokejumpers Grill (Breakfast)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/breakfast/",
-    "added": [
-      "Breakfast Menu"
-    ],
-    "removed": [
-      "## Breakfast Menu",
-      "— Egg Allergy-Friendly Chorizo Burrito",
-      "— Milk Allergy-Friendly Chorizo Burrito",
-      "— Sesame Allergy-Friendly Chorizo Burrito",
-      "— Soy Allergy-Friendly French Toast Sticks",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "dca-smokejumpers-grill-lunch-and-dinner",
-    "name": "Smokejumpers Grill (Lunch & Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/lunch-and-dinner/",
-    "added": [
-      "Breakfast Menu"
-    ],
-    "removed": [
-      "## Breakfast Menu",
-      "— Egg Allergy-Friendly Chorizo Burrito",
-      "— Milk Allergy-Friendly Chorizo Burrito",
-      "— Sesame Allergy-Friendly Chorizo Burrito",
-      "— Soy Allergy-Friendly French Toast Sticks",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "dca-studio-catering-co",
-    "name": "Studio Catering Co.",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/studio-catering-co/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Chicken and Waffle Mole Taco",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "dca-terran-treats",
-    "name": "Terran Treats",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/terran-treats/menus/",
-    "added": [
-      "— Powerade Fruit Punch"
-    ],
-    "removed": [
-      "— Pandan Latte Churro",
-      "— Vitamin Water Dragon Fruit",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "dca-wine-country-trattoria-lunch",
-    "name": "Wine Country Trattoria (Lunch)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/wine-country-trattoria/menus/lunch/",
-    "added": [
-      "Lunch Menu"
-    ],
-    "removed": [
-      "## Lunch Menu",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "dca-wine-country-trattoria-dinner",
-    "name": "Wine Country Trattoria (Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/wine-country-trattoria/menus/dinner/",
-    "added": [
-      "Dinner Menu"
-    ],
-    "removed": [
-      "## Dinner Menu",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "dl-alien-pizza-planet",
-    "name": "Alien Pizza Planet",
+    "id": "dl-harbour-galley",
+    "name": "Harbour Galley",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/alien-pizza-planet/menus/lunch-and-dinner/",
-    "added": [
-      "Lunch And Dinner Menu",
-      "— Jabba the Hutt Sail Barge Bucket",
-      "— Bantha Sipper",
-      "— Salvaged Protocol Droid Bucket",
-      "— Skyway Straw Clip"
-    ],
-    "removed": [
-      "## Lunch And Dinner Menu",
-      "Bantha Sipper [Available starting April 28]",
-      "Salvaged Protocol Droid Bucket [Available starting April 28]",
-      "Skyway Straw Clip [Available starting April 22]",
-      "— Spaghetti & Meatballs",
-      "— Egg Allergy-Friendly Satellite Salad",
-      "— Egg Allergy-Friendly Garlon Bread",
-      "— Milk Allergy-Friendly Pepperoni Pizza",
-      "— Milk Allergy-Friendly Cheese Pizza",
-      "— Milk Allergy-Friendly Satellite Salad",
-      "— Milk Allergy-Friendly Garlon Bread",
-      "— Sesame Allergy-Friendly Satellite Salad",
-      "— Sesame Allergy-Friendly Garlon Bread",
-      "— Soy Allergy-Friendly Pepperoni Pizza",
-      "— Soy Allergy-Friendly Cheese Pizza",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "dl-bengal-barbecue",
-    "name": "Bengal Barbecue",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/bengal-barbecue/menus/",
-    "added": [],
-    "removed": [
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "dl-blue-bayou-restaurant-lunch",
-    "name": "Blue Bayou Restaurant (Lunch)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/blue-bayou-restaurant/menus/lunch/",
-    "added": [
-      "Lunch Menu"
-    ],
-    "removed": [
-      "## Lunch Menu",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "dl-blue-bayou-restaurant-dinner",
-    "name": "Blue Bayou Restaurant (Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/blue-bayou-restaurant/menus/dinner/",
-    "added": [
-      "Dinner Menu"
-    ],
-    "removed": [
-      "## Dinner Menu",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "dl-cafe-daisy",
-    "name": "Café Daisy",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/cafe-daisy/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/harbour-galley/menus/lunch-and-dinner/",
     "added": [
       "Lunch And Dinner Menu"
     ],
     "removed": [
       "## Lunch And Dinner Menu",
-      "— Gluten/Wheat Allergy-Friendly POWER Pack",
-      "— Egg Allergy-Friendly Side Fries",
-      "— Egg Allergy-Friendly Chicken Tenders",
-      "— Egg Allergy-Friendly POWER Pack",
-      "— Milk Allergy-Friendly Side Fries",
-      "— Milk Allergy-Friendly Chicken Tenders",
-      "— Sesame Allergy-Friendly The Daisy Dog",
-      "— Sesame Allergy-Friendly Side Fries",
-      "— Sesame Allergy-Friendly Mac and Cheesy",
-      "— Sesame Allergy-Friendly Chicken Tenders",
-      "— Sesame Allergy-Friendly POWER Pack",
-      "— Soy Allergy-Friendly Mac and Cheesy",
-      "— Soy Allergy-Friendly POWER Pack",
+      "Sorgan Cooler with Rechargeable Darth Vader Lightsaber Swizzle Stick [Available starting April 28]",
+      "Sorgan Cooler with Rechargeable Luke Skywalker Lightsaber Swizzle Stick [Available starting April 28]",
+      "— Egg Allergy-Friendly Fresh Fruit",
+      "— Sesame Allergy-Friendly Fresh Fruit",
+      "— Soy Allergy-Friendly Fresh Fruit",
       "Notice of Right to Opt Out of Sale/Sharing",
       "— Manage Consent Preferences",
       "— Selling, Sharing, Targeted Advertising",
@@ -276,15 +34,27 @@
     ]
   },
   {
-    "id": "dl-cafe-orleans-lunch",
-    "name": "Cafe Orleans (Lunch)",
+    "id": "dl-hungry-bear-barbecue-jamboree",
+    "name": "Hungry Bear Barbecue Jamboree",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/cafe-orleans/menus/lunch/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/hungry-bear-barbecue/menus/lunch-and-dinner/",
     "added": [
-      "Lunch Menu"
+      "Lunch And Dinner Menu"
     ],
     "removed": [
-      "## Lunch Menu",
+      "## Lunch And Dinner Menu",
+      "Sorgan Cooler with Rechargeable Darth Vader Lightsaber Swizzle Stick [Available starting April 28]",
+      "Sorgan Cooler with Rechargeable Luke Skywalker Lightsaber Swizzle Stick [Available starting April 28]",
+      "— Bear-y Cheesecake Funnel Cake Fries",
+      "— Egg Allergy-Friendly Barbecue Salad",
+      "— Egg Allergy-Friendly Kid's Hamburger",
+      "— Milk Allergy-Friendly Barbecue Salad",
+      "— Milk Allergy-Friendly Classic Hamburger",
+      "— Milk Allergy-Friendly Kid's Hamburger",
+      "— Sesame Allergy-Friendly Barbecue Salad",
+      "— Sesame Allergy-Friendly Kid's Hamburger",
+      "— Soy Allergy-Friendly Classic Hamburger",
+      "— Soy Allergy-Friendly Kid's Hamburger",
       "Notice of Right to Opt Out of Sale/Sharing",
       "— Manage Consent Preferences",
       "— Selling, Sharing, Targeted Advertising",
@@ -292,15 +62,28 @@
     ]
   },
   {
-    "id": "dl-cafe-orleans-dinner",
-    "name": "Cafe Orleans (Dinner)",
+    "id": "dl-jolly-holiday-bakery-cafe-breakfast",
+    "name": "Jolly Holiday Bakery Cafe (Breakfast)",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/cafe-orleans/menus/dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/breakfast/",
     "added": [
-      "Dinner Menu"
+      "Breakfast Menu",
+      "— Skyway Straw Clip",
+      "— Orange Cream Cheesecake",
+      "— Key Lime-Blueberry Tart",
+      "— Apple-Berry Hand Tart"
     ],
     "removed": [
-      "## Dinner Menu",
+      "## Breakfast Menu",
+      "Skyway Straw Clip [Available starting April 22]",
+      "Orange Cream Cheesecake [Available starting April 28]",
+      "Key Lime-Blueberry Tart [Available starting April 28]",
+      "Apple-Berry Hand Tart [Available starting April 28]",
+      "— Strawberry-Pistachio Mousse Cake",
+      "— Coffee Flan Tart",
+      "— Peach Cobbler Cheesecake",
+      "— Egg Allergy-Friendly Jolly Holiday Combo",
+      "— Soy Allergy-Friendly Jolly Holiday Combo",
       "Notice of Right to Opt Out of Sale/Sharing",
       "— Manage Consent Preferences",
       "— Selling, Sharing, Targeted Advertising",
@@ -308,10 +91,39 @@
     ]
   },
   {
-    "id": "dl-carnation-cafe-breakfast",
-    "name": "Carnation Cafe (Breakfast)",
+    "id": "dl-jolly-holiday-bakery-cafe-lunch-and-dinner",
+    "name": "Jolly Holiday Bakery Cafe (Lunch & Dinner)",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/carnation-cafe/menus/breakfast/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/lunch-and-dinner/",
+    "added": [
+      "Breakfast Menu",
+      "— Skyway Straw Clip",
+      "— Orange Cream Cheesecake",
+      "— Key Lime-Blueberry Tart",
+      "— Apple-Berry Hand Tart"
+    ],
+    "removed": [
+      "## Breakfast Menu",
+      "Skyway Straw Clip [Available starting April 22]",
+      "Orange Cream Cheesecake [Available starting April 28]",
+      "Key Lime-Blueberry Tart [Available starting April 28]",
+      "Apple-Berry Hand Tart [Available starting April 28]",
+      "— Strawberry-Pistachio Mousse Cake",
+      "— Coffee Flan Tart",
+      "— Peach Cobbler Cheesecake",
+      "— Egg Allergy-Friendly Jolly Holiday Combo",
+      "— Soy Allergy-Friendly Jolly Holiday Combo",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "dl-market-house-breakfast",
+    "name": "Market House - Starbucks (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/breakfast/",
     "added": [
       "Breakfast Menu"
     ],
@@ -324,10 +136,275 @@
     ]
   },
   {
-    "id": "dl-carnation-cafe-lunch",
-    "name": "Carnation Cafe (Lunch)",
+    "id": "dl-market-house-lunch-and-dinner",
+    "name": "Market House - Starbucks (Lunch & Dinner)",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/carnation-cafe/menus/lunch/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/lunch-and-dinner/",
+    "added": [
+      "Breakfast Menu"
+    ],
+    "removed": [
+      "## Breakfast Menu",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "dl-maurices-treats",
+    "name": "Maurice's Treats",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/maurices-treats/menus/snack/",
+    "added": [],
+    "removed": [
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "dl-milk-stand-galaxys-edge",
+    "name": "Milk Stand – Star Wars: Galaxy's Edge",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/milk-stand/menus/",
+    "added": [
+      "— Bantha Sipper",
+      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Milk",
+      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Milk"
+    ],
+    "removed": [
+      "Bantha Sipper [Available starting April 28]",
+      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Milk [Available starting April 28]",
+      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Milk [Available starting April 28]",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "dl-mint-julep-bar",
+    "name": "Mint Julep Bar",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/mint-julep-bar/menus/snack/",
+    "added": [],
+    "removed": [
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "dl-ogas-cantina-breakfast",
+    "name": "Oga's Cantina (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/breakfast/",
+    "added": [
+      "Breakfast Menu",
+      "— The Roaring Loth-Cat",
+      "— Kamino Cooler",
+      "— Three Suns Over Batuu",
+      "— Batuu Bites"
+    ],
+    "removed": [
+      "## Breakfast Menu",
+      "— Blurrgfire",
+      "— Cliff Dweller",
+      "— Batuu Bits",
+      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
+      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "dl-ogas-cantina-lunch",
+    "name": "Oga's Cantina (Lunch)",
+    "park": "Disneyland Park",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/lunch/",
+    "added": [
+      "Lunch Menu",
+      "— The Roaring Loth-Cat",
+      "— Kamino Cooler",
+      "— Three Suns Over Batuu",
+      "— Batuu Bites"
+    ],
+    "removed": [
+      "## Lunch Menu",
+      "— Blurrgfire",
+      "— Cliff Dweller",
+      "— Batuu Bits",
+      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
+      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "dl-ogas-cantina-dinner",
+    "name": "Oga's Cantina (Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/dinner/",
+    "added": [
+      "Dinner Menu",
+      "— The Roaring Loth-Cat",
+      "— Kamino Cooler",
+      "— Three Suns Over Batuu",
+      "— Batuu Bites"
+    ],
+    "removed": [
+      "## Dinner Menu",
+      "— Blurrgfire",
+      "— Cliff Dweller",
+      "— Batuu Bits",
+      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
+      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "dl-plaza-inn-breakfast",
+    "name": "Plaza Inn (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/plaza-inn/menus/breakfast/",
+    "added": [
+      "Breakfast Menu"
+    ],
+    "removed": [
+      "## Breakfast Menu",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "dl-plaza-inn-lunch-and-dinner",
+    "name": "Plaza Inn (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/plaza-inn/menus/lunch-and-dinner/",
+    "added": [
+      "Breakfast Menu"
+    ],
+    "removed": [
+      "## Breakfast Menu",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "dl-rancho-del-zocalo-restaurante",
+    "name": "Rancho del Zocalo Restaurante",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/rancho-del-zocalo-restaurante/menus/lunch-and-dinner/",
+    "added": [
+      "Lunch And Dinner Menu"
+    ],
+    "removed": [
+      "## Lunch And Dinner Menu",
+      "— Egg Allergy-Friendly Pollo Asado",
+      "— Egg Allergy-Friendly Zocalo Fries",
+      "— Egg Allergy-Friendly Hacienda Salad",
+      "— Egg Allergy-Friendly Cheese Quesadilla",
+      "— Milk Allergy-Friendly Pollo Asado",
+      "— Milk Allergy-Friendly Hacienda Salad",
+      "— Sesame Allergy-Friendly Pollo Asado",
+      "— Sesame Allergy-Friendly Zocalo Fries",
+      "— Sesame Allergy-Friendly Hacienda Salad",
+      "— Sesame Allergy-Friendly Mac & Cheese",
+      "— Soy Allergy-Friendly Pollo Asado",
+      "— Soy Allergy-Friendly Mac & Cheese",
+      "— Soy Allergy-Friendly Cheese Quesadilla",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "dl-red-rose-taverne-breakfast",
+    "name": "Red Rose Taverne (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/breakfast/",
+    "added": [
+      "Breakfast Menu",
+      "— Skyway Straw Clip"
+    ],
+    "removed": [
+      "## Breakfast Menu",
+      "Skyway Straw Clip [Available starting April 22]",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "dl-red-rose-taverne-lunch-and-dinner",
+    "name": "Red Rose Taverne (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/lunch-and-dinner/",
+    "added": [
+      "Breakfast Menu",
+      "— Skyway Straw Clip"
+    ],
+    "removed": [
+      "## Breakfast Menu",
+      "Skyway Straw Clip [Available starting April 22]",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "dl-refreshment-corner",
+    "name": "Refreshment Corner",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/refreshment-corner/menus/lunch-and-dinner/",
+    "added": [
+      "Lunch And Dinner Menu",
+      "Sam Eagle Bucket [Available starting May 21]",
+      "— Skyway Straw Clip"
+    ],
+    "removed": [
+      "## Lunch And Dinner Menu",
+      "Skyway Straw Clip [Available starting April 22]",
+      "— Egg Allergy-Friendly All-Beef Hot Dog",
+      "— Egg Allergy-Friendly Hearty Chili",
+      "— Egg Allergy-Friendly Kids' POWER Pack",
+      "— Milk Allergy-Friendly All-Beef Hot Dog",
+      "— Milk Allergy-Friendly Chili Dog Basket",
+      "— Milk Allergy-friendly Hearty Chili",
+      "— Sesame Allergy-Friendly All-Beef Hot Dog",
+      "— Sesame Allergy-Friendly Hearty Chili",
+      "— Sesame Allergy-Friendly Kids' POWER Pack",
+      "— Soy Allergy-Friendly All-Beef Hot Dog",
+      "— Soy Allergy-Friendly Hearty Chili",
+      "— Soy Allergy-Friendly Kids' POWER Pack",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "dl-river-belle-terrace-lunch",
+    "name": "River Belle Terrace (Lunch)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/lunch/",
     "added": [
       "Lunch Menu"
     ],
@@ -340,10 +417,10 @@
     ]
   },
   {
-    "id": "dl-carnation-cafe-dinner",
-    "name": "Carnation Cafe (Dinner)",
+    "id": "dl-river-belle-terrace-dinner",
+    "name": "River Belle Terrace (Dinner)",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/carnation-cafe/menus/dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/dinner/",
     "added": [
       "Dinner Menu"
     ],
@@ -356,23 +433,67 @@
     ]
   },
   {
-    "id": "dl-docking-bay-7-food-and-cargo",
-    "name": "Docking Bay 7 Food and Cargo",
+    "id": "dl-ronto-roasters-breakfast",
+    "name": "Ronto Roasters (Breakfast)",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/docking-bay-7-food-and-cargo/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/breakfast/",
     "added": [
-      "Lunch And Dinner Menu",
-      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Fountain Beverage",
-      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Specialty Beverage",
-      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Fountain Beverage",
-      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Specialty Beverage"
+      "Breakfast Menu",
+      "— Keshian Spiced Chips"
+    ],
+    "removed": [
+      "## Breakfast Menu",
+      "— Kyryll Pork Rinds",
+      "— Ronto Wrap - Egg Allergy-Friendly",
+      "— Kyryll Pork Rinds - Egg Allergy-Friendly",
+      "— Ronto Wrap - Milk Allergy-Friendly",
+      "— Ronto Wrap - Sesame Allergy-Friendly",
+      "— Ronto Wrap - Soy Allergy-Friendly",
+      "— Kyryll Pork Rinds - Soy Allergy-Friendly",
+      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
+      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "dl-ronto-roasters-lunch-and-dinner",
+    "name": "Ronto Roasters (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/lunch-and-dinner/",
+    "added": [
+      "Breakfast Menu",
+      "— Keshian Spiced Chips"
+    ],
+    "removed": [
+      "## Breakfast Menu",
+      "— Kyryll Pork Rinds",
+      "— Ronto Wrap - Egg Allergy-Friendly",
+      "— Kyryll Pork Rinds - Egg Allergy-Friendly",
+      "— Ronto Wrap - Milk Allergy-Friendly",
+      "— Ronto Wrap - Sesame Allergy-Friendly",
+      "— Ronto Wrap - Soy Allergy-Friendly",
+      "— Kyryll Pork Rinds - Soy Allergy-Friendly",
+      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
+      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "dl-royal-street-veranda",
+    "name": "Royal Street Veranda",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/royal-street-veranda/menus/lunch-and-dinner/",
+    "added": [
+      "Lunch And Dinner Menu"
     ],
     "removed": [
       "## Lunch And Dinner Menu",
-      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Fountain Beverage [Available starting April 28]",
-      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Specialty Beverage [Available starting April 28]",
-      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Fountain Beverage [Available starting April 28]",
-      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Specialty Beverage [Available starting April 28]",
       "Notice of Right to Opt Out of Sale/Sharing",
       "— Manage Consent Preferences",
       "— Selling, Sharing, Targeted Advertising",
@@ -380,95 +501,19 @@
     ]
   },
   {
-    "id": "dl-edelweiss-snacks",
-    "name": "Edelweiss Snacks",
+    "id": "dl-stage-door-cafe",
+    "name": "Stage Door Cafe",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/edelweiss-snacks/menus/snack/",
-    "added": [],
-    "removed": [
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "dl-galactic-grill-breakfast",
-    "name": "Galactic Grill (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/breakfast/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/stage-door-cafe/menus/lunch-and-dinner/",
     "added": [
-      "Breakfast Menu",
-      "— Jabba the Hutt Sail Barge Bucket",
-      "Galactic Cargo Fries in a Star Wars Souvenir Bucket",
-      "— Bantha Sipper",
-      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Fountain Beverage",
-      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Slushee",
-      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Fountain Beverage",
-      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Slushee",
-      "— Skyway Straw Clip"
+      "Lunch And Dinner Menu",
+      "— Magic Key Sampler Box"
     ],
     "removed": [
-      "## Breakfast Menu",
-      "Bantha Sipper [Available Starting April 28]",
-      "Salvaged Protocol Droid Bucket [Available starting April 28]",
+      "## Lunch And Dinner Menu",
       "Sorgan Cooler with Rechargeable Darth Vader Lightsaber Swizzle Stick [Available starting April 28]",
       "Sorgan Cooler with Rechargeable Luke Skywalker Lightsaber Swizzle Stick [Available starting April 28]",
-      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Fountain Beverage [Available starting April 28]",
-      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Slushee [Available starting April 28]",
-      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Fountain Beverage [Available starting April 28]",
-      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Slushee [Available starting April 28]",
-      "Skyway Straw Clip [Available starting April 22]",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "dl-galactic-grill-lunch-and-dinner",
-    "name": "Galactic Grill (Lunch & Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/lunch-and-dinner/",
-    "added": [
-      "Breakfast Menu",
-      "— Jabba the Hutt Sail Barge Bucket",
-      "Galactic Cargo Fries in a Star Wars Souvenir Bucket",
-      "— Bantha Sipper",
-      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Fountain Beverage",
-      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Slushee",
-      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Fountain Beverage",
-      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Slushee",
-      "— Skyway Straw Clip"
-    ],
-    "removed": [
-      "## Breakfast Menu",
-      "Bantha Sipper [Available Starting April 28]",
-      "Salvaged Protocol Droid Bucket [Available starting April 28]",
-      "Sorgan Cooler with Rechargeable Darth Vader Lightsaber Swizzle Stick [Available starting April 28]",
-      "Sorgan Cooler with Rechargeable Luke Skywalker Lightsaber Swizzle Stick [Available starting April 28]",
-      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Fountain Beverage [Available starting April 28]",
-      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Slushee [Available starting April 28]",
-      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Fountain Beverage [Available starting April 28]",
-      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Slushee [Available starting April 28]",
-      "Skyway Straw Clip [Available starting April 22]",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "dl-gibson-girl-ice-cream-parlor",
-    "name": "Gibson Girl Ice Cream Parlor",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/gibson-girl-ice-cream-parlor/menus/snack/",
-    "added": [
-      "— Skyway Straw Clip",
-      "— Plant-based Vanilla Ice Cream"
-    ],
-    "removed": [
-      "Skyway Straw Clip [Available starting April 22]",
+      "Magic Key Sampler Box [Available starting April 23]",
       "Notice of Right to Opt Out of Sale/Sharing",
       "— Manage Consent Preferences",
       "— Selling, Sharing, Targeted Advertising",

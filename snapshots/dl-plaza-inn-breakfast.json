@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Plaza Inn"
-      ]
-    },
-    {
-      "title": "Breakfast Menu",
-      "items": []
-    },
-    {
-      "title": "Breakfast Menu",
-      "items": [
+        "Plaza Inn",
+        "Breakfast Menu",
         "— Assorted Cereal",
         "— Made-to-Order Omelets",
         "— Scrambled Eggs",
@@ -23,11 +15,7 @@
         "— Breakfast Potatoes",
         "Variety of Muffins, Croissants, Danish, and Fruit",
         "— Braille menu available upon request",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
       ]
     }
   ]

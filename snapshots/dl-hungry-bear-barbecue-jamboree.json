@@ -3,18 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Hungry Bear Barbecue Jamboree"
-      ]
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": [
-        "Sorgan Cooler with Rechargeable Darth Vader Lightsaber Swizzle Stick [Available starting April 28]",
-        "Sorgan Cooler with Rechargeable Luke Skywalker Lightsaber Swizzle Stick [Available starting April 28]",
+        "Hungry Bear Barbecue Jamboree",
+        "Lunch And Dinner Menu",
         "— Jiminy Cricket Sipper",
         "Haunted Mansion Victor Geist's Spectral Sipper",
         "Disneyland 70th Celebration D Glow Cube",
@@ -29,7 +19,6 @@
         "— Smoked Beef Brisket Sandwich",
         "— Classic Cheeseburger",
         "— Corn Ribs Plate",
-        "— Bear-y Cheesecake Funnel Cake Fries",
         "— Cinnamon Sugar Funnel Cake Fries",
         "— Chocolate Mocha Dipping Sauce",
         "— Coleslaw",
@@ -52,20 +41,7 @@
         "— Hot Tea",
         "— Mickey Mouse-shaped Glow Cube",
         "Disneyland Travel Tumbler: Disney Artist Showcase featuring Joey Chou",
-        "— Egg Allergy-Friendly Barbecue Salad",
-        "— Egg Allergy-Friendly Kid's Hamburger",
-        "— Milk Allergy-Friendly Barbecue Salad",
-        "— Milk Allergy-Friendly Classic Hamburger",
-        "— Milk Allergy-Friendly Kid's Hamburger",
-        "— Sesame Allergy-Friendly Barbecue Salad",
-        "— Sesame Allergy-Friendly Kid's Hamburger",
-        "— Soy Allergy-Friendly Classic Hamburger",
-        "— Soy Allergy-Friendly Kid's Hamburger",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
       ]
     }
   ]

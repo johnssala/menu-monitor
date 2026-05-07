@@ -3,24 +3,14 @@
     {
       "title": "menu",
       "items": [
-        "Stage Door Café"
-      ]
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": [
-        "Sorgan Cooler with Rechargeable Darth Vader Lightsaber Swizzle Stick [Available starting April 28]",
-        "Sorgan Cooler with Rechargeable Luke Skywalker Lightsaber Swizzle Stick [Available starting April 28]",
+        "Stage Door Café",
+        "Lunch And Dinner Menu",
         "— Jiminy Cricket Sipper",
         "Haunted Mansion Victor Geist's Spectral Sipper",
         "Disneyland 70th Celebration D Glow Cube",
         "Disneyland 70th Celebration Sipper",
         "Disneyland 70th Celebration Travel Tumbler",
-        "Magic Key Sampler Box [Available starting April 23]",
+        "— Magic Key Sampler Box",
         "— Magic Key Mirrored Mickey-Shaped Sipper",
         "— Beer-battered Fish and Chips",
         "— Mini Corn Dogs with Fries",
@@ -46,11 +36,7 @@
         "— Coffee - Decaffeinated",
         "— Hot Cocoa",
         "— Hot Tea",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
       ]
     }
   ]

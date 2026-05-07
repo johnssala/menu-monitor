@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "River Belle Terrace"
-      ]
-    },
-    {
-      "title": "Lunch Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch Menu",
-      "items": [
+        "River Belle Terrace",
+        "Lunch Menu",
         "— Chicken Pot Pie Soup",
         "— Pork Chop",
         "— Fried Chicken Plate",
@@ -38,11 +30,7 @@
         "— Assorted Fountain Beverages",
         "— Freshly Brewed Joffrey’s Coffee™",
         "— Assorted Twinings of London® Teas",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
       ]
     }
   ]

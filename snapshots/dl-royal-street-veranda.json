@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Royal Street Veranda"
-      ]
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": [
+        "Royal Street Veranda",
+        "Lunch And Dinner Menu",
         "Disneyland 70th Celebration Travel Tumbler",
         "— Soup in Sourdough Bread Bowl",
         "— Monte Cristo Sandwich",
@@ -25,11 +17,7 @@
         "— Hot Cocoa",
         "— Coffee - Regular",
         "— Coffee - Decaffeinated",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
       ]
     }
   ]

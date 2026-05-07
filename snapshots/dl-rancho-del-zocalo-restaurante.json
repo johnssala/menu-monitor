@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Rancho del Zocalo Restaurante"
-      ]
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": [
+        "Rancho del Zocalo Restaurante",
+        "Lunch And Dinner Menu",
         "— Duo Tacos with Carne Asada",
         "— Duo Tacos with Chicken",
         "— Burrito Sonora with Carne Asada",
@@ -46,24 +38,7 @@
         "— Coffee - Regular",
         "— Coffee - Decaf",
         "— Hot Tea",
-        "— Egg Allergy-Friendly Pollo Asado",
-        "— Egg Allergy-Friendly Zocalo Fries",
-        "— Egg Allergy-Friendly Hacienda Salad",
-        "— Egg Allergy-Friendly Cheese Quesadilla",
-        "— Milk Allergy-Friendly Pollo Asado",
-        "— Milk Allergy-Friendly Hacienda Salad",
-        "— Sesame Allergy-Friendly Pollo Asado",
-        "— Sesame Allergy-Friendly Zocalo Fries",
-        "— Sesame Allergy-Friendly Hacienda Salad",
-        "— Sesame Allergy-Friendly Mac & Cheese",
-        "— Soy Allergy-Friendly Pollo Asado",
-        "— Soy Allergy-Friendly Mac & Cheese",
-        "— Soy Allergy-Friendly Cheese Quesadilla",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
       ]
     }
   ]

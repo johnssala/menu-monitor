@@ -3,17 +3,9 @@
     {
       "title": "menu",
       "items": [
-        "Red Rose Taverne"
-      ]
-    },
-    {
-      "title": "Breakfast Menu",
-      "items": []
-    },
-    {
-      "title": "Breakfast Menu",
-      "items": [
-        "Skyway Straw Clip [Available starting April 22]",
+        "Red Rose Taverne",
+        "Breakfast Menu",
+        "— Skyway Straw Clip",
         "— 70th Stuff",
         "Sparkling Peach Punch",
         "Sparkling Peach Punch with Glow Cube",
@@ -38,11 +30,7 @@
         "— Lowfat Milk",
         "— Minute Maid® Apple Juice",
         "— Simply® Orange Juice",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
       ]
     }
   ]
