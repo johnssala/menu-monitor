@@ -3,21 +3,13 @@
     {
       "title": "menu",
       "items": [
-        "Chefs de France"
-      ]
-    },
-    {
-      "title": "Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Dinner Menu",
-      "items": [
+        "Chefs de France",
+        "Dinner Menu",
         "Cassolette d’escargots de Bourgogne au beurre persillé (Escargot)",
         "Soupe à l’oignon gratinée (French Onion Soup)",
-        "— Salade aux lardons et croûtons",
-        "Salade de chèvre chaud (Baked Goat Cheese)",
-        "Rillettes au deux Saumon, Brioche, sauce à l’aneth *",
+        "— Salade de Saison",
+        "— Salade de betteraves et chévre frais",
+        "— Blinis de Saumon fumé,sauce à l’aneth *",
         "Fruits de la Mer, tarte aux èpinard, sauce au homard",
         "Filet de saumon, riz pilaf, sauce beurre blanc",
         "— Gratin de macaroni",
@@ -74,7 +66,7 @@
         "— Kir Royal",
         "— Kir Imperial",
         "— Kir au Cassis",
-        "— Pernod-Ricard",
+        "— Berry Rouge",
         "— Dubonnet Red",
         "— Lillet Blanc",
         "— Bière Kronenbourg 1664",
@@ -92,13 +84,7 @@
         "— Perrier 750mL",
         "— Perrier 33mL",
         "— Orangina",
-        "— Limonade",
-        "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-        "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "— Limonade"
       ]
     }
   ]

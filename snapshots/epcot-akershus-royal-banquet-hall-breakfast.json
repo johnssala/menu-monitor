@@ -3,42 +3,26 @@
     {
       "title": "menu",
       "items": [
-        "Akershus Royal Banquet Hall"
-      ]
-    },
-    {
-      "title": "Breakfast Menu",
-      "items": []
-    },
-    {
-      "title": "Breakfast Menu",
-      "items": [
+        "Akershus Royal Banquet Hall",
+        "Breakfast Menu",
         "— Breakfast Pastries and Accompaniments",
-        "— Mixed Fruit",
-        "— Potato Casserole",
+        "— Fresh Fruit",
+        "— Cheesy Potato Casserole",
         "— Scrambled Eggs",
-        "— Bacon",
-        "— Sausage",
+        "— Smoked Bacon",
+        "— Sausage Links",
         "— Norwegian Waffles",
-        "— Nordic Berry Compote",
         "— Plant-based Applecake",
-        "— Plant-based Waffles",
-        "— Plant-based Egg Scramble",
+        "— Norwegian Plant-based Waffles",
+        "— Plant-based Scrambled \"Eggs\"",
         "— Home Fry Potatoes",
-        "— Plant-based Sausage",
         "— So Many Wishes",
         "— Joffrey’s™ Cold Brew Coffee",
         "— Viking Coffee",
         "— Midnight Sun",
         "— Blackberry-Orange Spritz",
         "— Legacy Mimosa",
-        "— Viking Bloody Mary",
-        "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-        "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "— Viking Bloody Mary"
       ]
     }
   ]
