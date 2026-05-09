@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Katsura Grill"
-      ]
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": [
+        "Katsura Grill",
+        "Lunch And Dinner Menu",
         "— Shrimp Tempura Udon",
         "— Beef Udon",
         "— Tonkotsu (Pork) Ramen",
@@ -34,13 +26,7 @@
         "— Sapporo Draft Beer",
         "— Kirin Light Beer",
         "— Sake",
-        "— Nigori (Unfiltered) Sake",
-        "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-        "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "— Nigori (Unfiltered) Sake"
       ]
     }
   ]

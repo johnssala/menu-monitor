@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Nine Dragons Restaurant"
-      ]
-    },
-    {
-      "title": "Lunch Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch Menu",
-      "items": [
+        "Nine Dragons Restaurant",
+        "Lunch Menu",
         "— Stuffed Crab Claw",
         "— Smoked Duck Bao Buns",
         "— Cheesy Crab Wontons",
@@ -80,13 +72,7 @@
         "— Cuvée Mumm Napa, “M”, CALIFORNIA",
         "— Moscato Roscato, ITALY",
         "— Plum Takara, CALIFORNIA",
-        "Port Ferreira, 10 Years Old Tawny, PORTUGAL",
-        "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-        "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "Port Ferreira, 10 Years Old Tawny, PORTUGAL"
       ]
     }
   ]

@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Rose & Crown Dining Room"
-      ]
-    },
-    {
-      "title": "Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Dinner Menu",
-      "items": [
+        "Rose & Crown Dining Room",
+        "Dinner Menu",
         "— Coronation Salad",
         "— Scotch Egg",
         "— Fish and Chips",
@@ -59,13 +51,7 @@
         "Kim Crawford Sauvignon Blanc, Marlborough",
         "— Mirassou Pinot Noir, California",
         "— Simi Cabernet Sauvignon, Sonoma County",
-        "— Opici Family Red Sangria, Spain",
-        "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-        "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "— Opici Family Red Sangria, Spain"
       ]
     }
   ]

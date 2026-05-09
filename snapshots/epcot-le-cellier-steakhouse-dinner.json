@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Le Cellier Steakhouse"
-      ]
-    },
-    {
-      "title": "Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Dinner Menu",
-      "items": [
+        "Le Cellier Steakhouse",
+        "Dinner Menu",
         "— Canadian Cheddar Cheese Soup",
         "— Artisanal Cheese Plate",
         "— Shrimp Cocktail",
@@ -73,13 +65,7 @@
         "— Moosehead Lager - Draft",
         "— Molson Canadian Lager",
         "— Labatt Blue Canadian Pilsener",
-        "— Labatt Blue Light Canadian Pilsener",
-        "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-        "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "— Labatt Blue Light Canadian Pilsener"
       ]
     }
   ]

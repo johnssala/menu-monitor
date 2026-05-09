@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "La Hacienda de San Angel"
-      ]
-    },
-    {
-      "title": "Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Dinner Menu",
-      "items": [
+        "La Hacienda de San Angel",
+        "Dinner Menu",
         "— Guacamole",
         "— Flautas",
         "— Totopos",
@@ -67,13 +59,7 @@
         "— Clásica",
         "— La Hacienda Smoked Old Fashioned",
         "— La Paloma",
-        "— La Flaca",
-        "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-        "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "— La Flaca"
       ]
     }
   ]
