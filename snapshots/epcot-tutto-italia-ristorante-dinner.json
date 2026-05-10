@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Tutto Italia Ristorante"
-      ]
-    },
-    {
-      "title": "Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Dinner Menu",
-      "items": [
+        "Tutto Italia Ristorante",
+        "Dinner Menu",
         "— Polipo Grigliato",
         "— Calamari Fritti",
         "— Caesar Salad",
@@ -123,13 +115,7 @@
         "— Nonino Il Moscato",
         "— Sweet",
         "— Dry",
-        "— Stock 84",
-        "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-        "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "— Stock 84"
       ]
     }
   ]

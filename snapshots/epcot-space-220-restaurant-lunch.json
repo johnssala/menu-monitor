@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Space 220 Restaurant"
-      ]
-    },
-    {
-      "title": "Lunch Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch Menu",
-      "items": [
+        "Space 220 Restaurant",
+        "Lunch Menu",
         "— Adult Lunch Pricing",
         "— Luna Antipasti",
         "— Starry Calamari",
@@ -94,13 +86,7 @@
         "— Merlot Decoy, Sonoma, CA",
         "— Red Blend The Prisoner, Napa Valley, CA",
         "— Malbec Uno, Mendoza, Argentina",
-        "Cabernet Sauvignon Brendel, Napa Valley, CA",
-        "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-        "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "Cabernet Sauvignon Brendel, Napa Valley, CA"
       ]
     }
   ]

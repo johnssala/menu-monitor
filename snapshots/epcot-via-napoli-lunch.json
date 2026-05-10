@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Via Napoli Ristorante e Pizzeria"
-      ]
-    },
-    {
-      "title": "Lunch Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch Menu",
-      "items": [
+        "Via Napoli Ristorante e Pizzeria",
+        "Lunch Menu",
         "— Tris di Bruschetta",
         "— Calamari Fritti",
         "— Mozzarella Caprese",
@@ -107,13 +99,7 @@
         "— Via Napoli Flight",
         "— Red Flight",
         "— Sangria Flight",
-        "— Beer Flight (4.5 oz pours)",
-        "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-        "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "— Beer Flight (4.5 oz pours)"
       ]
     }
   ]

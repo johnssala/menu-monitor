@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Sunshine Seasons"
-      ]
-    },
-    {
-      "title": "Lunch Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch Menu",
-      "items": [
+        "Sunshine Seasons",
+        "Lunch Menu",
         "— Mickey-shaped Lemon-Violet Macaron",
         "— Orange Cream Milk Shake",
         "— Wood-fired Rotisserie Chicken",
@@ -83,13 +75,7 @@
         "— White Claw Black Cherry Hard Seltzer",
         "— Rotisserie Chicken",
         "— Hotdog",
-        "— Gluten/Wheat-Friendly Brownie",
-        "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-        "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "— Gluten/Wheat-Friendly Brownie"
       ]
     }
   ]
