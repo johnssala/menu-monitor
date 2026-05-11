@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "50's Prime Time Café"
-      ]
-    },
-    {
-      "title": "Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Dinner Menu",
-      "items": [
+        "50's Prime Time Café",
+        "Dinner Menu",
         "— Cornbread Skillet",
         "— Shrimp Cocktail",
         "— Beer-battered Onion Rings",
@@ -89,13 +81,7 @@
         "— Cousin Bob's Chowder",
         "— Mom’s Old-fashioned Pot Roast",
         "— Caesar Salad",
-        "— Mom's Favorite Recipes",
-        "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-        "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "— Mom's Favorite Recipes"
       ]
     }
   ]

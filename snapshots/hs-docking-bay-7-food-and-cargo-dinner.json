@@ -3,26 +3,18 @@
     {
       "title": "menu",
       "items": [
-        "Docking Bay 7 Food and Cargo"
-      ]
-    },
-    {
-      "title": "Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Dinner Menu",
-      "items": [
+        "Docking Bay 7 Food and Cargo",
+        "Dinner Menu",
+        "Moof Juice with Rechargeable Lightsaber Swizzle Stick",
+        "Takodana Quencher with Rechargeable Lightsaber Swizzle Stick",
         "— Ronto Wrap",
-        "— Batuuan Beef and Crispy Topato",
-        "— Peka Tuna Poke*",
-        "— Smoked Kaadu Pork Ribs",
+        "— Shaak Pot Roast with Kublag Mash",
+        "— Sweet Puffer Pig Ribs with Portion Bread",
         "— Endorian Fried Chicken Tip Yip",
         "— Pirjanad Hot Chicken Tip Yip",
-        "— Roasted Endorian Chicken Salad",
+        "— Endorian Chicken Tip-Yip Salad",
         "Felucian Falafel and Hummus Garden Spread",
-        "— Blueberry-Corn Muffin",
-        "— Crispy Yuca with Sauce",
+        "— Mashed Potatoes",
         "— White Rice",
         "— Ithorian Pasta Rings",
         "— Fried Chicken Tip Yip Youngling Meal",
@@ -30,23 +22,12 @@
         "— Takodana Quencher",
         "Gold Squadron Lager - Blue Point Brewing Co.",
         "— Surly Sarlacc",
-        "— Moof Juice",
         "— Assorted Fountain Beverages - Large",
         "— Assorted Fountain Beverages - Regular",
         "— DASANI® Bottled Water",
         "— Small Chocolate Milk",
         "— Minute Maid® Apple Juice",
-        "— Lowfat Milk",
-        "— Peka Tuna Poke* - Egg Allergy-Friendly",
-        "— Ronto Wrap - Egg Allergy-Friendly",
-        "— Peka Tuna Poke* - Milk Allergy-Friendly",
-        "— Ronto Wrap - Milk Allergy-Friendly",
-        "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-        "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "— Lowfat Milk"
       ]
     }
   ]

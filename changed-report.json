@@ -1,380 +1,292 @@
 [
   {
-    "id": "epcot-sommerfest",
-    "name": "Sommerfest",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/sommerfest/menus/lunch-and-dinner/",
-    "added": [
-      "Lunch And Dinner Menu"
-    ],
-    "removed": [
-      "## Lunch And Dinner Menu",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "epcot-space-220-lounge-lunch",
-    "name": "Space 220 Lounge (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/space-220-lounge/menus/lunch/",
-    "added": [
-      "Lunch Menu"
-    ],
-    "removed": [
-      "## Lunch Menu",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "epcot-space-220-lounge-dinner",
-    "name": "Space 220 Lounge (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/space-220-lounge/menus/dinner/",
-    "added": [
-      "Dinner Menu"
-    ],
-    "removed": [
-      "## Dinner Menu",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "epcot-space-220-restaurant-lunch",
-    "name": "Space 220 Restaurant (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/space-220/menus/lunch/",
-    "added": [
-      "Lunch Menu"
-    ],
-    "removed": [
-      "## Lunch Menu",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "epcot-space-220-restaurant-dinner",
-    "name": "Space 220 Restaurant (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/space-220/menus/dinner/",
-    "added": [
-      "Dinner Menu"
-    ],
-    "removed": [
-      "## Dinner Menu",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "epcot-spice-road-table",
-    "name": "Spice Road Table",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/spice-road-table/menus/dinner/",
-    "added": [
-      "Dinner Menu"
-    ],
-    "removed": [
-      "## Dinner Menu",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "epcot-sunshine-seasons-breakfast",
-    "name": "Sunshine Seasons (Breakfast)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/sunshine-seasons/menus/breakfast/",
-    "added": [
-      "Breakfast Menu"
-    ],
-    "removed": [
-      "## Breakfast Menu",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "epcot-sunshine-seasons-lunch",
-    "name": "Sunshine Seasons (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/sunshine-seasons/menus/lunch/",
-    "added": [
-      "Lunch Menu"
-    ],
-    "removed": [
-      "## Lunch Menu",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "epcot-sunshine-seasons-snack",
-    "name": "Sunshine Seasons (Snack)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/sunshine-seasons/menus/snack/",
-    "added": [],
-    "removed": [
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "epcot-takumi-tei",
-    "name": "Takumi-Tei",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/takumi-tei-restaurant/menus/dinner/",
-    "added": [
-      "Dinner Menu"
-    ],
-    "removed": [
-      "## Dinner Menu",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "epcot-teppan-edo-lunch",
-    "name": "Teppan Edo (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/teppan-edo/menus/lunch/",
-    "added": [
-      "Lunch Menu"
-    ],
-    "removed": [
-      "## Lunch Menu",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "epcot-teppan-edo-dinner",
-    "name": "Teppan Edo (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/teppan-edo/menus/dinner/",
-    "added": [
-      "Dinner Menu"
-    ],
-    "removed": [
-      "## Dinner Menu",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "epcot-tutto-gusto-wine-cellar",
-    "name": "Tutto Gusto Wine Cellar",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/tutto-gusto-wine-cellar/menus/bar-%E2%80%93-lounge/",
-    "added": [],
-    "removed": [
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "epcot-tutto-italia-ristorante-lunch",
-    "name": "Tutto Italia Ristorante (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/tutto-italia-ristorante/menus/lunch/",
-    "added": [
-      "Lunch Menu"
-    ],
-    "removed": [
-      "## Lunch Menu",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "epcot-tutto-italia-ristorante-dinner",
-    "name": "Tutto Italia Ristorante (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/tutto-italia-ristorante/menus/dinner/",
-    "added": [
-      "Dinner Menu"
-    ],
-    "removed": [
-      "## Dinner Menu",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "epcot-via-napoli-lunch",
-    "name": "Via Napoli Ristorante e Pizzeria (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/via-napoli/menus/lunch/",
-    "added": [
-      "Lunch Menu"
-    ],
-    "removed": [
-      "## Lunch Menu",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "epcot-via-napoli-dinner",
-    "name": "Via Napoli Ristorante e Pizzeria (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/via-napoli/menus/dinner/",
-    "added": [
-      "Dinner Menu"
-    ],
-    "removed": [
-      "## Dinner Menu",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "epcot-yorkshire-county-fish-shop",
-    "name": "Yorkshire County Fish Shop",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/yorkshire-county-fish-shop/menus/lunch-and-dinner/",
-    "added": [
-      "Lunch And Dinner Menu"
-    ],
-    "removed": [
-      "## Lunch And Dinner Menu",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "eu-cafe-lair-de-la-sirene",
-    "name": "Café L'air De La Sirène",
+    "id": "eu-le-gobelet-noir",
+    "name": "Le Gobelet Noir",
     "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/cafe-lair-de-la-sirene/menu.html",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/le-gobelet-noir/menu.html",
     "added": [
-      "Croissant Platter",
-      "— Croissant Platter",
       "Kronenbourg 1664®",
-      "— Kronenbourg 1664®"
+      "— Kronenbourg 1664®",
+      "Frankfurter",
+      "— Frankfurter"
     ],
     "removed": [
-      "Croissant",
-      "— Croissant",
-      "Vegan Croissant",
-      "— Vegan Croissant",
-      "Pain Au Chocolat",
-      "— Pain Au Chocolat",
-      "Cinnamon Brioche",
-      "— Cinnamon Brioche",
-      "Almondine",
-      "— Almondine",
       "Kronenbourg 1664® Lager",
-      "— Kronenbourg 1664® Lager"
+      "— Kronenbourg 1664® Lager",
+      "Glühwein",
+      "— Glühwein",
+      "Grilled Cheese",
+      "— Grilled Cheese"
     ]
   },
   {
-    "id": "eu-de-laceys-cottage",
-    "name": "De Lacey's Cottage",
+    "id": "eu-the-oak-and-star-tavern",
+    "name": "The Oak & Star Tavern",
     "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/de-laceys/menu.html",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-oak-and-star-tavern/menu.html",
+    "added": [],
+    "removed": [
+      "Hidden Springs Ale Works Riot Juice",
+      "— Hidden Springs Ale Works Riot Juice",
+      "*Consuming raw or undercooked meats, poultry, seafood, shellfish or eggs may increase your risk of foodborne illness",
+      "Brooklyn Brewery® Fonio Rising",
+      "— Brooklyn Brewery® Fonio Rising",
+      "Non-Alcoholic Brooklyn Brewery® Special Effects Grapefruit IPA",
+      "A to Z Wineworks Riesling",
+      "— A to Z Wineworks Riesling",
+      "Blackboard Merlot",
+      "— Blackboard Merlot"
+    ]
+  },
+  {
+    "id": "hs-50s-prime-time-cafe-lunch",
+    "name": "50's Prime Time Café (Lunch)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/50s-prime-time-cafe/menus/lunch/",
     "added": [
-      "Frozen Treats",
-      "— Frozen Treats",
-      "Chips",
-      "— Chips",
-      "Frozen Monocane",
-      "— Frozen Monocane",
-      "Slush with Alcohol",
-      "— Slush with Alcohol",
-      "Coca-Cola Freestyle®",
-      "— Coca-Cola Freestyle®",
-      "Icee®",
-      "— Icee®",
-      "Canned Beers",
-      "— Canned Beers",
-      "Nütrl®"
+      "Lunch Menu"
     ],
     "removed": [
-      "Single Serve Coca-Cola Freestyle® cup",
-      "— Single Serve Coca-Cola Freestyle® cup",
-      "Powerade® Fruit Punch",
-      "— Powerade® Fruit Punch",
-      "Beer",
-      "— Beer",
-      "NÜTRL®",
-      "— NÜTRL®",
-      "— High Noon®"
+      "## Lunch Menu",
+      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
+      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "hs-50s-prime-time-cafe-dinner",
+    "name": "50's Prime Time Café (Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/50s-prime-time-cafe/menus/dinner/",
+    "added": [
+      "Dinner Menu"
+    ],
+    "removed": [
+      "## Dinner Menu",
+      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
+      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "hs-abc-commissary",
+    "name": "ABC Commissary",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/abc-commissary/menus/lunch-and-dinner/",
+    "added": [
+      "Lunch And Dinner Menu",
+      "— Bantha Sipper",
+      "— Chosen One Cooler",
+      "— Sith Lord Libation",
+      "— Chosen One Cooler with Vodka",
+      "— Sith Lord Libation with Vodka",
+      "— Pork Adobo"
+    ],
+    "removed": [
+      "## Lunch And Dinner Menu",
+      "— California Burger - Egg Allergy-Friendly",
+      "— Kids' Shrimp Bowl - Egg Allergy-Friendly",
+      "— Kids' Pork Taco - Egg Allergy-Friendly",
+      "— Kids' Pork Taco - Milk Allergy-Friendly",
+      "— Shrimp Tacos - Sesame Allergy-Friendly",
+      "— California Burger - Soy Allergy-Friendly",
+      "— Kids' Shrimp Bowl - Soy Allergy-Friendly",
+      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
+      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "hs-anaheim-produce",
+    "name": "Anaheim Produce",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/anaheim-produce/menus/all-day/",
+    "added": [],
+    "removed": [
+      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
+      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "hs-backlot-express",
+    "name": "Backlot Express",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/backlot-express/menus/lunch-and-dinner/",
+    "added": [
+      "Lunch And Dinner Menu",
+      "— Your Chosen Path Cupcake",
+      "— Bantha Sipper",
+      "— Chosen One Cooler",
+      "— Sith Lord Libation",
+      "— Chosen One Cooler with Vodka",
+      "— Sith Lord Libation with Vodka"
+    ],
+    "removed": [
+      "## Lunch And Dinner Menu",
+      "— Southwest Salad - Egg Allergy-friendly",
+      "— Southwest Salad - Milk Allergy-friendly",
+      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
+      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "hs-baseline-tap-house",
+    "name": "BaseLine Tap House",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/baseline-tap-house/menus/bar-%E2%80%93-lounge/",
+    "added": [],
+    "removed": [
+      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
+      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "hs-catalina-eddies",
+    "name": "Catalina Eddie's",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/catalina-eddies/menus/lunch-and-dinner/",
+    "added": [
+      "Lunch And Dinner Menu"
+    ],
+    "removed": [
+      "## Lunch And Dinner Menu",
+      "— Pepperoni Pizza - Egg Allergy-Friendly",
+      "— Cheese Pizza - Egg Allergy-Friendly",
+      "— Garlic Bread - Egg Allergy-Friendly",
+      "— Pepperoni Pizza - Milk Allergy-Friendly",
+      "— \"Cheese\" Pizza - Milk Allergy-Friendly",
+      "— Cheese Pizza - Sesame Allergy-Friendly",
+      "— Garlic Bread - Sesame Allergy-Friendly",
+      "— Pepperoni Pizza - Soy Allergy-Friendly",
+      "— Cheese Pizza - Soy Allergy-Friendly",
+      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
+      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "hs-docking-bay-7-food-and-cargo-lunch",
+    "name": "Docking Bay 7 Food and Cargo (Lunch)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/docking-bay-7-food-and-cargo/menus/lunch/",
+    "added": [
+      "Lunch Menu",
+      "Moof Juice with Rechargeable Lightsaber Swizzle Stick",
+      "Takodana Quencher with Rechargeable Lightsaber Swizzle Stick",
+      "— Shaak Pot Roast with Kublag Mash",
+      "— Sweet Puffer Pig Ribs with Portion Bread",
+      "— Endorian Chicken Tip-Yip Salad",
+      "— Mashed Potatoes"
+    ],
+    "removed": [
+      "## Lunch Menu",
+      "— Batuuan Beef and Crispy Topato",
+      "— Peka Tuna Poke*",
+      "— Smoked Kaadu Pork Ribs",
+      "— Roasted Endorian Chicken Salad",
+      "— Blueberry-Corn Muffin",
+      "— Crispy Yuca with Sauce",
+      "— Moof Juice",
+      "— Peka Tuna Poke* - Egg Allergy-Friendly",
+      "— Peka Tuna Poke* - Milk Allergy-Friendly",
+      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
+      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "hs-docking-bay-7-food-and-cargo-dinner",
+    "name": "Docking Bay 7 Food and Cargo (Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/docking-bay-7-food-and-cargo/menus/dinner/",
+    "added": [
+      "Dinner Menu",
+      "Moof Juice with Rechargeable Lightsaber Swizzle Stick",
+      "Takodana Quencher with Rechargeable Lightsaber Swizzle Stick",
+      "— Shaak Pot Roast with Kublag Mash",
+      "— Sweet Puffer Pig Ribs with Portion Bread",
+      "— Endorian Chicken Tip-Yip Salad",
+      "— Mashed Potatoes"
+    ],
+    "removed": [
+      "## Dinner Menu",
+      "— Batuuan Beef and Crispy Topato",
+      "— Peka Tuna Poke*",
+      "— Smoked Kaadu Pork Ribs",
+      "— Roasted Endorian Chicken Salad",
+      "— Blueberry-Corn Muffin",
+      "— Crispy Yuca with Sauce",
+      "— Moof Juice",
+      "— Peka Tuna Poke* - Egg Allergy-Friendly",
+      "— Ronto Wrap - Egg Allergy-Friendly",
+      "— Peka Tuna Poke* - Milk Allergy-Friendly",
+      "— Ronto Wrap - Milk Allergy-Friendly",
+      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
+      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "hs-dockside-diner",
+    "name": "Dockside Diner",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/dockside-diner/menus/lunch-and-dinner/",
+    "added": [
+      "Lunch And Dinner Menu"
+    ],
+    "removed": [
+      "## Lunch And Dinner Menu",
+      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
+      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
+    ]
+  },
+  {
+    "id": "hs-epic-eats",
+    "name": "Epic Eats",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/epic-eats/menus/all-day/",
+    "added": [],
+    "removed": [
+      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
+      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
+      "Notice of Right to Opt Out of Sale/Sharing",
+      "— Manage Consent Preferences",
+      "— Selling, Sharing, Targeted Advertising",
+      "checkbox label label"
     ]
   }
 ]
