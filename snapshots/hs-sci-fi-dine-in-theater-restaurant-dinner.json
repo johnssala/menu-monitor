@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Sci-Fi Dine-In Theater Restaurant"
-      ]
-    },
-    {
-      "title": "Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Dinner Menu",
-      "items": [
+        "Sci-Fi Dine-In Theater Restaurant",
+        "Dinner Menu",
         "— Crispy Onion Rings",
         "— Sci-Fi Plant Nachos",
         "— Wedge Salad",
@@ -76,13 +68,7 @@
         "— Sci-Fi Impossible™ Nachos",
         "— Brownie",
         "— Sorbet with Fresh Fruit",
-        "— Green Beans & Carrots",
-        "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-        "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "— Green Beans & Carrots"
       ]
     }
   ]

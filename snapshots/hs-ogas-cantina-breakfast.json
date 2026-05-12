@@ -3,17 +3,11 @@
     {
       "title": "menu",
       "items": [
-        "Oga's Cantina"
-      ]
-    },
-    {
-      "title": "Breakfast Menu",
-      "items": []
-    },
-    {
-      "title": "Breakfast Menu",
-      "items": [
+        "Oga's Cantina",
+        "Breakfast Menu",
         "— The Grinning Loth-cat",
+        "— The Roaring Loth-Cat",
+        "— Kamino Cooler",
         "— Fuzzy Tauntaun",
         "— Jedi Mind Trick",
         "Nysillin and Bubbles with Brub Berry Essence",
@@ -27,10 +21,9 @@
         "— Corellian Spike Cold Brew",
         "— Hyperdrive (Punch It!)",
         "— Jabba Juice",
-        "— Blurrgfire",
         "— Carbon Freeze",
         "— Akivan Tea",
-        "— Cliff Dweller",
+        "— Three Suns Over Batuu",
         "— Blue Bantha",
         "— Rodian Ration",
         "— Oga's Obsession",
@@ -41,15 +34,9 @@
         "— Goldschmidt Vineyards Toniray, Sonoma",
         "Goldschmidt Vineyards Imperial Guard, Sonoma",
         "— Happabore Sampler",
-        "— Batuu Bits",
+        "— Batuu Bites",
         "— Umbaran Cheese Roll",
-        "— Thruster Roasted Bantha Flatbread",
-        "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-        "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "— Thruster Roasted Bantha Flatbread"
       ]
     }
   ]

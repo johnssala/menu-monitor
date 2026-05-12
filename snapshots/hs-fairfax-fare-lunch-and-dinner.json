@@ -3,16 +3,9 @@
     {
       "title": "menu",
       "items": [
-        "Fairfax Fare"
-      ]
-    },
-    {
-      "title": "Breakfast Menu",
-      "items": []
-    },
-    {
-      "title": "Breakfast Menu",
-      "items": [
+        "Fairfax Fare",
+        "Breakfast Menu",
+        "— Bantha Sipper",
         "— Waffle Platter",
         "— Assorted Fountain Beverages - Large",
         "— Assorted Fountain Beverages - Regular",
@@ -36,13 +29,7 @@
         "— Lagunitas IPA - Petaluma, CA",
         "— Sierra Nevada Pale Ale - Chico, CA",
         "White Claw Black Cherry Hard Seltzer - Chicago, IL",
-        "— Michelob Ultra - St. Louis, MO",
-        "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-        "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "— Michelob Ultra - St. Louis, MO"
       ]
     }
   ]

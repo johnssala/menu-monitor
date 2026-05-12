@@ -3,19 +3,11 @@
     {
       "title": "menu",
       "items": [
-        "Roundup Rodeo BBQ"
-      ]
-    },
-    {
-      "title": "Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Dinner Menu",
-      "items": [
+        "Roundup Rodeo BBQ",
+        "Dinner Menu",
         "The Prospector’s Homemade Cheddar Biscuits with Sweet Pepper Jelly",
         "— Rootin’ Tootin Tomato Salad",
-        "— Wheezy’s Watermelon Salad",
+        "— Wheezy's Fruit Salad",
         "Enjoy a Platter of all the Following House-Smoked Items",
         "— Trixie's Plant-based Trio",
         "— Potato Barrels",
@@ -31,14 +23,15 @@
         "— Assorted Fountain Beverages",
         "— Freshly Brewed Iced Tea",
         "— Kids’ Picks",
-        "— Frozen Cowpoke Cocoa",
+        "— Molly's Frozen Berry Splash",
         "— Partysaurus Tex",
         "— Grown-up’s Peanut Butter & Jelly",
         "— Snake Eye Margarita",
-        "— The Rodeo Mule",
-        "— Rum on the Range",
+        "— Prickly Spur Long Island",
+        "— Coal'd Fashioned",
         "— Whinnyin’ Whiskey Lemonade",
         "— Rattler Rum Punch",
+        "— Strawberry Saloon Collins",
         "(ABV%) - Each of our offerings has information on the ABV%, or Alcohol By Volume.",
         "— Bud Light Lager – St. Louis, MO",
         "Yuengling Traditional Lager – Pottsville, PA",
@@ -52,12 +45,7 @@
         "Hess Shirtail Creek Chardonnay – Monterey, CA",
         "— Imagery Pinot Noir – Sonoma, CA",
         "Line 39 Cabernet Sauvignon – Central Coast, CA",
-        "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-        "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "— Wheezy’s Watermelon Salad"
       ]
     }
   ]

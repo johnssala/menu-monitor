@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Hollywood & Vine"
-      ]
-    },
-    {
-      "title": "Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Dinner Menu",
-      "items": [
+        "Hollywood & Vine",
+        "Dinner Menu",
         "— Assorted Breads",
         "— Beet Salad (Plant-based)",
         "— Pasta Salad (Plant-based)",
@@ -56,13 +48,7 @@
         "Cigar City Jai Alai IPA - Tampa, FL - Draft",
         "Samuel Adams Seasonal - Boston, MA - Draft",
         "Angry Orchard Crisp Apple Hard Cider - Cincinnati, OH",
-        "White Claw Black Cherry Hard Seltzer - Chicago, IL",
-        "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-        "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "White Claw Black Cherry Hard Seltzer - Chicago, IL"
       ]
     }
   ]
