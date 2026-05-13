@@ -3,20 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "The Burger Digs™"
-      ]
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": [
+        "The Burger Digs™",
+        "Lunch And Dinner Menu",
         "Allergen Note",
         "Signature Selections",
         "Request no cheese and a Kaiser bun for dairy-sensitive options",
@@ -76,8 +64,7 @@
         "Upgrade with a souvenir pilsner:",
         "Yuengling Can",
         "High Noon Pineapple Seltzer",
-        "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive V - Vegetarian VG - Vegan",
-        "Menu items and pricing are subject to change without notice."
+        "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive V - Vegetarian VG - Vegan"
       ]
     }
   ]

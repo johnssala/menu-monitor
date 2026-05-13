@@ -3,20 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Cafe 4™"
-      ]
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": [
+        "Cafe 4™",
+        "Lunch And Dinner Menu",
         "Allergen Note",
         "Entrees",
         "All entrees are served with a garlic knot and side salad. Combos also include a single serve fountain soda.",
@@ -102,8 +90,7 @@
         "Souvenir Pilsner",
         "Canned Beer",
         "High Noon Pineapple Seltzer",
-        "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive V - Vegetarian VG - Vegan",
-        "Menu items and pricing are subject to change without notice."
+        "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive V - Vegetarian VG - Vegan"
       ]
     }
   ]

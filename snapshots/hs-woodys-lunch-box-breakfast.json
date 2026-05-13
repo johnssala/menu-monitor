@@ -3,16 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Woody's Lunch Box"
-      ]
-    },
-    {
-      "title": "Breakfast Menu",
-      "items": []
-    },
-    {
-      "title": "Breakfast Menu",
-      "items": [
+        "Woody's Lunch Box",
+        "Breakfast Menu",
         "— Little Green Men Jetpack Sipper",
         "Frozen Mystic Portal Punch in an Alien Sipper",
         "— Alien Sipper",
@@ -52,24 +44,7 @@
         "— Grown-Up's Lemonade",
         "— Blue Moon Belgian White Ale - Golden, CO",
         "— Bud Light Lager - St. Louis, MO",
-        "Angry Orchard Crisp Apple Hard Cider - Cincinnati, OH",
-        "— BBQ Brisket Melt - Egg Allergy-Friendly",
-        "— Tomato-Basil Soup - Egg Allergy-Friendly",
-        "— Potato Barrels - Egg Allergy-Friendly",
-        "— Cuties® Mandarin - Egg Allergy-Friendly",
-        "— BBQ Brisket Melt - Milk Allergy-Friendly",
-        "— Potato Barrels - Milk Allergy-Friendly",
-        "— Cuties® Mandarin - Milk Allergy-Friendly",
-        "— BBQ Brisket Melt - Soy Allergy-Friendly",
-        "— Tomato-Basil Soup - Soy Allergy-Friendly",
-        "— Potato Barrels - Soy Allergy-Friendly",
-        "— Cuties® Mandarin - Soy Allergy-Friendly",
-        "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-        "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-        "Notice of Right to Opt Out of Sale/Sharing",
-        "— Manage Consent Preferences",
-        "— Selling, Sharing, Targeted Advertising",
-        "checkbox label label"
+        "Angry Orchard Crisp Apple Hard Cider - Cincinnati, OH"
       ]
     }
   ]

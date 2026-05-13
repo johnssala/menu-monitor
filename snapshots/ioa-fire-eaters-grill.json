@@ -3,20 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Fire Eater's Grill™"
-      ]
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": [
+        "Fire Eater's Grill™",
+        "Lunch And Dinner Menu",
         "Allergen Note",
         "Entrees",
         "Entrees served with fries.",
@@ -64,8 +52,7 @@
         "Bottled Beer",
         "Beer",
         "High Noon Pineapple Seltzer",
-        "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive",
-        "Menu items and pricing are subject to change without notice."
+        "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive"
       ]
     }
   ]

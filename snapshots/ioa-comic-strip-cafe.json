@@ -3,20 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Comic Strip Cafe™"
-      ]
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": [
+        "Comic Strip Cafe",
+        "Lunch And Dinner Menu",
         "Allergen Note",
         "American Fare",
         "Gluten-free buns are available upon request.",
@@ -84,8 +72,7 @@
         "Souvenir Pilsner",
         "High Noon Pineapple Seltzer",
         "Athletic Brewing Co.®",
-        "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive V - Vegetarian VG - Vegan",
-        "Menu items and pricing are subject to change without notice."
+        "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive V - Vegetarian VG - Vegan"
       ]
     }
   ]

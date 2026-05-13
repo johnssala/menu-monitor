@@ -1,15 +1,15 @@
 [
   {
-    "id": "hs-fairfax-fare-breakfast",
-    "name": "Fairfax Fare (Breakfast)",
+    "id": "hs-the-trolley-car-cafe",
+    "name": "The Trolley Car Café (Starbucks)",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/breakfast/",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/trolley-car-cafe/menus/",
     "added": [
-      "Breakfast Menu",
-      "— Bantha Sipper"
+      "Tropical Butterfly Lemonade Energy Refresher - Grande",
+      "— Iced Horchata Shaken Espresso - Grande",
+      "Iced Banana Bread Matcha Tea Latte - Grande"
     ],
     "removed": [
-      "## Breakfast Menu",
       "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
       "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
       "Notice of Right to Opt Out of Sale/Sharing",
@@ -19,34 +19,26 @@
     ]
   },
   {
-    "id": "hs-fairfax-fare-lunch-and-dinner",
-    "name": "Fairfax Fare (Lunch & Dinner)",
+    "id": "hs-woodys-lunch-box-breakfast",
+    "name": "Woody's Lunch Box (Breakfast)",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/lunch-and-dinner/",
-    "added": [
-      "Breakfast Menu",
-      "— Bantha Sipper"
-    ],
-    "removed": [
-      "## Breakfast Menu",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "hs-hollywood-and-vine-breakfast",
-    "name": "Hollywood & Vine (Breakfast)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-and-vine/menus/breakfast/",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/breakfast/",
     "added": [
       "Breakfast Menu"
     ],
     "removed": [
       "## Breakfast Menu",
+      "— BBQ Brisket Melt - Egg Allergy-Friendly",
+      "— Tomato-Basil Soup - Egg Allergy-Friendly",
+      "— Potato Barrels - Egg Allergy-Friendly",
+      "— Cuties® Mandarin - Egg Allergy-Friendly",
+      "— BBQ Brisket Melt - Milk Allergy-Friendly",
+      "— Potato Barrels - Milk Allergy-Friendly",
+      "— Cuties® Mandarin - Milk Allergy-Friendly",
+      "— BBQ Brisket Melt - Soy Allergy-Friendly",
+      "— Tomato-Basil Soup - Soy Allergy-Friendly",
+      "— Potato Barrels - Soy Allergy-Friendly",
+      "— Cuties® Mandarin - Soy Allergy-Friendly",
       "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
       "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
       "Notice of Right to Opt Out of Sale/Sharing",
@@ -56,176 +48,26 @@
     ]
   },
   {
-    "id": "hs-hollywood-and-vine-lunch",
-    "name": "Hollywood & Vine (Lunch)",
+    "id": "hs-woodys-lunch-box-lunch-and-dinner",
+    "name": "Woody's Lunch Box (Lunch & Dinner)",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-and-vine/menus/lunch/",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/lunch-and-dinner/",
     "added": [
-      "Lunch Menu"
-    ],
-    "removed": [
-      "## Lunch Menu",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "hs-hollywood-and-vine-dinner",
-    "name": "Hollywood & Vine (Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-and-vine/menus/dinner/",
-    "added": [
-      "Dinner Menu"
-    ],
-    "removed": [
-      "## Dinner Menu",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "hs-hollywood-scoops",
-    "name": "Hollywood Scoops",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-scoops/menus/snack/",
-    "added": [],
-    "removed": [
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "hs-ice-cold-hydraulics",
-    "name": "Ice Cold Hydraulics",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ice-cold-hydraulics/menus/all-day/",
-    "added": [],
-    "removed": [
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "hs-kat-sakas-kettle",
-    "name": "Kat Saka's Kettle",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/kat-sakas-kettle/menus/snack/",
-    "added": [
-      "— Jabba's Sail Barge Bucket",
-      "— Salvaged Protocol Droid Bucket"
-    ],
-    "removed": [
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "hs-krnr-the-rock-station",
-    "name": "KRNR The Rock Station",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/krnr-the-rock-station/menus/all-day/",
-    "added": [],
-    "removed": [
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "hs-market",
-    "name": "Market",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/market/menus/",
-    "added": [],
-    "removed": [
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "hs-milk-stand-galaxys-edge",
-    "name": "Milk Stand – Star Wars: Galaxy's Edge",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/milk-stand/menus/snack/",
-    "added": [
-      "— Bantha Sipper",
-      "— Kerkoiden Blue Cake",
-      "— Pink Milk",
-      "— Blue Milk with Rum",
-      "— Green Milk with Tequila",
-      "— Pink Milk Cooler with Rum"
-    ],
-    "removed": [
-      "— Kessel Run Rations",
-      "— Blue Milk Cooler",
-      "— Green Milk Cooler",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "hs-neighborhood-bakery",
-    "name": "Neighborhood Bakery",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/neighborhood-bakery/menus/",
-    "added": [],
-    "removed": [
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "hs-ogas-cantina-breakfast",
-    "name": "Oga's Cantina (Breakfast)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/breakfast/",
-    "added": [
-      "Breakfast Menu",
-      "— The Roaring Loth-Cat",
-      "— Kamino Cooler",
-      "— Three Suns Over Batuu",
-      "— Batuu Bites"
+      "Breakfast Menu"
     ],
     "removed": [
       "## Breakfast Menu",
-      "— Blurrgfire",
-      "— Cliff Dweller",
-      "— Batuu Bits",
+      "— BBQ Brisket Melt - Egg Allergy-Friendly",
+      "— Tomato-Basil Soup - Egg Allergy-Friendly",
+      "— Potato Barrels - Egg Allergy-Friendly",
+      "— Cuties® Mandarin - Egg Allergy-Friendly",
+      "— BBQ Brisket Melt - Milk Allergy-Friendly",
+      "— Potato Barrels - Milk Allergy-Friendly",
+      "— Cuties® Mandarin - Milk Allergy-Friendly",
+      "— BBQ Brisket Melt - Soy Allergy-Friendly",
+      "— Tomato-Basil Soup - Soy Allergy-Friendly",
+      "— Potato Barrels - Soy Allergy-Friendly",
+      "— Cuties® Mandarin - Soy Allergy-Friendly",
       "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
       "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
       "Notice of Right to Opt Out of Sale/Sharing",
@@ -235,270 +77,254 @@
     ]
   },
   {
-    "id": "hs-ogas-cantina-lunch",
-    "name": "Oga's Cantina (Lunch)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/lunch/",
+    "id": "ioa-blondies",
+    "name": "Blondie's",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/blondies/menu.html",
     "added": [
-      "Lunch Menu",
-      "— The Roaring Loth-Cat",
-      "— Kamino Cooler",
-      "— Three Suns Over Batuu",
-      "— Batuu Bites"
-    ],
-    "removed": [
-      "## Lunch Menu",
-      "— Blurrgfire",
-      "— Cliff Dweller",
-      "— Batuu Bits",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "hs-ogas-cantina-dinner",
-    "name": "Oga's Cantina (Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/dinner/",
-    "added": [
-      "Dinner Menu",
-      "— The Roaring Loth-Cat",
-      "— Kamino Cooler",
-      "— Three Suns Over Batuu",
-      "— Batuu Bites"
-    ],
-    "removed": [
-      "## Dinner Menu",
-      "— Blurrgfire",
-      "— Cliff Dweller",
-      "— Batuu Bits",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "hs-ronto-roasters-breakfast",
-    "name": "Ronto Roasters (Breakfast)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/breakfast/",
-    "added": [
-      "Breakfast Menu",
-      "— Keshian Spiced Chips"
-    ],
-    "removed": [
-      "## Breakfast Menu",
-      "— Kyryll Pork Rinds",
-      "— Ronto Wrap - Egg Allergy-Friendly",
-      "— Kyryll Pork Rinds - Egg Allergy-Friendly",
-      "— Ronto Wrap - Milk Allergy-Friendly",
-      "— Ronto Wrap - Sesame Allergy-Friendly",
-      "— Ronto Wrap - Soy Allergy-Friendly",
-      "— Kyryll Pork Rinds - Soy Allergy-Friendly",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "hs-ronto-roasters-lunch-and-dinner",
-    "name": "Ronto Roasters (Lunch & Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/lunch-and-dinner/",
-    "added": [
-      "Breakfast Menu",
-      "— Keshian Spiced Chips"
-    ],
-    "removed": [
-      "## Breakfast Menu",
-      "— Kyryll Pork Rinds",
-      "— Ronto Wrap - Egg Allergy-Friendly",
-      "— Kyryll Pork Rinds - Egg Allergy-Friendly",
-      "— Ronto Wrap - Milk Allergy-Friendly",
-      "— Ronto Wrap - Sesame Allergy-Friendly",
-      "— Ronto Wrap - Soy Allergy-Friendly",
-      "— Kyryll Pork Rinds - Soy Allergy-Friendly",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "hs-rosies-all-american-cafe",
-    "name": "Rosie's All-American Café",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/rosies-all-american-cafe/menus/lunch-and-dinner/",
-    "added": [
-      "Lunch And Dinner Menu",
-      "— Chosen One Cooler",
-      "— Sith Lord Libation",
-      "— Chosen One Cooler with Vodka",
-      "— Sith Lord Libation with Vodka"
+      "Lunch And Dinner Menu"
     ],
     "removed": [
       "## Lunch And Dinner Menu",
-      "— Chicken Strips - Egg Allergy-Friendly",
-      "— Chicken Strips - Milk Allergy-friendly",
-      "— Chicken Strips - Sesame Allergy-Friendly",
-      "— Chicken Strips - Soy Allergy-friendly",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
+      "Menu items and pricing are subject to change without notice."
     ]
   },
   {
-    "id": "hs-roundup-rodeo-bbq-lunch",
-    "name": "Roundup Rodeo BBQ (Lunch)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/roundup-rodeo-bbq/menus/lunch/",
+    "id": "ioa-cafe-4",
+    "name": "Cafe 4",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/cafe-4/menu.html",
     "added": [
-      "Lunch Menu",
-      "— Wheezy's Fruit Salad",
-      "— Molly's Frozen Berry Splash",
-      "— Prickly Spur Long Island",
-      "— Coal'd Fashioned",
-      "— Strawberry Saloon Collins"
+      "Lunch And Dinner Menu"
     ],
     "removed": [
-      "## Lunch Menu",
-      "— Frozen Cowpoke Cocoa",
-      "— The Rodeo Mule",
-      "— Rum on the Range",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
+      "## Lunch And Dinner Menu",
+      "Menu items and pricing are subject to change without notice."
     ]
   },
   {
-    "id": "hs-roundup-rodeo-bbq-dinner",
-    "name": "Roundup Rodeo BBQ (Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/roundup-rodeo-bbq/menus/dinner/",
+    "id": "ioa-captain-america-diner",
+    "name": "Captain America Diner",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/captain-america-diner/menu.html",
     "added": [
-      "Dinner Menu",
-      "— Wheezy's Fruit Salad",
-      "— Molly's Frozen Berry Splash",
-      "— Prickly Spur Long Island",
-      "— Coal'd Fashioned",
-      "— Strawberry Saloon Collins"
+      "Lunch And Dinner Menu"
     ],
     "removed": [
-      "## Dinner Menu",
-      "— Frozen Cowpoke Cocoa",
-      "— The Rodeo Mule",
-      "— Rum on the Range",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
+      "## Lunch And Dinner Menu",
+      "Menu items and pricing are subject to change without notice."
     ]
   },
   {
-    "id": "hs-sci-fi-dine-in-theater-restaurant-lunch",
-    "name": "Sci-Fi Dine-In Theater Restaurant (Lunch)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/sci-fi-dine-in-theater/menus/lunch/",
+    "id": "ioa-chill-ice-cream",
+    "name": "Chill Ice Cream",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/chill-ice-cream/menu.html",
     "added": [
-      "Lunch Menu"
+      "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive V - Vegetarian VG - Vegan"
     ],
     "removed": [
-      "## Lunch Menu",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
+      "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive",
+      "Menu items and pricing are subject to change without notice."
     ]
   },
   {
-    "id": "hs-sci-fi-dine-in-theater-restaurant-dinner",
-    "name": "Sci-Fi Dine-In Theater Restaurant (Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/sci-fi-dine-in-theater/menus/dinner/",
+    "id": "ioa-circus-mcgurkus-cafe-stoo-pendous",
+    "name": "Circus McGurkus Cafe Stoo-pendous",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/circus-mcgurkus-cafe-stoo-pendous/menu.html",
     "added": [
-      "Dinner Menu"
+      "Lunch And Dinner Menu"
     ],
     "removed": [
-      "## Dinner Menu",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
+      "## Lunch And Dinner Menu",
+      "*Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
+      "Menu items and pricing are subject to change without notice."
     ]
   },
   {
-    "id": "hs-the-hollywood-brown-derby-lunch",
-    "name": "The Hollywood Brown Derby (Lunch)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/lunch/",
+    "id": "ioa-comic-strip-cafe",
+    "name": "Comic Strip Cafe",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/comic-strip-cafe/menu.html",
     "added": [
-      "Lunch Menu"
+      "Comic Strip Cafe",
+      "Lunch And Dinner Menu"
     ],
     "removed": [
-      "## Lunch Menu",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
+      "Comic Strip Cafe™",
+      "## Lunch And Dinner Menu",
+      "Menu items and pricing are subject to change without notice."
     ]
   },
   {
-    "id": "hs-the-hollywood-brown-derby-dinner",
-    "name": "The Hollywood Brown Derby (Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/dinner/",
-    "added": [
-      "Dinner Menu"
-    ],
-    "removed": [
-      "## Dinner Menu",
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
-    ]
-  },
-  {
-    "id": "hs-the-hollywood-brown-derby-lounge",
-    "name": "The Hollywood Brown Derby Lounge",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby-lounge/menus/bar-%E2%80%93-lounge/",
+    "id": "ioa-confisco-grille-everyday",
+    "name": "Confisco Grille (Everyday)",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/confisco-grille/menu.html",
     "added": [],
     "removed": [
-      "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-      "Our plant-based menu items are made without animal meat, dairy, eggs and honey.",
-      "Notice of Right to Opt Out of Sale/Sharing",
-      "— Manage Consent Preferences",
-      "— Selling, Sharing, Targeted Advertising",
-      "checkbox label label"
+      "* Consuming raw or undercooked meals may increase your risk of foodborne illness",
+      "Menu items and pricing are subject to change without notice."
+    ]
+  },
+  {
+    "id": "ioa-confisco-grille-kids",
+    "name": "Confisco Grille (Kids)",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/confisco-grille/kids_menu.html",
+    "added": [],
+    "removed": [
+      "Menu items and pricing are subject to change without notice."
+    ]
+  },
+  {
+    "id": "ioa-confisco-grille-dessert",
+    "name": "Confisco Grille (Dessert)",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/confisco-grille/dessert_menu.html",
+    "added": [],
+    "removed": [
+      "Menu items and pricing are subject to change without notice."
+    ]
+  },
+  {
+    "id": "ioa-confisco-grille-navigators-club",
+    "name": "Confisco Grille Navigator's Club",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/confisco-grille/navigators-club-menu.html",
+    "added": [],
+    "removed": [
+      "* Consuming raw or undercooked meals may increase your risk of foodborne illness",
+      "Menu items and pricing are subject to change without notice."
+    ]
+  },
+  {
+    "id": "ioa-croissant-moon-bakery",
+    "name": "Croissant Moon Bakery",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/croissant-moon-bakery/menu.html",
+    "added": [],
+    "removed": [
+      "Mardi Gras Exclusive Desserts",
+      "choose from a selection of Mardi Gras themed desserts"
+    ]
+  },
+  {
+    "id": "ioa-doc-sugrues-desert-kebab-house",
+    "name": "Doc Sugrue's Desert Kebab House",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/doc-sugrues-desert-kebab-house/menu.html",
+    "added": [],
+    "removed": [
+      "Menu items and pricing are subject to change without notice."
+    ]
+  },
+  {
+    "id": "ioa-fire-eaters-grill",
+    "name": "Fire Eater's Grill",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/fire-eaters-grill/menu.html",
+    "added": [
+      "Lunch And Dinner Menu"
+    ],
+    "removed": [
+      "## Lunch And Dinner Menu",
+      "Menu items and pricing are subject to change without notice."
+    ]
+  },
+  {
+    "id": "ioa-green-eggs-and-ham-cafe",
+    "name": "Green Eggs and Ham Cafe",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/green-eggs-and-ham-cafe/menu.html",
+    "added": [
+      "Lunch And Dinner Menu"
+    ],
+    "removed": [
+      "## Lunch And Dinner Menu",
+      "Menu items and pricing are subject to change without notice."
+    ]
+  },
+  {
+    "id": "ioa-hop-on-pop-ice-cream-shop",
+    "name": "Hop on Pop Ice Cream Shop",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/hop-on-pop-ice-cream-shop/menu.html",
+    "added": [],
+    "removed": [
+      "Menu items and pricing are subject to change without notice."
+    ]
+  },
+  {
+    "id": "ioa-moose-juice-goose-juice",
+    "name": "Moose Juice, Goose Juice",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/moose-juice-goose-juice/menu.html",
+    "added": [],
+    "removed": [
+      "Menu items and pricing are subject to change without notice."
+    ]
+  },
+  {
+    "id": "ioa-mythos-restaurant-everyday",
+    "name": "Mythos Restaurant (Everyday)",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/mythos-restaurant/menu.html",
+    "added": [],
+    "removed": [
+      "* Consuming raw or undercooked meals may increase your risk of foodborne illness",
+      "Menu items and pricing are subject to change without notice."
+    ]
+  },
+  {
+    "id": "ioa-mythos-restaurant-dessert",
+    "name": "Mythos Restaurant (Dessert)",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/mythos-restaurant/dessert-menu.html",
+    "added": [],
+    "removed": [
+      "Menu items and pricing are subject to change without notice."
+    ]
+  },
+  {
+    "id": "ioa-mythos-restaurant-kids",
+    "name": "Mythos Restaurant (Kids)",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/mythos-restaurant/kids-menu.html",
+    "added": [
+      "Pizza",
+      "cheese or pepperoni"
+    ],
+    "removed": [
+      "Cheese Pizza",
+      "add pepperoni +2"
+    ]
+  },
+  {
+    "id": "ioa-pizza-predattoria",
+    "name": "Pizza Predattoria",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/pizza-predattoria/menu.html",
+    "added": [
+      "Lunch And Dinner Menu"
+    ],
+    "removed": [
+      "## Lunch And Dinner Menu",
+      "Menu items and pricing are subject to change without notice."
+    ]
+  },
+  {
+    "id": "ioa-the-burger-digs",
+    "name": "The Burger Digs",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-burger-digs/menu.html",
+    "added": [
+      "Lunch And Dinner Menu"
+    ],
+    "removed": [
+      "## Lunch And Dinner Menu",
+      "Menu items and pricing are subject to change without notice."
     ]
   }
 ]

@@ -3,20 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Captain America Diner®"
-      ]
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": [
+        "Captain America Diner®",
+        "Lunch And Dinner Menu",
         "Allergen Note",
         "All American Entrees",
         "Gluten-free buns are available upon request.",
@@ -76,8 +64,7 @@
         "Beer",
         "Canned Beer",
         "High Noon Pineapple Seltzer",
-        "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive V - Vegetarian VG - Vegan",
-        "Menu items and pricing are subject to change without notice."
+        "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive V - Vegetarian VG - Vegan"
       ]
     }
   ]

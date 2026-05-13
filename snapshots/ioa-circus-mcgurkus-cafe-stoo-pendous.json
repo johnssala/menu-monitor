@@ -3,20 +3,8 @@
     {
       "title": "menu",
       "items": [
-        "Circus McGurkus Cafe Stoo-pendous™"
-      ]
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch And Dinner Menu",
-      "items": [
+        "Circus McGurkus Cafe Stoo-pendous™",
+        "Lunch And Dinner Menu",
         "Allergen Note",
         "Delicious Delicacies",
         "Gluten-free buns are available upon request.",
@@ -73,9 +61,7 @@
         "All bakery items are made in a facility where cross-contamination with gluten, soy, peanuts, and tree nuts is possible.",
         "Green Eggs and Ham Chocolate Cheesecake",
         "Caramel Popcorn Cupcake",
-        "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive V - Vegetarian VG - Vegan",
-        "*Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness.",
-        "Menu items and pricing are subject to change without notice."
+        "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive V - Vegetarian VG - Vegan"
       ]
     }
   ]
