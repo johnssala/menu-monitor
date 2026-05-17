@@ -2,19 +2,8 @@
   "sections": [
     {
       "title": "menu",
-      "items": []
-    },
-    {
-      "title": "Menu for Luigi's Pizza",
-      "items": []
-    },
-    {
-      "title": "Menu for Luigi's Pizza",
-      "items": []
-    },
-    {
-      "title": "Menu for Luigi's Pizza",
       "items": [
+        "Menu for Luigi's Pizza",
         "Draft Beer in Duff Pilsner",
         "Duff Happy Sour in Duff Pilsner",
         "Duff Beer in Duff Pilsner",
@@ -72,7 +61,6 @@
         "Sides",
         "Cheesy Garlic Bread",
         "Side Caesar Salad",
-        "— Allergy-Friendly Menu",
         "Fat Tony's Witness-Protected Pasta (request marinara sauce, plain or with chicken, no cheese and no cheesy garlic bread)",
         "Penne pasta with chicken or meatballs, alfredo or marinara sauce, and cheesy garlic bread",
         "Side of Chicken",

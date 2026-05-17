@@ -2,19 +2,8 @@
   "sections": [
     {
       "title": "menu",
-      "items": []
-    },
-    {
-      "title": "Menu for Krusty Burger",
-      "items": []
-    },
-    {
-      "title": "Menu for Krusty Burger",
-      "items": []
-    },
-    {
-      "title": "Menu for Krusty Burger",
       "items": [
+        "Menu for Krusty Burger",
         "Draft Beer and Cider in Pilsner",
         "Duff Happy Sour in Duff Pilsner",
         "Duff Beer in Duff Pilsner",
@@ -70,7 +59,6 @@
         "Freshly-tossed Caesar salad with chopped chicken and Parmesan cheese",
         "Sides",
         "Fries",
-        "— Allergy-Friendly Menu",
         "Beyond Burger with lettuce, tomato, pickles, and veganaise on a Vegan whole wheat bun",
         "Sideshow Bob Footlong (request no cheese)",
         "Nathan’s famous footlong all-beef hot dog, with chili and onions",

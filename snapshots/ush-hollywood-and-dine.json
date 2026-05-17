@@ -2,19 +2,8 @@
   "sections": [
     {
       "title": "menu",
-      "items": []
-    },
-    {
-      "title": "Menu for Hollywood and Dine",
-      "items": []
-    },
-    {
-      "title": "Menu for Hollywood and Dine",
-      "items": []
-    },
-    {
-      "title": "Menu for Hollywood and Dine",
       "items": [
+        "Menu for Hollywood and Dine",
         "Specialty Drinks (Non-Alcoholic)",
         "Luffy's Monkey Punch",
         "Guava, honey, strawberry, watermelon, lemonade, and grenadine topped with strawberry boba",
@@ -22,7 +11,6 @@
         "Tangerine and lime juice, honey and club soda garnished with a tangerine slice and mint sprig",
         "Nico Robin's Tropical Iced Tea",
         "Souvenir Items",
-        "One Piece Floating Bottle",
         "Luffy Barrel Mug",
         "Chopper Barrel Mug",
         "Beer",
@@ -75,7 +63,6 @@
         "Mountain Blast",
         "Fresh Brewed Coffee",
         "Hot Chocolate",
-        "— Hollywood & Dine Allergy Friendly Menu",
         "Luffy’s Meat on the Bone",
         "Franky’s Loco Moco Burger*",
         "Sanji’s Seafood Fried Rice",

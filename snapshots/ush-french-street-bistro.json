@@ -2,19 +2,8 @@
   "sections": [
     {
       "title": "menu",
-      "items": []
-    },
-    {
-      "title": "Menu for French St. Bistro",
-      "items": []
-    },
-    {
-      "title": "Menu for French St. Bistro",
-      "items": []
-    },
-    {
-      "title": "Menu for French St. Bistro",
       "items": [
+        "Menu for French St. Bistro",
         "Deli Sandwiches & Wrap",
         "Turkey & Swiss",
         "Roasted turkey, Swiss cheese with onion sprouts",
@@ -100,7 +89,6 @@
         "Champagne",
         "Wine",
         "White or Red",
-        "— Allergy-Friendly Menu",
         "Vegan Lemon Poppyseed Scone",
         "Frappés",
         "Caramel, Coffee, Mocha, Strawberry Cream, Vanilla",

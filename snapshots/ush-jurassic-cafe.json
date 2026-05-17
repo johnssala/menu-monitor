@@ -2,19 +2,8 @@
   "sections": [
     {
       "title": "menu",
-      "items": []
-    },
-    {
-      "title": "Menu for Jurassic Cafe",
-      "items": []
-    },
-    {
-      "title": "Menu for Jurassic Cafe",
-      "items": []
-    },
-    {
-      "title": "Menu for Jurassic Cafe",
       "items": [
+        "Menu for Jurassic Cafe",
         "Universal Fanfest Nights Exclusive Items",
         "Carnivore Meatball Sub",
         "Meatball and pepperoni sub sandwich with mozzarella cheese, marinara sauce on a garlic butter roll.",
@@ -69,17 +58,9 @@
         "Main Courses",
         "The Carnivore",
         "Smoked brisket sandwich, BBQ sauce, mustard aioli, and pickles served on a brioche bun with fries.",
-        "Chili Bread Bowl",
-        "Classic chili served in a sourdough bread bowl.",
-        "Clam Chowder Bread Bowl",
-        "Classic clam chowder served in a sourdough bread bowl.",
         "Apex Predator",
         "Smoked turkey leg served with fries.",
         "Tyranno-Bite",
-        "Evolutionary Wing",
-        "Smoked chicken wing served with fries and creamy slaw.",
-        "Treacherous Water",
-        "Fried fish sandwich with creamy slaw",
         "Pterodactyl Claws",
         "Served with creamy slaw and fries",
         "Leaf Finds a Way",
@@ -88,7 +69,6 @@
         "Yogurt Parfait",
         "Vanilla yogurt, granola, blueberries and strawberries",
         "Side of Fries",
-        "— Jurassic Café Allergy-Friendly Menu",
         "Smoked brisket sandwich, BBQ sauce, mustard aioli, and pickles served on a brioche bun with fries",
         "Tyranno-Bite (request no cheese)",
         "Cheeseburger, lettuce, tomato, and 1000 Island dressing served on a brioche bun with fries",

@@ -2,19 +2,8 @@
   "sections": [
     {
       "title": "menu",
-      "items": []
-    },
-    {
-      "title": "Menu for Cocina Mexicana",
-      "items": []
-    },
-    {
-      "title": "Menu for Cocina Mexicana",
-      "items": []
-    },
-    {
-      "title": "Menu for Cocina Mexicana",
       "items": [
+        "Menu for Cocina Mexicana",
         "Pretty Guardian Sailor Moon at Cocina Mexicana",
         "Sailor Moon Featured Meal",
         "Sailor Moon Bento - Spicy tuna onigiri, potato salad, pickled cucumbers and octopus shaped sausage.",
@@ -69,7 +58,6 @@
         "Side of Tortilla Chips",
         "Side Rice and Beans",
         "Extra side of rice and beans",
-        "— Cocina Mexicana Allergy-Friendly Menu",
         "Taco Salad (request no carne asada, no queso fresco, no dressing)",
         "Choice of chicken or carnitas; make it carne asada or Beyond Meat® al pastor",
         "Nachos (request no carne asada, no white queso sauce, no queso fresco)",

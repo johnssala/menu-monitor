@@ -2,19 +2,8 @@
   "sections": [
     {
       "title": "menu",
-      "items": []
-    },
-    {
-      "title": "Menu for City Snack Shop",
-      "items": []
-    },
-    {
-      "title": "Menu for City Snack Shop",
-      "items": []
-    },
-    {
-      "title": "Menu for City Snack Shop",
       "items": [
+        "Menu for City Snack Shop",
         "Snacks",
         "FRITOS® Scoops® The Walking Taco",
         "Frito Scoops topped with beef chili and cheddar cheese",
@@ -39,7 +28,6 @@
         "Hot Cocoa",
         "Classic hot chocolate",
         "Fresh Brewed Coffee",
-        "— Allergy-Friendly Menu",
         "The Walking Taco (request no cheese)",
         "Fritos Scoops topped with beef chili and cheddar cheese",
         "Giant Bavarian Pretzel (request plain)",

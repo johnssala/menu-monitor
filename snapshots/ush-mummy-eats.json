@@ -2,19 +2,8 @@
   "sections": [
     {
       "title": "menu",
-      "items": []
-    },
-    {
-      "title": "Menu for Mummy Eats",
-      "items": []
-    },
-    {
-      "title": "Menu for Mummy Eats",
-      "items": []
-    },
-    {
-      "title": "Menu for Mummy Eats",
       "items": [
+        "Menu for Mummy Eats",
         "Beer & Cocktails",
         "24oz Canned Modelo Chelada",
         "16oz Canned Michelob Ultra",
@@ -50,7 +39,6 @@
         "Churro",
         "Sides",
         "Bag of Chips",
-        "— Allergy-Friendly Menu",
         "Nathan’s® Classic Corn Dog",
         "Served with a bag of chips",
         "Nathan’s ® Korean-Style Corn Dog",

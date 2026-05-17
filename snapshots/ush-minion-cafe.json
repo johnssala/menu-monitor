@@ -2,19 +2,10 @@
   "sections": [
     {
       "title": "menu",
-      "items": []
-    },
-    {
-      "title": "Menu for Minion Cafe",
-      "items": []
-    },
-    {
-      "title": "Menu for Minion Cafe",
-      "items": []
-    },
-    {
-      "title": "Menu for Minion Cafe",
       "items": [
+        "Menu for Minion Cafe",
+        "Celebrate EVE",
+        "Sparkling Wine",
         "Beer",
         "25oz Mango Cart",
         "16oz Canned Corona",
@@ -71,7 +62,6 @@
         "Lettuce, kale, blueberries, pineapples, cashews, sunflower seeds, and banana chips",
         "Sides",
         "Side of Minion Tots",
-        "— Allergy-Friendly Menu",
         "Half roasted Chicken with side of BBQ sauce and Minions tots",
         "Classic cinnamon Sugar",
         "Nacho Chips with white queso, chunky avocado, chicken tinga, onion and cilantro, lime crema, and pico de gallo",

@@ -2,19 +2,8 @@
   "sections": [
     {
       "title": "menu",
-      "items": []
-    },
-    {
-      "title": "Menu for Cletus' Chicken Shack",
-      "items": []
-    },
-    {
-      "title": "Menu for Cletus' Chicken Shack",
-      "items": []
-    },
-    {
-      "title": "Menu for Cletus' Chicken Shack",
       "items": [
+        "Menu for Cletus' Chicken Shack",
         "Main Courses",
         "Cletus' Peep-Fried Chicken Platter",
         "Three pieces of fried chicken, corn on the cob, biscuit, mashed potatoes, and gravy.",
@@ -69,7 +58,6 @@
         "16oz Ballast Point Sculpin IPA",
         "16oz Blue Moon",
         "16oz Corona",
-        "— Allergy-Friendly Menu",
         "Chicken Thumbs Platter (request no corn)",
         "Fried Chicken Tenders, Corn on the Cob & Choice of BBQ or Honey Mustard Served with Fries.",
         "Thrilled to be Grilled Chicken Sandwich",

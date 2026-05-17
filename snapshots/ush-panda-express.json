@@ -2,19 +2,8 @@
   "sections": [
     {
       "title": "menu",
-      "items": []
-    },
-    {
-      "title": "Menu for Panda Express at Universal Studios Hollywood",
-      "items": []
-    },
-    {
-      "title": "Menu for Panda Express at Universal Studios Hollywood",
-      "items": []
-    },
-    {
-      "title": "Menu for Panda Express at Universal Studios Hollywood",
       "items": [
+        "Menu for Panda Express at Universal Studios Hollywood",
         "— Draft Beer",
         "20oz Draft Beer",
         "20oz Draft Blue Moon",
@@ -66,7 +55,6 @@
         "Mixed Fruit Cup",
         "Mixed Seasonal Fruit Cup",
         "Desserts",
-        "— Allergy-Friendly Menu",
         "(VG) - Vegetarian",
         "(V) - Vegan"
       ]

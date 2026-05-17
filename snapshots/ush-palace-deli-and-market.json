@@ -2,19 +2,8 @@
   "sections": [
     {
       "title": "menu",
-      "items": []
-    },
-    {
-      "title": "Menu for Palace Café",
-      "items": []
-    },
-    {
-      "title": "Menu for Palace Café",
-      "items": []
-    },
-    {
-      "title": "Menu for Palace Café",
       "items": [
+        "Menu for Palace Café",
         "Featured Offerings",
         "California Roll",
         "California roll served with ginger and wasabi",
@@ -79,7 +68,6 @@
         "Champagne",
         "Wine",
         "White Wine, Red Wine",
-        "— Allergy-Friendly Menu",
         "(VG) - Vegetarian",
         "(V) - Vegan"
       ]

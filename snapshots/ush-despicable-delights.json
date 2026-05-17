@@ -2,19 +2,8 @@
   "sections": [
     {
       "title": "menu",
-      "items": []
-    },
-    {
-      "title": "Menu for Despicable Delights",
-      "items": []
-    },
-    {
-      "title": "Menu for Despicable Delights",
-      "items": []
-    },
-    {
-      "title": "Menu for Despicable Delights",
       "items": [
+        "Menu for Despicable Delights",
         "Treats",
         "Nutella™ Banana Pudding",
         "Banana pudding, vanilla wafer, Nutella, cocoa butter",
@@ -32,6 +21,9 @@
         "Fountain Drinks",
         "Bottled Water",
         "Premium Water",
+        "Popcorn",
+        "Softserve Ice cream (request in a cup)",
+        "Softserve Ice Cream",
         "(VG) - Vegetarian",
         "(V) - Vegan"
       ]

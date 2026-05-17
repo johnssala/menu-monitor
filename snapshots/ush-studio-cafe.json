@@ -2,19 +2,8 @@
   "sections": [
     {
       "title": "menu",
-      "items": []
-    },
-    {
-      "title": "Menu for Studio Cafe",
-      "items": []
-    },
-    {
-      "title": "Menu for Studio Cafe",
-      "items": []
-    },
-    {
-      "title": "Menu for Studio Cafe",
       "items": [
+        "Menu for Studio Cafe",
         "Sandwiches",
         "Turkey & Swiss",
         "Roasted turkey, Swiss cheese with onion sprouts",
@@ -78,7 +67,6 @@
         "Champagne",
         "Wine",
         "White Wine, Red Wine",
-        "— Allergy-Friendly Menu",
         "(VG) - Vegetarian",
         "(V) - Vegan"
       ]

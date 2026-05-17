@@ -2,19 +2,8 @@
   "sections": [
     {
       "title": "menu",
-      "items": []
-    },
-    {
-      "title": "Menu for Mel's Diner",
-      "items": []
-    },
-    {
-      "title": "Menu for Mel's Diner",
-      "items": []
-    },
-    {
-      "title": "Menu for Mel's Diner",
       "items": [
+        "Menu for Mel's Diner",
         "20oz Draft Beer",
         "20oz Blue Moon",
         "20oz Ballast Point Sculpin IPA",
@@ -66,7 +55,6 @@
         "Kids Mel Burger",
         "Served with fries and mini graham crackers",
         "Chicken Tenders",
-        "— Mel's Allergy-Friendly Menu",
         "Mel’s Classic Burger (request no cheese, substitute fruit for fries)",
         "Served with fries",
         "Beyond BBQ Cheese burger (substitute fruit for fries)",
