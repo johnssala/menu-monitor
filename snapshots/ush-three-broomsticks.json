@@ -2,19 +2,8 @@
   "sections": [
     {
       "title": "menu",
-      "items": []
-    },
-    {
-      "title": "Menu for Three Broomsticks™",
-      "items": []
-    },
-    {
-      "title": "Menu for Three Broomsticks™",
-      "items": []
-    },
-    {
-      "title": "Menu for Three Broomsticks™",
       "items": [
+        "Menu for Three Broomsticks™",
         "Butterbeer Season",
         "Available 3/1 - 5/31/2026",
         "Butterbeer Waffle",
@@ -71,6 +60,8 @@
         "Cold Butterbeer™ (Non-Alcoholic)",
         "Frozen Butterbeer™ (Non-Alcoholic)",
         "Non-Dairy Butterbeer™ (Non-Alcoholic)",
+        "Celebrate EVE",
+        "Sparkling Wine",
         "Otter's Fizzy Orange Juice (Non-Alcoholic)",
         "Effervescent fresh orange beverage with notes of vanilla and cinnamon",
         "Fishy Green Ale (Non-Alcoholic)",
@@ -118,7 +109,6 @@
         "Kid’s Meal",
         "Chicken Tenders",
         "Macaroni Cheese",
-        "— Three Broomsticks™ Allergy-Friendly Menu",
         "Spare Ribs Platter (request no butter on the corn)",
         "Served with corn on the cob, roast potatoes, and BBQ sauce on the side",
         "Herb Roasted Chicken Platter (request no butter on the corn)",

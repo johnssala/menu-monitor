@@ -4,20 +4,8 @@
       "title": "menu",
       "items": [
         "Kohola Reef Restaurant & Social Club™",
-        "Allergen Note"
-      ]
-    },
-    {
-      "title": "Lunch Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch Menu",
-      "items": []
-    },
-    {
-      "title": "Lunch Menu",
-      "items": [
+        "Allergen Note",
+        "Lunch Menu",
         "Chicken & Seafood",
         "combos served with an ICEE®",
         "Lava Chicken Sandwich Combo",
@@ -124,8 +112,7 @@
         "Passion Fruit Mousse",
         "with white chocolate pearls and a coconut macaron",
         "Chocolate Lava Cake",
-        "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive",
-        "Menu items and pricing are subject to change without notice."
+        "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive"
       ]
     }
   ]

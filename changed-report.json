@@ -1,326 +1,83 @@
 [
   {
-    "id": "usf-schwabs-pharmacy",
-    "name": "Schwab's Pharmacy",
-    "park": "Universal Studios Florida",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/schwabs-pharmacy/menu.html",
+    "id": "ush-suds-mcduffs-hot-dog-stand",
+    "name": "Suds McDuff's Hot Dog Stand",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/suds-mcduffs-hot-dogs/menu.html",
     "added": [],
     "removed": [
-      "Menu items and pricing are subject to change without notice."
-    ]
-  },
-  {
-    "id": "usf-the-hopping-pot",
-    "name": "The Hopping Pot",
-    "park": "Universal Studios Florida",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-hopping-pot/menu.html",
-    "added": [],
-    "removed": [
-      "Coffee",
-      "Hot Tea",
-      "Menu items and pricing are subject to change without notice."
-    ]
-  },
-  {
-    "id": "usf-today-cafe",
-    "name": "TODAY Cafe",
-    "park": "Universal Studios Florida",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/today-cafe/menu.html",
-    "added": [],
-    "removed": [
-      "Menu items and pricing are subject to change without notice."
-    ]
-  },
-  {
-    "id": "usf-trolls-treats",
-    "name": "Trolls Treats",
-    "park": "Universal Studios Florida",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/trolls-treats/menu.html",
-    "added": [
-      "Soft Serve",
-      "— Soft Serve",
-      "vanilla, chocolate, or swirl",
-      "Cup- 5.49",
-      "Cone- 5.99",
-      "Churro Sundae 9.99",
-      "— Churro Sundae"
-    ],
-    "removed": [
-      "Bottle Beverages 5.29",
-      "— Bottle Beverages",
-      "Menu items subject to change. Must be 21+ with a valid photo ID to purchase and consume alcoholic beverages."
-    ]
-  },
-  {
-    "id": "ush-city-snack-shop",
-    "name": "City Snack Shop",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/city-snack-shop/menu.html",
-    "added": [
-      "Menu for City Snack Shop"
-    ],
-    "removed": [
-      "## Menu for City Snack Shop",
       "— Allergy-Friendly Menu"
     ]
   },
   {
-    "id": "ush-cletus-chicken-shack",
-    "name": "Cletus' Chicken Shack",
+    "id": "ush-three-broomsticks",
+    "name": "Three Broomsticks",
     "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/cletus-chicken-shack/menu.html",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/three-broomsticks/menu.html",
     "added": [
-      "Menu for Cletus' Chicken Shack"
-    ],
-    "removed": [
-      "## Menu for Cletus' Chicken Shack",
-      "— Allergy-Friendly Menu"
-    ]
-  },
-  {
-    "id": "ush-cocina-mexicana",
-    "name": "Cocina Mexicana",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/cocina-mexicana/menu.html",
-    "added": [
-      "Menu for Cocina Mexicana"
-    ],
-    "removed": [
-      "## Menu for Cocina Mexicana",
-      "— Cocina Mexicana Allergy-Friendly Menu"
-    ]
-  },
-  {
-    "id": "ush-despicable-delights",
-    "name": "Despicable Delights",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/despicable-delights/menu.html",
-    "added": [
-      "Menu for Despicable Delights",
-      "Popcorn",
-      "Softserve Ice cream (request in a cup)",
-      "Softserve Ice Cream"
-    ],
-    "removed": [
-      "## Menu for Despicable Delights"
-    ]
-  },
-  {
-    "id": "ush-french-street-bistro",
-    "name": "French Street Bistro",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/french-street-bistro/menu.html",
-    "added": [
-      "Menu for French St. Bistro"
-    ],
-    "removed": [
-      "## Menu for French St. Bistro",
-      "— Allergy-Friendly Menu"
-    ]
-  },
-  {
-    "id": "ush-hogs-head",
-    "name": "Hog's Head",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/hogs-head/menu.html",
-    "added": [
-      "Menu for Hog's Head™"
-    ],
-    "removed": [
-      "## Menu for Hog's Head™"
-    ]
-  },
-  {
-    "id": "ush-hollywood-and-dine",
-    "name": "Hollywood and Dine",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/hollywood-dine/menu.html",
-    "added": [
-      "Menu for Hollywood and Dine"
-    ],
-    "removed": [
-      "## Menu for Hollywood and Dine",
-      "One Piece Floating Bottle",
-      "— Hollywood & Dine Allergy Friendly Menu"
-    ]
-  },
-  {
-    "id": "ush-jurassic-cafe",
-    "name": "Jurassic Cafe",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/jurassic-cafe/menu.html",
-    "added": [
-      "Menu for Jurassic Cafe"
-    ],
-    "removed": [
-      "## Menu for Jurassic Cafe",
-      "Chili Bread Bowl",
-      "Classic chili served in a sourdough bread bowl.",
-      "Clam Chowder Bread Bowl",
-      "Classic clam chowder served in a sourdough bread bowl.",
-      "Evolutionary Wing",
-      "Smoked chicken wing served with fries and creamy slaw.",
-      "Treacherous Water",
-      "Fried fish sandwich with creamy slaw",
-      "— Jurassic Café Allergy-Friendly Menu"
-    ]
-  },
-  {
-    "id": "ush-krusty-burger",
-    "name": "Krusty Burger",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/krusty-burger/menu.html",
-    "added": [
-      "Menu for Krusty Burger"
-    ],
-    "removed": [
-      "## Menu for Krusty Burger",
-      "— Allergy-Friendly Menu"
-    ]
-  },
-  {
-    "id": "ush-lard-lad-donuts",
-    "name": "Lard Lad Donuts",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/lard-lad-donuts/menu.html",
-    "added": [
-      "Menu for Lard Lad Donuts"
-    ],
-    "removed": [
-      "## Menu for Lard Lad Donuts"
-    ]
-  },
-  {
-    "id": "ush-luigis-pizza",
-    "name": "Luigi's Pizza",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/luigis-pizza/menu.html",
-    "added": [
-      "Menu for Luigi's Pizza"
-    ],
-    "removed": [
-      "## Menu for Luigi's Pizza",
-      "— Allergy-Friendly Menu"
-    ]
-  },
-  {
-    "id": "ush-mels-diner",
-    "name": "Mel's Diner",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/mels-diner/menu.html",
-    "added": [
-      "Menu for Mel's Diner"
-    ],
-    "removed": [
-      "## Menu for Mel's Diner",
-      "— Mel's Allergy-Friendly Menu"
-    ]
-  },
-  {
-    "id": "ush-minion-cafe",
-    "name": "Minion Cafe",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/minion-cafe/menu.html",
-    "added": [
-      "Menu for Minion Cafe",
+      "Menu for Three Broomsticks™",
       "Celebrate EVE",
       "Sparkling Wine"
     ],
     "removed": [
-      "## Menu for Minion Cafe",
+      "## Menu for Three Broomsticks™",
+      "— Three Broomsticks™ Allergy-Friendly Menu"
+    ]
+  },
+  {
+    "id": "ush-universal-tower-snack-bar",
+    "name": "Universal Tower Snack Bar",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/universal-tower-snack-bar/menu.html",
+    "added": [
+      "Menu for Universal Tower Snack Bar"
+    ],
+    "removed": [
+      "## Menu for Universal Tower Snack Bar",
       "— Allergy-Friendly Menu"
     ]
   },
   {
-    "id": "ush-mummy-eats",
-    "name": "Mummy Eats",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/mummy-eats/menu.html",
-    "added": [
-      "Menu for Mummy Eats"
-    ],
+    "id": "vb-bambu",
+    "name": "Bambu",
+    "park": "Volcano Bay",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/bambu/menu.html",
+    "added": [],
     "removed": [
-      "## Menu for Mummy Eats",
-      "— Allergy-Friendly Menu"
+      "Menu items and pricing are subject to change without notice."
     ]
   },
   {
-    "id": "ush-palace-deli-and-market",
-    "name": "Palace Deli & Market",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/palace-deli-market/menu.html",
+    "id": "vb-kohola-reef-restaurant-and-social-club",
+    "name": "Kohola Reef Restaurant & Social Club",
+    "park": "Volcano Bay",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/kohola-reef-restaurant-social/menu.html",
     "added": [
-      "Menu for Palace Café"
+      "Lunch Menu"
     ],
     "removed": [
-      "## Menu for Palace Café",
-      "— Allergy-Friendly Menu"
+      "## Lunch Menu",
+      "Menu items and pricing are subject to change without notice."
     ]
   },
   {
-    "id": "ush-panda-express",
-    "name": "Panda Express",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/panda-express/menu.html",
-    "added": [
-      "Menu for Panda Express at Universal Studios Hollywood"
-    ],
+    "id": "vb-the-feasting-frog",
+    "name": "The Feasting Frog",
+    "park": "Volcano Bay",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-feasting-frog/menu.html",
+    "added": [],
     "removed": [
-      "## Menu for Panda Express at Universal Studios Hollywood",
-      "— Allergy-Friendly Menu"
+      "Menu items and pricing are subject to change without notice."
     ]
   },
   {
-    "id": "ush-phineas-q-butterfats-ice-cream",
-    "name": "Phineas Q. Butterfat's Ice Cream",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/phineas-q-butterfats-ice-cream/menu.html",
-    "added": [
-      "Menu for Phineas Q. Butterfat's"
-    ],
+    "id": "vb-whakawaiwai-eats",
+    "name": "Whakawaiwai Eats",
+    "park": "Volcano Bay",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/whakawaiwai-eats/menu.html",
+    "added": [],
     "removed": [
-      "## Menu for Phineas Q. Butterfat's"
-    ]
-  },
-  {
-    "id": "ush-power-up-cafe",
-    "name": "Power Up Cafe",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/power-up-cafe/menu.html",
-    "added": [
-      "Today's Park Hours 08:00 AM - 06:00 PM",
-      "Visit CityWalk 11:00 AM - 09:00 PM"
-    ],
-    "removed": [
-      "Today's Park Hours 09:00 AM - 06:00 PM",
-      "Visit CityWalk 11:00 AM - 10:00 PM",
-      "— Allergy-Friendly Menu"
-    ]
-  },
-  {
-    "id": "ush-studio-cafe",
-    "name": "Studio Cafe",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/studio-cafe/menu.html",
-    "added": [
-      "Menu for Studio Cafe"
-    ],
-    "removed": [
-      "## Menu for Studio Cafe",
-      "— Allergy-Friendly Menu"
-    ]
-  },
-  {
-    "id": "ush-studio-scoop",
-    "name": "Studio Scoop",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/studio-scoop/menu.html",
-    "added": [
-      "Menu for Studio Scoop"
-    ],
-    "removed": [
-      "## Menu for Studio Scoop",
-      "— Allergy-Friendly Menu"
+      "Menu items and pricing are subject to change without notice."
     ]
   }
 ]
