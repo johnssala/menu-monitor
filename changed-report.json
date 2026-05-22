@@ -1,114 +1,143 @@
 [
   {
-    "id": "dca-cocina-cucamonga-mexican-grill",
-    "name": "Cocina Cucamonga Mexican Grill",
+    "id": "dca-schmoozies",
+    "name": "Schmoozies!",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/cocina-cucamonga-mexican-grill/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "— Cantaloupe Agua Fresca"
-    ]
-  },
-  {
-    "id": "dca-cozy-cone-motel",
-    "name": "Cozy Cone Motel",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/cozy-cone-motel/menus/snack/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/schmoozies-smoothies/menus/snack/",
     "added": [
-      "— Takis® Esquite Nachos",
-      "— TWIX® Bits Loaded Popcorn"
+      "— Iced Honey Matcha Tea",
+      "— Soju-Matcha Cocktail"
     ],
     "removed": []
   },
   {
-    "id": "dca-fiddler-fifer-and-practical-cafe-breakfast",
-    "name": "Fiddler, Fifer & Practical Cafe - Starbucks (Breakfast)",
+    "id": "dca-smokejumpers-grill-breakfast",
+    "name": "Smokejumpers Grill (Breakfast)",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fiddler-fifer-and-practical-cafe/menus/breakfast/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/breakfast/",
     "added": [
-      "— Madeleines",
-      "Tropical Butterfly Lemonade Energy Refresher",
-      "— Iced Horchata Shaken Espresso",
-      "— Iced Banana Bread Matcha Tea Latte"
+      "— Red, White & Blue Punch"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dca-smokejumpers-grill-lunch-and-dinner",
+    "name": "Smokejumpers Grill (Lunch & Dinner)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/lunch-and-dinner/",
+    "added": [
+      "— Red, White & Blue Punch"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-alien-pizza-planet",
+    "name": "Alien Pizza Planet",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/alien-pizza-planet/menus/lunch-and-dinner/",
+    "added": [
+      "— Magic Key King Arthur Carrousel Bucket",
+      "— Spaghetti & Meatballs"
     ],
     "removed": [
-      "Mango Strawberry Lemonade Energy Refresher - Grande",
-      "— Dragon Drink Energy Refresher - Grande",
-      "— Iced Ube Coconut Macchiato - Grande",
-      "— Iced Lavender Cream Matcha - Grande"
+      "70th Celebration Disneyland Marquee Bottle Topper"
     ]
   },
   {
-    "id": "dca-fiddler-fifer-and-practical-cafe-lunch-and-dinner",
-    "name": "Fiddler, Fifer & Practical Cafe - Starbucks (Lunch & Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fiddler-fifer-and-practical-cafe/menus/lunch-and-dinner/",
+    "id": "dl-blue-bayou-restaurant-lunch",
+    "name": "Blue Bayou Restaurant (Lunch)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/blue-bayou-restaurant/menus/lunch/",
     "added": [
-      "— Madeleines",
-      "Tropical Butterfly Lemonade Energy Refresher",
-      "— Iced Horchata Shaken Espresso",
-      "— Iced Banana Bread Matcha Tea Latte"
+      "— Filet Mignon*",
+      "— Ribeye Steak with Western-style Butter*"
     ],
     "removed": [
-      "Mango Strawberry Lemonade Energy Refresher - Grande",
-      "— Dragon Drink Energy Refresher - Grande",
-      "— Iced Ube Coconut Macchiato - Grande",
-      "— Iced Lavender Cream Matcha - Grande"
+      "Ribeye Steak and Prawns with Western-style Butter*",
+      "— Prime Rib*",
+      "— Prime Rib",
+      "Ribeye Steak and Prawns with Western Butter"
     ]
   },
   {
-    "id": "dca-lamplight-lounge-brunch",
-    "name": "Lamplight Lounge (Brunch)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge/menus/brunch/",
-    "added": [],
+    "id": "dl-blue-bayou-restaurant-dinner",
+    "name": "Blue Bayou Restaurant (Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/blue-bayou-restaurant/menus/dinner/",
+    "added": [
+      "— Filet Mignon*",
+      "— Ribeye Steak with Western-style Butter*"
+    ],
     "removed": [
-      "— Engkanto Paint Me Purple Ube Lager",
-      "— Engkanto High Hive Honey Ale"
+      "Ribeye Steak and Prawns with Western-style Butter*",
+      "— Prime Rib*",
+      "— Prime Rib",
+      "Ribeye Steak and Prawns with Western Butter"
     ]
   },
   {
-    "id": "dca-lamplight-lounge-lunch",
-    "name": "Lamplight Lounge (Lunch)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge/menus/lunch/",
-    "added": [],
+    "id": "dl-docking-bay-7-food-and-cargo",
+    "name": "Docking Bay 7 Food and Cargo",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/docking-bay-7-food-and-cargo/menus/",
+    "added": [
+      "— The Mandalorian and Grogu Jetpack Sipper",
+      "— Bounty Bun with Spiced Beef and Pork",
+      "Adelphi Cheesy Noodles with Fried Chicken Tip-Yip",
+      "— Surabat Valley Greens Chicken Salad",
+      "— Surabat Valley Greens Salad",
+      "— Youngling Garden Patty Bun",
+      "Youngling Cheesy Noodles with Fried Chicken Tip-Yip"
+    ],
     "removed": [
-      "— Engkanto Paint Me Purple Ube Lager",
-      "— Engkanto High Hive Honey Ale"
+      "Surabat Valley Greens with Roasted Tip-Yip",
+      "Surabat Noodles with Crispy Marinated Eopie",
+      "— Endorian Fried Chicken Tip-Yip",
+      "— Felucian Kefta Garden Spread",
+      "— Ithorian Garden Patty Bun",
+      "— Fried Chicken Tip-Yip Youngling Meal"
     ]
   },
   {
-    "id": "dca-lamplight-lounge-dinner",
-    "name": "Lamplight Lounge (Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge/menus/dinner/",
-    "added": [],
+    "id": "dl-galactic-grill-breakfast",
+    "name": "Galactic Grill (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/breakfast/",
+    "added": [
+      "— BDX Droid Bucket",
+      "— The Mandalorian and Grogu Jetpack Sipper",
+      "The Mandalorian and Grogu Stainless Steel Tumbler",
+      "— Coca-Cola® Slush",
+      "— Coca-Cola® Slush with Glow Cube"
+    ],
     "removed": [
-      "— Engkanto Paint Me Purple Ube Lager",
-      "— Engkanto High Hive Honey Ale"
+      "Galactic Cargo Fries in a Star Wars Souvenir Bucket"
     ]
   },
   {
-    "id": "dca-lamplight-lounge-boardwalk-dining-lunch",
-    "name": "Lamplight Lounge Boardwalk Dining (Lunch)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge-boardwalk-dining/menus/lunch/",
-    "added": [],
+    "id": "dl-galactic-grill-lunch-and-dinner",
+    "name": "Galactic Grill (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/lunch-and-dinner/",
+    "added": [
+      "— BDX Droid Bucket",
+      "— The Mandalorian and Grogu Jetpack Sipper",
+      "The Mandalorian and Grogu Stainless Steel Tumbler",
+      "— Coca-Cola® Slush",
+      "— Coca-Cola® Slush with Glow Cube"
+    ],
     "removed": [
-      "— Engkanto Paint Me Purple Ube Lager",
-      "— Engkanto High Hive Honey Ale"
+      "Galactic Cargo Fries in a Star Wars Souvenir Bucket"
     ]
   },
   {
-    "id": "dca-lamplight-lounge-boardwalk-dining-dinner",
-    "name": "Lamplight Lounge Boardwalk Dining (Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge-boardwalk-dining/menus/dinner/",
+    "id": "dl-gibson-girl-ice-cream-parlor",
+    "name": "Gibson Girl Ice Cream Parlor",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/gibson-girl-ice-cream-parlor/menus/snack/",
     "added": [],
     "removed": [
-      "— Engkanto Paint Me Purple Ube Lager",
-      "— Engkanto High Hive Honey Ale"
+      "70th Celebration Disneyland Marquee Bottle Topper"
     ]
   }
 ]
