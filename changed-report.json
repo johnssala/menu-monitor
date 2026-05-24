@@ -1,83 +1,98 @@
 [
   {
-    "id": "dl-market-house-breakfast",
-    "name": "Market House - Starbucks (Breakfast)",
+    "id": "dl-tianas-palace",
+    "name": "Tiana's Palace",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/breakfast/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/tianas-palace/menus/lunch-and-dinner/",
     "added": [
-      "— Crispy Grilled Cheese on Sourdough",
-      "— Madeleines",
-      "Tropical Butterfly Lemonade Energy Refresher",
-      "— Iced Horchata Shaken Espresso",
-      "— Iced Banana Bread Matcha Tea Latte"
+      "— French Quarter Fried Chicken Bowl"
+    ],
+    "removed": []
+  },
+  {
+    "id": "epcot-akershus-royal-banquet-hall-breakfast",
+    "name": "Akershus Royal Banquet Hall (Breakfast)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/akershus-royal-banquet-hall/menus/breakfast/",
+    "added": [
+      "— Enchanted Grove Lime Splash",
+      "— Royal Berry Spritzer"
+    ],
+    "removed": []
+  },
+  {
+    "id": "epcot-akershus-royal-banquet-hall-lunch",
+    "name": "Akershus Royal Banquet Hall (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/akershus-royal-banquet-hall/menus/lunch/",
+    "added": [
+      "Sesongens Grønnsaker: Seasonal Vegetables",
+      "— Princess Garden Greens",
+      "Plant-based Apple Cake with Plant-based Vanilla Gelato",
+      "— Plant-based Meatballs",
+      "— Seared Salmon",
+      "— Chocolate Cake Pop",
+      "Plant-based Apple Cake with Plant-Based Vanilla Gelato",
+      "— Royal Berry Spritzer",
+      "— Enchanted Grove Lime Splash",
+      "— Rekorderlig Pear Hard Cider"
     ],
     "removed": [
-      "Mango Strawberry Lemonade Energy Refresher - Grande",
-      "— Dragon Drink Energy Refresher - Grande",
-      "— Iced Ube Coconut Macchiato - Grande",
-      "— Iced Lavender Cream Matcha - Grande"
+      "— Chilled Nordic Shrimp Salad",
+      "— Field Greens",
+      "— Kål: Green Cabbage",
+      "— Plant-based Gelato",
+      "— Mixed Greens",
+      "— Cinnamon Butter",
+      "— Pan-seared Salmon*",
+      "— Plant-based Vanilla Gelato",
+      "— Pink Spritzer",
+      "Kopparberg Mixed Fruit Tropical Hard Cider",
+      "— Kopparberg Strawberry & Lime Hard Cider",
+      "— Kopparberg Pear Hard Cider"
     ]
   },
   {
-    "id": "dl-market-house-lunch-and-dinner",
-    "name": "Market House - Starbucks (Lunch & Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/lunch-and-dinner/",
+    "id": "epcot-akershus-royal-banquet-hall-dinner",
+    "name": "Akershus Royal Banquet Hall (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/akershus-royal-banquet-hall/menus/dinner/",
     "added": [
-      "— Crispy Grilled Cheese on Sourdough",
-      "— Madeleines",
-      "Tropical Butterfly Lemonade Energy Refresher",
-      "— Iced Horchata Shaken Espresso",
-      "— Iced Banana Bread Matcha Tea Latte"
+      "Sesongens Grønnsaker: Seasonal Vegetables",
+      "— Princess Garden Greens",
+      "Plant-based Apple Cake with Plant-based Vanilla Gelato",
+      "— Plant-based Meatballs",
+      "— Seared Salmon",
+      "— Chocolate Cake Pop",
+      "Plant-based Apple Cake with Plant-Based Vanilla Gelato",
+      "— Royal Berry Spritzer",
+      "— Enchanted Grove Lime Splash",
+      "— Rekorderlig Pear Hard Cider"
     ],
     "removed": [
-      "Mango Strawberry Lemonade Energy Refresher - Grande",
-      "— Dragon Drink Energy Refresher - Grande",
-      "— Iced Ube Coconut Macchiato - Grande",
-      "— Iced Lavender Cream Matcha - Grande"
+      "— Chilled Nordic Shrimp Salad",
+      "— Field Greens",
+      "— Kål: Green Cabbage",
+      "— Plant-based Gelato",
+      "— Mixed Greens",
+      "— Cinnamon Butter",
+      "— Pan-seared Salmon*",
+      "— Plant-based Vanilla Gelato",
+      "— Pink Spritzer",
+      "Kopparberg Mixed Fruit Tropical Hard Cider",
+      "— Kopparberg Strawberry & Lime Hard Cider",
+      "— Kopparberg Pear Hard Cider"
     ]
   },
   {
-    "id": "dl-maurices-treats",
-    "name": "Maurice's Treats",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/maurices-treats/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Mocha Nitro Cold Brew"
-    ]
-  },
-  {
-    "id": "dl-milk-stand-galaxys-edge",
-    "name": "Milk Stand – Star Wars: Galaxy's Edge",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/milk-stand/menus/",
-    "added": [],
-    "removed": [
-      "— Green Milk"
-    ]
-  },
-  {
-    "id": "dl-refreshment-corner",
-    "name": "Refreshment Corner",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/refreshment-corner/menus/lunch-and-dinner/",
+    "id": "epcot-connections-cafe",
+    "name": "Connections Café (Starbucks)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/connections-cafe/menus/coffee-%E2%80%93-bakery/",
     "added": [
-      "— Rocket Soda"
-    ],
-    "removed": [
-      "Sam Eagle Bucket [Available starting May 21]"
-    ]
-  },
-  {
-    "id": "dl-royal-street-veranda",
-    "name": "Royal Street Veranda",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/royal-street-veranda/menus/lunch-and-dinner/",
-    "added": [
-      "— New Orleans Mint Julep Float",
-      "— Cajun Caesar Chicken Po'Boy",
-      "— New Orleans Mint Julep"
+      "Tropical Butterfly Lemonade Energy Refresher - Grande",
+      "— Iced Horchata Shaken Espresso - Grande",
+      "Iced Banana Bread Matcha Tea Latte - Grande"
     ],
     "removed": []
   }
