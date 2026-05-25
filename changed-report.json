@@ -1,98 +1,50 @@
 [
   {
-    "id": "dl-tianas-palace",
-    "name": "Tiana's Palace",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/tianas-palace/menus/lunch-and-dinner/",
+    "id": "epcot-kabuki-cafe",
+    "name": "Kabuki Cafe",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/kabuki-cafe/menus/snack/",
     "added": [
-      "— French Quarter Fried Chicken Bowl"
+      "— A5 Wagyu Nigiri Combo*",
+      "— Spicy Roll*",
+      "— Tokyo Sushi Combo*"
+    ],
+    "removed": [
+      "— Spicy Roll",
+      "— Tokyo Sushi Combo"
+    ]
+  },
+  {
+    "id": "epcot-la-hacienda-de-san-angel",
+    "name": "La Hacienda de San Angel",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/hacienda-de-san-angel/menus/dinner/",
+    "added": [],
+    "removed": [
+      "— Milhojas"
+    ]
+  },
+  {
+    "id": "epcot-le-cellier-steakhouse-lunch",
+    "name": "Le Cellier Steakhouse (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/le-cellier-steakhouse/menus/lunch/",
+    "added": [
+      "— Icewine Martini",
+      "— Espresso Martini",
+      "— Rekorderlig Pear Hard Cider"
     ],
     "removed": []
   },
   {
-    "id": "epcot-akershus-royal-banquet-hall-breakfast",
-    "name": "Akershus Royal Banquet Hall (Breakfast)",
+    "id": "epcot-le-cellier-steakhouse-dinner",
+    "name": "Le Cellier Steakhouse (Dinner)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/akershus-royal-banquet-hall/menus/breakfast/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/le-cellier-steakhouse/menus/dinner/",
     "added": [
-      "— Enchanted Grove Lime Splash",
-      "— Royal Berry Spritzer"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-akershus-royal-banquet-hall-lunch",
-    "name": "Akershus Royal Banquet Hall (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/akershus-royal-banquet-hall/menus/lunch/",
-    "added": [
-      "Sesongens Grønnsaker: Seasonal Vegetables",
-      "— Princess Garden Greens",
-      "Plant-based Apple Cake with Plant-based Vanilla Gelato",
-      "— Plant-based Meatballs",
-      "— Seared Salmon",
-      "— Chocolate Cake Pop",
-      "Plant-based Apple Cake with Plant-Based Vanilla Gelato",
-      "— Royal Berry Spritzer",
-      "— Enchanted Grove Lime Splash",
+      "— Icewine Martini",
+      "— Espresso Martini",
       "— Rekorderlig Pear Hard Cider"
-    ],
-    "removed": [
-      "— Chilled Nordic Shrimp Salad",
-      "— Field Greens",
-      "— Kål: Green Cabbage",
-      "— Plant-based Gelato",
-      "— Mixed Greens",
-      "— Cinnamon Butter",
-      "— Pan-seared Salmon*",
-      "— Plant-based Vanilla Gelato",
-      "— Pink Spritzer",
-      "Kopparberg Mixed Fruit Tropical Hard Cider",
-      "— Kopparberg Strawberry & Lime Hard Cider",
-      "— Kopparberg Pear Hard Cider"
-    ]
-  },
-  {
-    "id": "epcot-akershus-royal-banquet-hall-dinner",
-    "name": "Akershus Royal Banquet Hall (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/akershus-royal-banquet-hall/menus/dinner/",
-    "added": [
-      "Sesongens Grønnsaker: Seasonal Vegetables",
-      "— Princess Garden Greens",
-      "Plant-based Apple Cake with Plant-based Vanilla Gelato",
-      "— Plant-based Meatballs",
-      "— Seared Salmon",
-      "— Chocolate Cake Pop",
-      "Plant-based Apple Cake with Plant-Based Vanilla Gelato",
-      "— Royal Berry Spritzer",
-      "— Enchanted Grove Lime Splash",
-      "— Rekorderlig Pear Hard Cider"
-    ],
-    "removed": [
-      "— Chilled Nordic Shrimp Salad",
-      "— Field Greens",
-      "— Kål: Green Cabbage",
-      "— Plant-based Gelato",
-      "— Mixed Greens",
-      "— Cinnamon Butter",
-      "— Pan-seared Salmon*",
-      "— Plant-based Vanilla Gelato",
-      "— Pink Spritzer",
-      "Kopparberg Mixed Fruit Tropical Hard Cider",
-      "— Kopparberg Strawberry & Lime Hard Cider",
-      "— Kopparberg Pear Hard Cider"
-    ]
-  },
-  {
-    "id": "epcot-connections-cafe",
-    "name": "Connections Café (Starbucks)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/connections-cafe/menus/coffee-%E2%80%93-bakery/",
-    "added": [
-      "Tropical Butterfly Lemonade Energy Refresher - Grande",
-      "— Iced Horchata Shaken Espresso - Grande",
-      "Iced Banana Bread Matcha Tea Latte - Grande"
     ],
     "removed": []
   }
