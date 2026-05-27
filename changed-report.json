@@ -1,51 +1,88 @@
 [
   {
-    "id": "epcot-kabuki-cafe",
-    "name": "Kabuki Cafe",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/kabuki-cafe/menus/snack/",
+    "id": "eu-the-blue-dragon-pan-asian-restaurant",
+    "name": "The Blue Dragon Pan-Asian Restaurant",
+    "park": "Epic Universe",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-blue-dragon-pan-asian-restaurant/menu.html",
     "added": [
-      "— A5 Wagyu Nigiri Combo*",
-      "— Spicy Roll*",
-      "— Tokyo Sushi Combo*"
+      "Vegetable Spring Rolls",
+      "— Vegetable Spring Rolls"
     ],
     "removed": [
-      "— Spicy Roll",
-      "— Tokyo Sushi Combo"
+      "Vegetable Spring Roll",
+      "— Vegetable Spring Roll"
     ]
   },
   {
-    "id": "epcot-la-hacienda-de-san-angel",
-    "name": "La Hacienda de San Angel",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/hacienda-de-san-angel/menus/dinner/",
-    "added": [],
-    "removed": [
-      "— Milhojas"
-    ]
-  },
-  {
-    "id": "epcot-le-cellier-steakhouse-lunch",
-    "name": "Le Cellier Steakhouse (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/le-cellier-steakhouse/menus/lunch/",
+    "id": "eu-the-burning-blade-tavern",
+    "name": "The Burning Blade Tavern",
+    "park": "Epic Universe",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-burning-blade-tavern/menu.html",
     "added": [
-      "— Icewine Martini",
-      "— Espresso Martini",
-      "— Rekorderlig Pear Hard Cider"
+      "The Pyre Dip",
+      "— The Pyre Dip",
+      "Souvenir Michelob Ultra®",
+      "— Souvenir Michelob Ultra®",
+      "Michelob Ultra®",
+      "— Michelob Ultra®"
+    ],
+    "removed": [
+      "Charred Loaded Potato",
+      "— Charred Loaded Potato",
+      "Burning Blade Burger",
+      "— Burning Blade Burger",
+      "Staked Grilled Chicken",
+      "— Staked Grilled Chicken",
+      "Souvenir Bud Light®",
+      "— Souvenir Bud Light®",
+      "Bud Light®",
+      "— Bud Light®"
+    ]
+  },
+  {
+    "id": "hs-abc-commissary",
+    "name": "ABC Commissary",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/abc-commissary/menus/lunch-and-dinner/",
+    "added": [
+      "— The Mandalorian and Grogu Jetpack Sipper"
     ],
     "removed": []
   },
   {
-    "id": "epcot-le-cellier-steakhouse-dinner",
-    "name": "Le Cellier Steakhouse (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/le-cellier-steakhouse/menus/dinner/",
+    "id": "hs-backlot-express",
+    "name": "Backlot Express",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/backlot-express/menus/lunch-and-dinner/",
     "added": [
-      "— Icewine Martini",
-      "— Espresso Martini",
-      "— Rekorderlig Pear Hard Cider"
+      "— The Mandalorian and Grogu Jetpack Sipper"
     ],
     "removed": []
+  },
+  {
+    "id": "hs-docking-bay-7-food-and-cargo-lunch",
+    "name": "Docking Bay 7 Food and Cargo (Lunch)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/docking-bay-7-food-and-cargo/menus/lunch/",
+    "added": [
+      "— The Mandalorian and Grogu Jetpack Sipper",
+      "— Sweet-and-Spicy Puffer Pig Pasta"
+    ],
+    "removed": [
+      "— Takodana Quencher"
+    ]
+  },
+  {
+    "id": "hs-docking-bay-7-food-and-cargo-dinner",
+    "name": "Docking Bay 7 Food and Cargo (Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/docking-bay-7-food-and-cargo/menus/dinner/",
+    "added": [
+      "— The Mandalorian and Grogu Jetpack Sipper",
+      "— Sweet-and-Spicy Puffer Pig Pasta"
+    ],
+    "removed": [
+      "— Takodana Quencher"
+    ]
   }
 ]
