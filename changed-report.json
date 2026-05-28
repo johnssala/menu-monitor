@@ -1,88 +1,113 @@
 [
   {
-    "id": "eu-the-blue-dragon-pan-asian-restaurant",
-    "name": "The Blue Dragon Pan-Asian Restaurant",
-    "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-blue-dragon-pan-asian-restaurant/menu.html",
-    "added": [
-      "Vegetable Spring Rolls",
-      "— Vegetable Spring Rolls"
-    ],
-    "removed": [
-      "Vegetable Spring Roll",
-      "— Vegetable Spring Roll"
-    ]
-  },
-  {
-    "id": "eu-the-burning-blade-tavern",
-    "name": "The Burning Blade Tavern",
-    "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-burning-blade-tavern/menu.html",
-    "added": [
-      "The Pyre Dip",
-      "— The Pyre Dip",
-      "Souvenir Michelob Ultra®",
-      "— Souvenir Michelob Ultra®",
-      "Michelob Ultra®",
-      "— Michelob Ultra®"
-    ],
-    "removed": [
-      "Charred Loaded Potato",
-      "— Charred Loaded Potato",
-      "Burning Blade Burger",
-      "— Burning Blade Burger",
-      "Staked Grilled Chicken",
-      "— Staked Grilled Chicken",
-      "Souvenir Bud Light®",
-      "— Souvenir Bud Light®",
-      "Bud Light®",
-      "— Bud Light®"
-    ]
-  },
-  {
-    "id": "hs-abc-commissary",
-    "name": "ABC Commissary",
+    "id": "hs-fairfax-fare-breakfast",
+    "name": "Fairfax Fare (Breakfast)",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/abc-commissary/menus/lunch-and-dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/breakfast/",
     "added": [
       "— The Mandalorian and Grogu Jetpack Sipper"
     ],
     "removed": []
   },
   {
-    "id": "hs-backlot-express",
-    "name": "Backlot Express",
+    "id": "hs-fairfax-fare-lunch-and-dinner",
+    "name": "Fairfax Fare (Lunch & Dinner)",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/backlot-express/menus/lunch-and-dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/lunch-and-dinner/",
     "added": [
       "— The Mandalorian and Grogu Jetpack Sipper"
     ],
     "removed": []
   },
   {
-    "id": "hs-docking-bay-7-food-and-cargo-lunch",
-    "name": "Docking Bay 7 Food and Cargo (Lunch)",
+    "id": "hs-kat-sakas-kettle",
+    "name": "Kat Saka's Kettle",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/docking-bay-7-food-and-cargo/menus/lunch/",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/kat-sakas-kettle/menus/snack/",
     "added": [
-      "— The Mandalorian and Grogu Jetpack Sipper",
-      "— Sweet-and-Spicy Puffer Pig Pasta"
+      "— BDX Droid Bucket"
     ],
+    "removed": []
+  },
+  {
+    "id": "hs-krnr-the-rock-station",
+    "name": "KRNR The Rock Station",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/krnr-the-rock-station/menus/all-day/",
+    "added": [],
     "removed": [
-      "— Takodana Quencher"
+      "KRNR The Rock Station",
+      "— All Day Menu",
+      "— Mini Corn Dogs",
+      "— Tortilla Chips with Cheese",
+      "— Assorted Chips",
+      "— Mini Churros",
+      "— Frozen Coca-Cola®",
+      "— Coca-Cola® Float",
+      "— Barq's® Root Beer Float",
+      "— Waffle Cone",
+      "— Assorted Fountain Beverages",
+      "— DASANI® Bottled Water",
+      "— Jack Daniel's Whiskey with Coke®",
+      "— Bud Light Lager Draft",
+      "— Truly Wild Berry Hard Seltzer"
     ]
   },
   {
-    "id": "hs-docking-bay-7-food-and-cargo-dinner",
-    "name": "Docking Bay 7 Food and Cargo (Dinner)",
+    "id": "hs-the-hollywood-brown-derby-lunch",
+    "name": "The Hollywood Brown Derby (Lunch)",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/docking-bay-7-food-and-cargo/menus/dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/lunch/",
     "added": [
-      "— The Mandalorian and Grogu Jetpack Sipper",
-      "— Sweet-and-Spicy Puffer Pig Pasta"
+      "— Char-grilled Octopus",
+      "— Fried Pork Chop",
+      "— Honey Pot de Crème",
+      "— Vanilla-Fruit Cheesecake"
     ],
     "removed": [
-      "— Takodana Quencher"
+      "— Hamachi à la Newburg*",
+      "— Pork Tenderloin*",
+      "— Crème Brûlée",
+      "— Crème Caramel Cheesecake",
+      "with Chocolate Sauce and Mickey Sprinkles"
+    ]
+  },
+  {
+    "id": "hs-the-hollywood-brown-derby-dinner",
+    "name": "The Hollywood Brown Derby (Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/dinner/",
+    "added": [
+      "— Char-grilled Octopus",
+      "— Fried Pork Chop",
+      "— Honey Pot de Crème",
+      "— Vanilla-Fruit Cheesecake"
+    ],
+    "removed": [
+      "— Hamachi à la Newburg*",
+      "— Pork Tenderloin*",
+      "— Crème Brûlée",
+      "— Crème Caramel Cheesecake",
+      "with Chocolate Sauce and Mickey Sprinkles"
+    ]
+  },
+  {
+    "id": "hs-the-hollywood-brown-derby-lounge",
+    "name": "The Hollywood Brown Derby Lounge",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby-lounge/menus/bar-%E2%80%93-lounge/",
+    "added": [
+      "— Char-grilled Octopus",
+      "— Fried Pork Chop",
+      "— Honey Pot de Crème",
+      "— Vanilla-Fruit Cheesecake"
+    ],
+    "removed": [
+      "— Hamachi à la Newburg*",
+      "— Pork Tenderloin*",
+      "— Crème Brûlée",
+      "— Crème Caramel Cheesecake",
+      "with Chocolate Sauce and Mickey Sprinkles"
     ]
   }
 ]

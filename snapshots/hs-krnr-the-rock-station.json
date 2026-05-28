@@ -2,23 +2,7 @@
   "sections": [
     {
       "title": "menu",
-      "items": [
-        "KRNR The Rock Station",
-        "— All Day Menu",
-        "— Mini Corn Dogs",
-        "— Tortilla Chips with Cheese",
-        "— Assorted Chips",
-        "— Mini Churros",
-        "— Frozen Coca-Cola®",
-        "— Coca-Cola® Float",
-        "— Barq's® Root Beer Float",
-        "— Waffle Cone",
-        "— Assorted Fountain Beverages",
-        "— DASANI® Bottled Water",
-        "— Jack Daniel's Whiskey with Coke®",
-        "— Bud Light Lager Draft",
-        "— Truly Wild Berry Hard Seltzer"
-      ]
+      "items": []
     }
   ]
 }
