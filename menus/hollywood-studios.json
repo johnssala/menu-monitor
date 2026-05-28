@@ -78,6 +78,12 @@
         "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/lunch-and-dinner/"
     },
     {
+        "id": "hs-food-by-swedish-chef",
+        "park": "Hollywood Studios",
+        "name": "FØØD by Swedish Chef",
+        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/food-by-swedish-chef/"
+    },
+    {
         "id": "hs-hollywood-and-vine-breakfast",
         "park": "Hollywood Studios",
         "name": "Hollywood & Vine (Breakfast)",
@@ -112,12 +118,6 @@
         "park": "Hollywood Studios",
         "name": "Kat Saka's Kettle",
         "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/kat-sakas-kettle/menus/snack/"
-    },
-    {
-        "id": "hs-krnr-the-rock-station",
-        "park": "Hollywood Studios",
-        "name": "KRNR The Rock Station",
-        "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/krnr-the-rock-station/menus/all-day/"
     },
     {
         "id": "hs-market",
