@@ -1,113 +1,22 @@
 [
   {
-    "id": "hs-fairfax-fare-breakfast",
-    "name": "Fairfax Fare (Breakfast)",
+    "id": "hs-woodys-lunch-box-breakfast",
+    "name": "Woody's Lunch Box (Breakfast)",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/breakfast/",
-    "added": [
-      "— The Mandalorian and Grogu Jetpack Sipper"
-    ],
-    "removed": []
-  },
-  {
-    "id": "hs-fairfax-fare-lunch-and-dinner",
-    "name": "Fairfax Fare (Lunch & Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/lunch-and-dinner/",
-    "added": [
-      "— The Mandalorian and Grogu Jetpack Sipper"
-    ],
-    "removed": []
-  },
-  {
-    "id": "hs-kat-sakas-kettle",
-    "name": "Kat Saka's Kettle",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/kat-sakas-kettle/menus/snack/",
-    "added": [
-      "— BDX Droid Bucket"
-    ],
-    "removed": []
-  },
-  {
-    "id": "hs-krnr-the-rock-station",
-    "name": "KRNR The Rock Station",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/krnr-the-rock-station/menus/all-day/",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/breakfast/",
     "added": [],
     "removed": [
-      "KRNR The Rock Station",
-      "— All Day Menu",
-      "— Mini Corn Dogs",
-      "— Tortilla Chips with Cheese",
-      "— Assorted Chips",
-      "— Mini Churros",
-      "— Frozen Coca-Cola®",
-      "— Coca-Cola® Float",
-      "— Barq's® Root Beer Float",
-      "— Waffle Cone",
-      "— Assorted Fountain Beverages",
-      "— DASANI® Bottled Water",
-      "— Jack Daniel's Whiskey with Coke®",
-      "— Bud Light Lager Draft",
-      "— Truly Wild Berry Hard Seltzer"
+      "— Little Green Men Jetpack Sipper"
     ]
   },
   {
-    "id": "hs-the-hollywood-brown-derby-lunch",
-    "name": "The Hollywood Brown Derby (Lunch)",
+    "id": "hs-woodys-lunch-box-lunch-and-dinner",
+    "name": "Woody's Lunch Box (Lunch & Dinner)",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/lunch/",
-    "added": [
-      "— Char-grilled Octopus",
-      "— Fried Pork Chop",
-      "— Honey Pot de Crème",
-      "— Vanilla-Fruit Cheesecake"
-    ],
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/lunch-and-dinner/",
+    "added": [],
     "removed": [
-      "— Hamachi à la Newburg*",
-      "— Pork Tenderloin*",
-      "— Crème Brûlée",
-      "— Crème Caramel Cheesecake",
-      "with Chocolate Sauce and Mickey Sprinkles"
-    ]
-  },
-  {
-    "id": "hs-the-hollywood-brown-derby-dinner",
-    "name": "The Hollywood Brown Derby (Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/dinner/",
-    "added": [
-      "— Char-grilled Octopus",
-      "— Fried Pork Chop",
-      "— Honey Pot de Crème",
-      "— Vanilla-Fruit Cheesecake"
-    ],
-    "removed": [
-      "— Hamachi à la Newburg*",
-      "— Pork Tenderloin*",
-      "— Crème Brûlée",
-      "— Crème Caramel Cheesecake",
-      "with Chocolate Sauce and Mickey Sprinkles"
-    ]
-  },
-  {
-    "id": "hs-the-hollywood-brown-derby-lounge",
-    "name": "The Hollywood Brown Derby Lounge",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby-lounge/menus/bar-%E2%80%93-lounge/",
-    "added": [
-      "— Char-grilled Octopus",
-      "— Fried Pork Chop",
-      "— Honey Pot de Crème",
-      "— Vanilla-Fruit Cheesecake"
-    ],
-    "removed": [
-      "— Hamachi à la Newburg*",
-      "— Pork Tenderloin*",
-      "— Crème Brûlée",
-      "— Crème Caramel Cheesecake",
-      "with Chocolate Sauce and Mickey Sprinkles"
+      "— Little Green Men Jetpack Sipper"
     ]
   }
 ]
