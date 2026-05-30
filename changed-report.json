@@ -1,22 +1,38 @@
 [
   {
-    "id": "hs-woodys-lunch-box-breakfast",
-    "name": "Woody's Lunch Box (Breakfast)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/breakfast/",
-    "added": [],
+    "id": "mk-astrofizz",
+    "name": "Astrofizz",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/astrofizz/menus/",
+    "added": [
+      "— Frozen Coca-Cola® Slushy",
+      "— Frozen Fanta® Blue Raspberry Slushy",
+      "— Frozen Fanta® Orange Slushy",
+      "— Frozen Fanta® Wild Cherry Slushy"
+    ],
     "removed": [
-      "— Little Green Men Jetpack Sipper"
+      "— Popcorn Bucket Refill",
+      "— Cinnamon-glazed Nuts",
+      "— Frozen Slushy"
     ]
   },
   {
-    "id": "hs-woodys-lunch-box-lunch-and-dinner",
-    "name": "Woody's Lunch Box (Lunch & Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/lunch-and-dinner/",
-    "added": [],
+    "id": "mk-auntie-gravitys-galactic-goodies",
+    "name": "Auntie Gravity's Galactic Goodies",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/auntie-gravitys-galactic-goodies/menus/",
+    "added": [
+      "— Chocolate-Salted Caramel Cold Brew Float",
+      "— Space Ranger Float",
+      "— Zurg Overload Shake",
+      "— Cherry Limeade Float",
+      "— Churro Shake"
+    ],
     "removed": [
-      "— Little Green Men Jetpack Sipper"
+      "— Brownie Sundae",
+      "— Salted Caramel Cold Brew Float",
+      "— Cold Brew Float",
+      "— Asteroid Shake"
     ]
   }
 ]
