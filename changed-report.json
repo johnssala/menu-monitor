@@ -1,38 +1,36 @@
 [
   {
-    "id": "mk-astrofizz",
-    "name": "Astrofizz",
+    "id": "mk-prince-erics-village-market",
+    "name": "Prince Eric's Village Market",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/astrofizz/menus/",
-    "added": [
-      "— Frozen Coca-Cola® Slushy",
-      "— Frozen Fanta® Blue Raspberry Slushy",
-      "— Frozen Fanta® Orange Slushy",
-      "— Frozen Fanta® Wild Cherry Slushy"
-    ],
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/prince-eric-village-market/menus/snack/",
+    "added": [],
     "removed": [
-      "— Popcorn Bucket Refill",
-      "— Cinnamon-glazed Nuts",
-      "— Frozen Slushy"
+      "— Frozen Fanta® Blue Raspberry Slushy"
     ]
   },
   {
-    "id": "mk-auntie-gravitys-galactic-goodies",
-    "name": "Auntie Gravity's Galactic Goodies",
+    "id": "mk-tonys-town-square-restaurant-lunch",
+    "name": "Tony's Town Square Restaurant (Lunch)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/auntie-gravitys-galactic-goodies/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/tonys-town-square-restaurant/menus/lunch/",
     "added": [
-      "— Chocolate-Salted Caramel Cold Brew Float",
-      "— Space Ranger Float",
-      "— Zurg Overload Shake",
-      "— Cherry Limeade Float",
-      "— Churro Shake"
+      "— Tiramisù"
     ],
     "removed": [
-      "— Brownie Sundae",
-      "— Salted Caramel Cold Brew Float",
-      "— Cold Brew Float",
-      "— Asteroid Shake"
+      "— Berry Tiramisù"
+    ]
+  },
+  {
+    "id": "mk-tonys-town-square-restaurant-dinner",
+    "name": "Tony's Town Square Restaurant (Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/tonys-town-square-restaurant/menus/dinner/",
+    "added": [
+      "— Tiramisù"
+    ],
+    "removed": [
+      "— Berry Tiramisù"
     ]
   }
 ]
