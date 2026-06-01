@@ -1,36 +1,85 @@
 [
   {
-    "id": "mk-prince-erics-village-market",
-    "name": "Prince Eric's Village Market",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/prince-eric-village-market/menus/snack/",
-    "added": [],
+    "id": "usf-illuminations-minion-cafe",
+    "name": "Illumination's Minion Cafe",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/illuminations-minion-cafe/menu.html",
+    "added": [
+      "El Macho's Supreme Nachos",
+      "Howard's Berry Lemonade Cupcake",
+      "berry lemonade cupcake garnished with a tentacle gummy",
+      "Irene's Creamsicle Cheesecake Calzone",
+      "Monster Marshmallow Lemonade",
+      "strawberry lemonade with Sh'mallow® marshmallow topping and eye sprinkles",
+      "Modelo Especial 11.75 Miller Lite, Yuengling®, Athletic Brewing Co®, Michelob Ultra® 10.75",
+      "Miller Lite, Yuengling®, Athletic Brewing Co®, Michelob Ultra® 10.75"
+    ],
     "removed": [
-      "— Frozen Fanta® Blue Raspberry Slushy"
+      "El Macho Nacho Hat",
+      "crispy tortilla chips served with house made guacamole",
+      "Agnes' Honeymoon Soup",
+      "green tomato soup, crispy pork belly, tomato gummy bear, basil oil served with a pimento cheddar grilled cheese sandwich",
+      "Fluffy Unicorn Cupcake",
+      "confetti cupcake, vanilla & bubble gum icing, topped with a a chocolate unicorn horn",
+      "Modelo Especial 11.75 Miller Lite, Sierra Nevada Hazy Little Thing 10.75",
+      "Miller Lite, Sierra Nevada Hazy Little Thing 10.75"
     ]
   },
   {
-    "id": "mk-tonys-town-square-restaurant-lunch",
-    "name": "Tony's Town Square Restaurant (Lunch)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/tonys-town-square-restaurant/menus/lunch/",
+    "id": "usf-richters-burger-co",
+    "name": "Richter's Burger Co.",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/richters-burger-co/menu.html",
     "added": [
-      "— Tiramisù"
+      "We’re Gonna Need a Bigger Boat Combo",
+      "We’re Gonna Need a Bigger Boat Platter",
+      "three smash patties, American cheese, grilled onions, secret sauce, pickles, brioche bun, served with fries",
+      "Double Smash Burger Combo",
+      "Double Smash Burger Platter",
+      "two smash patties, American cheese, grilled onions, secret sauce, pickles, brioche bun, served with fries",
+      "Crispy Chicken Sandwich Combo",
+      "Crispy Chicken Sandwich Platter",
+      "Impossible™ Smash Burger Combo",
+      "Impossible™ Smash Burger Platter",
+      "Impossible™ burger, American cheese, grilled onions, secret sauce, pickles, brioche bun, served with fries",
+      "Sides",
+      "Loaded Fries",
+      "Side Salad",
+      "Shakes",
+      "Shake Attack",
+      "bright, tropical blue shake with pineapple, orange and coconut finished with a bold strawberry \"chomp\" splash",
+      "Cap'n Crunch® with Crunch Berries®, cereal milk flavored ice cream"
     ],
     "removed": [
-      "— Berry Tiramisù"
+      "Aftershock Burger Combo",
+      "Big taste, bigger aftershocks.",
+      "Aftershock Burger Platter",
+      "The Big One Burger Combo",
+      "Big flavor. Big Impact.",
+      "The Big One Burger Platter",
+      "Angus beef, bacon, melty American cheese, lettuce and tomato, served with fries Big flavor. Big Impact.",
+      "Tremor Crispy Chicken Sandwich Combo",
+      "One bite and the ground shakes.",
+      "Tremor Crispy Chicken Sandwich Platter",
+      "Alcatraz Cobb Salad Combo",
+      "A fresh shake-up from the inside out.",
+      "Alcatraz Cobb Salad",
+      "Fries",
+      "Golden Gate Fries",
+      "Desserts & Shakes",
+      "Cap'n Crunch® with Crunch Berries®, vanilla ice cream",
+      "The Frisco Chocolate Shake"
     ]
   },
   {
-    "id": "mk-tonys-town-square-restaurant-dinner",
-    "name": "Tony's Town Square Restaurant (Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/tonys-town-square-restaurant/menus/dinner/",
+    "id": "usf-san-francisco-pastry-company",
+    "name": "San Francisco Pastry Company",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/san-francisco-pastry-company/menu.html",
     "added": [
-      "— Tiramisù"
+      "Rainbow Bagel",
+      "rainbow bagel, cream cheese, fresh strawberries"
     ],
-    "removed": [
-      "— Berry Tiramisù"
-    ]
+    "removed": []
   }
 ]
