@@ -1,44 +1,38 @@
 [
   {
-    "id": "ush-three-broomsticks",
-    "name": "Three Broomsticks",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/three-broomsticks/menu.html",
-    "added": [],
+    "id": "ak-eight-spoon-cafe",
+    "name": "Eight Spoon Café",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/eight-spoon-cafe/menus/snack/",
+    "added": [
+      "— Bluey's Berry Lemonade"
+    ],
+    "removed": []
+  },
+  {
+    "id": "ak-isle-of-java-snack",
+    "name": "Isle of Java (Snack)",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/isle-of-java/menus/snack/",
+    "added": [
+      "— Pretzel's Pretzels"
+    ],
     "removed": [
-      "Universal Fanfest Nights Exclusive Items",
-      "Classic Sunday Roast",
-      "Classic English Fish & Chips",
-      "Beer battered cod served with mushy peas, fries, lemon and tartar sauce",
-      "Chicken Curry",
-      "Chicken tikka masala served on a bed of steamed rice, with grilled red onions and a creamy yogurt sauce",
-      "Toad in the Hole",
-      "Scotch Egg",
-      "Boiled egg covered in a pork coating, served with a grainy mustard",
-      "Welsh Rarebit",
-      "Rustic sourdough baked with a savory cheddar cheese sauce",
-      "Hippogriff Brown Sugar & Oat Trifle",
-      "Three Broomsticks™ Dessert Flight",
-      "Celebrate EVE",
-      "Sparkling Wine",
-      "Fishy Green Ale (Non-Alcoholic)",
-      "Smooth and creamy with notes of mint and cinnamon and popping blueberry fish eggs."
+      "— Mickey-shaped Pretzel",
+      "— Island Sunrise"
     ]
   },
   {
-    "id": "ush-toadstool-cafe",
-    "name": "Toadstool Cafe",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/toadstool-cafe/menu.html",
-    "added": [],
-    "removed": [
-      "Toadstool Cafe Fan Fest Nights Allergen Menu",
-      "Yoshi's Apple Melon Smoothie",
-      "Contains: Milk Gluten friendly",
-      "Contains: Milk",
-      "Gluten friendly",
-      "Yoshi's Mango Banana Smoothie",
-      "Yoshi's Blueberry Ube Smoothie"
-    ]
+    "id": "ak-pizzafari",
+    "name": "Pizzafari",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/pizzafari/menus/lunch-and-dinner/",
+    "added": [
+      "— Bluey Sipper",
+      "— Bluey's Berry Lemonade",
+      "— Wackadoo Fruit Freeze",
+      "— Fairy Bread Cake"
+    ],
+    "removed": []
   }
 ]
