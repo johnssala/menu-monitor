@@ -1,38 +1,41 @@
 [
   {
-    "id": "ak-eight-spoon-cafe",
-    "name": "Eight Spoon Café",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/eight-spoon-cafe/menus/snack/",
+    "id": "dca-bayside-brews",
+    "name": "Bayside Brews",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/bayside-brews/menus/snack/",
     "added": [
-      "— Bluey's Berry Lemonade"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ak-isle-of-java-snack",
-    "name": "Isle of Java (Snack)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/isle-of-java/menus/snack/",
-    "added": [
-      "— Pretzel's Pretzels"
+      "2 Towns Cider House Prickly Pearadise Hard Cider",
+      "— Artifex Pink Guava Mango Hard Seltzer",
+      "Artifex Pink Guava Mango Hard Seltzer Michelada",
+      "— Crown and Hops 8 Tril Pils Michelada",
+      "2 Towns Prickly Pearadise Hard Cider Michelada"
     ],
     "removed": [
-      "— Mickey-shaped Pretzel",
-      "— Island Sunrise"
+      "— Crown and Hops 8 TrilPils"
     ]
   },
   {
-    "id": "ak-pizzafari",
-    "name": "Pizzafari",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/pizzafari/menus/lunch-and-dinner/",
+    "id": "dca-boardwalk-pizza-and-pasta",
+    "name": "Boardwalk Pizza & Pasta",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/boardwalk-pizza-pasta/menus/lunch-and-dinner/",
     "added": [
-      "— Bluey Sipper",
-      "— Bluey's Berry Lemonade",
-      "— Wackadoo Fruit Freeze",
-      "— Fairy Bread Cake"
+      "— Cheese Pizza - Whole",
+      "— Pepperoni Pizza - Whole"
     ],
     "removed": []
+  },
+  {
+    "id": "dca-carthay-circle-lounge-lunch",
+    "name": "Carthay Circle Lounge (Lunch)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-lounge/menus/lunch/",
+    "added": [
+      "— Beef Tortelloni"
+    ],
+    "removed": [
+      "— Beef and Spinach Cannelloni's"
+    ]
   }
 ]
