@@ -1,41 +1,34 @@
 [
   {
-    "id": "dca-bayside-brews",
-    "name": "Bayside Brews",
+    "id": "dca-carthay-circle-lounge-dinner",
+    "name": "Carthay Circle Lounge (Dinner)",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/bayside-brews/menus/snack/",
-    "added": [
-      "2 Towns Cider House Prickly Pearadise Hard Cider",
-      "— Artifex Pink Guava Mango Hard Seltzer",
-      "Artifex Pink Guava Mango Hard Seltzer Michelada",
-      "— Crown and Hops 8 Tril Pils Michelada",
-      "2 Towns Prickly Pearadise Hard Cider Michelada"
-    ],
-    "removed": [
-      "— Crown and Hops 8 TrilPils"
-    ]
-  },
-  {
-    "id": "dca-boardwalk-pizza-and-pasta",
-    "name": "Boardwalk Pizza & Pasta",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/boardwalk-pizza-pasta/menus/lunch-and-dinner/",
-    "added": [
-      "— Cheese Pizza - Whole",
-      "— Pepperoni Pizza - Whole"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dca-carthay-circle-lounge-lunch",
-    "name": "Carthay Circle Lounge (Lunch)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-lounge/menus/lunch/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-lounge/menus/dinner/",
     "added": [
       "— Beef Tortelloni"
     ],
     "removed": [
       "— Beef and Spinach Cannelloni's"
     ]
+  },
+  {
+    "id": "dca-cozy-cone-motel",
+    "name": "Cozy Cone Motel",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/cozy-cone-motel/menus/snack/",
+    "added": [
+      "Lightning McQueen Bucket [Available starting June 9]"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dca-flos-v8-cafe",
+    "name": "Flo's V8 Cafe",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/flos-v8-cafe/menus/lunch-and-dinner/",
+    "added": [
+      "Lightning McQueen Bucket [Available starting June 9]"
+    ],
+    "removed": []
   }
 ]
