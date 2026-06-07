@@ -1,33 +1,44 @@
 [
   {
-    "id": "dca-carthay-circle-lounge-dinner",
-    "name": "Carthay Circle Lounge (Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-lounge/menus/dinner/",
+    "id": "dl-bengal-barbecue",
+    "name": "Bengal Barbecue",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/bengal-barbecue/menus/",
     "added": [
-      "— Beef Tortelloni"
-    ],
-    "removed": [
-      "— Beef and Spinach Cannelloni's"
-    ]
-  },
-  {
-    "id": "dca-cozy-cone-motel",
-    "name": "Cozy Cone Motel",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/cozy-cone-motel/menus/snack/",
-    "added": [
-      "Lightning McQueen Bucket [Available starting June 9]"
+      "— Jungle Julep"
     ],
     "removed": []
   },
   {
-    "id": "dca-flos-v8-cafe",
-    "name": "Flo's V8 Cafe",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/flos-v8-cafe/menus/lunch-and-dinner/",
+    "id": "dl-docking-bay-7-food-and-cargo",
+    "name": "Docking Bay 7 Food and Cargo",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/docking-bay-7-food-and-cargo/menus/",
+    "added": [],
+    "removed": [
+      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Fountain Beverage",
+      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Specialty Beverage",
+      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Fountain Beverage",
+      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Specialty Beverage"
+    ]
+  },
+  {
+    "id": "dl-galactic-grill-breakfast",
+    "name": "Galactic Grill (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/breakfast/",
     "added": [
-      "Lightning McQueen Bucket [Available starting June 9]"
+      "— Tauntaun Bucket"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-galactic-grill-lunch-and-dinner",
+    "name": "Galactic Grill (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/lunch-and-dinner/",
+    "added": [
+      "— Tauntaun Bucket"
     ],
     "removed": []
   }
