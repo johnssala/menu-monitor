@@ -1,44 +1,92 @@
 [
   {
-    "id": "dl-bengal-barbecue",
-    "name": "Bengal Barbecue",
+    "id": "dl-good-boy-grocers",
+    "name": "Good Boy Grocers",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/bengal-barbecue/menus/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/good-boy-grocers/menus/",
     "added": [
-      "— Jungle Julep"
+      "— Frozen Sprite + Tea"
     ],
     "removed": []
   },
   {
-    "id": "dl-docking-bay-7-food-and-cargo",
-    "name": "Docking Bay 7 Food and Cargo",
+    "id": "dl-harbour-galley",
+    "name": "Harbour Galley",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/docking-bay-7-food-and-cargo/menus/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/harbour-galley/menus/lunch-and-dinner/",
+    "added": [
+      "— Louis Sipper"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-hungry-bear-barbecue-jamboree",
+    "name": "Hungry Bear Barbecue Jamboree",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/hungry-bear-barbecue/menus/lunch-and-dinner/",
+    "added": [
+      "— Louis Sipper"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-jolly-holiday-bakery-cafe-breakfast",
+    "name": "Jolly Holiday Bakery Cafe (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/breakfast/",
+    "added": [
+      "— Louis Sipper"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-jolly-holiday-bakery-cafe-lunch-and-dinner",
+    "name": "Jolly Holiday Bakery Cafe (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/lunch-and-dinner/",
+    "added": [
+      "— Louis Sipper"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-milk-stand-galaxys-edge",
+    "name": "Milk Stand – Star Wars: Galaxy's Edge",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/milk-stand/menus/",
     "added": [],
     "removed": [
-      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Fountain Beverage",
-      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Specialty Beverage",
-      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Fountain Beverage",
-      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Specialty Beverage"
+      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Milk",
+      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Milk"
     ]
   },
   {
-    "id": "dl-galactic-grill-breakfast",
-    "name": "Galactic Grill (Breakfast)",
+    "id": "dl-red-rose-taverne-breakfast",
+    "name": "Red Rose Taverne (Breakfast)",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/breakfast/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/breakfast/",
     "added": [
-      "— Tauntaun Bucket"
+      "— Rainbow Stuff"
     ],
     "removed": []
   },
   {
-    "id": "dl-galactic-grill-lunch-and-dinner",
-    "name": "Galactic Grill (Lunch & Dinner)",
+    "id": "dl-red-rose-taverne-lunch-and-dinner",
+    "name": "Red Rose Taverne (Lunch & Dinner)",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/lunch-and-dinner/",
     "added": [
-      "— Tauntaun Bucket"
+      "— Rainbow Stuff"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-refreshment-corner",
+    "name": "Refreshment Corner",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/refreshment-corner/menus/lunch-and-dinner/",
+    "added": [
+      "— Louis Sipper"
     ],
     "removed": []
   }
