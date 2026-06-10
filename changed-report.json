@@ -1,91 +1,22 @@
 [
   {
-    "id": "dl-the-tropical-hideaway",
-    "name": "The Tropical Hideaway",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/tropical-hideaway/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Chamoy Sauce"
-    ]
-  },
-  {
-    "id": "dl-tianas-palace",
-    "name": "Tiana's Palace",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/tianas-palace/menus/lunch-and-dinner/",
+    "id": "epcot-le-cellier-steakhouse-lunch",
+    "name": "Le Cellier Steakhouse (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/le-cellier-steakhouse/menus/lunch/",
     "added": [
-      "— Louis Sipper"
+      "— Ottawa Apple"
     ],
     "removed": []
   },
   {
-    "id": "epcot-akershus-royal-banquet-hall-lunch",
-    "name": "Akershus Royal Banquet Hall (Lunch)",
+    "id": "epcot-le-cellier-steakhouse-dinner",
+    "name": "Le Cellier Steakhouse (Dinner)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/akershus-royal-banquet-hall/menus/lunch/",
-    "added": [],
-    "removed": [
-      "Gulrøtter og Grønne Bønner: Carrots with Green Beans",
-      "— Lefse"
-    ]
-  },
-  {
-    "id": "epcot-akershus-royal-banquet-hall-dinner",
-    "name": "Akershus Royal Banquet Hall (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/akershus-royal-banquet-hall/menus/dinner/",
-    "added": [],
-    "removed": [
-      "Gulrøtter og Grønne Bønner: Carrots with Green Beans",
-      "— Lefse"
-    ]
-  },
-  {
-    "id": "epcot-block-and-hans",
-    "name": "Block & Hans",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/block-hans/menus/bar-%E2%80%93-lounge/",
-    "added": [],
-    "removed": [
-      "— Frozen Wildberry Limeade"
-    ]
-  },
-  {
-    "id": "epcot-canada-popcorn-cart",
-    "name": "Canada Popcorn Cart",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/popcorn-at-canada-pavilion/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Blueberry-Ginger Smash"
-    ]
-  },
-  {
-    "id": "epcot-connections-eatery",
-    "name": "Connections Eatery",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/connections-eatery/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/le-cellier-steakhouse/menus/dinner/",
     "added": [
-      "— American Classic Cheeseburger"
+      "— Ottawa Apple"
     ],
-    "removed": [
-      "— Hot Honey Chicken Sandwich",
-      "— Pizza Bianca",
-      "— Garden Glimmer",
-      "— American Classic Burger"
-    ]
-  },
-  {
-    "id": "epcot-coral-reef-restaurant",
-    "name": "Coral Reef Restaurant",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/coral-reef-restaurant/menus/dinner/",
-    "added": [
-      "— Seafood Macaroni & Cheese"
-    ],
-    "removed": [
-      "— Seafood Mac and Cheese"
-    ]
+    "removed": []
   }
 ]
