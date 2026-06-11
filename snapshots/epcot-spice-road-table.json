@@ -2,41 +2,7 @@
   "sections": [
     {
       "title": "menu",
-      "items": [
-        "Spice Road Table",
-        "Dinner Menu",
-        "— Lemon-Vegetable Couscous Tagine",
-        "— House-made Hummus Fries",
-        "— Spiced Lamb Kefta",
-        "— Spice Road Table Bread Service",
-        "— Spicy Shrimp",
-        "— Chicken Bastilla",
-        "— Crispy Pomegranate-Chili Cauliflower",
-        "— Dessert Platter",
-        "— Pomegranate Mimosa",
-        "— Hibiscus Mimosa",
-        "— Blood Orange Mimosa",
-        "— Moroccan Mule",
-        "— Medina Mixer",
-        "— Sahara Spritz",
-        "— Pomegranate Açaí",
-        "— Iced Mint Tea",
-        "Paul Cheneau 'Lady of Spain' Cava Brut, Spain",
-        "— Mas Fi Cava Brut, Spain",
-        "— Domaine Sigalas Assyrtiko, Santorini",
-        "— Burgáns Albariño, Spain",
-        "Bodegas Juan Gil 'Silver Label' Monastrell",
-        "— Bodegas Nekeas 'Vega Sindoa' Chardonnay",
-        "Bodegas Marqués de Cáceres Excellens Rosé, Spain",
-        "— CVNE ‘Cune’ Rioja Crianza, Spain",
-        "— House-made Sangria",
-        "— Mediterranean Beer",
-        "— Moroccan Blonde Ale",
-        "— Moroccan Hot Tea Service",
-        "Premium Sparkling Water",
-        "— smartwater®",
-        "— Assorted Fountain Beverages"
-      ]
+      "items": []
     }
   ]
 }

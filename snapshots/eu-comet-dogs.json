@@ -7,10 +7,10 @@
         "Handhelds Menu",
         "Beverages Menu",
         "— Handhelds",
-        "Philly Cheesesteak",
-        "— Philly Cheesesteak",
-        "Al Pastor",
-        "— Al Pastor",
+        "Philly Cheesesteak Dog",
+        "— Philly Cheesesteak Dog",
+        "Al Pastor Dog",
+        "— Al Pastor Dog",
         "Comet Dog",
         "— Comet Dog",
         "Vegan Dog",
@@ -22,8 +22,8 @@
         "— Beverages",
         "Fountain Drinks",
         "— Fountain Drinks",
-        "Niagara Bottled Water",
-        "— Niagara Bottled Water",
+        "H20+",
+        "— H20+",
         "Minute Maid® Orange Juice",
         "— Minute Maid® Orange Juice",
         "Minute Maid® Apple Juice",
@@ -32,8 +32,8 @@
         "— Powerade® Mountain Berry Blast",
         "Powerade® Fruit Punch",
         "— Powerade® Fruit Punch",
-        "Monster® Energy Ultra Violet",
-        "— Monster® Energy Ultra Violet"
+        "Monster® Energy Drink",
+        "— Monster® Energy Drink"
       ]
     }
   ]
