@@ -2,21 +2,7 @@
   "sections": [
     {
       "title": "menu",
-      "items": [
-        "Epic Eats",
-        "— All Day Menu",
-        "— Strawberry Funnel Cake",
-        "— Caramel-Apple Pie Funnel Cake",
-        "— Funnel Cake",
-        "— Soft-Serve Waffle Cone",
-        "— Epic Cold Brew Spectacular!",
-        "— Barq's® Root Beer Float",
-        "— Rum Island Breeze",
-        "— Cold Brew Float",
-        "— Vanilla Cold Brew",
-        "— Assorted Fountain Beverages",
-        "— DASANI® Bottled Water"
-      ]
+      "items": []
     }
   ]
 }

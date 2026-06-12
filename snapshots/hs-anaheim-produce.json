@@ -2,27 +2,7 @@
   "sections": [
     {
       "title": "menu",
-      "items": [
-        "Anaheim Produce",
-        "— All Day Menu",
-        "— Churro",
-        "— Mickey-shaped Pretzel",
-        "— Whole Fruit (Plant-based)",
-        "— Assorted Chips",
-        "— Cuties® Mandarin 3-pack",
-        "— Frozen Coca-Cola®",
-        "— Frozen Minute Maid® Lemonade",
-        "— Frozen Blue Raspberry Lemonade",
-        "— Assorted Bottled Beverages",
-        "— POWERADE®",
-        "— DASANI® Bottled Water",
-        "— smartwater®",
-        "— Blood Orange Margarita",
-        "— Anaheim Margarita",
-        "Frozen Coca-Cola® with Bacardí Superior Rum or Jack Daniel's Whiskey",
-        "— Frozen Golden Margarita",
-        "— Canned Beer"
-      ]
+      "items": []
     }
   ]
 }
