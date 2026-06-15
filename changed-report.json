@@ -1,244 +1,279 @@
 [
   {
-    "id": "hs-the-trolley-car-cafe",
-    "name": "The Trolley Car Café (Starbucks)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/trolley-car-cafe/menus/",
+    "id": "ioa-three-broomsticks",
+    "name": "Three Broomsticks",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/three-broomsticks/menu.html",
+    "added": [
+      "Jacket Potato BBQ Chicken",
+      "jacket potato with smoked BBQ chicken, Cheddar cheese sauce, sour cream & chives"
+    ],
+    "removed": [
+      "Continental Breakfast(FS, PS, SES, SFS, SS, TNS, V)",
+      "Continental Breakfast",
+      "a colorful array of fresh fruit served with croissants accompanied with assorted jams",
+      "Porridge Breakfast(FS, PS, SES, SFS, SS, TNS, V)",
+      "Porridge Breakfast",
+      "old fashioned steamed oats with fresh fruit and butter croissant",
+      "Child Traditional English Breakfast(FS, PS, SFS, TNS)",
+      "Child Traditional English Breakfast",
+      "fresh scrambled eggs, sausage link, English bacon, baked beans, grilled tomato, sautéed mushrooms and breakfast potatoes",
+      "Child Continental Breakfast(FS, PS, SES, SFS, SS, TNS, V)",
+      "Child Continental Breakfast",
+      "Child Porridge Breakfast(FS, PS, SES, SFS, SS, TNS, V)",
+      "Child Porridge Breakfast",
+      "Blood Sausage"
+    ]
+  },
+  {
+    "id": "ioa-thunder-falls-terrace",
+    "name": "Thunder Falls Terrace",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/thunder-falls-terrace/menu.html",
+    "added": [],
+    "removed": [
+      "Grad 2026 Coca-Cola Freestyle® Souvenir Cup",
+      "Enjoy more than 100 drink choices and refills thru the day* with the Coca-Cola Freestyle® souvenir cup."
+    ]
+  },
+  {
+    "id": "mk-aloha-isle",
+    "name": "Aloha Isle",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/aloha-isle/menus/snack/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "mk-astrofizz",
+    "name": "Astrofizz",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/astrofizz/menus/",
+    "added": [
+      "— Pride Slushy"
+    ],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "mk-auntie-gravitys-galactic-goodies",
+    "name": "Auntie Gravity's Galactic Goodies",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/auntie-gravitys-galactic-goodies/menus/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "mk-be-our-guest-restaurant-special",
+    "name": "Be Our Guest Restaurant (Special)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/special/",
+    "added": [],
+    "removed": [
+      "Lunch Menu"
+    ]
+  },
+  {
+    "id": "mk-be-our-guest-restaurant-lunch",
+    "name": "Be Our Guest Restaurant (Lunch)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/lunch/",
+    "added": [],
+    "removed": [
+      "Lunch Menu"
+    ]
+  },
+  {
+    "id": "mk-be-our-guest-restaurant-dinner",
+    "name": "Be Our Guest Restaurant (Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/dinner/",
+    "added": [],
+    "removed": [
+      "Dinner Menu"
+    ]
+  },
+  {
+    "id": "mk-caseys-corner",
+    "name": "Casey's Corner",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/caseys-corner/menus/",
+    "added": [],
+    "removed": [
+      "Lunch And Dinner Menu"
+    ]
+  },
+  {
+    "id": "mk-chesire-cafe",
+    "name": "Cheshire Café",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cheshire-cafe/menus/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "mk-cinderellas-royal-table-breakfast",
+    "name": "Cinderella's Royal Table (Breakfast)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cinderella-royal-table/menus/breakfast/",
+    "added": [],
+    "removed": [
+      "Breakfast Menu"
+    ]
+  },
+  {
+    "id": "mk-cinderellas-royal-table-lunch",
+    "name": "Cinderella's Royal Table (Lunch)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cinderella-royal-table/menus/lunch/",
+    "added": [],
+    "removed": [
+      "Lunch Menu"
+    ]
+  },
+  {
+    "id": "mk-cinderellas-royal-table-dinner",
+    "name": "Cinderella's Royal Table (Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cinderella-royal-table/menus/dinner/",
+    "added": [],
+    "removed": [
+      "Dinner Menu"
+    ]
+  },
+  {
+    "id": "mk-columbia-harbour-house",
+    "name": "Columbia Harbour House",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/columbia-harbour-house/menus/",
+    "added": [
+      "— Berry Shortcake",
+      "— Maple-Mustard Chicken Strips"
+    ],
+    "removed": [
+      "Lunch And Dinner Menu",
+      "— Seaside Chicken Strips"
+    ]
+  },
+  {
+    "id": "mk-cosmic-rays-starlight-cafe",
+    "name": "Cosmic Ray's Starlight Café",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cosmic-ray-starlight-cafe/menus/",
+    "added": [
+      "— Green Apple-Lemonade Slush",
+      "— Peanut Butter and Jelly Brownie"
+    ],
+    "removed": [
+      "Lunch And Dinner Menu",
+      "— Sulley Slush",
+      "— Passion Fruit-Mandarin Tart"
+    ]
+  },
+  {
+    "id": "mk-gastons-tavern",
+    "name": "Gaston's Tavern",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/gastons-tavern/menus/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "mk-golden-oak-outpost-breakfast",
+    "name": "Golden Oak Outpost (Breakfast)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/golden-oak-outpost/menus/breakfast/",
+    "added": [],
+    "removed": [
+      "Breakfast Menu"
+    ]
+  },
+  {
+    "id": "mk-golden-oak-outpost-lunch-and-dinner",
+    "name": "Golden Oak Outpost (Lunch & Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/golden-oak-outpost/menus/lunch-and-dinner/",
+    "added": [
+      "Hot Honey Chicken with Sweet Potato Fries",
+      "— Sweet Potato Fries"
+    ],
+    "removed": [
+      "Breakfast Menu",
+      "Honey Butter Chicken Biscuit Breakfast Sandwich",
+      "— Banana-Caramel Beignets",
+      "— Simply® Orange",
+      "— Small Lowfat Milk"
+    ]
+  },
+  {
+    "id": "mk-jungle-navigation-skipper-canteen-lunch",
+    "name": "Jungle Navigation Co. LTD Skipper Canteen (Lunch)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/jungle-navigation-skipper-canteen/menus/lunch/",
+    "added": [],
+    "removed": [
+      "Lunch Menu"
+    ]
+  },
+  {
+    "id": "mk-jungle-navigation-skipper-canteen-dinner",
+    "name": "Jungle Navigation Co. LTD Skipper Canteen (Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/jungle-navigation-skipper-canteen/menus/dinner/",
+    "added": [],
+    "removed": [
+      "Dinner Menu"
+    ]
+  },
+  {
+    "id": "mk-liberty-square-market",
+    "name": "Liberty Square Market",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/liberty-square-market/menus/",
+    "added": [
+      "— Red, White, and Blue Slushy"
+    ],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "mk-liberty-tree-tavern-lunch",
+    "name": "Liberty Tree Tavern (Lunch)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/liberty-tree-tavern/menus/lunch/",
+    "added": [],
+    "removed": [
+      "Lunch Menu"
+    ]
+  },
+  {
+    "id": "mk-liberty-tree-tavern-dinner",
+    "name": "Liberty Tree Tavern (Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/liberty-tree-tavern/menus/dinner/",
+    "added": [],
+    "removed": [
+      "Dinner Menu"
+    ]
+  },
+  {
+    "id": "mk-main-street-bakery",
+    "name": "Main Street Bakery (Starbucks)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/main-street-bakery/menus/",
     "added": [],
     "removed": [
       "— Coffee – Bakery Menu"
-    ]
-  },
-  {
-    "id": "hs-woodys-lunch-box-breakfast",
-    "name": "Woody's Lunch Box (Breakfast)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/breakfast/",
-    "added": [],
-    "removed": [
-      "Breakfast Menu"
-    ]
-  },
-  {
-    "id": "hs-woodys-lunch-box-lunch-and-dinner",
-    "name": "Woody's Lunch Box (Lunch & Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "Breakfast Menu"
-    ]
-  },
-  {
-    "id": "ioa-blondies",
-    "name": "Blondie's",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/blondies/menu.html",
-    "added": [],
-    "removed": [
-      "Grad 2026 Coca-Cola Freestyle® Souvenir Cup",
-      "Enjoy more than 100 drink choices and refills thru the day* with the Coca-Cola Freestyle® souvenir cup."
-    ]
-  },
-  {
-    "id": "ioa-cafe-4",
-    "name": "Cafe 4",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/cafe-4/menu.html",
-    "added": [],
-    "removed": [
-      "Grad 2026 Coca-Cola Freestyle® Souvenir Cup",
-      "Enjoy more than 100 drink choices and refills thru the day* with the Coca-Cola Freestyle® souvenir cup."
-    ]
-  },
-  {
-    "id": "ioa-captain-america-diner",
-    "name": "Captain America Diner",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/captain-america-diner/menu.html",
-    "added": [],
-    "removed": [
-      "Grad 2026 Coca-Cola Freestyle® Souvenir Cup",
-      "Enjoy more than 100 drink choices and refills thru the day* with the Coca-Cola Freestyle® souvenir cup."
-    ]
-  },
-  {
-    "id": "ioa-circus-mcgurkus-cafe-stoo-pendous",
-    "name": "Circus McGurkus Cafe Stoo-pendous",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/circus-mcgurkus-cafe-stoo-pendous/menu.html",
-    "added": [],
-    "removed": [
-      "Grad 2026 Coca-Cola Freestyle® Souvenir Cup",
-      "Enjoy more than 100 drink choices and refills thru the day* with the Coca-Cola Freestyle® souvenir cup."
-    ]
-  },
-  {
-    "id": "ioa-comic-strip-cafe",
-    "name": "Comic Strip Cafe",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/comic-strip-cafe/menu.html",
-    "added": [],
-    "removed": [
-      "Grad 2026 Coca-Cola Freestyle® Souvenir Cup",
-      "Enjoy more than 100 drink choices and refills thru the day* with the Coca-Cola Freestyle® souvenir cup."
-    ]
-  },
-  {
-    "id": "ioa-confisco-grille-dessert",
-    "name": "Confisco Grille (Dessert)",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/confisco-grille/dessert_menu.html",
-    "added": [
-      "Desserts",
-      "Dubai Dream Bread Pudding"
-    ],
-    "removed": [
-      "Chocolate Mocha Pyramid",
-      "decadent layers of coffee flavored butter cream and chocolate ganache"
-    ]
-  },
-  {
-    "id": "ioa-fire-eaters-grill",
-    "name": "Fire Eater's Grill",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/fire-eaters-grill/menu.html",
-    "added": [],
-    "removed": [
-      "Grad 2026 Coca-Cola Freestyle® Souvenir Cup",
-      "Enjoy more than 100 drink choices and refills thru the day* with the Coca-Cola Freestyle® souvenir cup."
-    ]
-  },
-  {
-    "id": "ioa-green-eggs-and-ham-cafe",
-    "name": "Green Eggs and Ham Cafe",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/green-eggs-and-ham-cafe/menu.html",
-    "added": [
-      "served with single serve fountain beverage",
-      "bacon cheeseburger inspired tater tots topped with a special sauce, cheese, bacon, pickles and red onions & tomatoes",
-      "Vegan Chorizo Tots",
-      "chorizo with pepperjack cheese, corn, roasted pepper sauce, tri-colored tortilla strips and scallions",
-      "Coca-Cola®, Coke Zero Sugar®, Diet Coke®, Sprite®, Fanta Orange®, Minute Maid® Lemonade, Barq's Root Beer®"
-    ],
-    "removed": [
-      "Combos served with single serve fountain beverage",
-      "Cheeseburger Tots(FS, GS, PS, SES, SFS, SS, TNS)",
-      "bacon cheeseburger inspired tater tots topped with a special sauce, cheese, pickles and red onions",
-      "12.49 | Combo 16.99",
-      "Green Eggs & Ham Tots(FS, GS, PS, SES, SFS, SS, TNS)",
-      "green eggs, diced ham, white cheese sauce over tater tots 11.49 | Combo 15.99",
-      "11.49 | Combo 15.99",
-      "Pizza Tots(ES, FS, GS, PS, SES, SFS, SS, TNS)",
-      "Pizza Tots",
-      "pepperoni, sausage, mozzarella cheese, tomato sauce over tater tots 11.49 | Combo 15.99",
-      "pepperoni, sausage, mozzarella cheese, tomato sauce over tater tots",
-      "Who Hash(ES, FS, GS, PS, SES, SFS, SS, TNS)",
-      "corned beef, onions, white cheese sauce, scallions and tater tots in a Who Hash can 16.49 | Combo 20.99",
-      "16.49 | Combo 20.99",
-      "Buffalo Chicken Tots(FS, PS, SES, SFS, SS, TNS)",
-      "chicken tenders, mozzarella cheese, ranch and Buffalo sauce over tater tots 12.49 | Combo 16.99",
-      "Vegan Pizza Tots(DS, ES, FS, PS, SES, SFS, TNS, VG)",
-      "Vegan Pizza Tots",
-      "plant based pepperoni, sausage, mozzarella and Parmesan cheese over tater tots 11.49 | Combo 15.99",
-      "plant based pepperoni, sausage, mozzarella and Parmesan cheese over tater tots",
-      "Caramel Popcorn Cupcake",
-      "Coke, Coke Zero Sugar, Diet Coke, Sprite, Fanta Orange, Minute Maid Lemonade, Root Beer",
-      "Powerade",
-      "Fruit Punch, Mountain Berry Blast"
-    ]
-  },
-  {
-    "id": "ioa-hop-on-pop-ice-cream-shop",
-    "name": "Hop on Pop Ice Cream Shop",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/hop-on-pop-ice-cream-shop/menu.html",
-    "added": [
-      "served warm with vanilla ice cream, whipped topping, raspberry sauce, Cap'n Crunch's Crunch Berries® cereal topping",
-      "Coca-Cola®, Coke Zero Sugar®, Diet Coke®, Sprite®, Fanta Orange®, Barq's Root Beer,® Minute Maid® Lemonade",
-      "Powerade®"
-    ],
-    "removed": [
-      "Banana Split Sundae",
-      "fresh banana with strawberry, vanilla, chocolate ice cream, whipped topping, maraschino cherries",
-      "Crunch Bunch Ice Cream Bunch",
-      "Cap'n Crunch® cereal bar, vanilla ice cream, white chocolate",
-      "Sundae On A Stick",
-      "vanilla ice cream bar hand dipped in chocolate with your choice of topping",
-      "mint chocolate chip, strawberry, chocolate or vanilla",
-      "Coca-Cola, Coke Zero Sugar, Diet Coke, Sprite, Fanta Orange, Barq's Root Beer, Minute Maid Lemonade",
-      "Powerade"
-    ]
-  },
-  {
-    "id": "ioa-moose-juice-goose-juice",
-    "name": "Moose Juice, Goose Juice",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/moose-juice-goose-juice/menu.html",
-    "added": [
-      "Bacon Mac & Cheese Stromboli",
-      "Churro",
-      "with chocolate sauce",
-      "Corn Dog",
-      "Cheetos®, Doritos®, Sun Chips®",
-      "Coca-Cola®, Coke Zero Sugar®, Diet Coke®, Sprite®, Fanta Orange®, Minute Maid® Lemonade, Coca-Cola Cherry®",
-      "Minute Maid® Juice",
-      "orange or apple",
-      "Hot Beverages"
-    ],
-    "removed": [
-      "Cheesy Crunch Pretzel Dog",
-      "1/3 pound all beef hot dog, Fritos® Honey BBQ Twists, cheddar cheese sauce",
-      "Cinnamon Churro with Chocolate Sauce",
-      "Bavarian Pretzel with Tostitos® Nacho Cheese Sauce",
-      "Coca-Cola, Coke Zero Sugar, Diet Coke, Sprite, Coca-Cola Cherry, Fanta Orange, Hi-C Pink Lemonade",
-      "Minute Maid Bottled Lemonade",
-      "Fuze Tea Bottled",
-      "Monster Energy"
-    ]
-  },
-  {
-    "id": "ioa-mythos-restaurant-everyday",
-    "name": "Mythos Restaurant (Everyday)",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/mythos-restaurant/menu.html",
-    "added": [
-      "Love is on the menu",
-      "Love is to be savored. This Pride month, find every flavor of fun in the Parks* and CityWalk*. *Select venues only",
-      "Love is to be savored. This Pride month, find every flavor of fun in the Parks* and CityWalk*.",
-      "*Select venues only",
-      "Pink Pegasus"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ioa-pizza-predattoria",
-    "name": "Pizza Predattoria",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/pizza-predattoria/menu.html",
-    "added": [
-      "Meat Lovers Pizza Platter",
-      "sausage, pepperoni, ham, tomato sauce, mozzarella cheese, served with a side Caesar salad",
-      "Pepperoni Pizza Platter",
-      "pepperoni, tomato sauce, mozzarella cheese, served with a side Caesar salad",
-      "Cheese Pizza Platter",
-      "tomato sauce, mozzarella cheese, served with a side Caesar salad",
-      "Chicken Caesar Platter",
-      "roasted chicken breast, romaine lettuce, Caesar dressing, crisp croutons, parmesan cheese, garlic knot"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ioa-the-burger-digs",
-    "name": "The Burger Digs",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-burger-digs/menu.html",
-    "added": [],
-    "removed": [
-      "Grad 2026 Coca-Cola Freestyle® Souvenir Cup",
-      "Enjoy more than 100 drink choices and refills thru the day* with the Coca-Cola Freestyle® souvenir cup.",
-      "T-Rex Sipper",
-      "Coca-Cola, Coke Zero Sugar, Diet Coke, Fanta Orange, Minute Maid Lemonade, Sprite"
     ]
   }
 ]
