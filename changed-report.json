@@ -1,279 +1,271 @@
 [
   {
-    "id": "ioa-three-broomsticks",
-    "name": "Three Broomsticks",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/three-broomsticks/menu.html",
-    "added": [
-      "Jacket Potato BBQ Chicken",
-      "jacket potato with smoked BBQ chicken, Cheddar cheese sauce, sour cream & chives"
-    ],
-    "removed": [
-      "Continental Breakfast(FS, PS, SES, SFS, SS, TNS, V)",
-      "Continental Breakfast",
-      "a colorful array of fresh fruit served with croissants accompanied with assorted jams",
-      "Porridge Breakfast(FS, PS, SES, SFS, SS, TNS, V)",
-      "Porridge Breakfast",
-      "old fashioned steamed oats with fresh fruit and butter croissant",
-      "Child Traditional English Breakfast(FS, PS, SFS, TNS)",
-      "Child Traditional English Breakfast",
-      "fresh scrambled eggs, sausage link, English bacon, baked beans, grilled tomato, sautéed mushrooms and breakfast potatoes",
-      "Child Continental Breakfast(FS, PS, SES, SFS, SS, TNS, V)",
-      "Child Continental Breakfast",
-      "Child Porridge Breakfast(FS, PS, SES, SFS, SS, TNS, V)",
-      "Child Porridge Breakfast",
-      "Blood Sausage"
-    ]
-  },
-  {
-    "id": "ioa-thunder-falls-terrace",
-    "name": "Thunder Falls Terrace",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/thunder-falls-terrace/menu.html",
-    "added": [],
-    "removed": [
-      "Grad 2026 Coca-Cola Freestyle® Souvenir Cup",
-      "Enjoy more than 100 drink choices and refills thru the day* with the Coca-Cola Freestyle® souvenir cup."
-    ]
-  },
-  {
-    "id": "mk-aloha-isle",
-    "name": "Aloha Isle",
+    "id": "mk-pecos-bill-tall-tale-inn-and-cafe",
+    "name": "Pecos Bill Tall Tale Inn and Cafe",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/aloha-isle/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "mk-astrofizz",
-    "name": "Astrofizz",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/astrofizz/menus/",
-    "added": [
-      "— Pride Slushy"
-    ],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "mk-auntie-gravitys-galactic-goodies",
-    "name": "Auntie Gravity's Galactic Goodies",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/auntie-gravitys-galactic-goodies/menus/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "mk-be-our-guest-restaurant-special",
-    "name": "Be Our Guest Restaurant (Special)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/special/",
-    "added": [],
-    "removed": [
-      "Lunch Menu"
-    ]
-  },
-  {
-    "id": "mk-be-our-guest-restaurant-lunch",
-    "name": "Be Our Guest Restaurant (Lunch)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/lunch/",
-    "added": [],
-    "removed": [
-      "Lunch Menu"
-    ]
-  },
-  {
-    "id": "mk-be-our-guest-restaurant-dinner",
-    "name": "Be Our Guest Restaurant (Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/dinner/",
-    "added": [],
-    "removed": [
-      "Dinner Menu"
-    ]
-  },
-  {
-    "id": "mk-caseys-corner",
-    "name": "Casey's Corner",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/caseys-corner/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/pecos-bill-tall-tale-inn-and-cafe/menus/",
     "added": [],
     "removed": [
       "Lunch And Dinner Menu"
     ]
   },
   {
-    "id": "mk-chesire-cafe",
-    "name": "Cheshire Café",
+    "id": "mk-pinocchio-village-haus",
+    "name": "Pinocchio Village Haus",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cheshire-cafe/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/pinocchio-village-haus/menus/lunch-and-dinner/",
+    "added": [
+      "— A Cuties® Mandarin"
+    ],
+    "removed": [
+      "Lunch And Dinner Menu"
+    ]
+  },
+  {
+    "id": "mk-plaza-ice-cream-parlor",
+    "name": "Plaza Ice Cream Parlor",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-ice-cream-parlor/menus/snack/",
     "added": [],
     "removed": [
       "— Snack Menu"
     ]
   },
   {
-    "id": "mk-cinderellas-royal-table-breakfast",
-    "name": "Cinderella's Royal Table (Breakfast)",
+    "id": "mk-prince-erics-village-market",
+    "name": "Prince Eric's Village Market",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cinderella-royal-table/menus/breakfast/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/prince-eric-village-market/menus/snack/",
     "added": [],
     "removed": [
-      "Breakfast Menu"
+      "— Snack Menu"
     ]
   },
   {
-    "id": "mk-cinderellas-royal-table-lunch",
-    "name": "Cinderella's Royal Table (Lunch)",
+    "id": "mk-sleepy-hollow",
+    "name": "Sleepy Hollow",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cinderella-royal-table/menus/lunch/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/sleepy-hollow/menus/all-day/",
+    "added": [
+      "— Red, White, and Blue Funnel Cake",
+      "— Red, White, and Blue Waffle"
+    ],
+    "removed": [
+      "— All Day Menu"
+    ]
+  },
+  {
+    "id": "mk-storybook-treats",
+    "name": "Storybook Treats",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/storybook-treats/menus/snack/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "mk-sunshine-tree-terrace",
+    "name": "Sunshine Tree Terrace",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/sunshine-tree-terrace/menus/snack/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "mk-the-beak-and-barrel-lunch",
+    "name": "The Beak and Barrel (Lunch)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/beak-barrel/menus/lunch/",
     "added": [],
     "removed": [
       "Lunch Menu"
     ]
   },
   {
-    "id": "mk-cinderellas-royal-table-dinner",
-    "name": "Cinderella's Royal Table (Dinner)",
+    "id": "mk-the-beak-and-barrel-dinner",
+    "name": "The Beak and Barrel (Dinner)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cinderella-royal-table/menus/dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/beak-barrel/menus/dinner/",
     "added": [],
     "removed": [
       "Dinner Menu"
     ]
   },
   {
-    "id": "mk-columbia-harbour-house",
-    "name": "Columbia Harbour House",
+    "id": "mk-the-crystal-palace-breakfast",
+    "name": "The Crystal Palace (Breakfast)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/columbia-harbour-house/menus/",
-    "added": [
-      "— Berry Shortcake",
-      "— Maple-Mustard Chicken Strips"
-    ],
-    "removed": [
-      "Lunch And Dinner Menu",
-      "— Seaside Chicken Strips"
-    ]
-  },
-  {
-    "id": "mk-cosmic-rays-starlight-cafe",
-    "name": "Cosmic Ray's Starlight Café",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cosmic-ray-starlight-cafe/menus/",
-    "added": [
-      "— Green Apple-Lemonade Slush",
-      "— Peanut Butter and Jelly Brownie"
-    ],
-    "removed": [
-      "Lunch And Dinner Menu",
-      "— Sulley Slush",
-      "— Passion Fruit-Mandarin Tart"
-    ]
-  },
-  {
-    "id": "mk-gastons-tavern",
-    "name": "Gaston's Tavern",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/gastons-tavern/menus/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "mk-golden-oak-outpost-breakfast",
-    "name": "Golden Oak Outpost (Breakfast)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/golden-oak-outpost/menus/breakfast/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/crystal-palace/menus/breakfast/",
     "added": [],
     "removed": [
       "Breakfast Menu"
     ]
   },
   {
-    "id": "mk-golden-oak-outpost-lunch-and-dinner",
-    "name": "Golden Oak Outpost (Lunch & Dinner)",
+    "id": "mk-the-crystal-palace-lunch",
+    "name": "The Crystal Palace (Lunch)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/golden-oak-outpost/menus/lunch-and-dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/crystal-palace/menus/lunch/",
+    "added": [],
+    "removed": [
+      "Lunch Menu"
+    ]
+  },
+  {
+    "id": "mk-the-crystal-palace-dinner",
+    "name": "The Crystal Palace (Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/crystal-palace/menus/dinner/",
+    "added": [],
+    "removed": [
+      "Dinner Menu"
+    ]
+  },
+  {
+    "id": "mk-the-diamond-horseshoe-lunch",
+    "name": "The Diamond Horseshoe (Lunch)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/diamond-horseshoe/menus/lunch/",
+    "added": [],
+    "removed": [
+      "Lunch Menu"
+    ]
+  },
+  {
+    "id": "mk-the-diamond-horseshoe-dinner",
+    "name": "The Diamond Horseshoe (Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/diamond-horseshoe/menus/dinner/",
+    "added": [],
+    "removed": [
+      "Dinner Menu"
+    ]
+  },
+  {
+    "id": "mk-the-friars-nook-breakfast",
+    "name": "The Friar's Nook (Breakfast)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/breakfast/",
     "added": [
-      "Hot Honey Chicken with Sweet Potato Fries",
-      "— Sweet Potato Fries"
+      "— Barbecue Pork Tot Bowl"
     ],
     "removed": [
       "Breakfast Menu",
-      "Honey Butter Chicken Biscuit Breakfast Sandwich",
-      "— Banana-Caramel Beignets",
-      "— Simply® Orange",
-      "— Small Lowfat Milk"
+      "— Mac & Cheese Hand Pie"
     ]
   },
   {
-    "id": "mk-jungle-navigation-skipper-canteen-lunch",
-    "name": "Jungle Navigation Co. LTD Skipper Canteen (Lunch)",
+    "id": "mk-the-friars-nook-lunch-and-dinner",
+    "name": "The Friar's Nook (Lunch & Dinner)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/jungle-navigation-skipper-canteen/menus/lunch/",
-    "added": [],
-    "removed": [
-      "Lunch Menu"
-    ]
-  },
-  {
-    "id": "mk-jungle-navigation-skipper-canteen-dinner",
-    "name": "Jungle Navigation Co. LTD Skipper Canteen (Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/jungle-navigation-skipper-canteen/menus/dinner/",
-    "added": [],
-    "removed": [
-      "Dinner Menu"
-    ]
-  },
-  {
-    "id": "mk-liberty-square-market",
-    "name": "Liberty Square Market",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/liberty-square-market/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/lunch-and-dinner/",
     "added": [
-      "— Red, White, and Blue Slushy"
+      "— Barbecue Pork Tot Bowl"
     ],
     "removed": [
-      "— Snack Menu"
+      "Breakfast Menu",
+      "— Mac & Cheese Hand Pie"
     ]
   },
   {
-    "id": "mk-liberty-tree-tavern-lunch",
-    "name": "Liberty Tree Tavern (Lunch)",
+    "id": "mk-the-lunching-pad-breakfast",
+    "name": "The Lunching Pad (Breakfast)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/liberty-tree-tavern/menus/lunch/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/lunching-pad/menus/breakfast/",
+    "added": [],
+    "removed": [
+      "Breakfast Menu"
+    ]
+  },
+  {
+    "id": "mk-the-lunching-pad-lunch-and-dinner",
+    "name": "The Lunching Pad (Lunch & Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/lunching-pad/menus/lunch-and-dinner/",
+    "added": [
+      "— Cuban Hot Dog",
+      "— Queso Fundido Hot Dog",
+      "— All-Beef Hot Dog"
+    ],
+    "removed": [
+      "Breakfast Menu",
+      "— Breakfast Bowl",
+      "— Simply® Orange",
+      "Large Freshly Brewed Joffrey's Coffee™ Regular",
+      "— Freshly Brewed Joffrey's Coffee™ Regular"
+    ]
+  },
+  {
+    "id": "mk-the-plaza-restaurant-lunch",
+    "name": "The Plaza Restaurant (Lunch)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-restaurant/menus/lunch/",
     "added": [],
     "removed": [
       "Lunch Menu"
     ]
   },
   {
-    "id": "mk-liberty-tree-tavern-dinner",
-    "name": "Liberty Tree Tavern (Dinner)",
+    "id": "mk-the-plaza-restaurant-dinner",
+    "name": "The Plaza Restaurant (Dinner)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/liberty-tree-tavern/menus/dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-restaurant/menus/dinner/",
     "added": [],
     "removed": [
       "Dinner Menu"
     ]
   },
   {
-    "id": "mk-main-street-bakery",
-    "name": "Main Street Bakery (Starbucks)",
+    "id": "mk-tonys-town-square-restaurant-lunch",
+    "name": "Tony's Town Square Restaurant (Lunch)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/main-street-bakery/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/tonys-town-square-restaurant/menus/lunch/",
     "added": [],
     "removed": [
-      "— Coffee – Bakery Menu"
+      "Lunch Menu"
+    ]
+  },
+  {
+    "id": "mk-tonys-town-square-restaurant-dinner",
+    "name": "Tony's Town Square Restaurant (Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/tonys-town-square-restaurant/menus/dinner/",
+    "added": [],
+    "removed": [
+      "Dinner Menu"
+    ]
+  },
+  {
+    "id": "mk-tortuga-tavern",
+    "name": "Tortuga Tavern",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/tortuga-tavern/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "Lunch And Dinner Menu"
+    ]
+  },
+  {
+    "id": "mk-westward-ho-breakfast",
+    "name": "Westward Ho (Breakfast)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/westward-ho/menus/breakfast/",
+    "added": [],
+    "removed": [
+      "Breakfast Menu"
+    ]
+  },
+  {
+    "id": "mk-westward-ho-lunch-and-dinner",
+    "name": "Westward Ho (Lunch & Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/westward-ho/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "Breakfast Menu"
     ]
   }
 ]
