@@ -1,271 +1,175 @@
 [
   {
-    "id": "mk-pecos-bill-tall-tale-inn-and-cafe",
-    "name": "Pecos Bill Tall Tale Inn and Cafe",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/pecos-bill-tall-tale-inn-and-cafe/menus/",
+    "id": "tl-happy-landings-ice-cream",
+    "name": "Happy Landings Ice Cream",
+    "park": "Typhoon Lagoon",
+    "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/happy-landings-ice-cream/menus/snack/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "tl-leaning-palms",
+    "name": "Leaning Palms",
+    "park": "Typhoon Lagoon",
+    "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/leaning-palms/menus/lunch/",
+    "added": [],
+    "removed": [
+      "Lunch Menu"
+    ]
+  },
+  {
+    "id": "tl-lowtide-lous",
+    "name": "Lowtide Lou's",
+    "park": "Typhoon Lagoon",
+    "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/low-tide-lou/menus/snack/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "tl-snack-shack",
+    "name": "Snack Shack",
+    "park": "Typhoon Lagoon",
+    "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/snack-shack/menus/snack/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "tl-surf-doggies",
+    "name": "Surf Doggies",
+    "park": "Typhoon Lagoon",
+    "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/surf-doggies/menus/snack/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "tl-typhoon-tillys",
+    "name": "Typhoon Tilly's",
+    "park": "Typhoon Lagoon",
+    "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/typhoon-tilly/menus/lunch-and-dinner/",
     "added": [],
     "removed": [
       "Lunch And Dinner Menu"
     ]
   },
   {
-    "id": "mk-pinocchio-village-haus",
-    "name": "Pinocchio Village Haus",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/pinocchio-village-haus/menus/lunch-and-dinner/",
+    "id": "usf-freeze-ray-pops",
+    "name": "Freeze Ray Pops",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/freeze-ray-pops/menu.html",
     "added": [
-      "— A Cuties® Mandarin"
+      "Vanilla Bean",
+      "Chocolate Sea Salt"
     ],
     "removed": [
-      "Lunch And Dinner Menu"
+      "Coconut",
+      "Cotton Candy"
     ]
   },
   {
-    "id": "mk-plaza-ice-cream-parlor",
-    "name": "Plaza Ice Cream Parlor",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-ice-cream-parlor/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "mk-prince-erics-village-market",
-    "name": "Prince Eric's Village Market",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/prince-eric-village-market/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "mk-sleepy-hollow",
-    "name": "Sleepy Hollow",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/sleepy-hollow/menus/all-day/",
+    "id": "usf-illuminations-minion-cafe",
+    "name": "Illumination's Minion Cafe",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/illuminations-minion-cafe/menu.html",
     "added": [
-      "— Red, White, and Blue Funnel Cake",
-      "— Red, White, and Blue Waffle"
+      "Otto's Carbonara",
+      "yellow cavatappi, garlic cream sauce, pancetta, peas",
+      "Jerry's Mega Cheesy Burger",
+      "crispy tortilla chips, ropa vieja, jalapeños, cilantro lime crema, tomatoes, onions, cheese sauce, fresh cilantro",
+      "Bob's Cheesy Mashup",
+      "bacon cheddar potato waffle, mac and cheese, cheese sauce, mini banana, grapes"
     ],
     "removed": [
-      "— All Day Menu"
+      "El Macho's Salsa y Salsa Ropa Vieja",
+      "braised beef with tomato cucumber salad, cilantro rice, salsa roja and El Macho tostones",
+      "Otto's Noodle Bowl",
+      "slow roasted porchetta, udon noodles, tare egg, roast corn, vegetable dumpling, tonkotsu broth",
+      "French onion dipped roast beef, caramelized onions, secret sauce, cheesy blast pimento cheese on a cheddar & onion roll",
+      "Grad 2026 Coca-Cola Freestyle® Souvenir Cup",
+      "Enjoy more than 100 drink choices and refills thru the day* with the Coca-Cola Freestyle® souvenir cup.",
+      "Mini Boss' Mega Melt",
+      "pimento cheddar grilled cheese with Minion tots and a mini banana"
     ]
   },
   {
-    "id": "mk-storybook-treats",
-    "name": "Storybook Treats",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/storybook-treats/menus/snack/",
+    "id": "usf-krusty-burger",
+    "name": "Krusty Burger",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/krusty-burger/menu.html",
+    "added": [],
+    "removed": []
+  },
+  {
+    "id": "usf-leaky-cauldron-breakfast",
+    "name": "Leaky Cauldron (Breakfast)",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/leaky-cauldron/breakfast-menu.html",
     "added": [],
     "removed": [
-      "— Snack Menu"
+      "Blood Sausage"
     ]
   },
   {
-    "id": "mk-sunshine-tree-terrace",
-    "name": "Sunshine Tree Terrace",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/sunshine-tree-terrace/menus/snack/",
+    "id": "usf-leaky-cauldron-lunch-and-dinner",
+    "name": "Leaky Cauldron (Lunch & Dinner)",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/leaky-cauldron/menu.html",
     "added": [],
     "removed": [
-      "— Snack Menu"
+      "Blood Sausage"
     ]
   },
   {
-    "id": "mk-the-beak-and-barrel-lunch",
-    "name": "The Beak and Barrel (Lunch)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/beak-barrel/menus/lunch/",
+    "id": "usf-louies-italian-restaurant",
+    "name": "Louie's Italian Restaurant",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/louies-italian-restaurant/menu.html",
     "added": [],
     "removed": [
-      "Lunch Menu"
+      "Grad 2026 Coca-Cola Freestyle® Souvenir Cup",
+      "Enjoy more than 100 drink choices and refills thru the day* with the Coca-Cola Freestyle® souvenir cup."
     ]
   },
   {
-    "id": "mk-the-beak-and-barrel-dinner",
-    "name": "The Beak and Barrel (Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/beak-barrel/menus/dinner/",
+    "id": "usf-luigis-pizza",
+    "name": "Luigi's Pizza",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/luigis-pizza/menu.html",
+    "added": [],
+    "removed": []
+  },
+  {
+    "id": "usf-mels-drive-in",
+    "name": "Mel's Drive-In",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/mels-drive-in/menu.html",
     "added": [],
     "removed": [
-      "Dinner Menu"
+      "Grad 2026 Coca-Cola Freestyle® Souvenir Cup",
+      "Enjoy more than 100 drink choices and refills thru the day* with the Coca-Cola Freestyle® souvenir cup."
     ]
   },
   {
-    "id": "mk-the-crystal-palace-breakfast",
-    "name": "The Crystal Palace (Breakfast)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/crystal-palace/menus/breakfast/",
-    "added": [],
-    "removed": [
-      "Breakfast Menu"
-    ]
-  },
-  {
-    "id": "mk-the-crystal-palace-lunch",
-    "name": "The Crystal Palace (Lunch)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/crystal-palace/menus/lunch/",
-    "added": [],
-    "removed": [
-      "Lunch Menu"
-    ]
-  },
-  {
-    "id": "mk-the-crystal-palace-dinner",
-    "name": "The Crystal Palace (Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/crystal-palace/menus/dinner/",
-    "added": [],
-    "removed": [
-      "Dinner Menu"
-    ]
-  },
-  {
-    "id": "mk-the-diamond-horseshoe-lunch",
-    "name": "The Diamond Horseshoe (Lunch)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/diamond-horseshoe/menus/lunch/",
-    "added": [],
-    "removed": [
-      "Lunch Menu"
-    ]
-  },
-  {
-    "id": "mk-the-diamond-horseshoe-dinner",
-    "name": "The Diamond Horseshoe (Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/diamond-horseshoe/menus/dinner/",
-    "added": [],
-    "removed": [
-      "Dinner Menu"
-    ]
-  },
-  {
-    "id": "mk-the-friars-nook-breakfast",
-    "name": "The Friar's Nook (Breakfast)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/breakfast/",
+    "id": "usf-richters-burger-co",
+    "name": "Richter's Burger Co.",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/richters-burger-co/menu.html",
     "added": [
-      "— Barbecue Pork Tot Bowl"
+      "Impossible™ Vegetarian Smash Burger Combo",
+      "Impossible™ Vegetarian Smash Burger Platter"
     ],
     "removed": [
-      "Breakfast Menu",
-      "— Mac & Cheese Hand Pie"
-    ]
-  },
-  {
-    "id": "mk-the-friars-nook-lunch-and-dinner",
-    "name": "The Friar's Nook (Lunch & Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/lunch-and-dinner/",
-    "added": [
-      "— Barbecue Pork Tot Bowl"
-    ],
-    "removed": [
-      "Breakfast Menu",
-      "— Mac & Cheese Hand Pie"
-    ]
-  },
-  {
-    "id": "mk-the-lunching-pad-breakfast",
-    "name": "The Lunching Pad (Breakfast)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/lunching-pad/menus/breakfast/",
-    "added": [],
-    "removed": [
-      "Breakfast Menu"
-    ]
-  },
-  {
-    "id": "mk-the-lunching-pad-lunch-and-dinner",
-    "name": "The Lunching Pad (Lunch & Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/lunching-pad/menus/lunch-and-dinner/",
-    "added": [
-      "— Cuban Hot Dog",
-      "— Queso Fundido Hot Dog",
-      "— All-Beef Hot Dog"
-    ],
-    "removed": [
-      "Breakfast Menu",
-      "— Breakfast Bowl",
-      "— Simply® Orange",
-      "Large Freshly Brewed Joffrey's Coffee™ Regular",
-      "— Freshly Brewed Joffrey's Coffee™ Regular"
-    ]
-  },
-  {
-    "id": "mk-the-plaza-restaurant-lunch",
-    "name": "The Plaza Restaurant (Lunch)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-restaurant/menus/lunch/",
-    "added": [],
-    "removed": [
-      "Lunch Menu"
-    ]
-  },
-  {
-    "id": "mk-the-plaza-restaurant-dinner",
-    "name": "The Plaza Restaurant (Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-restaurant/menus/dinner/",
-    "added": [],
-    "removed": [
-      "Dinner Menu"
-    ]
-  },
-  {
-    "id": "mk-tonys-town-square-restaurant-lunch",
-    "name": "Tony's Town Square Restaurant (Lunch)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/tonys-town-square-restaurant/menus/lunch/",
-    "added": [],
-    "removed": [
-      "Lunch Menu"
-    ]
-  },
-  {
-    "id": "mk-tonys-town-square-restaurant-dinner",
-    "name": "Tony's Town Square Restaurant (Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/tonys-town-square-restaurant/menus/dinner/",
-    "added": [],
-    "removed": [
-      "Dinner Menu"
-    ]
-  },
-  {
-    "id": "mk-tortuga-tavern",
-    "name": "Tortuga Tavern",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/tortuga-tavern/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "Lunch And Dinner Menu"
-    ]
-  },
-  {
-    "id": "mk-westward-ho-breakfast",
-    "name": "Westward Ho (Breakfast)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/westward-ho/menus/breakfast/",
-    "added": [],
-    "removed": [
-      "Breakfast Menu"
-    ]
-  },
-  {
-    "id": "mk-westward-ho-lunch-and-dinner",
-    "name": "Westward Ho (Lunch & Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/westward-ho/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "Breakfast Menu"
+      "Impossible™ Smash Burger Combo",
+      "Impossible™ Smash Burger Platter",
+      "Grad 2026 Coca-Cola Freestyle® Souvenir Cup",
+      "Enjoy more than 100 drink choices and refills thru the day* with the Coca-Cola Freestyle® souvenir cup."
     ]
   }
 ]
