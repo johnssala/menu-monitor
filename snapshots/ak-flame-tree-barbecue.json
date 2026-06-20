@@ -4,7 +4,6 @@
       "title": "menu",
       "items": [
         "Flame Tree Barbecue",
-        "Lunch And Dinner Menu",
         "— Frozen Mango Slushy with Glow Cube",
         "— Frozen Raspberry Slushy with Glow Cube",
         "— Tropical Breeze with Glow Cube",
@@ -13,9 +12,7 @@
         "— Bubbling Pink Lagoon with Vodka",
         "— Island Breeze",
         "— Safari Amber - St. Louis, MO",
-        "— Copa Chardonnay, Oregon",
-        "— Copa Merlot, Oregon",
-        "— Copa Pinot Grigio, Oregon",
+        "— RAMONA Blood Orange Wine Spritz",
         "— Bud Light Lager - St. Louis, MO",
         "— Ribs, Chicken, and Pulled Pork Sampler",
         "— Ribs and Chicken Combo",
@@ -23,7 +20,7 @@
         "— Baked Macaroni & Cheese with Pulled Pork",
         "— Smoked Pulled Pork Sandwich",
         "— Smokehouse Chicken Salad",
-        "— Plant-based Burnt Ends",
+        "— Korean Barbecue Sandwich",
         "— French Fries with Pulled Pork and Cheese",
         "Black Garlic, Truffle, and Parmesan Fries",
         "— French Fries",
@@ -54,8 +51,7 @@
         "— Hot Cocoa",
         "— Lowfat Milk",
         "— Small Minute Maid® Apple Juice",
-        "— Small Chocolate Milk",
-        "— Impossible™ Burnt Ends - Sesame"
+        "— Small Chocolate Milk"
       ]
     }
   ]
