@@ -1,263 +1,269 @@
 [
   {
-    "id": "ak-tiffins-restaurant-lunch",
-    "name": "Tiffins Restaurant (Lunch)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tiffins/menus/lunch/",
-    "added": [
-      "— Orange Carajillo",
-      "— Yuzu Amarillo Cocktail"
-    ],
-    "removed": [
-      "Lunch Menu",
-      "— Buena Vista Coffee"
-    ]
-  },
-  {
-    "id": "ak-tiffins-restaurant-dinner",
-    "name": "Tiffins Restaurant (Dinner)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tiffins/menus/dinner/",
-    "added": [
-      "— Orange Carajillo",
-      "— Yuzu Amarillo Cocktail"
-    ],
-    "removed": [
-      "Dinner Menu",
-      "— Buena Vista Coffee"
-    ]
-  },
-  {
-    "id": "ak-trek-snacks",
-    "name": "Trek Snacks",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/trek-snacks/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "ak-tusker-house-restaurant-breakfast",
-    "name": "Tusker House Restaurant (Breakfast)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tusker-house-restaurant/menus/breakfast/",
-    "added": [],
-    "removed": [
-      "Breakfast Menu"
-    ]
-  },
-  {
-    "id": "ak-tusker-house-restaurant-lunch",
-    "name": "Tusker House Restaurant (Lunch)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tusker-house-restaurant/menus/lunch/",
-    "added": [],
-    "removed": [
-      "Lunch Menu"
-    ]
-  },
-  {
-    "id": "ak-tusker-house-restaurant-dinner",
-    "name": "Tusker House Restaurant (Dinner)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tusker-house-restaurant/menus/dinner/",
+    "id": "dca-carthay-circle-lounge-dinner",
+    "name": "Carthay Circle Lounge (Dinner)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-lounge/menus/dinner/",
     "added": [],
     "removed": [
       "Dinner Menu"
     ]
   },
   {
-    "id": "ak-warung-outpost",
-    "name": "Warung Outpost",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/warung-outpost/menus/bar-%E2%80%93-lounge/",
-    "added": [],
-    "removed": [
-      "— Bar – Lounge Menu"
-    ]
-  },
-  {
-    "id": "ak-yak-and-yeti-local-food-cafes-breakfast",
-    "name": "Yak & Yeti Local Food Cafes (Breakfast)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/yak-and-yeti-local-foods-cafe/menus/breakfast/",
-    "added": [],
-    "removed": [
-      "Breakfast Menu"
-    ]
-  },
-  {
-    "id": "ak-yak-and-yeti-local-food-cafes-lunch-and-dinner",
-    "name": "Yak & Yeti Local Food Cafes (Lunch & Dinner)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/yak-and-yeti-local-foods-cafe/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "Breakfast Menu"
-    ]
-  },
-  {
-    "id": "ak-yak-and-yeti-restaurant-lunch",
-    "name": "Yak & Yeti Restaurant (Lunch)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/yak-and-yeti-restaurant/menus/lunch/",
-    "added": [],
-    "removed": [
-      "Lunch Menu"
-    ]
-  },
-  {
-    "id": "ak-yak-and-yeti-restaurant-dinner",
-    "name": "Yak & Yeti Restaurant (Dinner)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/yak-and-yeti-restaurant/menus/dinner/",
+    "id": "dca-carthay-circle-restaurant",
+    "name": "Carthay Circle Restaurant",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-restaurant/menus/dinner/",
     "added": [],
     "removed": [
       "Dinner Menu"
     ]
   },
   {
-    "id": "bb-arctic-expeditions",
-    "name": "Arctic Expeditions",
-    "park": "Blizzard Beach",
-    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/arctic-expeditions/menus/snack/",
+    "id": "dca-clarabelles-hand-scooped-ice-cream-breakfast",
+    "name": "Clarabelle's Hand-Scooped Ice Cream (Breakfast)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/clarabelles-hand-scooped-ice-cream/menus/breakfast/",
     "added": [],
     "removed": [
       "— Snack Menu"
     ]
   },
   {
-    "id": "bb-avalunch",
-    "name": "Avalunch",
-    "park": "Blizzard Beach",
-    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/avalunch/menus/snack/",
+    "id": "dca-clarabelles-hand-scooped-ice-cream-snack",
+    "name": "Clarabelle's Hand-Scooped Ice Cream (Snack)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/clarabelles-hand-scooped-ice-cream/menus/snack/",
     "added": [],
     "removed": [
       "— Snack Menu"
     ]
   },
   {
-    "id": "bb-cooling-hut-all-day",
-    "name": "Cooling Hut (All-Day)",
-    "park": "Blizzard Beach",
-    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/cooling-hut/menus/all-day/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "bb-cooling-hut-snack",
-    "name": "Cooling Hut (Snack)",
-    "park": "Blizzard Beach",
-    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/cooling-hut/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "bb-i-c-expeditions",
-    "name": "I.C. Expeditions",
-    "park": "Blizzard Beach",
-    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/i-c-expeditions/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "bb-lottawatta-lodge-all-day",
-    "name": "Lottawatta Lodge (All-Day)",
-    "park": "Blizzard Beach",
-    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/lottawatta-lodge/menus/all-day/",
+    "id": "dca-cocina-cucamonga-mexican-grill",
+    "name": "Cocina Cucamonga Mexican Grill",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/cocina-cucamonga-mexican-grill/menus/lunch-and-dinner/",
     "added": [],
     "removed": [
       "Lunch And Dinner Menu"
     ]
   },
   {
-    "id": "bb-lottawatta-lodge-lunch-and-dinner",
-    "name": "Lottawatta Lodge (Lunch & Dinner)",
-    "park": "Blizzard Beach",
-    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/lottawatta-lodge/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "Lunch And Dinner Menu"
-    ]
-  },
-  {
-    "id": "bb-warming-hut",
-    "name": "Warming Hut",
-    "park": "Blizzard Beach",
-    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/warming-hut/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "dca-adorable-snowman-frosted-treats",
-    "name": "Adorable Snowman Frosted Treats",
+    "id": "dca-corn-dog-castle",
+    "name": "Corn Dog Castle",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/adorable-snowman-frosted-treats/menus/snack/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/corn-dog-castle/menus/snack/",
     "added": [],
     "removed": [
-      "— Snack Menu"
+      "— Snack Menu",
+      "— Jiminy Cricket Sipper"
     ]
   },
   {
-    "id": "dca-aunt-cass-cafe",
-    "name": "Aunt Cass Café",
+    "id": "dca-cozy-cone-motel",
+    "name": "Cozy Cone Motel",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/aunt-cass-cafe/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "Lunch And Dinner Menu"
-    ]
-  },
-  {
-    "id": "dca-award-wieners",
-    "name": "Award Wieners",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/award-wieners/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/cozy-cone-motel/menus/snack/",
     "added": [
-      "— Bullseye Bucket"
+      "— Lightning McQueen Bucket"
     ],
     "removed": [
-      "Lunch And Dinner Menu"
+      "— Snack Menu",
+      "— Takis® Esquite Nachos",
+      "Lightning McQueen Bucket [Available starting June 9]",
+      "— TWIX® Bits Loaded Popcorn"
     ]
   },
   {
-    "id": "dca-bayside-brews",
-    "name": "Bayside Brews",
+    "id": "dca-fairfax-market",
+    "name": "Fairfax Market",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/bayside-brews/menus/snack/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fairfax-fruit-market/menus/snack/",
     "added": [],
     "removed": [
       "— Snack Menu"
     ]
   },
   {
-    "id": "dca-boardwalk-pizza-and-pasta",
-    "name": "Boardwalk Pizza & Pasta",
+    "id": "dca-fiddler-fifer-and-practical-cafe-breakfast",
+    "name": "Fiddler, Fifer & Practical Cafe - Starbucks (Breakfast)",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/boardwalk-pizza-pasta/menus/lunch-and-dinner/",
-    "added": [],
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fiddler-fifer-and-practical-cafe/menus/breakfast/",
+    "added": [
+      "— Unicorn Cake Pop",
+      "— Blue Coconut Lemonade Energy Refresher"
+    ],
+    "removed": [
+      "Breakfast Menu"
+    ]
+  },
+  {
+    "id": "dca-fiddler-fifer-and-practical-cafe-lunch-and-dinner",
+    "name": "Fiddler, Fifer & Practical Cafe - Starbucks (Lunch & Dinner)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fiddler-fifer-and-practical-cafe/menus/lunch-and-dinner/",
+    "added": [
+      "— Unicorn Cake Pop",
+      "— Blue Coconut Lemonade Energy Refresher"
+    ],
+    "removed": [
+      "Breakfast Menu"
+    ]
+  },
+  {
+    "id": "dca-fillmores-taste-in",
+    "name": "Fillmore's Taste-In",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fillmores-taste-in/menus/snack/",
+    "added": [
+      "— Lightning McQueen Bucket"
+    ],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "dca-flos-v8-cafe",
+    "name": "Flo's V8 Cafe",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/flos-v8-cafe/menus/lunch-and-dinner/",
+    "added": [
+      "— Lightning McQueen Bucket"
+    ],
     "removed": [
       "Lunch And Dinner Menu",
-      "— Monsters, Inc. Scream Canister Bucket"
+      "Lightning McQueen Bucket [Available starting June 9]"
     ]
   },
   {
-    "id": "dca-carthay-circle-lounge-lunch",
-    "name": "Carthay Circle Lounge (Lunch)",
+    "id": "dca-ghirardelli-soda-fountain-and-chocolate-shop",
+    "name": "Ghirardelli Soda Fountain and Chocolate Shop",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-lounge/menus/lunch/",
+    "url": "https://disneyworld.disney.go.com/dining/disney-springs/ghirardelli-soda-fountain/menus/snack/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "dca-jack-jack-cookie-num-nums",
+    "name": "Jack-Jack Cookie Num Nums",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/jack-jack-cookie-num-nums/menus/snack/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "dca-lamplight-lounge-brunch",
+    "name": "Lamplight Lounge (Brunch)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge/menus/brunch/",
+    "added": [],
+    "removed": [
+      "— Brunch Menu"
+    ]
+  },
+  {
+    "id": "dca-lamplight-lounge-lunch",
+    "name": "Lamplight Lounge (Lunch)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge/menus/lunch/",
     "added": [],
     "removed": [
       "Lunch Menu"
+    ]
+  },
+  {
+    "id": "dca-lamplight-lounge-dinner",
+    "name": "Lamplight Lounge (Dinner)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge/menus/dinner/",
+    "added": [],
+    "removed": [
+      "Dinner Menu"
+    ]
+  },
+  {
+    "id": "dca-lamplight-lounge-boardwalk-dining-lunch",
+    "name": "Lamplight Lounge Boardwalk Dining (Lunch)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge-boardwalk-dining/menus/lunch/",
+    "added": [],
+    "removed": [
+      "Lunch Menu"
+    ]
+  },
+  {
+    "id": "dca-lamplight-lounge-boardwalk-dining-dinner",
+    "name": "Lamplight Lounge Boardwalk Dining (Dinner)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge-boardwalk-dining/menus/dinner/",
+    "added": [],
+    "removed": [
+      "Dinner Menu"
+    ]
+  },
+  {
+    "id": "dca-lucky-fortune-cookery",
+    "name": "Lucky Fortune Cookery",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lucky-fortune-cookery/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "Lunch And Dinner Menu"
+    ]
+  },
+  {
+    "id": "dca-paradise-garden-grill",
+    "name": "Paradise Garden Grill",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/paradise-garden-grill/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "Lunch And Dinner Menu"
+    ]
+  },
+  {
+    "id": "dca-port-of-san-fransokyo-cerveceria",
+    "name": "Port of San Fransokyo Cervecería",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/port-of-san-fransokyo-cerveceria/menus/snack/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "dca-poultry-palace",
+    "name": "Poultry Palace",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/poultry-palace/menus/snack/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "dca-pym-test-kitchen-breakfast",
+    "name": "Pym Test Kitchen (Breakfast)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/pym-test-kitchen/menus/breakfast/",
+    "added": [],
+    "removed": [
+      "Breakfast Menu"
+    ]
+  },
+  {
+    "id": "dca-pym-test-kitchen-lunch-and-dinner",
+    "name": "Pym Test Kitchen (Lunch & Dinner)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/pym-test-kitchen/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "Breakfast Menu"
     ]
   }
 ]
