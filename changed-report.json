@@ -1,269 +1,275 @@
 [
   {
-    "id": "dca-carthay-circle-lounge-dinner",
-    "name": "Carthay Circle Lounge (Dinner)",
+    "id": "dca-schmoozies",
+    "name": "Schmoozies!",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-lounge/menus/dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/schmoozies-smoothies/menus/snack/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "dca-senor-buzz-churros",
+    "name": "Señor Buzz Churros",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/senor-buzz-churros/menus/snack/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "dca-shawarma-palace-breakfast",
+    "name": "Shawarma Palace (Breakfast)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/shawarma-palace/menus/breakfast/",
+    "added": [],
+    "removed": [
+      "Breakfast Menu"
+    ]
+  },
+  {
+    "id": "dca-shawarma-palace-snack",
+    "name": "Shawarma Palace (Snack)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/shawarma-palace/menus/snack/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "dca-smokejumpers-grill-breakfast",
+    "name": "Smokejumpers Grill (Breakfast)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/breakfast/",
+    "added": [],
+    "removed": [
+      "Breakfast Menu",
+      "Disneyland 70th Celebration D Glow Cube"
+    ]
+  },
+  {
+    "id": "dca-smokejumpers-grill-lunch-and-dinner",
+    "name": "Smokejumpers Grill (Lunch & Dinner)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "Breakfast Menu",
+      "Disneyland 70th Celebration D Glow Cube"
+    ]
+  },
+  {
+    "id": "dca-studio-catering-co",
+    "name": "Studio Catering Co.",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/studio-catering-co/menus/snack/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "dca-terran-treats",
+    "name": "Terran Treats",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/terran-treats/menus/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "dca-wine-country-trattoria-lunch",
+    "name": "Wine Country Trattoria (Lunch)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/wine-country-trattoria/menus/lunch/",
+    "added": [],
+    "removed": [
+      "Lunch Menu"
+    ]
+  },
+  {
+    "id": "dca-wine-country-trattoria-dinner",
+    "name": "Wine Country Trattoria (Dinner)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/wine-country-trattoria/menus/dinner/",
     "added": [],
     "removed": [
       "Dinner Menu"
     ]
   },
   {
-    "id": "dca-carthay-circle-restaurant",
-    "name": "Carthay Circle Restaurant",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-restaurant/menus/dinner/",
+    "id": "dl-alien-pizza-planet",
+    "name": "Alien Pizza Planet",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/alien-pizza-planet/menus/lunch-and-dinner/",
     "added": [],
-    "removed": [
-      "Dinner Menu"
-    ]
-  },
-  {
-    "id": "dca-clarabelles-hand-scooped-ice-cream-breakfast",
-    "name": "Clarabelle's Hand-Scooped Ice Cream (Breakfast)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/clarabelles-hand-scooped-ice-cream/menus/breakfast/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "dca-clarabelles-hand-scooped-ice-cream-snack",
-    "name": "Clarabelle's Hand-Scooped Ice Cream (Snack)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/clarabelles-hand-scooped-ice-cream/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "dca-cocina-cucamonga-mexican-grill",
-    "name": "Cocina Cucamonga Mexican Grill",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/cocina-cucamonga-mexican-grill/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "Lunch And Dinner Menu"
-    ]
-  },
-  {
-    "id": "dca-corn-dog-castle",
-    "name": "Corn Dog Castle",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/corn-dog-castle/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Snack Menu",
-      "— Jiminy Cricket Sipper"
-    ]
-  },
-  {
-    "id": "dca-cozy-cone-motel",
-    "name": "Cozy Cone Motel",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/cozy-cone-motel/menus/snack/",
-    "added": [
-      "— Lightning McQueen Bucket"
-    ],
-    "removed": [
-      "— Snack Menu",
-      "— Takis® Esquite Nachos",
-      "Lightning McQueen Bucket [Available starting June 9]",
-      "— TWIX® Bits Loaded Popcorn"
-    ]
-  },
-  {
-    "id": "dca-fairfax-market",
-    "name": "Fairfax Market",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fairfax-fruit-market/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "dca-fiddler-fifer-and-practical-cafe-breakfast",
-    "name": "Fiddler, Fifer & Practical Cafe - Starbucks (Breakfast)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fiddler-fifer-and-practical-cafe/menus/breakfast/",
-    "added": [
-      "— Unicorn Cake Pop",
-      "— Blue Coconut Lemonade Energy Refresher"
-    ],
-    "removed": [
-      "Breakfast Menu"
-    ]
-  },
-  {
-    "id": "dca-fiddler-fifer-and-practical-cafe-lunch-and-dinner",
-    "name": "Fiddler, Fifer & Practical Cafe - Starbucks (Lunch & Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fiddler-fifer-and-practical-cafe/menus/lunch-and-dinner/",
-    "added": [
-      "— Unicorn Cake Pop",
-      "— Blue Coconut Lemonade Energy Refresher"
-    ],
-    "removed": [
-      "Breakfast Menu"
-    ]
-  },
-  {
-    "id": "dca-fillmores-taste-in",
-    "name": "Fillmore's Taste-In",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fillmores-taste-in/menus/snack/",
-    "added": [
-      "— Lightning McQueen Bucket"
-    ],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "dca-flos-v8-cafe",
-    "name": "Flo's V8 Cafe",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/flos-v8-cafe/menus/lunch-and-dinner/",
-    "added": [
-      "— Lightning McQueen Bucket"
-    ],
     "removed": [
       "Lunch And Dinner Menu",
-      "Lightning McQueen Bucket [Available starting June 9]"
+      "— Jiminy Cricket Sipper",
+      "Disneyland 70th Celebration Abominable Snowman Sipper",
+      "Disneyland 70th Celebration Mickey Mouse Bucket",
+      "Disneyland 70th Celebration Travel Tumbler"
     ]
   },
   {
-    "id": "dca-ghirardelli-soda-fountain-and-chocolate-shop",
-    "name": "Ghirardelli Soda Fountain and Chocolate Shop",
-    "park": "Disney California Adventure",
-    "url": "https://disneyworld.disney.go.com/dining/disney-springs/ghirardelli-soda-fountain/menus/snack/",
+    "id": "dl-bengal-barbecue",
+    "name": "Bengal Barbecue",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/bengal-barbecue/menus/",
     "added": [],
     "removed": [
       "— Snack Menu"
     ]
   },
   {
-    "id": "dca-jack-jack-cookie-num-nums",
-    "name": "Jack-Jack Cookie Num Nums",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/jack-jack-cookie-num-nums/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "dca-lamplight-lounge-brunch",
-    "name": "Lamplight Lounge (Brunch)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge/menus/brunch/",
-    "added": [],
-    "removed": [
-      "— Brunch Menu"
-    ]
-  },
-  {
-    "id": "dca-lamplight-lounge-lunch",
-    "name": "Lamplight Lounge (Lunch)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge/menus/lunch/",
+    "id": "dl-blue-bayou-restaurant-lunch",
+    "name": "Blue Bayou Restaurant (Lunch)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/blue-bayou-restaurant/menus/lunch/",
     "added": [],
     "removed": [
       "Lunch Menu"
     ]
   },
   {
-    "id": "dca-lamplight-lounge-dinner",
-    "name": "Lamplight Lounge (Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge/menus/dinner/",
+    "id": "dl-blue-bayou-restaurant-dinner",
+    "name": "Blue Bayou Restaurant (Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/blue-bayou-restaurant/menus/dinner/",
     "added": [],
     "removed": [
       "Dinner Menu"
     ]
   },
   {
-    "id": "dca-lamplight-lounge-boardwalk-dining-lunch",
-    "name": "Lamplight Lounge Boardwalk Dining (Lunch)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge-boardwalk-dining/menus/lunch/",
+    "id": "dl-cafe-daisy",
+    "name": "Café Daisy",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/cafe-daisy/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "Lunch And Dinner Menu"
+    ]
+  },
+  {
+    "id": "dl-cafe-orleans-lunch",
+    "name": "Cafe Orleans (Lunch)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/cafe-orleans/menus/lunch/",
     "added": [],
     "removed": [
       "Lunch Menu"
     ]
   },
   {
-    "id": "dca-lamplight-lounge-boardwalk-dining-dinner",
-    "name": "Lamplight Lounge Boardwalk Dining (Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge-boardwalk-dining/menus/dinner/",
+    "id": "dl-cafe-orleans-dinner",
+    "name": "Cafe Orleans (Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/cafe-orleans/menus/dinner/",
     "added": [],
     "removed": [
       "Dinner Menu"
     ]
   },
   {
-    "id": "dca-lucky-fortune-cookery",
-    "name": "Lucky Fortune Cookery",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lucky-fortune-cookery/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "Lunch And Dinner Menu"
-    ]
-  },
-  {
-    "id": "dca-paradise-garden-grill",
-    "name": "Paradise Garden Grill",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/paradise-garden-grill/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "Lunch And Dinner Menu"
-    ]
-  },
-  {
-    "id": "dca-port-of-san-fransokyo-cerveceria",
-    "name": "Port of San Fransokyo Cervecería",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/port-of-san-fransokyo-cerveceria/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "dca-poultry-palace",
-    "name": "Poultry Palace",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/poultry-palace/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "dca-pym-test-kitchen-breakfast",
-    "name": "Pym Test Kitchen (Breakfast)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/pym-test-kitchen/menus/breakfast/",
+    "id": "dl-carnation-cafe-breakfast",
+    "name": "Carnation Cafe (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/carnation-cafe/menus/breakfast/",
     "added": [],
     "removed": [
       "Breakfast Menu"
     ]
   },
   {
-    "id": "dca-pym-test-kitchen-lunch-and-dinner",
-    "name": "Pym Test Kitchen (Lunch & Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/pym-test-kitchen/menus/lunch-and-dinner/",
+    "id": "dl-carnation-cafe-lunch",
+    "name": "Carnation Cafe (Lunch)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/carnation-cafe/menus/lunch/",
     "added": [],
     "removed": [
-      "Breakfast Menu"
+      "Lunch Menu"
+    ]
+  },
+  {
+    "id": "dl-carnation-cafe-dinner",
+    "name": "Carnation Cafe (Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/carnation-cafe/menus/dinner/",
+    "added": [],
+    "removed": [
+      "Dinner Menu"
+    ]
+  },
+  {
+    "id": "dl-docking-bay-7-food-and-cargo",
+    "name": "Docking Bay 7 Food and Cargo",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/docking-bay-7-food-and-cargo/menus/",
+    "added": [],
+    "removed": [
+      "Lunch And Dinner Menu"
+    ]
+  },
+  {
+    "id": "dl-edelweiss-snacks",
+    "name": "Edelweiss Snacks",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/edelweiss-snacks/menus/snack/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "dl-galactic-grill-breakfast",
+    "name": "Galactic Grill (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/breakfast/",
+    "added": [],
+    "removed": [
+      "Breakfast Menu",
+      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Fountain Beverage",
+      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Slushee",
+      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Fountain Beverage",
+      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Slushee",
+      "— Skyway Straw Clip",
+      "— Jiminy Cricket Sipper",
+      "Disneyland 70th Celebration Mickey Mouse Bucket",
+      "Disneyland 70th Celebration Sipper"
+    ]
+  },
+  {
+    "id": "dl-galactic-grill-lunch-and-dinner",
+    "name": "Galactic Grill (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "Breakfast Menu",
+      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Fountain Beverage",
+      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Slushee",
+      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Fountain Beverage",
+      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Slushee",
+      "— Skyway Straw Clip",
+      "— Jiminy Cricket Sipper",
+      "Disneyland 70th Celebration Mickey Mouse Bucket",
+      "Disneyland 70th Celebration Sipper"
+    ]
+  },
+  {
+    "id": "dl-gibson-girl-ice-cream-parlor",
+    "name": "Gibson Girl Ice Cream Parlor",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/gibson-girl-ice-cream-parlor/menus/snack/",
+    "added": [],
+    "removed": [
+      "— Snack Menu",
+      "— Skyway Straw Clip"
     ]
   }
 ]
