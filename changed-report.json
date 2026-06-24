@@ -1,275 +1,285 @@
 [
   {
-    "id": "dca-schmoozies",
-    "name": "Schmoozies!",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/schmoozies-smoothies/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "dca-senor-buzz-churros",
-    "name": "Señor Buzz Churros",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/senor-buzz-churros/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "dca-shawarma-palace-breakfast",
-    "name": "Shawarma Palace (Breakfast)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/shawarma-palace/menus/breakfast/",
-    "added": [],
-    "removed": [
-      "Breakfast Menu"
-    ]
-  },
-  {
-    "id": "dca-shawarma-palace-snack",
-    "name": "Shawarma Palace (Snack)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/shawarma-palace/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "dca-smokejumpers-grill-breakfast",
-    "name": "Smokejumpers Grill (Breakfast)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/breakfast/",
-    "added": [],
-    "removed": [
-      "Breakfast Menu",
-      "Disneyland 70th Celebration D Glow Cube"
-    ]
-  },
-  {
-    "id": "dca-smokejumpers-grill-lunch-and-dinner",
-    "name": "Smokejumpers Grill (Lunch & Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "Breakfast Menu",
-      "Disneyland 70th Celebration D Glow Cube"
-    ]
-  },
-  {
-    "id": "dca-studio-catering-co",
-    "name": "Studio Catering Co.",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/studio-catering-co/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "dca-terran-treats",
-    "name": "Terran Treats",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/terran-treats/menus/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "dca-wine-country-trattoria-lunch",
-    "name": "Wine Country Trattoria (Lunch)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/wine-country-trattoria/menus/lunch/",
-    "added": [],
-    "removed": [
-      "Lunch Menu"
-    ]
-  },
-  {
-    "id": "dca-wine-country-trattoria-dinner",
-    "name": "Wine Country Trattoria (Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/wine-country-trattoria/menus/dinner/",
-    "added": [],
-    "removed": [
-      "Dinner Menu"
-    ]
-  },
-  {
-    "id": "dl-alien-pizza-planet",
-    "name": "Alien Pizza Planet",
+    "id": "dl-good-boy-grocers",
+    "name": "Good Boy Grocers",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/alien-pizza-planet/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/good-boy-grocers/menus/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "dl-harbour-galley",
+    "name": "Harbour Galley",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/harbour-galley/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "Lunch And Dinner Menu",
+      "Disneyland 70th Celebration Mickey Mouse Bucket"
+    ]
+  },
+  {
+    "id": "dl-hungry-bear-barbecue-jamboree",
+    "name": "Hungry Bear Barbecue Jamboree",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/hungry-bear-barbecue/menus/lunch-and-dinner/",
     "added": [],
     "removed": [
       "Lunch And Dinner Menu",
       "— Jiminy Cricket Sipper",
-      "Disneyland 70th Celebration Abominable Snowman Sipper",
+      "Disneyland 70th Celebration D Glow Cube",
       "Disneyland 70th Celebration Mickey Mouse Bucket",
       "Disneyland 70th Celebration Travel Tumbler"
     ]
   },
   {
-    "id": "dl-bengal-barbecue",
-    "name": "Bengal Barbecue",
+    "id": "dl-jolly-holiday-bakery-cafe-breakfast",
+    "name": "Jolly Holiday Bakery Cafe (Breakfast)",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/bengal-barbecue/menus/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/breakfast/",
+    "added": [],
+    "removed": [
+      "Breakfast Menu",
+      "— Skyway Straw Clip",
+      "— Jiminy Cricket Sipper",
+      "Disneyland 70th Celebration Sipper"
+    ]
+  },
+  {
+    "id": "dl-jolly-holiday-bakery-cafe-lunch-and-dinner",
+    "name": "Jolly Holiday Bakery Cafe (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "Breakfast Menu",
+      "— Skyway Straw Clip",
+      "— Jiminy Cricket Sipper",
+      "Disneyland 70th Celebration Sipper"
+    ]
+  },
+  {
+    "id": "dl-market-house-breakfast",
+    "name": "Market House - Starbucks (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/breakfast/",
+    "added": [
+      "— Unicorn Cake Pop",
+      "— Blue Coconut Lemonade Energy Refresher"
+    ],
+    "removed": [
+      "Breakfast Menu"
+    ]
+  },
+  {
+    "id": "dl-market-house-lunch-and-dinner",
+    "name": "Market House - Starbucks (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/lunch-and-dinner/",
+    "added": [
+      "— Unicorn Cake Pop",
+      "— Blue Coconut Lemonade Energy Refresher"
+    ],
+    "removed": [
+      "Breakfast Menu"
+    ]
+  },
+  {
+    "id": "dl-maurices-treats",
+    "name": "Maurice's Treats",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/maurices-treats/menus/snack/",
     "added": [],
     "removed": [
       "— Snack Menu"
     ]
   },
   {
-    "id": "dl-blue-bayou-restaurant-lunch",
-    "name": "Blue Bayou Restaurant (Lunch)",
+    "id": "dl-milk-stand-galaxys-edge",
+    "name": "Milk Stand – Star Wars: Galaxy's Edge",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/blue-bayou-restaurant/menus/lunch/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/milk-stand/menus/",
     "added": [],
     "removed": [
-      "Lunch Menu"
+      "— Snack Menu"
     ]
   },
   {
-    "id": "dl-blue-bayou-restaurant-dinner",
-    "name": "Blue Bayou Restaurant (Dinner)",
+    "id": "dl-mint-julep-bar",
+    "name": "Mint Julep Bar",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/blue-bayou-restaurant/menus/dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/mint-julep-bar/menus/snack/",
     "added": [],
     "removed": [
-      "Dinner Menu"
+      "— Snack Menu"
     ]
   },
   {
-    "id": "dl-cafe-daisy",
-    "name": "Café Daisy",
+    "id": "dl-ogas-cantina-breakfast",
+    "name": "Oga's Cantina (Breakfast)",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/cafe-daisy/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "Lunch And Dinner Menu"
-    ]
-  },
-  {
-    "id": "dl-cafe-orleans-lunch",
-    "name": "Cafe Orleans (Lunch)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/cafe-orleans/menus/lunch/",
-    "added": [],
-    "removed": [
-      "Lunch Menu"
-    ]
-  },
-  {
-    "id": "dl-cafe-orleans-dinner",
-    "name": "Cafe Orleans (Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/cafe-orleans/menus/dinner/",
-    "added": [],
-    "removed": [
-      "Dinner Menu"
-    ]
-  },
-  {
-    "id": "dl-carnation-cafe-breakfast",
-    "name": "Carnation Cafe (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/carnation-cafe/menus/breakfast/",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/breakfast/",
     "added": [],
     "removed": [
       "Breakfast Menu"
     ]
   },
   {
-    "id": "dl-carnation-cafe-lunch",
-    "name": "Carnation Cafe (Lunch)",
+    "id": "dl-ogas-cantina-lunch",
+    "name": "Oga's Cantina (Lunch)",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/carnation-cafe/menus/lunch/",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/lunch/",
     "added": [],
     "removed": [
       "Lunch Menu"
     ]
   },
   {
-    "id": "dl-carnation-cafe-dinner",
-    "name": "Carnation Cafe (Dinner)",
+    "id": "dl-ogas-cantina-dinner",
+    "name": "Oga's Cantina (Dinner)",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/carnation-cafe/menus/dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/dinner/",
     "added": [],
     "removed": [
       "Dinner Menu"
     ]
   },
   {
-    "id": "dl-docking-bay-7-food-and-cargo",
-    "name": "Docking Bay 7 Food and Cargo",
+    "id": "dl-plaza-inn-breakfast",
+    "name": "Plaza Inn (Breakfast)",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/docking-bay-7-food-and-cargo/menus/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/plaza-inn/menus/breakfast/",
+    "added": [],
+    "removed": [
+      "Breakfast Menu"
+    ]
+  },
+  {
+    "id": "dl-plaza-inn-lunch-and-dinner",
+    "name": "Plaza Inn (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/plaza-inn/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "Breakfast Menu"
+    ]
+  },
+  {
+    "id": "dl-rancho-del-zocalo-restaurante",
+    "name": "Rancho del Zocalo Restaurante",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/rancho-del-zocalo-restaurante/menus/lunch-and-dinner/",
     "added": [],
     "removed": [
       "Lunch And Dinner Menu"
     ]
   },
   {
-    "id": "dl-edelweiss-snacks",
-    "name": "Edelweiss Snacks",
+    "id": "dl-red-rose-taverne-breakfast",
+    "name": "Red Rose Taverne (Breakfast)",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/edelweiss-snacks/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "dl-galactic-grill-breakfast",
-    "name": "Galactic Grill (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/breakfast/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/breakfast/",
     "added": [],
     "removed": [
       "Breakfast Menu",
-      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Fountain Beverage",
-      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Slushee",
-      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Fountain Beverage",
-      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Slushee",
-      "— Skyway Straw Clip",
-      "— Jiminy Cricket Sipper",
-      "Disneyland 70th Celebration Mickey Mouse Bucket",
       "Disneyland 70th Celebration Sipper"
     ]
   },
   {
-    "id": "dl-galactic-grill-lunch-and-dinner",
-    "name": "Galactic Grill (Lunch & Dinner)",
+    "id": "dl-red-rose-taverne-lunch-and-dinner",
+    "name": "Red Rose Taverne (Lunch & Dinner)",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/lunch-and-dinner/",
     "added": [],
     "removed": [
       "Breakfast Menu",
-      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Fountain Beverage",
-      "Rechargeable Darth Vader Lightsaber Swizzle Stick with Slushee",
-      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Fountain Beverage",
-      "Rechargeable Luke Skywalker Lightsaber Swizzle Stick with Slushee",
-      "— Skyway Straw Clip",
-      "— Jiminy Cricket Sipper",
-      "Disneyland 70th Celebration Mickey Mouse Bucket",
       "Disneyland 70th Celebration Sipper"
     ]
   },
   {
-    "id": "dl-gibson-girl-ice-cream-parlor",
-    "name": "Gibson Girl Ice Cream Parlor",
+    "id": "dl-refreshment-corner",
+    "name": "Refreshment Corner",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/gibson-girl-ice-cream-parlor/menus/snack/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/refreshment-corner/menus/lunch-and-dinner/",
+    "added": [
+      "Tropical Stitch Straw Clip [Available starting June 26]"
+    ],
+    "removed": [
+      "Lunch And Dinner Menu",
+      "— Skyway Straw Clip",
+      "— Winnie the Pooh & Piglet Spring Bucket",
+      "— Jiminy Cricket Sipper",
+      "Disneyland 70th Celebration Mickey Mouse Bucket",
+      "Disneyland 70th Celebration Travel Tumbler"
+    ]
+  },
+  {
+    "id": "dl-river-belle-terrace-lunch",
+    "name": "River Belle Terrace (Lunch)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/lunch/",
     "added": [],
     "removed": [
-      "— Snack Menu",
-      "— Skyway Straw Clip"
+      "Lunch Menu",
+      "— Farmhouse Salad"
+    ]
+  },
+  {
+    "id": "dl-river-belle-terrace-dinner",
+    "name": "River Belle Terrace (Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/dinner/",
+    "added": [],
+    "removed": [
+      "Dinner Menu",
+      "— Farmhouse Salad"
+    ]
+  },
+  {
+    "id": "dl-ronto-roasters-breakfast",
+    "name": "Ronto Roasters (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/breakfast/",
+    "added": [
+      "— Bantha Sipper"
+    ],
+    "removed": [
+      "Breakfast Menu"
+    ]
+  },
+  {
+    "id": "dl-ronto-roasters-lunch-and-dinner",
+    "name": "Ronto Roasters (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/lunch-and-dinner/",
+    "added": [
+      "— Bantha Sipper"
+    ],
+    "removed": [
+      "Breakfast Menu"
+    ]
+  },
+  {
+    "id": "dl-royal-street-veranda",
+    "name": "Royal Street Veranda",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/royal-street-veranda/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "Lunch And Dinner Menu"
+    ]
+  },
+  {
+    "id": "dl-stage-door-cafe",
+    "name": "Stage Door Cafe",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/stage-door-cafe/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "Lunch And Dinner Menu",
+      "Disneyland 70th Celebration Sipper"
     ]
   }
 ]
