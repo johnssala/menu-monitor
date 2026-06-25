@@ -4,19 +4,19 @@
       "title": "menu",
       "items": [
         "Connections Eatery",
-        "Lunch And Dinner Menu",
         "— Annual Passholder Tumbler",
         "— American Classic Cheeseburger",
         "— Hand-breaded Chicken Sandwich",
-        "— Pepperoni Pizza",
-        "— Cheese Pizza",
+        "— House-made Pepperoni Pizza",
+        "— House-made Cheese Pizza",
         "— General Tso Chicken Salad",
         "— General Tso Tofu Salad",
         "Black Garlic, Truffle, and Parmesan Fries",
-        "— French Fries with Sea Salt",
+        "— French Fries",
         "— A Cuties® Mandarin",
         "— Applesauce",
         "— Cheeseburger",
+        "— Cheese Pizza",
         "— Chicken Strips",
         "— PB&J Uncrustable",
         "— Chocolate Baumkuchen",
@@ -39,10 +39,9 @@
         "— Cigar City Jai Alai IPA - Tampa, FL",
         "Angry Orchard Crisp Apple Hard Cider - Cincinnati, OH",
         "Hess Shirtail Creek Chardonnay, California",
-        "— Rainstorm Pinot Noir Rosé, Oregon",
         "— Acrobat Pinot Noir, Oregon",
-        "— Broadside Cabernet Sauvignon, California",
-        "— Mango Mai Tai"
+        "— Mango Mai Tai",
+        "— Peach Whiskey Iced Tea"
       ]
     }
   ]

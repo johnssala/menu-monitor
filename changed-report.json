@@ -1,285 +1,265 @@
 [
   {
-    "id": "dl-good-boy-grocers",
-    "name": "Good Boy Grocers",
+    "id": "dl-the-golden-horseshoe",
+    "name": "The Golden Horseshoe",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/good-boy-grocers/menus/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/golden-horseshoe-restaurant/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "Lunch And Dinner Menu"
+    ]
+  },
+  {
+    "id": "dl-the-tropical-hideaway",
+    "name": "The Tropical Hideaway",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/tropical-hideaway/menus/snack/",
     "added": [],
     "removed": [
       "— Snack Menu"
     ]
   },
   {
-    "id": "dl-harbour-galley",
-    "name": "Harbour Galley",
+    "id": "dl-tianas-palace",
+    "name": "Tiana's Palace",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/harbour-galley/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/tianas-palace/menus/lunch-and-dinner/",
     "added": [],
     "removed": [
-      "Lunch And Dinner Menu",
-      "Disneyland 70th Celebration Mickey Mouse Bucket"
+      "Lunch And Dinner Menu"
     ]
   },
   {
-    "id": "dl-hungry-bear-barbecue-jamboree",
-    "name": "Hungry Bear Barbecue Jamboree",
+    "id": "dl-tiki-juice-bar",
+    "name": "Tiki Juice Bar",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/hungry-bear-barbecue/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "Lunch And Dinner Menu",
-      "— Jiminy Cricket Sipper",
-      "Disneyland 70th Celebration D Glow Cube",
-      "Disneyland 70th Celebration Mickey Mouse Bucket",
-      "Disneyland 70th Celebration Travel Tumbler"
-    ]
-  },
-  {
-    "id": "dl-jolly-holiday-bakery-cafe-breakfast",
-    "name": "Jolly Holiday Bakery Cafe (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/breakfast/",
-    "added": [],
-    "removed": [
-      "Breakfast Menu",
-      "— Skyway Straw Clip",
-      "— Jiminy Cricket Sipper",
-      "Disneyland 70th Celebration Sipper"
-    ]
-  },
-  {
-    "id": "dl-jolly-holiday-bakery-cafe-lunch-and-dinner",
-    "name": "Jolly Holiday Bakery Cafe (Lunch & Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "Breakfast Menu",
-      "— Skyway Straw Clip",
-      "— Jiminy Cricket Sipper",
-      "Disneyland 70th Celebration Sipper"
-    ]
-  },
-  {
-    "id": "dl-market-house-breakfast",
-    "name": "Market House - Starbucks (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/breakfast/",
-    "added": [
-      "— Unicorn Cake Pop",
-      "— Blue Coconut Lemonade Energy Refresher"
-    ],
-    "removed": [
-      "Breakfast Menu"
-    ]
-  },
-  {
-    "id": "dl-market-house-lunch-and-dinner",
-    "name": "Market House - Starbucks (Lunch & Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/lunch-and-dinner/",
-    "added": [
-      "— Unicorn Cake Pop",
-      "— Blue Coconut Lemonade Energy Refresher"
-    ],
-    "removed": [
-      "Breakfast Menu"
-    ]
-  },
-  {
-    "id": "dl-maurices-treats",
-    "name": "Maurice's Treats",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/maurices-treats/menus/snack/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/tiki-juice-bar/menus/snack/",
     "added": [],
     "removed": [
       "— Snack Menu"
     ]
   },
   {
-    "id": "dl-milk-stand-galaxys-edge",
-    "name": "Milk Stand – Star Wars: Galaxy's Edge",
+    "id": "dl-troubadour-tavern",
+    "name": "Troubadour Tavern",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/milk-stand/menus/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/troubadour-tavern/menus/",
     "added": [],
     "removed": [
-      "— Snack Menu"
+      "— Snack Menu",
+      "— Skyway Straw Clip"
     ]
   },
   {
-    "id": "dl-mint-julep-bar",
-    "name": "Mint Julep Bar",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/mint-julep-bar/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "dl-ogas-cantina-breakfast",
-    "name": "Oga's Cantina (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/breakfast/",
+    "id": "epcot-akershus-royal-banquet-hall-breakfast",
+    "name": "Akershus Royal Banquet Hall (Breakfast)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/akershus-royal-banquet-hall/menus/breakfast/",
     "added": [],
     "removed": [
       "Breakfast Menu"
     ]
   },
   {
-    "id": "dl-ogas-cantina-lunch",
-    "name": "Oga's Cantina (Lunch)",
-    "park": "Disneyland Park",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/lunch/",
+    "id": "epcot-akershus-royal-banquet-hall-lunch",
+    "name": "Akershus Royal Banquet Hall (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/akershus-royal-banquet-hall/menus/lunch/",
     "added": [],
     "removed": [
       "Lunch Menu"
     ]
   },
   {
-    "id": "dl-ogas-cantina-dinner",
-    "name": "Oga's Cantina (Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/dinner/",
+    "id": "epcot-akershus-royal-banquet-hall-dinner",
+    "name": "Akershus Royal Banquet Hall (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/akershus-royal-banquet-hall/menus/dinner/",
     "added": [],
     "removed": [
       "Dinner Menu"
     ]
   },
   {
-    "id": "dl-plaza-inn-breakfast",
-    "name": "Plaza Inn (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/plaza-inn/menus/breakfast/",
+    "id": "epcot-biergarten-restaurant-lunch",
+    "name": "Biergarten Restaurant (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/biergarten-restaurant/menus/lunch/",
     "added": [],
     "removed": [
-      "Breakfast Menu"
+      "Lunch Menu"
     ]
   },
   {
-    "id": "dl-plaza-inn-lunch-and-dinner",
-    "name": "Plaza Inn (Lunch & Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/plaza-inn/menus/lunch-and-dinner/",
+    "id": "epcot-biergarten-restaurant-dinner",
+    "name": "Biergarten Restaurant (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/biergarten-restaurant/menus/dinner/",
     "added": [],
     "removed": [
-      "Breakfast Menu"
+      "Dinner Menu"
     ]
   },
   {
-    "id": "dl-rancho-del-zocalo-restaurante",
-    "name": "Rancho del Zocalo Restaurante",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/rancho-del-zocalo-restaurante/menus/lunch-and-dinner/",
+    "id": "epcot-block-and-hans",
+    "name": "Block & Hans",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/block-hans/menus/bar-%E2%80%93-lounge/",
+    "added": [],
+    "removed": [
+      "— Bar – Lounge Menu",
+      "— Cinnamon-glazed Nuts"
+    ]
+  },
+  {
+    "id": "epcot-canada-popcorn-cart",
+    "name": "Canada Popcorn Cart",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/popcorn-at-canada-pavilion/menus/snack/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "epcot-chefs-de-france-lunch",
+    "name": "Chefs de France (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/chefs-de-france/menus/lunch/",
+    "added": [],
+    "removed": [
+      "Lunch Menu"
+    ]
+  },
+  {
+    "id": "epcot-chefs-de-france-dinner",
+    "name": "Chefs de France (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/chefs-de-france/menus/dinner/",
+    "added": [],
+    "removed": [
+      "Dinner Menu"
+    ]
+  },
+  {
+    "id": "epcot-choza-de-margarita",
+    "name": "Choza de Margarita",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/choza-de-margarita/menus/snack/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "epcot-connections-cafe",
+    "name": "Connections Café (Starbucks)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/connections-cafe/menus/coffee-%E2%80%93-bakery/",
+    "added": [
+      "Blue Coconut Lemonade Energy Refresher - Grande"
+    ],
+    "removed": [
+      "— Coffee – Bakery Menu"
+    ]
+  },
+  {
+    "id": "epcot-connections-eatery",
+    "name": "Connections Eatery",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/connections-eatery/menus/",
+    "added": [
+      "— House-made Pepperoni Pizza",
+      "— House-made Cheese Pizza",
+      "— French Fries",
+      "— Peach Whiskey Iced Tea"
+    ],
+    "removed": [
+      "Lunch And Dinner Menu",
+      "— Pepperoni Pizza",
+      "— French Fries with Sea Salt",
+      "— Rainstorm Pinot Noir Rosé, Oregon",
+      "— Broadside Cabernet Sauvignon, California"
+    ]
+  },
+  {
+    "id": "epcot-coral-reef-restaurant",
+    "name": "Coral Reef Restaurant",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/coral-reef-restaurant/menus/dinner/",
+    "added": [],
+    "removed": [
+      "Dinner Menu"
+    ]
+  },
+  {
+    "id": "epcot-crepes-a-emporter",
+    "name": "Crêpes À Emporter by La Crêperie de Paris",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/crepes-a-emporter/menus/",
     "added": [],
     "removed": [
       "Lunch And Dinner Menu"
     ]
   },
   {
-    "id": "dl-red-rose-taverne-breakfast",
-    "name": "Red Rose Taverne (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/breakfast/",
+    "id": "epcot-fife-and-drum-tavern",
+    "name": "Fife & Drum Tavern",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/fife-and-drum-tavern/menus/snack/",
     "added": [],
     "removed": [
-      "Breakfast Menu",
-      "Disneyland 70th Celebration Sipper"
+      "— Snack Menu"
     ]
   },
   {
-    "id": "dl-red-rose-taverne-lunch-and-dinner",
-    "name": "Red Rose Taverne (Lunch & Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/lunch-and-dinner/",
+    "id": "epcot-funnel-cake",
+    "name": "Funnel Cake – EPCOT",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/funnel-cake/menus/",
     "added": [],
     "removed": [
-      "Breakfast Menu",
-      "Disneyland 70th Celebration Sipper"
+      "— Snack Menu"
     ]
   },
   {
-    "id": "dl-refreshment-corner",
-    "name": "Refreshment Corner",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/refreshment-corner/menus/lunch-and-dinner/",
-    "added": [
-      "Tropical Stitch Straw Clip [Available starting June 26]"
-    ],
-    "removed": [
-      "Lunch And Dinner Menu",
-      "— Skyway Straw Clip",
-      "— Winnie the Pooh & Piglet Spring Bucket",
-      "— Jiminy Cricket Sipper",
-      "Disneyland 70th Celebration Mickey Mouse Bucket",
-      "Disneyland 70th Celebration Travel Tumbler"
-    ]
-  },
-  {
-    "id": "dl-river-belle-terrace-lunch",
-    "name": "River Belle Terrace (Lunch)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/lunch/",
+    "id": "epcot-garden-grill-restaurant-breakfast",
+    "name": "Garden Grill Restaurant (Breakfast)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/garden-grill-restaurant/menus/breakfast/",
     "added": [],
-    "removed": [
-      "Lunch Menu",
-      "— Farmhouse Salad"
-    ]
-  },
-  {
-    "id": "dl-river-belle-terrace-dinner",
-    "name": "River Belle Terrace (Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/dinner/",
-    "added": [],
-    "removed": [
-      "Dinner Menu",
-      "— Farmhouse Salad"
-    ]
-  },
-  {
-    "id": "dl-ronto-roasters-breakfast",
-    "name": "Ronto Roasters (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/breakfast/",
-    "added": [
-      "— Bantha Sipper"
-    ],
     "removed": [
       "Breakfast Menu"
     ]
   },
   {
-    "id": "dl-ronto-roasters-lunch-and-dinner",
-    "name": "Ronto Roasters (Lunch & Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/lunch-and-dinner/",
-    "added": [
-      "— Bantha Sipper"
-    ],
+    "id": "epcot-garden-grill-restaurant-lunch",
+    "name": "Garden Grill Restaurant (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/garden-grill-restaurant/menus/lunch/",
+    "added": [],
     "removed": [
-      "Breakfast Menu"
+      "Lunch Menu"
     ]
   },
   {
-    "id": "dl-royal-street-veranda",
-    "name": "Royal Street Veranda",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/royal-street-veranda/menus/lunch-and-dinner/",
+    "id": "epcot-garden-grill-restaurant-dinner",
+    "name": "Garden Grill Restaurant (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/garden-grill-restaurant/menus/dinner/",
     "added": [],
     "removed": [
-      "Lunch And Dinner Menu"
+      "Dinner Menu"
     ]
   },
   {
-    "id": "dl-stage-door-cafe",
-    "name": "Stage Door Cafe",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/stage-door-cafe/menus/lunch-and-dinner/",
+    "id": "epcot-gelateria-toscana",
+    "name": "Gelateria Toscana",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/gelateria-toscana/menus/snack/",
     "added": [],
     "removed": [
-      "Lunch And Dinner Menu",
-      "Disneyland 70th Celebration Sipper"
+      "— Snack Menu"
     ]
   }
 ]
