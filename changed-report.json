@@ -1,265 +1,280 @@
 [
   {
-    "id": "dl-the-golden-horseshoe",
-    "name": "The Golden Horseshoe",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/golden-horseshoe-restaurant/menus/lunch-and-dinner/",
+    "id": "epcot-geo-82-lunch",
+    "name": "GEO-82 (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/geo-82-lounge/menus/lunch/",
     "added": [],
     "removed": [
-      "Lunch And Dinner Menu"
+      "Lunch Menu"
     ]
   },
   {
-    "id": "dl-the-tropical-hideaway",
-    "name": "The Tropical Hideaway",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/tropical-hideaway/menus/snack/",
+    "id": "epcot-geo-82-dinner",
+    "name": "GEO-82 (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/geo-82-lounge/menus/dinner/",
     "added": [],
     "removed": [
-      "— Snack Menu"
+      "Dinner Menu"
     ]
   },
   {
-    "id": "dl-tianas-palace",
-    "name": "Tiana's Palace",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/tianas-palace/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "Lunch And Dinner Menu"
-    ]
-  },
-  {
-    "id": "dl-tiki-juice-bar",
-    "name": "Tiki Juice Bar",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/tiki-juice-bar/menus/snack/",
+    "id": "epcot-kabuki-cafe",
+    "name": "Kabuki Cafe",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/kabuki-cafe/menus/snack/",
     "added": [],
     "removed": [
       "— Snack Menu"
     ]
   },
   {
-    "id": "dl-troubadour-tavern",
-    "name": "Troubadour Tavern",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/troubadour-tavern/menus/",
+    "id": "epcot-katsura-grill",
+    "name": "Katsura Grill",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/katsura-grill/menus/lunch-and-dinner/",
     "added": [],
+    "removed": [
+      "Lunch And Dinner Menu"
+    ]
+  },
+  {
+    "id": "epcot-kringla-bakeri-og-kafe",
+    "name": "Kringla Bakeri Og Kafe",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/kringla-bakeri-og-kafe/menus/snack/",
+    "added": [
+      "— Skolebrød",
+      "— Coconut Cream Cold Brew"
+    ],
     "removed": [
       "— Snack Menu",
-      "— Skyway Straw Clip"
+      "— School Bread"
     ]
   },
   {
-    "id": "epcot-akershus-royal-banquet-hall-breakfast",
-    "name": "Akershus Royal Banquet Hall (Breakfast)",
+    "id": "epcot-l-artisan-des-glaces",
+    "name": "L'Artisan des Glaces",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/akershus-royal-banquet-hall/menus/breakfast/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/l-artisan-des-glaces/menus/snack/",
+    "added": [],
+    "removed": [
+      "— Snack Menu"
+    ]
+  },
+  {
+    "id": "epcot-la-cantina-de-san-angel",
+    "name": "La Cantina de San Angel",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/cantina-de-san-angel/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "Lunch And Dinner Menu"
+    ]
+  },
+  {
+    "id": "epcot-la-creperie-de-paris-breakfast",
+    "name": "La Crêperie de Paris (Breakfast)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/creperie-de-paris/menus/breakfast/",
     "added": [],
     "removed": [
       "Breakfast Menu"
     ]
   },
   {
-    "id": "epcot-akershus-royal-banquet-hall-lunch",
-    "name": "Akershus Royal Banquet Hall (Lunch)",
+    "id": "epcot-la-creperie-de-paris-lunch",
+    "name": "La Crêperie de Paris (Lunch)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/akershus-royal-banquet-hall/menus/lunch/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/creperie-de-paris/menus/lunch/",
     "added": [],
     "removed": [
       "Lunch Menu"
     ]
   },
   {
-    "id": "epcot-akershus-royal-banquet-hall-dinner",
-    "name": "Akershus Royal Banquet Hall (Dinner)",
+    "id": "epcot-la-creperie-de-paris-dinner",
+    "name": "La Crêperie de Paris (Dinner)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/akershus-royal-banquet-hall/menus/dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/creperie-de-paris/menus/dinner/",
     "added": [],
     "removed": [
       "Dinner Menu"
     ]
   },
   {
-    "id": "epcot-biergarten-restaurant-lunch",
-    "name": "Biergarten Restaurant (Lunch)",
+    "id": "epcot-la-hacienda-de-san-angel",
+    "name": "La Hacienda de San Angel",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/biergarten-restaurant/menus/lunch/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/hacienda-de-san-angel/menus/dinner/",
+    "added": [],
+    "removed": [
+      "Dinner Menu"
+    ]
+  },
+  {
+    "id": "epcot-le-cellier-steakhouse-lunch",
+    "name": "Le Cellier Steakhouse (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/le-cellier-steakhouse/menus/lunch/",
     "added": [],
     "removed": [
       "Lunch Menu"
     ]
   },
   {
-    "id": "epcot-biergarten-restaurant-dinner",
-    "name": "Biergarten Restaurant (Dinner)",
+    "id": "epcot-le-cellier-steakhouse-dinner",
+    "name": "Le Cellier Steakhouse (Dinner)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/biergarten-restaurant/menus/dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/le-cellier-steakhouse/menus/dinner/",
     "added": [],
     "removed": [
       "Dinner Menu"
     ]
   },
   {
-    "id": "epcot-block-and-hans",
-    "name": "Block & Hans",
+    "id": "epcot-les-halles-boulangerie-patisserie",
+    "name": "Les Halles Boulangerie-Patisserie",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/block-hans/menus/bar-%E2%80%93-lounge/",
-    "added": [],
-    "removed": [
-      "— Bar – Lounge Menu",
-      "— Cinnamon-glazed Nuts"
-    ]
-  },
-  {
-    "id": "epcot-canada-popcorn-cart",
-    "name": "Canada Popcorn Cart",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/popcorn-at-canada-pavilion/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "epcot-chefs-de-france-lunch",
-    "name": "Chefs de France (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/chefs-de-france/menus/lunch/",
-    "added": [],
-    "removed": [
-      "Lunch Menu"
-    ]
-  },
-  {
-    "id": "epcot-chefs-de-france-dinner",
-    "name": "Chefs de France (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/chefs-de-france/menus/dinner/",
-    "added": [],
-    "removed": [
-      "Dinner Menu"
-    ]
-  },
-  {
-    "id": "epcot-choza-de-margarita",
-    "name": "Choza de Margarita",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/choza-de-margarita/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "epcot-connections-cafe",
-    "name": "Connections Café (Starbucks)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/connections-cafe/menus/coffee-%E2%80%93-bakery/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/les-halles-boulangerie-patisserie/menus/lunch-and-dinner/",
     "added": [
-      "Blue Coconut Lemonade Energy Refresher - Grande"
-    ],
-    "removed": [
-      "— Coffee – Bakery Menu"
-    ]
-  },
-  {
-    "id": "epcot-connections-eatery",
-    "name": "Connections Eatery",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/connections-eatery/menus/",
-    "added": [
-      "— House-made Pepperoni Pizza",
-      "— House-made Cheese Pizza",
-      "— French Fries",
-      "— Peach Whiskey Iced Tea"
+      "— Croiss Oh La La",
+      "— Citron Blueberry",
+      "— Macaron Chocolat",
+      "— Éclair Vanille",
+      "— Macaron Plant Based",
+      "— Ourson"
     ],
     "removed": [
       "Lunch And Dinner Menu",
-      "— Pepperoni Pizza",
-      "— French Fries with Sea Salt",
-      "— Rainstorm Pinot Noir Rosé, Oregon",
-      "— Broadside Cabernet Sauvignon, California"
+      "— Pain Lard Fromage",
+      "— Patisserie a l’abricot-",
+      "— Tarte au Chocolat et Caramel",
+      "— Café Liegois"
     ]
   },
   {
-    "id": "epcot-coral-reef-restaurant",
-    "name": "Coral Reef Restaurant",
+    "id": "epcot-lotus-blossom-cafe",
+    "name": "Lotus Blossom Café",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/coral-reef-restaurant/menus/dinner/",
-    "added": [],
-    "removed": [
-      "Dinner Menu"
-    ]
-  },
-  {
-    "id": "epcot-crepes-a-emporter",
-    "name": "Crêpes À Emporter by La Crêperie de Paris",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/crepes-a-emporter/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/lotus-blossom-cafe/menus/lunch-and-dinner/",
     "added": [],
     "removed": [
       "Lunch And Dinner Menu"
     ]
   },
   {
-    "id": "epcot-fife-and-drum-tavern",
-    "name": "Fife & Drum Tavern",
+    "id": "epcot-nine-dragons-restaurant-lunch",
+    "name": "Nine Dragons Restaurant (Lunch)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/fife-and-drum-tavern/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "epcot-funnel-cake",
-    "name": "Funnel Cake – EPCOT",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/funnel-cake/menus/",
-    "added": [],
-    "removed": [
-      "— Snack Menu"
-    ]
-  },
-  {
-    "id": "epcot-garden-grill-restaurant-breakfast",
-    "name": "Garden Grill Restaurant (Breakfast)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/garden-grill-restaurant/menus/breakfast/",
-    "added": [],
-    "removed": [
-      "Breakfast Menu"
-    ]
-  },
-  {
-    "id": "epcot-garden-grill-restaurant-lunch",
-    "name": "Garden Grill Restaurant (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/garden-grill-restaurant/menus/lunch/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/nine-dragons-restaurant/menus/lunch/",
     "added": [],
     "removed": [
       "Lunch Menu"
     ]
   },
   {
-    "id": "epcot-garden-grill-restaurant-dinner",
-    "name": "Garden Grill Restaurant (Dinner)",
+    "id": "epcot-nine-dragons-restaurant-dinner",
+    "name": "Nine Dragons Restaurant (Dinner)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/garden-grill-restaurant/menus/dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/nine-dragons-restaurant/menus/dinner/",
     "added": [],
     "removed": [
       "Dinner Menu"
     ]
   },
   {
-    "id": "epcot-gelateria-toscana",
-    "name": "Gelateria Toscana",
+    "id": "epcot-oasis-sweets-and-sips",
+    "name": "Oasis Sweets & Sips",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/gelateria-toscana/menus/snack/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/oasis-sweets-sips/menus/",
     "added": [],
     "removed": [
-      "— Snack Menu"
+      "— Bar – Lounge Menu"
+    ]
+  },
+  {
+    "id": "epcot-pizza-al-taglio",
+    "name": "Pizza al Taglio",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/pizza-taglio/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "Lunch And Dinner Menu"
+    ]
+  },
+  {
+    "id": "epcot-regal-eagle-smokehouse",
+    "name": "Regal Eagle Smokehouse",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/regal-eagle-smokehouse/menus/lunch-and-dinner/",
+    "added": [
+      "— House Wedge Salad with Smoked Chicken",
+      "— House Wedge Salad with Pulled BBQ Pork",
+      "— Plant-based Chili Baked Potato",
+      "— Coleslaw",
+      "— Apple Pie Gelato Shake with Moonshine",
+      "— Apple Pie Gelato Shake",
+      "— The 1776",
+      "— Sam Eagle Star-Spangled Shortcake"
+    ],
+    "removed": [
+      "Lunch And Dinner Menu",
+      "— House Salad with Smoked Chicken",
+      "— House Salad with Pulled BBQ Pork",
+      "— BBQ Jackfruit Sandwich",
+      "— Frozen Blueberry-Lavender Lemonade"
+    ]
+  },
+  {
+    "id": "epcot-rose-and-crown-dining-room",
+    "name": "Rose & Crown Dining Room",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/rose-and-crown-dining-room/menus/dinner/",
+    "added": [],
+    "removed": [
+      "Dinner Menu"
+    ]
+  },
+  {
+    "id": "epcot-san-angel-inn-restaurante-lunch",
+    "name": "San Angel Inn Restaurante (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/san-angel-inn-restaurante/menus/lunch/",
+    "added": [],
+    "removed": [
+      "Lunch Menu"
+    ]
+  },
+  {
+    "id": "epcot-san-angel-inn-restaurante-dinner",
+    "name": "San Angel Inn Restaurante (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/san-angel-inn-restaurante/menus/dinner/",
+    "added": [],
+    "removed": [
+      "Dinner Menu"
+    ]
+  },
+  {
+    "id": "epcot-shiki-sai-lunch",
+    "name": "Shiki-Sai: Sushi Izakaya (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/shiki-sai-izakaya-and-sushi/menus/lunch/",
+    "added": [],
+    "removed": [
+      "Lunch Menu"
+    ]
+  },
+  {
+    "id": "epcot-shiki-sai-dinner",
+    "name": "Shiki-Sai: Sushi Izakaya (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/shiki-sai-izakaya-and-sushi/menus/dinner/",
+    "added": [],
+    "removed": [
+      "Dinner Menu"
     ]
   }
 ]
