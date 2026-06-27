@@ -50,8 +50,6 @@
         "— Sea Bass",
         "Bucatini alla Adriata",
         "— Bucatini alla Adriata",
-        "The Atlantic Burger “Au Poivre”*",
-        "— The Atlantic Burger “Au Poivre”*",
         "Grouper Sandwich",
         "— Grouper Sandwich",
         "Captain Fernando’s Half-Pound Lobster Roll",
@@ -63,6 +61,8 @@
         "— Atlantic Filet Mignon*",
         "Lion's Mane Steak",
         "— Lion's Mane Steak",
+        "The Atlantic Burger \"Au Poivre\"*",
+        "— The Atlantic Burger \"Au Poivre\"*",
         "— Desserts",
         "Piña Colada Panna Cotta",
         "— Piña Colada Panna Cotta",
@@ -222,7 +222,8 @@
         "Hot Beverages",
         "— Hot Beverages",
         "Monster® Zero Ultra Violet",
-        "— Monster® Zero Ultra Violet"
+        "— Monster® Zero Ultra Violet",
+        "18% automatic gratuity for service staff is added for parties of 6 or more"
       ]
     }
   ]
