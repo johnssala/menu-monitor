@@ -2,7 +2,20 @@
   "sections": [
     {
       "title": "menu",
-      "items": []
+      "items": [
+        "Epic Eats",
+        "— Pride Funnel Cake",
+        "— Strawberry Funnel Cake",
+        "— Caramel-Apple Pie Funnel Cake",
+        "— Funnel Cake",
+        "— Soft-Serve Waffle Cone",
+        "— Epic Cold Brew Spectacular!",
+        "— Barq's® Root Beer Float",
+        "— Cold Brew Float",
+        "— Vanilla Cold Brew",
+        "— Assorted Fountain Beverages",
+        "— DASANI® Bottled Water"
+      ]
     }
   ]
 }

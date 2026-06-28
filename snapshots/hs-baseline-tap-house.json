@@ -2,7 +2,49 @@
   "sections": [
     {
       "title": "menu",
-      "items": []
+      "items": [
+        "BaseLine Tap House",
+        "— Pepperoni Flatbread",
+        "— Bavarian Pretzel",
+        "— California Cheese and Charcuterie Plate",
+        "— Avenue Chips",
+        "Minute Maid® Aguas Frescas - Strawberry Hibiscus",
+        "— Wild Strawberry Lemonade",
+        "— Golden Road Mango Cart",
+        "— North Coast Scrimshaw Pilsner",
+        "— Golden Road Belgian White Ale",
+        "— North Coast Red Seal Ale",
+        "— Lost Coast Brewery Vanilla Latte Stout",
+        "— Sierra Nevada Hazy Little Thing IPA",
+        "— Stone Delicious IPA",
+        "— Sierra Nevada Seasonal",
+        "— Create-Your-Own Beer Flight",
+        "Coronado Brewing Co. Superfruit Hard Cider",
+        "— Line 39 Cabernet Sauvignon",
+        "— St. Francis Chardonnay",
+        "— Baseline Select Margarita",
+        "— California Sunset",
+        "— Absolut",
+        "— Absolut Citron",
+        "— Hangar One Vodka",
+        "— Tito’s Handmade Vodka",
+        "— Parrot Bay Coconut Rum",
+        "— Bacardí Silver Rum",
+        "— Captain Morgan Private Stock",
+        "— Hendrick’s",
+        "— Cointreau",
+        "— Southern Comfort",
+        "— Maker’s Mark",
+        "— Gentleman Jack Tennessee Whiskey",
+        "— Bulleit 95 Rye Whiskey",
+        "— Crown Royal Blended Whisky",
+        "— Fireball Cinnamon Whisky",
+        "— Jameson Irish Whiskey",
+        "— Johnnie Walker Black Label",
+        "— Jose Cuervo Tradicional Reposado",
+        "— Patrón Silver",
+        "— Lunazul Añejo Tequila"
+      ]
     }
   ]
 }

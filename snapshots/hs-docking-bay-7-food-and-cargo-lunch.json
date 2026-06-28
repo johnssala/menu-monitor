@@ -2,7 +2,30 @@
   "sections": [
     {
       "title": "menu",
-      "items": []
+      "items": [
+        "Docking Bay 7 Food and Cargo",
+        "— The Mandalorian and Grogu Jetpack Sipper",
+        "— Shaak Pot Roast with Kublag Mash",
+        "— Sweet Puffer Pig Ribs with Portion Bread",
+        "— Endorian Fried Chicken Tip Yip",
+        "— Pirjanad Hot Chicken Tip Yip",
+        "— Sweet-and-Spicy Puffer Pig Pasta",
+        "— Endorian Chicken Tip-Yip Salad",
+        "Felucian Falafel and Hummus Garden Spread",
+        "— Mashed Potatoes",
+        "— White Rice",
+        "— Ithorian Pasta Rings",
+        "— Fried Chicken Tip Yip Youngling Meal",
+        "— Black Spire Mousse",
+        "Gold Squadron Lager - Blue Point Brewing Co.",
+        "— Surly Sarlacc",
+        "— Assorted Fountain Beverages - Large",
+        "— Assorted Fountain Beverages - Regular",
+        "— DASANI® Bottled Water",
+        "— Small Chocolate Milk",
+        "— Minute Maid® Apple Juice",
+        "— Lowfat Milk"
+      ]
     }
   ]
 }
