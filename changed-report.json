@@ -1,42 +1,157 @@
 [
   {
-    "id": "hs-kat-sakas-kettle",
-    "name": "Kat Saka's Kettle",
+    "id": "hs-the-trolley-car-cafe",
+    "name": "The Trolley Car Café (Starbucks)",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/kat-sakas-kettle/menus/snack/",
-    "added": [],
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/trolley-car-cafe/menus/",
+    "added": [
+      "Blue Coconut Lemonade Energy Refresher - Grande"
+    ],
+    "removed": []
+  },
+  {
+    "id": "hs-woodys-lunch-box-breakfast",
+    "name": "Woody's Lunch Box (Breakfast)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/breakfast/",
+    "added": [
+      "— Screen Time Swirl Float",
+      "— Lilypad Lunch Box Tart"
+    ],
     "removed": [
-      "— Salvaged Protocol Droid Bucket"
+      "— The Clawwww! Lunch Box Tart"
     ]
   },
   {
-    "id": "hs-ronto-roasters-breakfast",
-    "name": "Ronto Roasters (Breakfast)",
+    "id": "hs-woodys-lunch-box-lunch-and-dinner",
+    "name": "Woody's Lunch Box (Lunch & Dinner)",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/breakfast/",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/lunch-and-dinner/",
     "added": [
-      "— Bantha Sipper"
+      "— Screen Time Swirl Float",
+      "— Lilypad Lunch Box Tart"
+    ],
+    "removed": [
+      "— The Clawwww! Lunch Box Tart"
+    ]
+  },
+  {
+    "id": "ioa-cinnabon",
+    "name": "Cinnabon",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/cinnabon-ioa/menu.html",
+    "added": [
+      "Refresher",
+      "Mango cal: 170 Strawberry cal: 190"
     ],
     "removed": []
   },
   {
-    "id": "hs-ronto-roasters-lunch-and-dinner",
-    "name": "Ronto Roasters (Lunch & Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/lunch-and-dinner/",
+    "id": "ioa-croissant-moon-bakery",
+    "name": "Croissant Moon Bakery",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/croissant-moon-bakery/menu.html",
     "added": [
-      "— Bantha Sipper"
+      "Coca-Cola, Coke Zero Sugar, Diet Coke, Sprite, Cherry Coke, Fanta Orange, Lemonade, Root Beer",
+      "Add Oat Milk for Coffee Drinks"
+    ],
+    "removed": [
+      "Coca-Cola, Coke Zero Sugar, Diet Coke, Sprite, Cherry Coke, Fanta Orange, Lemonade, Root Beer, Gold Peak Iced Tea"
+    ]
+  },
+  {
+    "id": "ioa-doc-sugrues-desert-kebab-house",
+    "name": "Doc Sugrue's Desert Kebab House",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/doc-sugrues-desert-kebab-house/menu.html",
+    "added": [
+      "— This page has rolled out.",
+      "Explore the Parks",
+      "Universal Islands of Adventure",
+      "— Universal Islands of Adventure",
+      "Universal Studios Florida",
+      "— Universal Studios Florida",
+      "Universal Volcano Bay",
+      "— Universal Volcano Bay",
+      "Universal CityWalk",
+      "— Universal CityWalk",
+      "The Wizarding World of Harry Potter™",
+      "— The Wizarding World of Harry Potter™",
+      "— Explore Popular Pages",
+      "Homepage",
+      "— Homepage",
+      "Deals & Specials",
+      "— Deals & Specials",
+      "Tickets",
+      "— Tickets",
+      "Vacation Packages",
+      "— Vacation Packages",
+      "Rides & Attractions",
+      "— Rides & Attractions",
+      "Hotels",
+      "— Hotels"
+    ],
+    "removed": [
+      "Doc Sugrue's Desert Kebab House",
+      "— Everyday Menu",
+      "Allergen Note",
+      "Entrees",
+      "Mediterranean Beef Kebab Bowl Combo",
+      "Mediterranean Chicken Kebab Bowl Combo",
+      "Mediterranean Vegan Meatball Kebab Bowl Combo",
+      "Greek Salad Combo",
+      "Greek Salad",
+      "romaine lettuce, red onions, cucumbers, tomatoes, kalamata olives, feta cheese, ajvar sauce, Greek dressing, pita bread",
+      "Snacks",
+      "Hummus",
+      "garbanzo purée, garlic, lemon, tahini and pita chips",
+      "Dubai Chocolate Brownie",
+      "fudge brownie, pistachio cream, toasted kataifi, chocolate ganache",
+      "Chips",
+      "choice of plain, garlic parmesan or cinnamon sugar pita chips",
+      "Refreshing Cold Beverages",
+      "Single Serve Coca-Cola Freestyle® cup",
+      "Enjoy more than 100 drink choices with the Coca-Cola Freestyle® single-serve cup.",
+      "Powerade",
+      "Fruit Punch, Mountain Berry Blast",
+      "Premium Bottled Water",
+      "Coca-Cola Freestyle® Souvenir Cup",
+      "Extra day of refills for Freestyle® Cup",
+      "Add an extra day of refills thru the day* to your previously purchased Coca-Cola Freestyle® Souvenir Cup",
+      "Ice Cold Beer",
+      "Miller Lite",
+      "Michelob Ultra",
+      "Modelo",
+      "High Noon Pineapple Seltzer",
+      "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive V - Vegetarian VG - Vegan"
+    ]
+  },
+  {
+    "id": "ioa-fire-eaters-grill",
+    "name": "Fire Eater's Grill",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/fire-eaters-grill/menu.html",
+    "added": [
+      "Tzatziki Sauce"
     ],
     "removed": []
   },
   {
-    "id": "hs-rosies-all-american-cafe",
-    "name": "Rosie's All-American Café",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/rosies-all-american-cafe/menus/lunch-and-dinner/",
+    "id": "ioa-the-burger-digs",
+    "name": "The Burger Digs",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-burger-digs/menu.html",
     "added": [
-      "— Sheriff Jessie Punch"
+      "Request no cheese and a sesame seed bun for dairy-sensitive options",
+      "Request a sesame seed bun for egg-sensitive options",
+      "sofrito marinated grilled chicken breast, smashed avocado, bacon, pepper jack cheese on a brioche bun, served with fries",
+      "chorizo, fire roasted corn, peppers, red pepper crema, black beans, sofrito rice, salsa roja, served with fries"
     ],
-    "removed": []
+    "removed": [
+      "Request no cheese and a Kaiser bun for dairy-sensitive options",
+      "Request a Kaiser bun for egg-sensitive options",
+      "sofrito marinated grilled chicken breast, smashed avocado, bacon, pepper jack cheese on a Kaiser roll, served with fries",
+      "chorizo, fire roasted corn, poblano peppers, red pepper crema, black beans, sofrito rice, salsa roja, served with fries"
+    ]
   }
 ]
