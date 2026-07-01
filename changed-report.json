@@ -1,157 +1,51 @@
 [
   {
-    "id": "hs-the-trolley-car-cafe",
-    "name": "The Trolley Car Café (Starbucks)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/trolley-car-cafe/menus/",
+    "id": "ioa-three-broomsticks",
+    "name": "Three Broomsticks",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/three-broomsticks/menu.html",
+    "added": [],
+    "removed": [
+      "Spiced Apple Cider",
+      "apple cider, cinnamon, cloves, star anise, and nutmeg"
+    ]
+  },
+  {
+    "id": "mk-cosmic-rays-starlight-cafe",
+    "name": "Cosmic Ray's Starlight Café",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cosmic-ray-starlight-cafe/menus/",
+    "added": [
+      "— 1/3 lb Bacon Cheeseburger"
+    ],
+    "removed": [
+      "— 1/3 lb Angus Bacon Cheeseburger"
+    ]
+  },
+  {
+    "id": "mk-golden-oak-outpost-lunch-and-dinner",
+    "name": "Golden Oak Outpost (Lunch & Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/golden-oak-outpost/menus/lunch-and-dinner/",
+    "added": [
+      "Honey Butter Chicken Biscuit Breakfast Sandwich",
+      "— Banana-Caramel Beignets",
+      "— Simply® Orange",
+      "— Small Lowfat Milk"
+    ],
+    "removed": [
+      "Hot Honey Chicken with Sweet Potato Fries",
+      "— Sweet Potato Fries"
+    ]
+  },
+  {
+    "id": "mk-main-street-bakery",
+    "name": "Main Street Bakery (Starbucks)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/main-street-bakery/menus/",
     "added": [
       "Blue Coconut Lemonade Energy Refresher - Grande"
     ],
     "removed": []
-  },
-  {
-    "id": "hs-woodys-lunch-box-breakfast",
-    "name": "Woody's Lunch Box (Breakfast)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/breakfast/",
-    "added": [
-      "— Screen Time Swirl Float",
-      "— Lilypad Lunch Box Tart"
-    ],
-    "removed": [
-      "— The Clawwww! Lunch Box Tart"
-    ]
-  },
-  {
-    "id": "hs-woodys-lunch-box-lunch-and-dinner",
-    "name": "Woody's Lunch Box (Lunch & Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/lunch-and-dinner/",
-    "added": [
-      "— Screen Time Swirl Float",
-      "— Lilypad Lunch Box Tart"
-    ],
-    "removed": [
-      "— The Clawwww! Lunch Box Tart"
-    ]
-  },
-  {
-    "id": "ioa-cinnabon",
-    "name": "Cinnabon",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/cinnabon-ioa/menu.html",
-    "added": [
-      "Refresher",
-      "Mango cal: 170 Strawberry cal: 190"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ioa-croissant-moon-bakery",
-    "name": "Croissant Moon Bakery",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/croissant-moon-bakery/menu.html",
-    "added": [
-      "Coca-Cola, Coke Zero Sugar, Diet Coke, Sprite, Cherry Coke, Fanta Orange, Lemonade, Root Beer",
-      "Add Oat Milk for Coffee Drinks"
-    ],
-    "removed": [
-      "Coca-Cola, Coke Zero Sugar, Diet Coke, Sprite, Cherry Coke, Fanta Orange, Lemonade, Root Beer, Gold Peak Iced Tea"
-    ]
-  },
-  {
-    "id": "ioa-doc-sugrues-desert-kebab-house",
-    "name": "Doc Sugrue's Desert Kebab House",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/doc-sugrues-desert-kebab-house/menu.html",
-    "added": [
-      "— This page has rolled out.",
-      "Explore the Parks",
-      "Universal Islands of Adventure",
-      "— Universal Islands of Adventure",
-      "Universal Studios Florida",
-      "— Universal Studios Florida",
-      "Universal Volcano Bay",
-      "— Universal Volcano Bay",
-      "Universal CityWalk",
-      "— Universal CityWalk",
-      "The Wizarding World of Harry Potter™",
-      "— The Wizarding World of Harry Potter™",
-      "— Explore Popular Pages",
-      "Homepage",
-      "— Homepage",
-      "Deals & Specials",
-      "— Deals & Specials",
-      "Tickets",
-      "— Tickets",
-      "Vacation Packages",
-      "— Vacation Packages",
-      "Rides & Attractions",
-      "— Rides & Attractions",
-      "Hotels",
-      "— Hotels"
-    ],
-    "removed": [
-      "Doc Sugrue's Desert Kebab House",
-      "— Everyday Menu",
-      "Allergen Note",
-      "Entrees",
-      "Mediterranean Beef Kebab Bowl Combo",
-      "Mediterranean Chicken Kebab Bowl Combo",
-      "Mediterranean Vegan Meatball Kebab Bowl Combo",
-      "Greek Salad Combo",
-      "Greek Salad",
-      "romaine lettuce, red onions, cucumbers, tomatoes, kalamata olives, feta cheese, ajvar sauce, Greek dressing, pita bread",
-      "Snacks",
-      "Hummus",
-      "garbanzo purée, garlic, lemon, tahini and pita chips",
-      "Dubai Chocolate Brownie",
-      "fudge brownie, pistachio cream, toasted kataifi, chocolate ganache",
-      "Chips",
-      "choice of plain, garlic parmesan or cinnamon sugar pita chips",
-      "Refreshing Cold Beverages",
-      "Single Serve Coca-Cola Freestyle® cup",
-      "Enjoy more than 100 drink choices with the Coca-Cola Freestyle® single-serve cup.",
-      "Powerade",
-      "Fruit Punch, Mountain Berry Blast",
-      "Premium Bottled Water",
-      "Coca-Cola Freestyle® Souvenir Cup",
-      "Extra day of refills for Freestyle® Cup",
-      "Add an extra day of refills thru the day* to your previously purchased Coca-Cola Freestyle® Souvenir Cup",
-      "Ice Cold Beer",
-      "Miller Lite",
-      "Michelob Ultra",
-      "Modelo",
-      "High Noon Pineapple Seltzer",
-      "SFS – Shellfish Sensitive SES – Sesame Sensitive SS – Soy Protein Sensitive V - Vegetarian VG - Vegan"
-    ]
-  },
-  {
-    "id": "ioa-fire-eaters-grill",
-    "name": "Fire Eater's Grill",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/fire-eaters-grill/menu.html",
-    "added": [
-      "Tzatziki Sauce"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ioa-the-burger-digs",
-    "name": "The Burger Digs",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-burger-digs/menu.html",
-    "added": [
-      "Request no cheese and a sesame seed bun for dairy-sensitive options",
-      "Request a sesame seed bun for egg-sensitive options",
-      "sofrito marinated grilled chicken breast, smashed avocado, bacon, pepper jack cheese on a brioche bun, served with fries",
-      "chorizo, fire roasted corn, peppers, red pepper crema, black beans, sofrito rice, salsa roja, served with fries"
-    ],
-    "removed": [
-      "Request no cheese and a Kaiser bun for dairy-sensitive options",
-      "Request a Kaiser bun for egg-sensitive options",
-      "sofrito marinated grilled chicken breast, smashed avocado, bacon, pepper jack cheese on a Kaiser roll, served with fries",
-      "chorizo, fire roasted corn, poblano peppers, red pepper crema, black beans, sofrito rice, salsa roja, served with fries"
-    ]
   }
 ]
