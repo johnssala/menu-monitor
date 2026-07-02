@@ -2,22 +2,7 @@
   "sections": [
     {
       "title": "menu",
-      "items": [
-        "Westward Ho",
-        "Mickey-shaped Bacon-Pecan-Caramel Cinnamon Roll",
-        "— Candied Bacon Skewer",
-        "Sausage and Egg Biscuit Breakfast Sandwich",
-        "— Simply® Orange",
-        "— Lowfat Milk",
-        "— Joffrey's Coffee™ Cold Brew",
-        "— Premium Flavored Syrups",
-        "Minute Maid® Premium Lemonade Frozen Slushy",
-        "— Frozen Coca-Cola® Slushy",
-        "— Assorted Coca-Cola® Fountain Beverages",
-        "— DASANI® Bottled Water",
-        "— Freshly Brewed Joffrey's Coffee™",
-        "— Twinings® Hot Tea"
-      ]
+      "items": []
     }
   ]
 }

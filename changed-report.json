@@ -1,51 +1,85 @@
 [
   {
-    "id": "ioa-three-broomsticks",
-    "name": "Three Broomsticks",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/three-broomsticks/menu.html",
-    "added": [],
-    "removed": [
-      "Spiced Apple Cider",
-      "apple cider, cinnamon, cloves, star anise, and nutmeg"
-    ]
-  },
-  {
-    "id": "mk-cosmic-rays-starlight-cafe",
-    "name": "Cosmic Ray's Starlight Café",
+    "id": "mk-the-friars-nook-breakfast",
+    "name": "The Friar's Nook (Breakfast)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cosmic-ray-starlight-cafe/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/breakfast/",
     "added": [
-      "— 1/3 lb Bacon Cheeseburger"
-    ],
-    "removed": [
-      "— 1/3 lb Angus Bacon Cheeseburger"
-    ]
-  },
-  {
-    "id": "mk-golden-oak-outpost-lunch-and-dinner",
-    "name": "Golden Oak Outpost (Lunch & Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/golden-oak-outpost/menus/lunch-and-dinner/",
-    "added": [
-      "Honey Butter Chicken Biscuit Breakfast Sandwich",
-      "— Banana-Caramel Beignets",
-      "— Simply® Orange",
-      "— Small Lowfat Milk"
-    ],
-    "removed": [
-      "Hot Honey Chicken with Sweet Potato Fries",
-      "— Sweet Potato Fries"
-    ]
-  },
-  {
-    "id": "mk-main-street-bakery",
-    "name": "Main Street Bakery (Starbucks)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/main-street-bakery/menus/",
-    "added": [
-      "Blue Coconut Lemonade Energy Refresher - Grande"
+      "— Jumbo Pretzel"
     ],
     "removed": []
+  },
+  {
+    "id": "mk-the-friars-nook-lunch-and-dinner",
+    "name": "The Friar's Nook (Lunch & Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/lunch-and-dinner/",
+    "added": [
+      "— Jumbo Pretzel"
+    ],
+    "removed": []
+  },
+  {
+    "id": "mk-the-lunching-pad-lunch-and-dinner",
+    "name": "The Lunching Pad (Lunch & Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/lunching-pad/menus/lunch-and-dinner/",
+    "added": [
+      "— Breakfast Bowl",
+      "— Simply® Orange",
+      "Large Freshly Brewed Joffrey's Coffee™ Regular",
+      "— Freshly Brewed Joffrey's Coffee™ Regular"
+    ],
+    "removed": [
+      "— Cuban Hot Dog",
+      "— Queso Fundido Hot Dog",
+      "— All-Beef Hot Dog"
+    ]
+  },
+  {
+    "id": "mk-westward-ho-breakfast",
+    "name": "Westward Ho (Breakfast)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/westward-ho/menus/breakfast/",
+    "added": [],
+    "removed": [
+      "Westward Ho",
+      "Mickey-shaped Bacon-Pecan-Caramel Cinnamon Roll",
+      "— Candied Bacon Skewer",
+      "Sausage and Egg Biscuit Breakfast Sandwich",
+      "— Simply® Orange",
+      "— Lowfat Milk",
+      "— Joffrey's Coffee™ Cold Brew",
+      "— Premium Flavored Syrups",
+      "Minute Maid® Premium Lemonade Frozen Slushy",
+      "— Frozen Coca-Cola® Slushy",
+      "— Assorted Coca-Cola® Fountain Beverages",
+      "— DASANI® Bottled Water",
+      "— Freshly Brewed Joffrey's Coffee™",
+      "— Twinings® Hot Tea"
+    ]
+  },
+  {
+    "id": "mk-westward-ho-lunch-and-dinner",
+    "name": "Westward Ho (Lunch & Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/westward-ho/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "Westward Ho",
+      "Mickey-shaped Bacon-Pecan-Caramel Cinnamon Roll",
+      "— Candied Bacon Skewer",
+      "Sausage and Egg Biscuit Breakfast Sandwich",
+      "— Simply® Orange",
+      "— Lowfat Milk",
+      "— Joffrey's Coffee™ Cold Brew",
+      "— Premium Flavored Syrups",
+      "Minute Maid® Premium Lemonade Frozen Slushy",
+      "— Frozen Coca-Cola® Slushy",
+      "— Assorted Coca-Cola® Fountain Beverages",
+      "— DASANI® Bottled Water",
+      "— Freshly Brewed Joffrey's Coffee™",
+      "— Twinings® Hot Tea"
+    ]
   }
 ]
