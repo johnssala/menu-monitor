@@ -1,85 +1,30 @@
 [
   {
-    "id": "mk-the-friars-nook-breakfast",
-    "name": "The Friar's Nook (Breakfast)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/breakfast/",
-    "added": [
-      "— Jumbo Pretzel"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-the-friars-nook-lunch-and-dinner",
-    "name": "The Friar's Nook (Lunch & Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/lunch-and-dinner/",
-    "added": [
-      "— Jumbo Pretzel"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-the-lunching-pad-lunch-and-dinner",
-    "name": "The Lunching Pad (Lunch & Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/lunching-pad/menus/lunch-and-dinner/",
-    "added": [
-      "— Breakfast Bowl",
-      "— Simply® Orange",
-      "Large Freshly Brewed Joffrey's Coffee™ Regular",
-      "— Freshly Brewed Joffrey's Coffee™ Regular"
-    ],
+    "id": "tl-leaning-palms",
+    "name": "Leaning Palms",
+    "park": "Typhoon Lagoon",
+    "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/leaning-palms/menus/lunch/",
+    "added": [],
     "removed": [
-      "— Cuban Hot Dog",
-      "— Queso Fundido Hot Dog",
-      "— All-Beef Hot Dog"
+      "— Chicken and Shrimp Rice Bowl",
+      "— Chicken Rice Bowl",
+      "— Shrimp Rice Bowl",
+      "— Pork Elote Nachos"
     ]
   },
   {
-    "id": "mk-westward-ho-breakfast",
-    "name": "Westward Ho (Breakfast)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/westward-ho/menus/breakfast/",
-    "added": [],
+    "id": "usf-dreamworks-imagination-cafe",
+    "name": "DreamWorks Imagination Cafe",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/dreamworks-imagination-cafe/menu.html",
+    "added": [
+      "Bottled Water4.25",
+      "Monster Energy®5.79",
+      "— Monster Energy®",
+      "Monster Energy®"
+    ],
     "removed": [
-      "Westward Ho",
-      "Mickey-shaped Bacon-Pecan-Caramel Cinnamon Roll",
-      "— Candied Bacon Skewer",
-      "Sausage and Egg Biscuit Breakfast Sandwich",
-      "— Simply® Orange",
-      "— Lowfat Milk",
-      "— Joffrey's Coffee™ Cold Brew",
-      "— Premium Flavored Syrups",
-      "Minute Maid® Premium Lemonade Frozen Slushy",
-      "— Frozen Coca-Cola® Slushy",
-      "— Assorted Coca-Cola® Fountain Beverages",
-      "— DASANI® Bottled Water",
-      "— Freshly Brewed Joffrey's Coffee™",
-      "— Twinings® Hot Tea"
-    ]
-  },
-  {
-    "id": "mk-westward-ho-lunch-and-dinner",
-    "name": "Westward Ho (Lunch & Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/westward-ho/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "Westward Ho",
-      "Mickey-shaped Bacon-Pecan-Caramel Cinnamon Roll",
-      "— Candied Bacon Skewer",
-      "Sausage and Egg Biscuit Breakfast Sandwich",
-      "— Simply® Orange",
-      "— Lowfat Milk",
-      "— Joffrey's Coffee™ Cold Brew",
-      "— Premium Flavored Syrups",
-      "Minute Maid® Premium Lemonade Frozen Slushy",
-      "— Frozen Coca-Cola® Slushy",
-      "— Assorted Coca-Cola® Fountain Beverages",
-      "— DASANI® Bottled Water",
-      "— Freshly Brewed Joffrey's Coffee™",
-      "— Twinings® Hot Tea"
+      "Bottled Water4.00"
     ]
   }
 ]
