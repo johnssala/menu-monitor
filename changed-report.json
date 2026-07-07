@@ -1,31 +1,26 @@
 [
   {
-    "id": "ak-harambe-market",
-    "name": "Harambe Market",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/harambe-market/menus/lunch-and-dinner/",
+    "id": "dca-carthay-circle-lounge-lunch",
+    "name": "Carthay Circle Lounge (Lunch)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-lounge/menus/lunch/",
     "added": [
-      "— Tanzanian Meat Pie",
-      "— Seasoned Kettle Chips",
-      "— Fruit Cup"
+      "— *Farmers Market Peach Tostadas",
+      "— Summer Berry Salad",
+      "— *Char Sui Glazed Salmon",
+      "— Cheese Tortellini",
+      "— El Pastor Roasted Chicken Breast",
+      "— Strawberry-Matcha Popsicle"
     ],
-    "removed": []
-  },
-  {
-    "id": "ak-pizzafari",
-    "name": "Pizzafari",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/pizzafari/menus/lunch-and-dinner/",
-    "added": [],
     "removed": [
-      "— Frozen Strawberry Slushy with Glow Cube",
-      "— Island Treasure with Glow Cube",
-      "— Frozen Mango Slushy with Glow Cube",
-      "— Sunset Haven with Glow Cube",
-      "— Tomato Bisque Soup",
-      "— Island Treasure",
-      "— Frozen Mango Slushy",
-      "— Frozen Strawberry Slushy"
+      "— Spring Salad",
+      "— Jamaican Chicken Curry",
+      "— Green Thai Curry Baked Bay Scallops",
+      "— Cold Water Salmon*",
+      "— Yukon Potato & Leek Soup",
+      "— Beef Tortelloni",
+      "Tahitian Vanilla Bean-Root Beer Float Popsicle",
+      "— Hazelnut Crunch Mickey Pop"
     ]
   }
 ]
