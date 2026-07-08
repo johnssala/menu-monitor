@@ -1,9 +1,9 @@
 [
   {
-    "id": "dca-carthay-circle-lounge-lunch",
-    "name": "Carthay Circle Lounge (Lunch)",
+    "id": "dca-carthay-circle-lounge-dinner",
+    "name": "Carthay Circle Lounge (Dinner)",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-lounge/menus/lunch/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-lounge/menus/dinner/",
     "added": [
       "— *Farmers Market Peach Tostadas",
       "— Summer Berry Salad",
@@ -21,6 +21,73 @@
       "— Beef Tortelloni",
       "Tahitian Vanilla Bean-Root Beer Float Popsicle",
       "— Hazelnut Crunch Mickey Pop"
+    ]
+  },
+  {
+    "id": "dca-carthay-circle-restaurant",
+    "name": "Carthay Circle Restaurant",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-restaurant/menus/dinner/",
+    "added": [
+      "Crispy Pork Belly Glazed with Gochujang Butter",
+      "— Summer Watermelon Habanero Aguachile",
+      "— Seasonal Stone Fruit & Tomato Salad",
+      "— Grilled American Wagyu Picanha",
+      "— “Tamarind-Adobo” Half Chicken",
+      "— Lamb Shawarma Cutlets",
+      "— Signature Thick Cut Pork Chop*",
+      "Tagliolini Pasta Tossed with a Poblano Pesto",
+      "— Roasted Broccolini",
+      "— Phyllo Dough Peach Custard",
+      "— Black Forest Cherry Bliss",
+      "— Crunchy Chicken Tacos"
+    ],
+    "removed": [
+      "— South India Spiced Squash Blossom",
+      "— Roasted Spring Asparagus",
+      "— Duck Confit Quesadilla",
+      "— Half Roasted Yucatan \"Chicken Pibil\"",
+      "— Prime Bone In Short Ribs",
+      "— Slow Braised Pot Roast",
+      "— Signature Thick-Cut Cider Pork Chop*",
+      "— Wild Mushroom Paella",
+      "— Yukon Gold Mashed Potatoes",
+      "— Roasted Brussels Sprouts",
+      "— Coconut - Lime Semifreddo",
+      "— S'more Chocolate Cheesecake",
+      "— Turkey Kid Tenders"
+    ]
+  },
+  {
+    "id": "dca-clarabelles-hand-scooped-ice-cream-breakfast",
+    "name": "Clarabelle's Hand-Scooped Ice Cream (Breakfast)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/clarabelles-hand-scooped-ice-cream/menus/breakfast/",
+    "added": [
+      "— 250th Celebration Dipped Mickey Bar"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dca-clarabelles-hand-scooped-ice-cream-snack",
+    "name": "Clarabelle's Hand-Scooped Ice Cream (Snack)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/clarabelles-hand-scooped-ice-cream/menus/snack/",
+    "added": [
+      "— 250th Celebration Dipped Mickey Bar"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dca-corn-dog-castle",
+    "name": "Corn Dog Castle",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/corn-dog-castle/menus/snack/",
+    "added": [
+      "— Tropical Stitch Straw Clip"
+    ],
+    "removed": [
+      "— Coco Sipper"
     ]
   }
 ]
