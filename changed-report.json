@@ -1,92 +1,74 @@
 [
   {
-    "id": "dca-carthay-circle-lounge-dinner",
-    "name": "Carthay Circle Lounge (Dinner)",
+    "id": "dca-smokejumpers-grill-breakfast",
+    "name": "Smokejumpers Grill (Breakfast)",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-lounge/menus/dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/breakfast/",
     "added": [
-      "— *Farmers Market Peach Tostadas",
-      "— Summer Berry Salad",
-      "— *Char Sui Glazed Salmon",
-      "— Cheese Tortellini",
-      "— El Pastor Roasted Chicken Breast",
-      "— Strawberry-Matcha Popsicle"
-    ],
-    "removed": [
-      "— Spring Salad",
-      "— Jamaican Chicken Curry",
-      "— Green Thai Curry Baked Bay Scallops",
-      "— Cold Water Salmon*",
-      "— Yukon Potato & Leek Soup",
-      "— Beef Tortelloni",
-      "Tahitian Vanilla Bean-Root Beer Float Popsicle",
-      "— Hazelnut Crunch Mickey Pop"
-    ]
-  },
-  {
-    "id": "dca-carthay-circle-restaurant",
-    "name": "Carthay Circle Restaurant",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-restaurant/menus/dinner/",
-    "added": [
-      "Crispy Pork Belly Glazed with Gochujang Butter",
-      "— Summer Watermelon Habanero Aguachile",
-      "— Seasonal Stone Fruit & Tomato Salad",
-      "— Grilled American Wagyu Picanha",
-      "— “Tamarind-Adobo” Half Chicken",
-      "— Lamb Shawarma Cutlets",
-      "— Signature Thick Cut Pork Chop*",
-      "Tagliolini Pasta Tossed with a Poblano Pesto",
-      "— Roasted Broccolini",
-      "— Phyllo Dough Peach Custard",
-      "— Black Forest Cherry Bliss",
-      "— Crunchy Chicken Tacos"
-    ],
-    "removed": [
-      "— South India Spiced Squash Blossom",
-      "— Roasted Spring Asparagus",
-      "— Duck Confit Quesadilla",
-      "— Half Roasted Yucatan \"Chicken Pibil\"",
-      "— Prime Bone In Short Ribs",
-      "— Slow Braised Pot Roast",
-      "— Signature Thick-Cut Cider Pork Chop*",
-      "— Wild Mushroom Paella",
-      "— Yukon Gold Mashed Potatoes",
-      "— Roasted Brussels Sprouts",
-      "— Coconut - Lime Semifreddo",
-      "— S'more Chocolate Cheesecake",
-      "— Turkey Kid Tenders"
-    ]
-  },
-  {
-    "id": "dca-clarabelles-hand-scooped-ice-cream-breakfast",
-    "name": "Clarabelle's Hand-Scooped Ice Cream (Breakfast)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/clarabelles-hand-scooped-ice-cream/menus/breakfast/",
-    "added": [
-      "— 250th Celebration Dipped Mickey Bar"
+      "— Sam Eagle Bucket"
     ],
     "removed": []
   },
   {
-    "id": "dca-clarabelles-hand-scooped-ice-cream-snack",
-    "name": "Clarabelle's Hand-Scooped Ice Cream (Snack)",
+    "id": "dca-smokejumpers-grill-lunch-and-dinner",
+    "name": "Smokejumpers Grill (Lunch & Dinner)",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/clarabelles-hand-scooped-ice-cream/menus/snack/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/lunch-and-dinner/",
     "added": [
-      "— 250th Celebration Dipped Mickey Bar"
+      "— Sam Eagle Bucket"
     ],
     "removed": []
   },
   {
-    "id": "dca-corn-dog-castle",
-    "name": "Corn Dog Castle",
+    "id": "dca-studio-catering-co",
+    "name": "Studio Catering Co.",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/corn-dog-castle/menus/snack/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/studio-catering-co/menus/snack/",
     "added": [
       "— Tropical Stitch Straw Clip"
     ],
     "removed": [
+      "— Coco Sipper"
+    ]
+  },
+  {
+    "id": "dl-alien-pizza-planet",
+    "name": "Alien Pizza Planet",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/alien-pizza-planet/menus/lunch-and-dinner/",
+    "added": [
+      "— Tropical Stitch Straw Clip"
+    ],
+    "removed": [
+      "— Coco Sipper",
+      "Artisanal Style Pizza with Magic Key Thermal Tumbler"
+    ]
+  },
+  {
+    "id": "dl-galactic-grill-breakfast",
+    "name": "Galactic Grill (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/breakfast/",
+    "added": [
+      "— Tropical Stitch Straw Clip"
+    ],
+    "removed": [
+      "— Stitch and Angel Heart Bucket",
+      "— Yoda Stainless Steel Tumbler",
+      "— Coco Sipper"
+    ]
+  },
+  {
+    "id": "dl-galactic-grill-lunch-and-dinner",
+    "name": "Galactic Grill (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/lunch-and-dinner/",
+    "added": [
+      "— Tropical Stitch Straw Clip"
+    ],
+    "removed": [
+      "— Stitch and Angel Heart Bucket",
+      "— Yoda Stainless Steel Tumbler",
       "— Coco Sipper"
     ]
   }
