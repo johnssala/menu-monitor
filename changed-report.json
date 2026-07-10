@@ -1,75 +1,65 @@
 [
   {
-    "id": "dca-smokejumpers-grill-breakfast",
-    "name": "Smokejumpers Grill (Breakfast)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/breakfast/",
+    "id": "dl-harbour-galley",
+    "name": "Harbour Galley",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/harbour-galley/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "Haunted Mansion Victor Geist's Spectral Sipper"
+    ]
+  },
+  {
+    "id": "dl-red-rose-taverne-breakfast",
+    "name": "Red Rose Taverne (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/breakfast/",
+    "added": [],
+    "removed": [
+      "— Rainbow Stuff"
+    ]
+  },
+  {
+    "id": "dl-red-rose-taverne-lunch-and-dinner",
+    "name": "Red Rose Taverne (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "— Rainbow Stuff"
+    ]
+  },
+  {
+    "id": "dl-refreshment-corner",
+    "name": "Refreshment Corner",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/refreshment-corner/menus/lunch-and-dinner/",
     "added": [
-      "— Sam Eagle Bucket"
+      "— Sam Eagle Bucket",
+      "— Tropical Stitch Straw Clip"
+    ],
+    "removed": [
+      "Tropical Stitch Straw Clip [Available starting June 26]"
+    ]
+  },
+  {
+    "id": "dl-river-belle-terrace-lunch",
+    "name": "River Belle Terrace (Lunch)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/lunch/",
+    "added": [
+      "Farmhouse Salad with Almond - Pistachio Dressing"
     ],
     "removed": []
   },
   {
-    "id": "dca-smokejumpers-grill-lunch-and-dinner",
-    "name": "Smokejumpers Grill (Lunch & Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/lunch-and-dinner/",
+    "id": "dl-river-belle-terrace-dinner",
+    "name": "River Belle Terrace (Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/dinner/",
     "added": [
-      "— Sam Eagle Bucket"
+      "Farmhouse Salad with Almond - Pistachio Dressing"
     ],
     "removed": []
-  },
-  {
-    "id": "dca-studio-catering-co",
-    "name": "Studio Catering Co.",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/studio-catering-co/menus/snack/",
-    "added": [
-      "— Tropical Stitch Straw Clip"
-    ],
-    "removed": [
-      "— Coco Sipper"
-    ]
-  },
-  {
-    "id": "dl-alien-pizza-planet",
-    "name": "Alien Pizza Planet",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/alien-pizza-planet/menus/lunch-and-dinner/",
-    "added": [
-      "— Tropical Stitch Straw Clip"
-    ],
-    "removed": [
-      "— Coco Sipper",
-      "Artisanal Style Pizza with Magic Key Thermal Tumbler"
-    ]
-  },
-  {
-    "id": "dl-galactic-grill-breakfast",
-    "name": "Galactic Grill (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/breakfast/",
-    "added": [
-      "— Tropical Stitch Straw Clip"
-    ],
-    "removed": [
-      "— Stitch and Angel Heart Bucket",
-      "— Yoda Stainless Steel Tumbler",
-      "— Coco Sipper"
-    ]
-  },
-  {
-    "id": "dl-galactic-grill-lunch-and-dinner",
-    "name": "Galactic Grill (Lunch & Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/lunch-and-dinner/",
-    "added": [
-      "— Tropical Stitch Straw Clip"
-    ],
-    "removed": [
-      "— Stitch and Angel Heart Bucket",
-      "— Yoda Stainless Steel Tumbler",
-      "— Coco Sipper"
-    ]
   }
 ]
