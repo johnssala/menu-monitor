@@ -1,64 +1,21 @@
 [
   {
-    "id": "dl-harbour-galley",
-    "name": "Harbour Galley",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/harbour-galley/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "Haunted Mansion Victor Geist's Spectral Sipper"
-    ]
-  },
-  {
-    "id": "dl-red-rose-taverne-breakfast",
-    "name": "Red Rose Taverne (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/breakfast/",
-    "added": [],
-    "removed": [
-      "— Rainbow Stuff"
-    ]
-  },
-  {
-    "id": "dl-red-rose-taverne-lunch-and-dinner",
-    "name": "Red Rose Taverne (Lunch & Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "— Rainbow Stuff"
-    ]
-  },
-  {
-    "id": "dl-refreshment-corner",
-    "name": "Refreshment Corner",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/refreshment-corner/menus/lunch-and-dinner/",
+    "id": "epcot-akershus-royal-banquet-hall-lunch",
+    "name": "Akershus Royal Banquet Hall (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/akershus-royal-banquet-hall/menus/lunch/",
     "added": [
-      "— Sam Eagle Bucket",
-      "— Tropical Stitch Straw Clip"
-    ],
-    "removed": [
-      "Tropical Stitch Straw Clip [Available starting June 26]"
-    ]
-  },
-  {
-    "id": "dl-river-belle-terrace-lunch",
-    "name": "River Belle Terrace (Lunch)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/lunch/",
-    "added": [
-      "Farmhouse Salad with Almond - Pistachio Dressing"
+      "— Rekorderlig Strawberry & Lime Hard Cider"
     ],
     "removed": []
   },
   {
-    "id": "dl-river-belle-terrace-dinner",
-    "name": "River Belle Terrace (Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/dinner/",
+    "id": "epcot-akershus-royal-banquet-hall-dinner",
+    "name": "Akershus Royal Banquet Hall (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/akershus-royal-banquet-hall/menus/dinner/",
     "added": [
-      "Farmhouse Salad with Almond - Pistachio Dressing"
+      "— Rekorderlig Strawberry & Lime Hard Cider"
     ],
     "removed": []
   }
