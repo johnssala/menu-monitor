@@ -1,76 +1,26 @@
 [
   {
-    "id": "epcot-kringla-bakeri-og-kafe",
-    "name": "Kringla Bakeri Og Kafe",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/kringla-bakeri-og-kafe/menus/snack/",
-    "added": [
-      "Kringla Bakeri Og Kafé"
-    ],
+    "id": "eu-atlantic",
+    "name": "Atlantic",
+    "park": "Epic Universe",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/atlantic/menu.html",
+    "added": [],
     "removed": [
-      "Kringla Bakeri Og Kafe"
+      "Seared Scallops",
+      "— Seared Scallops"
     ]
   },
   {
-    "id": "epcot-nine-dragons-restaurant-lunch",
-    "name": "Nine Dragons Restaurant (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/nine-dragons-restaurant/menus/lunch/",
+    "id": "eu-frosty-moon",
+    "name": "Frosty Moon",
+    "park": "Epic Universe",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/frosty-moon/menu.html",
     "added": [
-      "— Sichuan Cucumbers",
-      "— Wonton Soup",
-      "— Sweet and Sour Cod",
-      "— Spicy Honey Cauliflower",
-      "— Assorted Fruit Juices",
-      "— Passion Fruit Black Tea",
-      "— Hibiscus Tea",
-      "— Centine, Banfi, Italy"
+      "Specialty Sundae Menu",
+      "Soft Serve Menu"
     ],
     "removed": [
-      "— Stuffed Crab Claw",
-      "— Crab & Corn Soup",
-      "— Typhoon Shelter Sole",
-      "— Fruit Juices",
-      "Pinot Noir Longevity, “Debra's Cuvee”, California",
-      "Port Ferreira, 10 Years Old Tawny, PORTUGAL"
-    ]
-  },
-  {
-    "id": "epcot-nine-dragons-restaurant-dinner",
-    "name": "Nine Dragons Restaurant (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/nine-dragons-restaurant/menus/dinner/",
-    "added": [
-      "— Sichuan Cucumbers",
-      "— Wonton Soup",
-      "— Sweet and Sour Cod",
-      "— Spicy Honey Cauliflower",
-      "— Assorted Fruit Juices",
-      "— Passion Fruit Black Tea",
-      "— Hibiscus Tea",
-      "— Centine, Banfi, Italy"
-    ],
-    "removed": [
-      "— Stuffed Crab Claw",
-      "— Crab & Corn Soup",
-      "— Typhoon Shelter Sole",
-      "— Fruit Juices",
-      "Pinot Noir Longevity, “Debra's Cuvee”, California",
-      "Port Ferreira, 10 Years Old Tawny, PORTUGAL"
-    ]
-  },
-  {
-    "id": "epcot-regal-eagle-smokehouse",
-    "name": "Regal Eagle Smokehouse",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/regal-eagle-smokehouse/menus/lunch-and-dinner/",
-    "added": [
-      "— Seasonal Fruit"
-    ],
-    "removed": [
-      "— The 1776",
-      "— Sam Eagle Star-Spangled Shortcake",
-      "— Fresh Watermelon Slices"
+      "Soft Serve & Sundae Menu"
     ]
   }
 ]
