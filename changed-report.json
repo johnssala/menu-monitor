@@ -1,41 +1,33 @@
 [
   {
-    "id": "hs-the-trolley-car-cafe",
-    "name": "The Trolley Car Café (Starbucks)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/trolley-car-cafe/menus/",
+    "id": "mk-astrofizz",
+    "name": "Astrofizz",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/astrofizz/menus/",
+    "added": [],
+    "removed": [
+      "— Pride Slushy"
+    ]
+  },
+  {
+    "id": "mk-columbia-harbour-house",
+    "name": "Columbia Harbour House",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/columbia-harbour-house/menus/",
+    "added": [],
+    "removed": [
+      "— Berry Shortcake"
+    ]
+  },
+  {
+    "id": "mk-main-street-bakery",
+    "name": "Main Street Bakery (Starbucks)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/main-street-bakery/menus/",
     "added": [
       "Blended Mango Dragonfruit Lemonade Energy Refresher - Grande",
       "— Blended Pink Energy Drink - Grande"
     ],
     "removed": []
-  },
-  {
-    "id": "ioa-circus-mcgurkus-cafe-stoo-pendous",
-    "name": "Circus McGurkus Cafe Stoo-pendous",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/circus-mcgurkus-cafe-stoo-pendous/menu.html",
-    "added": [
-      "Fantastic Funnel Cakes",
-      "Big Top Strawberry Whirl Cake",
-      "crispy funnel cake with vanilla ice cream, whipped cream, strawberry sauce and crunchy topping",
-      "Carnival Classic Crunch Cake",
-      "crispy funnel cake with powdered sugar"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ioa-mythos-restaurant-everyday",
-    "name": "Mythos Restaurant (Everyday)",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/mythos-restaurant/menu.html",
-    "added": [],
-    "removed": [
-      "Love is on the menu",
-      "Love is to be savored. This Pride month, find every flavor of fun in the Parks* and CityWalk*. *Select venues only",
-      "Love is to be savored. This Pride month, find every flavor of fun in the Parks* and CityWalk*.",
-      "*Select venues only",
-      "Pink Pegasus"
-    ]
   }
 ]
