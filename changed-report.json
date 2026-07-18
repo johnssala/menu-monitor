@@ -1,33 +1,33 @@
 [
   {
-    "id": "mk-astrofizz",
-    "name": "Astrofizz",
+    "id": "mk-sleepy-hollow",
+    "name": "Sleepy Hollow",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/astrofizz/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/sleepy-hollow/menus/all-day/",
     "added": [],
     "removed": [
-      "— Pride Slushy"
+      "— Red, White, and Blue Funnel Cake",
+      "— Red, White, and Blue Waffle"
     ]
   },
   {
-    "id": "mk-columbia-harbour-house",
-    "name": "Columbia Harbour House",
+    "id": "mk-the-beak-and-barrel-lunch",
+    "name": "The Beak and Barrel (Lunch)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/columbia-harbour-house/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/beak-barrel/menus/lunch/",
     "added": [],
     "removed": [
-      "— Berry Shortcake"
+      "— South Seas Splash"
     ]
   },
   {
-    "id": "mk-main-street-bakery",
-    "name": "Main Street Bakery (Starbucks)",
+    "id": "mk-the-beak-and-barrel-dinner",
+    "name": "The Beak and Barrel (Dinner)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/main-street-bakery/menus/",
-    "added": [
-      "Blended Mango Dragonfruit Lemonade Energy Refresher - Grande",
-      "— Blended Pink Energy Drink - Grande"
-    ],
-    "removed": []
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/beak-barrel/menus/dinner/",
+    "added": [],
+    "removed": [
+      "— South Seas Splash"
+    ]
   }
 ]
