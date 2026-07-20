@@ -1,1 +1,344 @@
-[]
+[
+  {
+    "id": "ush-city-snack-shop",
+    "name": "City Snack Shop",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/city-snack-shop/menu.html",
+    "added": [
+      "Fritos® Scoops® The Walking Taco (Gluten Friendly)",
+      "Giant Bavarian Pretzel (Vegetarian)",
+      "Giant Cinnamon Roll (Vegetarian)",
+      "Our giant cinnamon roll topped with powdered sugar served with cream cheese frosting. Contains: Milk, Egg, Wheat, Soy",
+      "Vanilla Cheesecake Sweet Horn (Vegetarian)",
+      "Sugar pastry cone with vanilla bean cheesecake. Contains: Milk, Egg, Wheat, Soy",
+      "Contains: Milk, Egg, Wheat, Soy",
+      "Classic Mac & Cheese (Vegetarian)"
+    ],
+    "removed": [
+      "Fritos® Scoops® The Walking Taco",
+      "Vanilla Cheesecake Sweet Horn:",
+      "Sugar pastry cone with vanilla bean cheesecake. Contains: Milk, Egg, Wheat, Soy Vegetarian",
+      "Contains: Milk, Egg, Wheat, Soy Vegetarian",
+      "Classic Mac & Cheese"
+    ]
+  },
+  {
+    "id": "ush-cletus-chicken-shack",
+    "name": "Cletus' Chicken Shack",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/cletus-chicken-shack/menu.html",
+    "added": [
+      "Fried chicken tenders and fries.",
+      "The Sweet Sweet Brandine Sandwich w/Fries (Vegan)",
+      "Pulled chick'n with our Duff BBQ sauce, topped with slaw and pickles, served with French fries. Contains: Wheat, Soy",
+      "Ain’t Chicken Stick (Vegetarian)",
+      "Honey vanilla cake pop with a pretzel \"bone\". Served with honey buttercream. Contains: Milk, Egg, Wheat, Soy",
+      "Milkshake “100% Mammal Milk!” (Vegetarian)",
+      "Vanilla, Chocolate or Swirl. Milk",
+      "Squishee Frozen Drink (Vegan/Vegetarian/Gluten Friendly)",
+      "Blue Raspberry, Wild Cherry, or Watermelon Lemonade Contains: No Allergens"
+    ],
+    "removed": [
+      "Fried chicken tenders, fries, and choice of BBQ sauce or honey mustard.",
+      "The Sweet Sweet Brandine Sandwich w/Fries",
+      "Ain’t Chicken Stick",
+      "Milkshake “100% Mammal Milk!”",
+      "Vanilla, Chocolate or Swirl. Milk Vegetarian",
+      "Squishee Frozen Drink",
+      "Blue Raspberry, Wild Cherry, or Watermelon Lemonade Contains: No Allergens Vegan/Vegetarian/Gluten Friendly"
+    ]
+  },
+  {
+    "id": "ush-cocina-mexicana",
+    "name": "Cocina Mexicana",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/cocina-mexicana/menu.html",
+    "added": [],
+    "removed": [
+      "Served with red sauce. Contains: Milk, Wheat, Soy",
+      "Tortilla Chips and Dip",
+      "Choice of guacamole or pico de gallo. Contains: Egg, Wheat Vegetarian",
+      "Choice of Queso. Contains: Milk, Egg, Wheat Vegetarian",
+      "Chocolate Tire Conchas",
+      "Two (2) Dark chocolate conchas. Contains: Milk, Egg, Wheat, Soy Vegetarian",
+      "Cinnamon Sugar Churro Bites. Contains: Egg, Wheat Vegetarian",
+      "Chamoy Pineapple",
+      "Pineapple spears drizzled with chamoy. Contains: No Allergens Vegan/Vegetarian/Gluten Friendly"
+    ]
+  },
+  {
+    "id": "ush-despicable-delights",
+    "name": "Despicable Delights",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/despicable-delights/menu.html",
+    "added": [
+      "Irene’s Orange Banana Float (Gluten Friendly)",
+      "Felonious Float (Gluten Friendly)",
+      "Raspberry Icee, banana frozen yogurt, banana candy, and whip cream. Contains: Milk",
+      "Classic Cinnamon Churro (Vegetarian)",
+      "Classic Cinnamon Churro. Contains: Milk, Egg, Wheat, Soy",
+      "Banana Soft Serve Ice Cream Cup (Vegetarian/Gluten Friendly)",
+      "Contains: Milk",
+      "Banana Soft Serve Ice Cream Cone (Vegetarian)",
+      "Contains: Milk, Wheat",
+      "Popcorn (Vegetarian/Gluten Friendly)",
+      "Contains: No Allergens"
+    ],
+    "removed": [
+      "Raspberry Icee, banana frozen yogurt, banana candy, and whip cream. Contains: Milk Gluten Friendly",
+      "Classic Cinnamon Churro",
+      "Classic Cinnamon Churro. Contains: Milk, Egg, Wheat, Soy Vegetarian",
+      "Banana Soft Serve Ice Cream Cup",
+      "Contains: Milk Vegetarian/Gluten Friendly",
+      "Banana Soft Serve Ice Cream Cone",
+      "Contains: Milk, Wheat Vegetarian",
+      "Popcorn",
+      "Contains: No Allergens Vegetarian/Gluten Friendly"
+    ]
+  },
+  {
+    "id": "ush-french-street-bistro",
+    "name": "French Street Bistro",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/french-street-bistro/menu.html",
+    "added": [
+      "Cocoa Crunch Cold Brew (Vegetarian)",
+      "White chocolate flavored cold brew topped with sweet cream cold foam and chocolate cereal. Contains: Milk, Soy",
+      "Frappe (Vegetarian/Gluten Friendly)",
+      "Caramel, Coffee, Mocha, Strawberry Cream, or Vanilla Contains: Milk, Soy",
+      "Blueberry Muffin (Vegetarian)",
+      "Chocolate Muffin (Vegetarian)",
+      "Lemon Poppy Scone (Vegan)",
+      "Contains: Wheat, Soy",
+      "Fudge Brownie (Vegetarian)"
+    ],
+    "removed": [
+      "Cocoa Crunch Cold Brew",
+      "Frappe",
+      "Caramel, Coffee, Mocha, Strawberry Cream, or Vanilla Contains: Milk, Soy Vegetarian/Gluten Friendly",
+      "Blueberry Muffin",
+      "Contains: Milk, Egg, Wheat, Soy Vegetarian",
+      "Chocolate Muffin",
+      "Lemon Poppy Scone",
+      "Contains: Wheat, Soy Vegan",
+      "Fudge Brownie"
+    ]
+  },
+  {
+    "id": "ush-hollywood-and-dine",
+    "name": "Hollywood & Dine",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/hollywood-dine/menu.html",
+    "added": [
+      "BBQ Chicken Platter (Gluten Friendly)",
+      "BBQ Corn Ribs (Vegetarian/Gluten Friendly)",
+      "Fried corn ribs basted in BBQ sauce. Served with BBQ seasoned fries or fruit. Contains: No Allergens",
+      "Contains: No Allergens",
+      "Quarter Mile Funnel Cake (Vegetarian)",
+      "Classic Strawberry Funnel Cake (Vegetarian)",
+      "Street Cart Watermelon and Pineapple (Vegan/Vegetarian/Gluten Friendly)",
+      "Fresh pineapple spear and watermelon wedges with Tajín® and chamoy. Contains: No Allergens"
+    ],
+    "removed": [
+      "BBQ Corn Ribs",
+      "Contains: No Allergens Vegetarian/Gluten Friendly",
+      "Contains: Milk, Egg, Wheat, Soy Vegetarian"
+    ]
+  },
+  {
+    "id": "ush-jurassic-cafe",
+    "name": "Jurassic Cafe",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/jurassic-cafe/menu.html",
+    "added": [
+      "Carnivore Meatball Sub",
+      "Raptor Bites (Gluten Friendly)",
+      "Spicy sausage stuffed inside Brazilian cheese bread, served with white queso. Contains: Milk, Egg",
+      "Served with fries. Contains: Milk, Wheat",
+      "Leaf Finds A Way (Gluten Friendly)",
+      "Dino shaped nuggets with fries and broccoli. Contains: Milk, Wheat",
+      "Raptor Leg (Gluten Friendly)",
+      "Served with fries. Contains: Soy",
+      "Contains: Milk, Egg, Wheat, Soy",
+      "Pyroraptor Refresher (Gluten Friendly)",
+      "Contains: No Allergens"
+    ],
+    "removed": [
+      "Smoked brisket sandwich, BBQ sauce, mustard aioli, and pickles served on a brioche bun with fries",
+      "Tyranno-Bite (request no cheese)",
+      "Cheeseburger, lettuce, tomato, and 1000 Island dressing served on a brioche bun with fries",
+      "Turkey Leg served with fries",
+      "Leaf Finds a Way (request balsamic dressing and no blue cheese)",
+      "The Carnivore (request gluten-free bun)",
+      "Tyranno-Bite (request gluten-free bun)",
+      "The Carnivore (request lettuce wrap or no bun, no mustard aioli)",
+      "Tyranno-Bite (request lettuce wrap or no bun, no 1000 Island dressing)",
+      "Pterodactyl Claws (request no coleslaw)",
+      "Served with fries and creamy slaw",
+      "Leaf Finds a Way (request balsamic dressing, no egg)",
+      "Dino nuggets with fries and broccoli",
+      "Tyranno-Bite (request gluten-free bun, no cheese)"
+    ]
+  },
+  {
+    "id": "ush-krusty-burger",
+    "name": "Krusty Burger",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/krusty-burger/menu.html",
+    "added": [
+      "Mother Nature Burger w/Fries (Vegan)",
+      "Hey Hey It’s Salad (Gluten Friendly)",
+      "Milkshake “100% Mammal Milk!” (Vegetarian)",
+      "Milkshake “100% Mammal Milk!”: Vanilla, Chocolate or Swirl. • Milk",
+      "Squishee Frozen Drink (Vegan/Vegetarian/Gluten Friendly)",
+      "Blue Raspberry, Wild Cherry, or Strawberry Lemonade Contains: No Allergens"
+    ],
+    "removed": [
+      "Mother Nature Burger w/Fries",
+      "Hey Hey It’s Salad",
+      "Milkshake “100% Mammal Milk!”",
+      "Milkshake “100% Mammal Milk!”: Vanilla, Chocolate or Swirl. • Milk Vegetarian",
+      "Squishee Frozen Drink",
+      "Blue Raspberry, Wild Cherry, or Strawberry Lemonade Contains: No Allergens Vegan/Vegetarian/Gluten Friendly"
+    ]
+  },
+  {
+    "id": "ush-lard-lad-donuts",
+    "name": "Lard Lad Donuts",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/lard-lad-donuts/menu.html",
+    "added": [
+      "Radioactive (Vegetarian)",
+      "Pistachio cream donut with chopped pistachios. Contains: Milk, Egg, Wheat, Soy, Tree Nuts (Pistachio)",
+      "Disco Stu’s Nuclear Brew (Vegetarian)"
+    ],
+    "removed": [
+      "Radioactive",
+      "Pistachio cream donut with chopped pistachios. Contains: Milk, Egg, Wheat, Soy, Tree Nuts (Pistachio) Vegetarian",
+      "Disco Stu’s Nuclear Brew"
+    ]
+  },
+  {
+    "id": "ush-luigis-pizza",
+    "name": "Luigi's Pizza",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/luigis-pizza/menu.html",
+    "added": [
+      "Pizza Cheese (Vegetarian)",
+      "Cheese Contains: Milk, Wheat",
+      "Pizza The Meat Hater’s (Vegetarian)",
+      "Pizza topped with mushrooms, green bell peppers, tomatoes, olives, and red onions. Contains: Milk, Wheat",
+      "Mamma Says Eat Your Veggie Pasta (Vegetarian)",
+      "Cheesy Garlic Bread (Vegetarian)",
+      "Garlic and cheese breadstick served with marinara sauce. Contains: Milk, Wheat, Soy, Sesame",
+      "Side Caesar Salad (Vegetarian)",
+      "Romaine, parmesan cheese. Contains: Milk • Croutons contain: Milk, Wheat • Dressing Choices: refer to package label",
+      "Fat Tony’s Holy Cannoli (Vegetarian)"
+    ],
+    "removed": [
+      "Pizza Cheese",
+      "Cheese Contains: Milk, Wheat Vegetarian",
+      "Pizza The Meat Hater’s",
+      "Pizza topped with mushrooms, green bell peppers, tomatoes, olives, and red onions. Contains: Milk, Wheat Vegetarian",
+      "Garlic and cheese breadstick served with marinara sauce. Contains: Milk, Wheat, Soy, Sesame Vegetarian",
+      "Fat Tony’s Holy Cannoli"
+    ]
+  },
+  {
+    "id": "ush-mels-diner",
+    "name": "Mel's Diner",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/mels-diner/menu.html",
+    "added": [
+      "Vegan Beyond® BBQ Burger (Vegan)",
+      "Amity Island Funnel Cake (Vegetarian)",
+      "Classic Strawberry Funnel Cake (Vegetarian)",
+      "Milkshake (Vegetarian/Gluten Friendly)",
+      "Vanilla, Chocolate, Strawberry Contains: Milk"
+    ],
+    "removed": [
+      "Vegan Beyond® BBQ Burger",
+      "Classic Strawberry Funnel Cake",
+      "Milkshake",
+      "Vanilla, Chocolate, Strawberry Contains: Milk Vegetarian/Gluten Friendly"
+    ]
+  },
+  {
+    "id": "ush-minion-cafe",
+    "name": "Minion Cafe",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/minion-cafe/menu.html",
+    "added": [
+      "Chicken Stuart’s Chicken Roast (Gluten Friendly)",
+      "Half roasted chicken with a side of BBQ sauce and Minion tots. Contains: No Allergens",
+      "El Machos Nachos (Gluten Friendly)",
+      "Irene’s Orange Banana Float (Gluten Friendly)",
+      "Felonious Float (Gluten Friendly)",
+      "Raspberry Icee, banana frozen yogurt, banana candy, and whip cream. Contains: Milk"
+    ],
+    "removed": [
+      "Chicken Stuart’s Chicken Roast:",
+      "Half roasted chicken with a side of BBQ sauce and Minion tots. Contains: No Allergens Gluten Friendly",
+      "El Machos Nachos",
+      "Raspberry Icee, banana frozen yogurt, banana candy, and whip cream. Contains: Milk Gluten Friendly"
+    ]
+  },
+  {
+    "id": "ush-phineas-q-butterfats-ice-cream",
+    "name": "Phineas Q. Butterfat's Ice Cream",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/phineas-q-butterfats-ice-cream/menu.html",
+    "added": [
+      "Ice Cream Conans in a Cup (Vegetarian/Gluten Friendly)",
+      "Ice Cream Conans in a Waffle Cone (Vegetarian)",
+      "Brain Freezin’ Sundae (Vegetarian)"
+    ],
+    "removed": [
+      "Ice Cream Conans in a Cup",
+      "Ice Cream Conans in a Waffle Cone",
+      "Brain Freezin’ Sundae"
+    ]
+  },
+  {
+    "id": "ush-power-up-cafe",
+    "name": "Power Up Cafe",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/power-up-cafe/menu.html",
+    "added": [
+      "Today's Park Hours 09:00 AM - 09:00 PM"
+    ],
+    "removed": [
+      "Today's Park Hours 09:00 AM - 10:00 PM"
+    ]
+  },
+  {
+    "id": "ush-studio-scoop",
+    "name": "Studio Scoop",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/studio-scoop/menu.html",
+    "added": [
+      "Orange Creamsicle Sundae (Vegetarian)",
+      "Ice Cream Cones (Vegetarian)",
+      "Neapolitan, Orange Berry, The Banana Split, Tropical Sunset, Vanilla, Chocolate. Contains: Milk, Wheat, Soy",
+      "Ice Cream Cups (Vegetarian/Gluten Friendly)",
+      "Neapolitan, Orange Berry, The Banana Split, Tropical Sunset, Vanilla, Chocolate. Contains: Milk",
+      "Popcorn (Vegetarian/Gluten Friendly)",
+      "Contains: No Allergens",
+      "Chocolate X6 Milkshake (Vegetarian)",
+      "Contains: Milk, Egg, Wheat, Soy",
+      "Strawberry Indulgence Milkshake (Vegetarian/Gluten Friendly)",
+      "Contains: Milk, Soy"
+    ],
+    "removed": [
+      "Ice Cream Cones",
+      "Neapolitan, Orange Berry, The Banana Split, Tropical Sunset, Vanilla, Chocolate. Contains: Milk, Wheat, Soy Vegetarian",
+      "Ice Cream Cups",
+      "Popcorn",
+      "Contains: No Allergens Vegetarian/Gluten Friendly",
+      "Chocolate X6 Milkshake",
+      "Contains: Milk, Egg, Wheat, Soy Vegetarian",
+      "Strawberry Indulgence Milkshake",
+      "Contains: Milk, Soy Vegetarian/Gluten Friendly"
+    ]
+  }
+]
