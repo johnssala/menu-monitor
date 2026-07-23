@@ -1,23 +1,36 @@
 [
   {
-    "id": "ak-anandapur-ice-cream-truck",
-    "name": "Anandapur Ice Cream Truck",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/anandapur-ice-cream-truck/menus/",
-    "added": [
-      "— Motunui Ube Sundae"
-    ],
-    "removed": []
+    "id": "dca-award-wieners",
+    "name": "Award Wieners",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/award-wieners/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "— Coco Sipper"
+    ]
   },
   {
-    "id": "ak-creature-comforts",
-    "name": "Creature Comforts (Starbucks)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/creature-comforts/menus/coffee-%E2%80%93-bakery/",
-    "added": [
-      "Blended Mango Dragonfruit Lemonade Energy Refresher - Grande",
-      "— Blended Pink Energy Drink - Grande"
-    ],
-    "removed": []
+    "id": "dca-bayside-brews",
+    "name": "Bayside Brews",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/bayside-brews/menus/snack/",
+    "added": [],
+    "removed": [
+      "2 Towns Cider House Prickly Pearadise Hard Cider",
+      "— Artifex Pink Guava Mango Hard Seltzer",
+      "Artifex Pink Guava Mango Hard Seltzer Michelada",
+      "— Crown and Hops 8 Tril Pils Michelada",
+      "2 Towns Prickly Pearadise Hard Cider Michelada"
+    ]
+  },
+  {
+    "id": "dca-boardwalk-pizza-and-pasta",
+    "name": "Boardwalk Pizza & Pasta",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/boardwalk-pizza-pasta/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "— Coco Sipper"
+    ]
   }
 ]
