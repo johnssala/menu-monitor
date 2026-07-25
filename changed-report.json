@@ -1,90 +1,64 @@
 [
   {
-    "id": "dca-carthay-circle-restaurant",
-    "name": "Carthay Circle Restaurant",
+    "id": "dca-shawarma-palace-breakfast",
+    "name": "Shawarma Palace (Breakfast)",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-restaurant/menus/dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/shawarma-palace/menus/breakfast/",
     "added": [
-      "— Yukon Gold Mashed Potatoes"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dca-corn-dog-castle",
-    "name": "Corn Dog Castle",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/corn-dog-castle/menus/snack/",
-    "added": [
-      "Bottle Logic Brewing, Iced Tea Lemonade Hard Seltzer"
+      "— Breakfast Shawarma"
     ],
     "removed": [
-      "— Stereo Brewing Company Perfect Day IPA"
+      "— Denver Breakfast Shawarma"
     ]
   },
   {
-    "id": "dca-cozy-cone-motel",
-    "name": "Cozy Cone Motel",
+    "id": "dca-shawarma-palace-snack",
+    "name": "Shawarma Palace (Snack)",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/cozy-cone-motel/menus/snack/",
-    "added": [
-      "— Watermelon Michelada"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dca-fairfax-market",
-    "name": "Fairfax Market",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fairfax-fruit-market/menus/snack/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/shawarma-palace/menus/snack/",
     "added": [],
     "removed": [
-      "— Jiminy Cricket Sipper"
+      "— Side Shawarma Salad",
+      "— Impossible™ Victory Falafel"
     ]
   },
   {
-    "id": "dca-fiddler-fifer-and-practical-cafe-breakfast",
-    "name": "Fiddler, Fifer & Practical Cafe - Starbucks (Breakfast)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fiddler-fifer-and-practical-cafe/menus/breakfast/",
-    "added": [
-      "Blended Mango Dragonfruit Lemonade Energy Refresher - Grande",
-      "— Blended Pink Energy Drink - Grande"
-    ],
-    "removed": [
-      "— Valentine’s Day Cake Pop"
-    ]
-  },
-  {
-    "id": "dca-fiddler-fifer-and-practical-cafe-lunch-and-dinner",
-    "name": "Fiddler, Fifer & Practical Cafe - Starbucks (Lunch & Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fiddler-fifer-and-practical-cafe/menus/lunch-and-dinner/",
-    "added": [
-      "Blended Mango Dragonfruit Lemonade Energy Refresher - Grande",
-      "— Blended Pink Energy Drink - Grande"
-    ],
-    "removed": [
-      "— Valentine’s Day Cake Pop"
-    ]
-  },
-  {
-    "id": "dca-port-of-san-fransokyo-cerveceria",
-    "name": "Port of San Fransokyo Cervecería",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/port-of-san-fransokyo-cerveceria/menus/snack/",
+    "id": "dl-alien-pizza-planet",
+    "name": "Alien Pizza Planet",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/alien-pizza-planet/menus/lunch-and-dinner/",
     "added": [],
     "removed": [
-      "Karl Strauss® Brewing Company, 70th Anniversary IPA, San Diego CA. (ABV 7.0%)"
+      "— Stitch and Angel Heart Bucket",
+      "Disneyland 70th Celebration Sipper"
     ]
   },
   {
-    "id": "dca-poultry-palace",
-    "name": "Poultry Palace",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/poultry-palace/menus/snack/",
+    "id": "dl-galactic-grill-breakfast",
+    "name": "Galactic Grill (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/breakfast/",
     "added": [
-      "— Chimichanga"
+      "Disneyland 70th Celebration Abominable Snowman Sipper"
     ],
-    "removed": []
+    "removed": [
+      "— BDX Droid Bucket",
+      "— Jabba the Hutt Sail Barge Bucket",
+      "— Darth Vader Premium Mug"
+    ]
+  },
+  {
+    "id": "dl-galactic-grill-lunch-and-dinner",
+    "name": "Galactic Grill (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/lunch-and-dinner/",
+    "added": [
+      "Disneyland 70th Celebration Abominable Snowman Sipper"
+    ],
+    "removed": [
+      "— BDX Droid Bucket",
+      "— Jabba the Hutt Sail Barge Bucket",
+      "— Darth Vader Premium Mug"
+    ]
   }
 ]
