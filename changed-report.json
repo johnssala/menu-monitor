@@ -1,64 +1,46 @@
 [
   {
-    "id": "dca-shawarma-palace-breakfast",
-    "name": "Shawarma Palace (Breakfast)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/shawarma-palace/menus/breakfast/",
+    "id": "dl-market-house-breakfast",
+    "name": "Market House - Starbucks (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/breakfast/",
     "added": [
-      "— Breakfast Shawarma"
+      "— Blended Pink Energy Drink - Grande"
     ],
     "removed": [
-      "— Denver Breakfast Shawarma"
+      "— Dragon Drink® Refresher - Grande"
     ]
   },
   {
-    "id": "dca-shawarma-palace-snack",
-    "name": "Shawarma Palace (Snack)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/shawarma-palace/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Side Shawarma Salad",
-      "— Impossible™ Victory Falafel"
-    ]
-  },
-  {
-    "id": "dl-alien-pizza-planet",
-    "name": "Alien Pizza Planet",
+    "id": "dl-market-house-lunch-and-dinner",
+    "name": "Market House - Starbucks (Lunch & Dinner)",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/alien-pizza-planet/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "— Stitch and Angel Heart Bucket",
-      "Disneyland 70th Celebration Sipper"
-    ]
-  },
-  {
-    "id": "dl-galactic-grill-breakfast",
-    "name": "Galactic Grill (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/breakfast/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/lunch-and-dinner/",
     "added": [
-      "Disneyland 70th Celebration Abominable Snowman Sipper"
+      "— Blended Pink Energy Drink - Grande"
     ],
     "removed": [
-      "— BDX Droid Bucket",
-      "— Jabba the Hutt Sail Barge Bucket",
-      "— Darth Vader Premium Mug"
+      "— Dragon Drink® Refresher - Grande"
     ]
   },
   {
-    "id": "dl-galactic-grill-lunch-and-dinner",
-    "name": "Galactic Grill (Lunch & Dinner)",
+    "id": "dl-red-rose-taverne-breakfast",
+    "name": "Red Rose Taverne (Breakfast)",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/breakfast/",
     "added": [
-      "Disneyland 70th Celebration Abominable Snowman Sipper"
+      "— POWER Pack"
     ],
-    "removed": [
-      "— BDX Droid Bucket",
-      "— Jabba the Hutt Sail Barge Bucket",
-      "— Darth Vader Premium Mug"
-    ]
+    "removed": []
+  },
+  {
+    "id": "dl-red-rose-taverne-lunch-and-dinner",
+    "name": "Red Rose Taverne (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/lunch-and-dinner/",
+    "added": [
+      "— POWER Pack"
+    ],
+    "removed": []
   }
 ]
