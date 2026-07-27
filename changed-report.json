@@ -1,45 +1,49 @@
 [
   {
-    "id": "dl-market-house-breakfast",
-    "name": "Market House - Starbucks (Breakfast)",
+    "id": "dl-the-tropical-hideaway",
+    "name": "The Tropical Hideaway",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/breakfast/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/tropical-hideaway/menus/snack/",
     "added": [
-      "— Blended Pink Energy Drink - Grande"
+      "— Hoa Aloha Float",
+      "— Swirl Up Some Magic Cup Swirl",
+      "— Swirl Up Some Magic Cup",
+      "— Pineapple Spear"
     ],
     "removed": [
-      "— Dragon Drink® Refresher - Grande"
+      "MAUI STYLE® Maui Onion Flavored Potato Chips"
     ]
   },
   {
-    "id": "dl-market-house-lunch-and-dinner",
-    "name": "Market House - Starbucks (Lunch & Dinner)",
+    "id": "dl-tiki-juice-bar",
+    "name": "Tiki Juice Bar",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/tiki-juice-bar/menus/snack/",
     "added": [
-      "— Blended Pink Energy Drink - Grande"
-    ],
-    "removed": [
-      "— Dragon Drink® Refresher - Grande"
-    ]
-  },
-  {
-    "id": "dl-red-rose-taverne-breakfast",
-    "name": "Red Rose Taverne (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/breakfast/",
-    "added": [
-      "— POWER Pack"
+      "— Swirl Up Some Magic Cup"
     ],
     "removed": []
   },
   {
-    "id": "dl-red-rose-taverne-lunch-and-dinner",
-    "name": "Red Rose Taverne (Lunch & Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/lunch-and-dinner/",
+    "id": "epcot-canada-popcorn-cart",
+    "name": "Canada Popcorn Cart",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/popcorn-at-canada-pavilion/menus/snack/",
     "added": [
-      "— POWER Pack"
+      "— Collective Arts Brewing Hazy State IPA"
+    ],
+    "removed": [
+      "Unibroue La Fin du Monde Belgian-style Tripel Ale Draft"
+    ]
+  },
+  {
+    "id": "epcot-connections-cafe",
+    "name": "Connections Café (Starbucks)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/connections-cafe/menus/coffee-%E2%80%93-bakery/",
+    "added": [
+      "Blended Mango Dragonfruit Lemonade Energy Refresher - Grande",
+      "— Blended Pink Energy Drink - Grande"
     ],
     "removed": []
   }
