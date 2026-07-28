@@ -1,49 +1,23 @@
 [
   {
-    "id": "dl-the-tropical-hideaway",
-    "name": "The Tropical Hideaway",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/tropical-hideaway/menus/snack/",
+    "id": "epcot-pizza-al-taglio",
+    "name": "Pizza al Taglio",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/pizza-taglio/menus/lunch-and-dinner/",
     "added": [
-      "— Hoa Aloha Float",
-      "— Swirl Up Some Magic Cup Swirl",
-      "— Swirl Up Some Magic Cup",
-      "— Pineapple Spear"
+      "— Seasonal Tiramisú"
     ],
     "removed": [
-      "MAUI STYLE® Maui Onion Flavored Potato Chips"
+      "— Tiramisú Alla \"Nutella®\""
     ]
   },
   {
-    "id": "dl-tiki-juice-bar",
-    "name": "Tiki Juice Bar",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/tiki-juice-bar/menus/snack/",
-    "added": [
-      "— Swirl Up Some Magic Cup"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-canada-popcorn-cart",
-    "name": "Canada Popcorn Cart",
+    "id": "epcot-regal-eagle-smokehouse",
+    "name": "Regal Eagle Smokehouse",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/popcorn-at-canada-pavilion/menus/snack/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/regal-eagle-smokehouse/menus/lunch-and-dinner/",
     "added": [
-      "— Collective Arts Brewing Hazy State IPA"
-    ],
-    "removed": [
-      "Unibroue La Fin du Monde Belgian-style Tripel Ale Draft"
-    ]
-  },
-  {
-    "id": "epcot-connections-cafe",
-    "name": "Connections Café (Starbucks)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/connections-cafe/menus/coffee-%E2%80%93-bakery/",
-    "added": [
-      "Blended Mango Dragonfruit Lemonade Energy Refresher - Grande",
-      "— Blended Pink Energy Drink - Grande"
+      "— Spiced Honey-Habanero Wings"
     ],
     "removed": []
   }
