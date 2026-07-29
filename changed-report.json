@@ -1,23 +1,26 @@
 [
   {
-    "id": "epcot-pizza-al-taglio",
-    "name": "Pizza al Taglio",
+    "id": "epcot-sommerfest",
+    "name": "Sommerfest",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/pizza-taglio/menus/lunch-and-dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/sommerfest/menus/lunch-and-dinner/",
     "added": [
-      "— Seasonal Tiramisú"
+      "— Coca-Cola® Bottle",
+      "— Diet Coke® Bottle",
+      "— Sprite® Bottle"
     ],
-    "removed": [
-      "— Tiramisú Alla \"Nutella®\""
-    ]
+    "removed": []
   },
   {
-    "id": "epcot-regal-eagle-smokehouse",
-    "name": "Regal Eagle Smokehouse",
+    "id": "epcot-tutto-gusto-wine-cellar",
+    "name": "Tutto Gusto Wine Cellar",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/regal-eagle-smokehouse/menus/lunch-and-dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/tutto-gusto-wine-cellar/menus/bar-%E2%80%93-lounge/",
     "added": [
-      "— Spiced Honey-Habanero Wings"
+      "— Sorsi d'Oro",
+      "— Affogato Ale",
+      "— Le Difese, Tenuta San Guido",
+      "— Guidalberto, Tenuta San Guido"
     ],
     "removed": []
   }
