@@ -1,27 +1,58 @@
 [
   {
-    "id": "epcot-sommerfest",
-    "name": "Sommerfest",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/sommerfest/menus/lunch-and-dinner/",
+    "id": "eu-hooligans-grog-and-gruel",
+    "name": "Hooligan's Grog & Gruel",
+    "park": "Epic Universe",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/hooligans-grog-and-gruel/menu.html",
     "added": [
-      "— Coca-Cola® Bottle",
-      "— Diet Coke® Bottle",
-      "— Sprite® Bottle"
+      "Dragon Fire Chicken Spire",
+      "— Dragon Fire Chicken Spire"
     ],
-    "removed": []
+    "removed": [
+      "Dragon's Garden Pyre",
+      "— Dragon's Garden Pyre"
+    ]
   },
   {
-    "id": "epcot-tutto-gusto-wine-cellar",
-    "name": "Tutto Gusto Wine Cellar",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/tutto-gusto-wine-cellar/menus/bar-%E2%80%93-lounge/",
+    "id": "eu-spit-fyre-grill",
+    "name": "Spit Fyre Grill",
+    "park": "Epic Universe",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/spit-fyre-grill/menu.html",
     "added": [
-      "— Sorsi d'Oro",
-      "— Affogato Ale",
-      "— Le Difese, Tenuta San Guido",
-      "— Guidalberto, Tenuta San Guido"
+      "Dragon Fire Chicken Spire",
+      "— Dragon Fire Chicken Spire"
     ],
-    "removed": []
+    "removed": [
+      "Dragon's Garden Pyre",
+      "— Dragon's Garden Pyre"
+    ]
+  },
+  {
+    "id": "eu-the-oak-and-star-tavern",
+    "name": "The Oak & Star Tavern",
+    "park": "Epic Universe",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-oak-and-star-tavern/menu.html",
+    "added": [
+      "Oak and Star Burger",
+      "— Oak and Star Burger"
+    ],
+    "removed": [
+      "Oak and Star Burger*",
+      "— Oak and Star Burger*"
+    ]
+  },
+  {
+    "id": "eu-yoshis-snack-island",
+    "name": "Yoshi's Snack Island",
+    "park": "Epic Universe",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/yoshis-snack-island/menu.html",
+    "added": [
+      "Calzones",
+      "— Calzones"
+    ],
+    "removed": [
+      "Koopa Troopa Calzones",
+      "— Koopa Troopa Calzones"
+    ]
   }
 ]
