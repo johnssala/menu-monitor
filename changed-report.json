@@ -1,58 +1,42 @@
 [
   {
-    "id": "eu-hooligans-grog-and-gruel",
-    "name": "Hooligan's Grog & Gruel",
-    "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/hooligans-grog-and-gruel/menu.html",
-    "added": [
-      "Dragon Fire Chicken Spire",
-      "— Dragon Fire Chicken Spire"
-    ],
+    "id": "hs-milk-stand-galaxys-edge",
+    "name": "Milk Stand – Star Wars: Galaxy's Edge",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/milk-stand/menus/snack/",
+    "added": [],
     "removed": [
-      "Dragon's Garden Pyre",
-      "— Dragon's Garden Pyre"
+      "— Kerkoiden Blue Cake"
     ]
   },
   {
-    "id": "eu-spit-fyre-grill",
-    "name": "Spit Fyre Grill",
-    "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/spit-fyre-grill/menu.html",
-    "added": [
-      "Dragon Fire Chicken Spire",
-      "— Dragon Fire Chicken Spire"
-    ],
+    "id": "hs-the-hollywood-brown-derby-lunch",
+    "name": "The Hollywood Brown Derby (Lunch)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/lunch/",
+    "added": [],
     "removed": [
-      "Dragon's Garden Pyre",
-      "— Dragon's Garden Pyre"
+      "— Hot Dog"
     ]
   },
   {
-    "id": "eu-the-oak-and-star-tavern",
-    "name": "The Oak & Star Tavern",
-    "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-oak-and-star-tavern/menu.html",
-    "added": [
-      "Oak and Star Burger",
-      "— Oak and Star Burger"
-    ],
+    "id": "hs-the-hollywood-brown-derby-dinner",
+    "name": "The Hollywood Brown Derby (Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/dinner/",
+    "added": [],
     "removed": [
-      "Oak and Star Burger*",
-      "— Oak and Star Burger*"
+      "— Hot Dog"
     ]
   },
   {
-    "id": "eu-yoshis-snack-island",
-    "name": "Yoshi's Snack Island",
-    "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/yoshis-snack-island/menu.html",
-    "added": [
-      "Calzones",
-      "— Calzones"
-    ],
+    "id": "hs-the-hollywood-brown-derby-lounge",
+    "name": "The Hollywood Brown Derby Lounge",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby-lounge/menus/bar-%E2%80%93-lounge/",
+    "added": [],
     "removed": [
-      "Koopa Troopa Calzones",
-      "— Koopa Troopa Calzones"
+      "— Hot Dog"
     ]
   }
 ]
