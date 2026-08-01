@@ -1,42 +1,101 @@
 [
   {
-    "id": "hs-milk-stand-galaxys-edge",
-    "name": "Milk Stand – Star Wars: Galaxy's Edge",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/milk-stand/menus/snack/",
-    "added": [],
+    "id": "ioa-circus-mcgurkus-cafe-stoo-pendous",
+    "name": "Circus McGurkus Cafe Stoo-pendous",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/circus-mcgurkus-cafe-stoo-pendous/menu.html",
+    "added": [
+      "The Roast Beast Bacon Cheeseburger",
+      "bacon cheeseburger with caramelized onion aioli, tomato, lettuce, toasted brioche bun, crinkle cut fries",
+      "Step Right Up Crispy Chicken Salad",
+      "artisan crust pizza, char cup pepperoni, tangy tomato sauce, mozzarella cheese, crinkle cut fries",
+      "Sneelock's Crunchy Chicken Sandwich",
+      "Morris's Mac-nificent Mac & Cheese Cone",
+      "fresh baked bread cone, hand breaded Buffalo chicken nuggets, creamy Cheddar cavatappi pasta, ranch sauce",
+      "Little Ringmaster Feasts",
+      "McGurk's Cheese Pizza",
+      "artisan crust pizza, char cup pepperoni, tomato sauce, mozzarella cheese",
+      "McGurk's Pepperoni Pizza",
+      "Carnival Classic Cheeseburger",
+      "seared Angus beef, American cheese, sesame bun",
+      "Hip Hip Hooray Mini Dog",
+      "Crunchy Chicken Bites in the Spotlight",
+      "hand breaded chicken bites, creamy special sauce",
+      "Marvelous Mac & Cheese",
+      "creamy Cheddar & cavatappi pasta",
+      "Blue Lemonade Elephant Ice Pop"
+    ],
     "removed": [
-      "— Kerkoiden Blue Cake"
+      "Preposterous Poke Noodle*",
+      "poke bowl with spicy mayo, blue rice noodles, edamame salad, cucumbers and lotus root",
+      "Magician Meatball Cone",
+      "home-made meatballs and marinara cavatappi, served in a garlic bread cone",
+      "Roast Beast Bacon Burger",
+      "Meat-za Pizza Burger",
+      "Cluck-A-Doodle Waffle Toodle",
+      "hand breaded chicken tenders served with a fluffy waffle, crinkle cut fries and mustard mayo BBQ sauce",
+      "Marvelous Miso Salmon",
+      "miso salmon topped with gochujang sauce, accompanied by quinoa with vegetables, edamame puree and cucumber relish",
+      "Vegan Magician Meatball Cone",
+      "plant based Gardein™ meatballs and marinara cavatappi, served in a garlic bread cone",
+      "Tamed Dragon Salad",
+      "red dragon fruit, red quinoa, raspberries, mandarin oranges, almonds, baby spinach, cucumber, and guava vinaigrette",
+      "artisan crust pizza, char cup pepperoni, tangy tomato sauce, mozzarella cheese with crinkle cut fries",
+      "Cheesy Crunch Pretzel Dog",
+      "Side Marinara Sauce",
+      "Caramel Popcorn Cupcake"
     ]
   },
   {
-    "id": "hs-the-hollywood-brown-derby-lunch",
-    "name": "The Hollywood Brown Derby (Lunch)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/lunch/",
-    "added": [],
+    "id": "ioa-confisco-grille-kids",
+    "name": "Confisco Grille (Kids)",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/confisco-grille/kids_menu.html",
+    "added": [
+      "For children 9 and under Meals include choice of fries or oranges",
+      "creamy Cheddar mac & cheese",
+      "grilled and served on a sesame seed bun",
+      "crispy chicken tenders",
+      "chocolate or vanilla ice cream served with chocolate syrup, sprinkles, whipped cream and a cherry",
+      "orange, apple, cranberry, pineapple",
+      "Soda",
+      "Coca-Cola®, Diet Coke®, Sprite®, Minute Maid® Lemonade"
+    ],
     "removed": [
-      "— Hot Dog"
+      "For children 9 and under",
+      "Grilled Cheese",
+      "white bread with American cheese served with your choice of fries, oranges or applesauce",
+      "creamy cheddar mac & cheese with your choice of fries, oranges or applesauce",
+      "grilled and served on a sesame seed bun with your choice of fries, oranges or applesauce",
+      "tender chicken fingers lightly breaded and fried with your choice of fries, oranges or applesauce",
+      "choice of chocolate or vanilla ice cream served with chocolate syrup, sprinkles, whipped cream and a cherry",
+      "Fountain Soda",
+      "Coke, Diet Coke, Cherry Coke, Sprite, Lemonade",
+      "orange, apple, cranberry, pineapple, grapefruit"
     ]
   },
   {
-    "id": "hs-the-hollywood-brown-derby-dinner",
-    "name": "The Hollywood Brown Derby (Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/dinner/",
-    "added": [],
+    "id": "ioa-fire-eaters-grill",
+    "name": "Fire Eater's Grill",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/fire-eaters-grill/menu.html",
+    "added": [
+      "Chicken Tender Stack Platter",
+      "Icee",
+      "blue raspberry, coke, pina colada"
+    ],
     "removed": [
-      "— Hot Dog"
+      "Chicken Fingers Platter"
     ]
   },
   {
-    "id": "hs-the-hollywood-brown-derby-lounge",
-    "name": "The Hollywood Brown Derby Lounge",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby-lounge/menus/bar-%E2%80%93-lounge/",
-    "added": [],
-    "removed": [
-      "— Hot Dog"
-    ]
+    "id": "ioa-three-broomsticks",
+    "name": "Three Broomsticks",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/three-broomsticks/menu.html",
+    "added": [
+      "Souvenir Butterbeer™ 25 Years of Magic"
+    ],
+    "removed": []
   }
 ]
