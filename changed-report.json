@@ -1,1 +1,45 @@
-[]
+[
+  {
+    "id": "usf-illuminations-minion-cafe",
+    "name": "Illumination's Minion Cafe",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/illuminations-minion-cafe/menu.html",
+    "added": [
+      "cheddar potato waffle, mac and cheese, cheese sauce, mini banana, grapes"
+    ],
+    "removed": [
+      "bacon cheddar potato waffle, mac and cheese, cheese sauce, mini banana, grapes"
+    ]
+  },
+  {
+    "id": "usf-leaky-cauldron-lunch-and-dinner",
+    "name": "Leaky Cauldron (Lunch & Dinner)",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/leaky-cauldron/menu.html",
+    "added": [
+      "Souvenir Butterbeer™ 25 Years of Magic"
+    ],
+    "removed": []
+  },
+  {
+    "id": "usf-san-francisco-pastry-company",
+    "name": "San Francisco Pastry Company",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/san-francisco-pastry-company/menu.html",
+    "added": [
+      "Caprese Combo",
+      "Caprese Platter",
+      "Roast Beef Combo",
+      "Roast Beef Platter",
+      "Hot Turkey Panini Combo",
+      "Hot Turkey Panini Platter"
+    ],
+    "removed": [
+      "Caprese",
+      "Roast Beef",
+      "Hot Turkey Panini",
+      "Rainbow Bagel",
+      "rainbow bagel, cream cheese, fresh strawberries"
+    ]
+  }
+]
