@@ -1,45 +1,88 @@
 [
   {
-    "id": "usf-illuminations-minion-cafe",
-    "name": "Illumination's Minion Cafe",
-    "park": "Universal Studios Florida",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/illuminations-minion-cafe/menu.html",
+    "id": "ush-cocina-mexicana",
+    "name": "Cocina Mexicana",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/cocina-mexicana/menu.html",
     "added": [
-      "cheddar potato waffle, mac and cheese, cheese sauce, mini banana, grapes"
-    ],
-    "removed": [
-      "bacon cheddar potato waffle, mac and cheese, cheese sauce, mini banana, grapes"
-    ]
-  },
-  {
-    "id": "usf-leaky-cauldron-lunch-and-dinner",
-    "name": "Leaky Cauldron (Lunch & Dinner)",
-    "park": "Universal Studios Florida",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/leaky-cauldron/menu.html",
-    "added": [
-      "Souvenir Butterbeer™ 25 Years of Magic"
+      "Served with red sauce. Contains: Milk, Wheat, Soy",
+      "Tortilla Chips and Dip (Vegetarian)",
+      "Choice of guacamole or pico de gallo. Contains: Egg, Wheat",
+      "Choice of Queso. Contains: Milk, Egg, Wheat",
+      "Chocolate Tire Conchas (Vegetarian)",
+      "Two (2) Dark chocolate conchas. Contains: Milk, Egg, Wheat, Soy",
+      "Churro Bites (Vegetarian)",
+      "Cinnamon Sugar Churro Bites. Contains: Egg, Wheat",
+      "Chamoy Pineapple (Vegan/Vegetarian/Gluten Friendly)",
+      "Pineapple spears drizzled with chamoy. Contains: No Allergens",
+      "Tortilla chips at Cocina Mexicana are prepared in a shared fryer and are not gluten free."
     ],
     "removed": []
   },
   {
-    "id": "usf-san-francisco-pastry-company",
-    "name": "San Francisco Pastry Company",
-    "park": "Universal Studios Florida",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/san-francisco-pastry-company/menu.html",
+    "id": "ush-hollywood-and-dine",
+    "name": "Hollywood & Dine",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/hollywood-dine/menu.html",
     "added": [
-      "Caprese Combo",
-      "Caprese Platter",
-      "Roast Beef Combo",
-      "Roast Beef Platter",
-      "Hot Turkey Panini Combo",
-      "Hot Turkey Panini Platter"
+      "Mountain Blast, Fruit Punch"
     ],
     "removed": [
-      "Caprese",
-      "Roast Beef",
-      "Hot Turkey Panini",
-      "Rainbow Bagel",
-      "rainbow bagel, cream cheese, fresh strawberries"
+      "Mountain Blast"
+    ]
+  },
+  {
+    "id": "ush-jurassic-cafe",
+    "name": "Jurassic Cafe",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/jurassic-cafe/menu.html",
+    "added": [
+      "Apex Predator (Gluten Friendly)"
+    ],
+    "removed": [
+      "Raptor Leg (Gluten Friendly)"
+    ]
+  },
+  {
+    "id": "ush-mummy-eats",
+    "name": "Mummy Eats",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/mummy-eats/menu.html",
+    "added": [
+      "Vegetarian Corn Dog w/Chips (Vegetarian)",
+      "Contains: Milk, Egg, Wheat, Soy",
+      "Apple Crumble Churro Bites (Vegetarian)"
+    ],
+    "removed": [
+      "Vegetarian Corn Dog w/Chips",
+      "Contains: Milk, Egg, Wheat, Soy Vegetarian"
+    ]
+  },
+  {
+    "id": "ush-power-up-cafe",
+    "name": "Power Up Cafe",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/power-up-cafe/menu.html",
+    "added": [],
+    "removed": [
+      "Today's Park Hours 09:00 AM - 09:00 PM",
+      "Visit CityWalk 11:00 AM - 10:00 PM"
+    ]
+  },
+  {
+    "id": "ush-suds-mcduffs-hot-dog-stand",
+    "name": "Suds McDuff's Hot Dog Stand",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/suds-mcduffs-hot-dogs/menu.html",
+    "added": [
+      "Corona",
+      "Modelo Especial",
+      "Pacifico"
+    ],
+    "removed": [
+      "Blue Moon",
+      "Bud Light",
+      "Modelo"
     ]
   }
 ]
