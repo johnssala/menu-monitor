@@ -1,88 +1,39 @@
 [
   {
-    "id": "ush-cocina-mexicana",
-    "name": "Cocina Mexicana",
+    "id": "ush-three-broomsticks",
+    "name": "Three Broomsticks",
     "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/cocina-mexicana/menu.html",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/three-broomsticks/menu.html",
     "added": [
-      "Served with red sauce. Contains: Milk, Wheat, Soy",
-      "Tortilla Chips and Dip (Vegetarian)",
-      "Choice of guacamole or pico de gallo. Contains: Egg, Wheat",
-      "Choice of Queso. Contains: Milk, Egg, Wheat",
-      "Chocolate Tire Conchas (Vegetarian)",
-      "Two (2) Dark chocolate conchas. Contains: Milk, Egg, Wheat, Soy",
-      "Churro Bites (Vegetarian)",
-      "Cinnamon Sugar Churro Bites. Contains: Egg, Wheat",
-      "Chamoy Pineapple (Vegan/Vegetarian/Gluten Friendly)",
-      "Pineapple spears drizzled with chamoy. Contains: No Allergens",
-      "Tortilla chips at Cocina Mexicana are prepared in a shared fryer and are not gluten free."
-    ],
-    "removed": []
-  },
-  {
-    "id": "ush-hollywood-and-dine",
-    "name": "Hollywood & Dine",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/hollywood-dine/menu.html",
-    "added": [
-      "Mountain Blast, Fruit Punch"
+      "Butterbeer™ Soft Serve Ice Cream (Vegetarian/Gluten Friendly)"
     ],
     "removed": [
-      "Mountain Blast"
+      "Butterbeer™ Soft Serve Ice Cream ( Vegetarian/Gluten Friendly)"
     ]
   },
   {
-    "id": "ush-jurassic-cafe",
-    "name": "Jurassic Cafe",
+    "id": "ush-universal-tower-snack-bar",
+    "name": "Universal Tower Snack Bar",
     "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/jurassic-cafe/menu.html",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/universal-tower-snack-bar/menu.html",
     "added": [
-      "Apex Predator (Gluten Friendly)"
-    ],
-    "removed": [
-      "Raptor Leg (Gluten Friendly)"
-    ]
-  },
-  {
-    "id": "ush-mummy-eats",
-    "name": "Mummy Eats",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/mummy-eats/menu.html",
-    "added": [
-      "Vegetarian Corn Dog w/Chips (Vegetarian)",
-      "Contains: Milk, Egg, Wheat, Soy",
-      "Apple Crumble Churro Bites (Vegetarian)"
-    ],
-    "removed": [
-      "Vegetarian Corn Dog w/Chips",
-      "Contains: Milk, Egg, Wheat, Soy Vegetarian"
-    ]
-  },
-  {
-    "id": "ush-power-up-cafe",
-    "name": "Power Up Cafe",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/power-up-cafe/menu.html",
-    "added": [],
-    "removed": [
-      "Today's Park Hours 09:00 AM - 09:00 PM",
-      "Visit CityWalk 11:00 AM - 10:00 PM"
-    ]
-  },
-  {
-    "id": "ush-suds-mcduffs-hot-dog-stand",
-    "name": "Suds McDuff's Hot Dog Stand",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/suds-mcduffs-hot-dogs/menu.html",
-    "added": [
+      "FRITOS® Scoops® The Walking Taco",
+      "Frito Scoops topped with beef chili and cheddar cheese",
+      "Bagged Pickle",
+      "Dill or Sour",
+      "Mountain Blast or Fruit Punch",
+      "Topo Chico Sparkling Water",
+      "Tropical Mango or Lime with Mint",
+      "Mai Tai or Margarita",
       "Corona",
-      "Modelo Especial",
       "Pacifico"
     ],
     "removed": [
-      "Blue Moon",
+      "Stuffed Pretzel",
+      "Cream Cheese or Jalapeño Cheese",
+      "Mountain Blast",
       "Bud Light",
-      "Modelo"
+      "Blue Moon"
     ]
   }
 ]
