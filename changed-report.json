@@ -1,39 +1,12 @@
 [
   {
-    "id": "ush-three-broomsticks",
-    "name": "Three Broomsticks",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/three-broomsticks/menu.html",
-    "added": [
-      "Butterbeer™ Soft Serve Ice Cream (Vegetarian/Gluten Friendly)"
-    ],
+    "id": "ak-anandapur-ice-cream-truck",
+    "name": "Anandapur Ice Cream Truck",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/anandapur-ice-cream-truck/menus/",
+    "added": [],
     "removed": [
-      "Butterbeer™ Soft Serve Ice Cream ( Vegetarian/Gluten Friendly)"
-    ]
-  },
-  {
-    "id": "ush-universal-tower-snack-bar",
-    "name": "Universal Tower Snack Bar",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/universal-tower-snack-bar/menu.html",
-    "added": [
-      "FRITOS® Scoops® The Walking Taco",
-      "Frito Scoops topped with beef chili and cheddar cheese",
-      "Bagged Pickle",
-      "Dill or Sour",
-      "Mountain Blast or Fruit Punch",
-      "Topo Chico Sparkling Water",
-      "Tropical Mango or Lime with Mint",
-      "Mai Tai or Margarita",
-      "Corona",
-      "Pacifico"
-    ],
-    "removed": [
-      "Stuffed Pretzel",
-      "Cream Cheese or Jalapeño Cheese",
-      "Mountain Blast",
-      "Bud Light",
-      "Blue Moon"
+      "— Yeti Sundae"
     ]
   }
 ]
