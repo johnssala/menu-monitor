@@ -1,12 +1,32 @@
 [
   {
-    "id": "ak-anandapur-ice-cream-truck",
-    "name": "Anandapur Ice Cream Truck",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/anandapur-ice-cream-truck/menus/",
+    "id": "bb-lottawatta-lodge-all-day",
+    "name": "Lottawatta Lodge (All-Day)",
+    "park": "Blizzard Beach",
+    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/lottawatta-lodge/menus/all-day/",
+    "added": [
+      "— Pluto Skeleton Sipper"
+    ],
+    "removed": []
+  },
+  {
+    "id": "bb-lottawatta-lodge-lunch-and-dinner",
+    "name": "Lottawatta Lodge (Lunch & Dinner)",
+    "park": "Blizzard Beach",
+    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/lottawatta-lodge/menus/lunch-and-dinner/",
+    "added": [
+      "— Pluto Skeleton Sipper"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dca-carthay-circle-lounge-lunch",
+    "name": "Carthay Circle Lounge (Lunch)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-lounge/menus/lunch/",
     "added": [],
     "removed": [
-      "— Yeti Sundae"
+      "Karl Strauss® Brewing Company, 70th Anniversary IPA, San Diego CA. (ABV 7.0%)"
     ]
   }
 ]
