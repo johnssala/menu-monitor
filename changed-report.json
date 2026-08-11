@@ -1,414 +1,241 @@
 [
   {
-    "id": "dca-schmoozies",
-    "name": "Schmoozies!",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/schmoozies-smoothies/menus/snack/",
-    "added": [
-      "Pumpkin Pie Mickey Shake [Available starting August 18]",
-      "Matcha Mickey-shaped Waffles [Available starting August 18]"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dca-smokejumpers-grill-breakfast",
-    "name": "Smokejumpers Grill (Breakfast)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/breakfast/",
-    "added": [
-      "Villainous Wings [Available starting August 18]",
-      "Magic Key Ursula Straw Clip [Available starting August 18]",
-      "Winnie the Pooh Hunny Bee Sipper [Available starting August 18]",
-      "Disney California Adventure & Friends Mug [Available starting August 18]",
-      "Oogie Boogie Moon Glow Cube [Available starting August 18]",
-      "Bottle Logic Brewing, Aurora Borealis Hard Seltzer [Available starting August 18]",
-      "Green Apple Lemonade Margarita [Available starting August 18)",
-      "Oogie Boogie Lemonade [Available starting August 18]"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dca-smokejumpers-grill-lunch-and-dinner",
-    "name": "Smokejumpers Grill (Lunch & Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/lunch-and-dinner/",
-    "added": [
-      "Villainous Wings [Available starting August 18]",
-      "Magic Key Ursula Straw Clip [Available starting August 18]",
-      "Winnie the Pooh Hunny Bee Sipper [Available starting August 18]",
-      "Disney California Adventure & Friends Mug [Available starting August 18]",
-      "Oogie Boogie Moon Glow Cube [Available starting August 18]",
-      "Bottle Logic Brewing, Aurora Borealis Hard Seltzer [Available starting August 18]",
-      "Green Apple Lemonade Margarita [Available starting August 18)",
-      "Oogie Boogie Lemonade [Available starting August 18]"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dca-studio-catering-co",
-    "name": "Studio Catering Co.",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/studio-catering-co/menus/snack/",
-    "added": [
-      "Magic Key Ursula Straw Clip [Available starting August 18]"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dca-wine-country-trattoria-lunch",
-    "name": "Wine Country Trattoria (Lunch)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/wine-country-trattoria/menus/lunch/",
-    "added": [
-      "— Brioche",
-      "— Fall Salad",
-      "— Tomato Basil Soup",
-      "— Bistecca*",
-      "— Fall Salad with Shrimp*",
-      "— Pan-seared Salmon",
-      "— Rigatoni Bolognese",
-      "— Italian Sausage Pasta",
-      "— Vanilla Brûlée Tart",
-      "— Salted Mango Bourbon Sour",
-      "— Bottle Logic Brewing, Logic Light",
-      "— Peroni, Nastro Azzurro",
-      "— Athletic Brewing Co. Run Wild",
-      "— La Marca Prosecco, Veneto, Italy",
-      "— Side Fall Salad"
-    ],
-    "removed": [
-      "— Pull-Apart Cheese Bread",
-      "— Grapefruit Salad",
-      "— Soup Del Giorno",
-      "— Grapefruit Salad with Grilled Shrimp",
-      "— Hearty Short Rib Pasta",
-      "— Pesce Bianco",
-      "— Spaghetti Bolognese",
-      "— Spaghetti Aglio Olio",
-      "— Banana Brûlée Tart",
-      "— Chicken Breast",
-      "— Lemon Tiramisù",
-      "— Lime Thyme",
-      "— Rinascimento",
-      "— Blanco Negroni",
-      "— Frozen Banana Mudslide Cocktail",
-      "— Garibaldi",
-      "— Trattoria Aperitivo",
-      "— Amaro Rinfrescante",
-      "— Peroni",
-      "— Trademark Brewing, Talking Hands",
-      "— Corona",
-      "Karl Strauss® Brewing Company, 70th Anniversary IPA, San Diego CA. (ABV 7.0%)",
-      "Athletic Brewing, Run Wild Non-Alcoholic IPA (ABV <0.5%)",
-      "— Seasonal ACE Hard Cider",
-      "Banfi Rosa Regale, Brachetto d'Acqui, Italy",
-      "Zonin, Prosecco Brut Sparkling Wine, Italy",
-      "Whitehall Lane, Sauvignon Blanc, Napa Valley",
-      "Chalk Hill, Sauvignon Blanc, Sonoma County",
-      "— Far Niente, Chardonnay, Napa Valley",
-      "— Kistler, Chardonnay, Sonoma Valley",
-      "— Conundrum, California",
-      "— Provenance, Merlot, Napa Valley",
-      "Beaulieu Vineyards, Cabernet Sauvignon, Napa Valley",
-      "— Ruffino Chianti, Toscana, Italy",
-      "— Perrin Nature Côtes du Rhône, France",
-      "Barossa Valley Estate Shiraz, South Australia",
-      "Beaulieu Vineyards, Tapestry, Napa Valley",
-      "— Shrimp Alfredo**",
-      "— Aglio Olio**",
-      "— Plant-Based Banana Brûlée Tart"
-    ]
-  },
-  {
-    "id": "dca-wine-country-trattoria-dinner",
-    "name": "Wine Country Trattoria (Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/wine-country-trattoria/menus/dinner/",
-    "added": [
-      "— Brioche",
-      "— Fall Salad",
-      "— Tomato Basil Soup",
-      "— Bistecca*",
-      "— Fall Salad with Shrimp*",
-      "— Pan-seared Salmon",
-      "— Rigatoni Bolognese",
-      "— Italian Sausage Pasta",
-      "— Vanilla Brûlée Tart",
-      "— Salted Mango Bourbon Sour",
-      "— Bottle Logic Brewing, Logic Light",
-      "— Peroni, Nastro Azzurro",
-      "— Athletic Brewing Co. Run Wild",
-      "— La Marca Prosecco, Veneto, Italy",
-      "— Side Fall Salad"
-    ],
-    "removed": [
-      "— Pull-Apart Cheese Bread",
-      "— Grapefruit Salad",
-      "— Soup Del Giorno",
-      "— Grapefruit Salad with Grilled Shrimp",
-      "— Hearty Short Rib Pasta",
-      "— Pesce Bianco",
-      "— Spaghetti Bolognese",
-      "— Spaghetti Aglio Olio",
-      "— Banana Brûlée Tart",
-      "— Chicken Breast",
-      "— Lemon Tiramisù",
-      "— Lime Thyme",
-      "— Rinascimento",
-      "— Blanco Negroni",
-      "— Frozen Banana Mudslide Cocktail",
-      "— Garibaldi",
-      "— Trattoria Aperitivo",
-      "— Amaro Rinfrescante",
-      "— Peroni",
-      "— Trademark Brewing, Talking Hands",
-      "— Corona",
-      "Karl Strauss® Brewing Company, 70th Anniversary IPA, San Diego CA. (ABV 7.0%)",
-      "Athletic Brewing, Run Wild Non-Alcoholic IPA (ABV <0.5%)",
-      "— Seasonal ACE Hard Cider",
-      "Banfi Rosa Regale, Brachetto d'Acqui, Italy",
-      "Zonin, Prosecco Brut Sparkling Wine, Italy",
-      "Whitehall Lane, Sauvignon Blanc, Napa Valley",
-      "Chalk Hill, Sauvignon Blanc, Sonoma County",
-      "— Far Niente, Chardonnay, Napa Valley",
-      "— Kistler, Chardonnay, Sonoma Valley",
-      "— Conundrum, California",
-      "— Provenance, Merlot, Napa Valley",
-      "Beaulieu Vineyards, Cabernet Sauvignon, Napa Valley",
-      "— Ruffino Chianti, Toscana, Italy",
-      "— Perrin Nature Côtes du Rhône, France",
-      "Barossa Valley Estate Shiraz, South Australia",
-      "Beaulieu Vineyards, Tapestry, Napa Valley",
-      "— Shrimp Alfredo**",
-      "— Aglio Olio**",
-      "— Plant-Based Banana Brûlée Tart"
-    ]
-  },
-  {
-    "id": "dl-alien-pizza-planet",
-    "name": "Alien Pizza Planet",
+    "id": "dl-harbour-galley",
+    "name": "Harbour Galley",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/alien-pizza-planet/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/harbour-galley/menus/lunch-and-dinner/",
+    "added": [
+      "Whipped Cream Cheese Dip [Available starting August 18]",
+      "Haunted Mansion Hatbox Ghost Bucket [Available starting August 13]",
+      "Tim Burton's The Nightmare Before Christmas Mayor Sipper [Available starting August 18]",
+      "Tim Burton's The Nightmare Before Christmas Jack Skellington Gravestone Bucket [Available starting August 18]",
+      "Magic Key Ursula Straw Clip [Available starting August 18]",
+      "Pain and Panic Straw Clip [Available starting August 18]",
+      "Winnie the Pooh Hunny Bee Sipper [Available starting August 18]",
+      "Vampire Mickey Mouse Bucket [Available starting August 18]",
+      "Halloween Travel Tumbler 2026 [Available starting August 18]",
+      "Brown Butter Maple Cold Brew [Available starting August 18]"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-hungry-bear-barbecue-jamboree",
+    "name": "Hungry Bear Barbecue Jamboree",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/hungry-bear-barbecue/menus/lunch-and-dinner/",
+    "added": [
+      "Halloween Travel Tumbler 2026 [Available starting August 18]",
+      "Haunted Mansion Hatbox Ghost Bucket [Available starting August 13]",
+      "Magic Key Ursula Straw Clip [Available starting August 18]",
+      "Tim Burton's The Nightmare Before Christmas Jack Skellington Gravestone Bucket [Available starting August 18]",
+      "Winnie the Pooh Hunny Bee Sipper [Available starting August 18]",
+      "Tim Burton's The Nightmare Before Christmas Mayor Sipper [Available starting August 18]",
+      "Grizzly Pumpkin Cold Brew Latte [Available starting August 18]"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-jolly-holiday-bakery-cafe-breakfast",
+    "name": "Jolly Holiday Bakery Cafe (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/breakfast/",
+    "added": [
+      "Oogie Boogie Moon Glow Cube [Available starting August 18]",
+      "Halloween Travel Tumbler 2026 [Available starting August 18]",
+      "Winnie the Pooh Hunny Bee Sipper [Available starting August 18]",
+      "Pumpkin Muffin [Available starting August 18]",
+      "Halloween Matterhorn Macaroon [Available starting August 18]",
+      "Caramel Apple Cheesecake [Available starting August 18]",
+      "Mickey Mummy Macaron [Available starting August 18]",
+      "Mickey Pumpkin Cupcake [Available starting August 18]",
+      "Brownie Pie [Available starting August 18]",
+      "Maple-Bacon Cinnamon Roll [Available starting August 18]",
+      "Raspberry-Rose Macaron [Available starting August 18]",
+      "Pumpkin Cold Brew [Available starting August 18]"
+    ],
+    "removed": [
+      "— Celebration Matterhorn Macaroon",
+      "— Strawberry Shortcake Macaron",
+      "— Raspberry Rose Mickey Macaron"
+    ]
+  },
+  {
+    "id": "dl-jolly-holiday-bakery-cafe-lunch-and-dinner",
+    "name": "Jolly Holiday Bakery Cafe (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/lunch-and-dinner/",
+    "added": [
+      "Oogie Boogie Moon Glow Cube [Available starting August 18]",
+      "Halloween Travel Tumbler 2026 [Available starting August 18]",
+      "Winnie the Pooh Hunny Bee Sipper [Available starting August 18]",
+      "Pumpkin Muffin [Available starting August 18]",
+      "Halloween Matterhorn Macaroon [Available starting August 18]",
+      "Caramel Apple Cheesecake [Available starting August 18]",
+      "Mickey Mummy Macaron [Available starting August 18]",
+      "Mickey Pumpkin Cupcake [Available starting August 18]",
+      "Brownie Pie [Available starting August 18]",
+      "Maple-Bacon Cinnamon Roll [Available starting August 18]",
+      "Raspberry-Rose Macaron [Available starting August 18]",
+      "Pumpkin Cold Brew [Available starting August 18]"
+    ],
+    "removed": [
+      "— Celebration Matterhorn Macaroon",
+      "— Strawberry Shortcake Macaron",
+      "— Raspberry Rose Mickey Macaron"
+    ]
+  },
+  {
+    "id": "dl-market-house-breakfast",
+    "name": "Market House - Starbucks (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/breakfast/",
+    "added": [
+      "Blended Mango Dragonfruit Lemonade Energy Refresher - Grande",
+      "— Dragon Drink® Refresher - Grande"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-market-house-lunch-and-dinner",
+    "name": "Market House - Starbucks (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/lunch-and-dinner/",
+    "added": [
+      "Blended Mango Dragonfruit Lemonade Energy Refresher - Grande",
+      "— Dragon Drink® Refresher - Grande"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-mint-julep-bar",
+    "name": "Mint Julep Bar",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/mint-julep-bar/menus/snack/",
+    "added": [
+      "Frightfully Festive Cocoa Dip [Available starting August 18]",
+      "Oogie Boogie Moon Glow Cube [Available starting August 18]",
+      "Halloween Travel Tumbler 2026 [Available starting August 18]"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-red-rose-taverne-breakfast",
+    "name": "Red Rose Taverne (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/breakfast/",
+    "added": [
+      "Enchanted Pumpkin Stuff [Available starting August 18]",
+      "Halloween Travel Tumbler 2026 [Available starting August 18]",
+      "Winnie the Pooh Hunny Bee Sipper [Available starting August 18]",
+      "French Toast Cold Brew [Available starting August 18]"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-red-rose-taverne-lunch-and-dinner",
+    "name": "Red Rose Taverne (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/lunch-and-dinner/",
+    "added": [
+      "Enchanted Pumpkin Stuff [Available starting August 18]",
+      "Halloween Travel Tumbler 2026 [Available starting August 18]",
+      "Winnie the Pooh Hunny Bee Sipper [Available starting August 18]",
+      "French Toast Cold Brew [Available starting August 18]"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-refreshment-corner",
+    "name": "Refreshment Corner",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/refreshment-corner/menus/lunch-and-dinner/",
+    "added": [
+      "Vampire Mickey Mouse Bucket [Available starting August 18]",
+      "Winnie the Pooh Hunny Bee Sipper [Available starting August 18]",
+      "Halloween Travel Tumbler 2026 [Available starting August 18]",
+      "Oogie Boogie Moon Glow Cube [Available starting August 18]",
+      "Birria Potato [Available starting August 18]"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-river-belle-terrace-lunch",
+    "name": "River Belle Terrace (Lunch)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/lunch/",
+    "added": [
+      "— Creamy Dill, Pickel & Onion Dip",
+      "— Fried Cheese Curds & Peppers",
+      "— House-Made Cornbread",
+      "— Pot Roast",
+      "— Wedge Salad",
+      "— Seasonal Vegetables with Chickpea Spread",
+      "— Créme Brûlée",
+      "— Peach Tea Cocktail",
+      "— VMC Paloma"
+    ],
+    "removed": [
+      "Farmhouse Salad with Almond - Pistachio Dressing",
+      "— Chicken Pot Pie Soup",
+      "— Pork Chop",
+      "— Blackened Fish",
+      "— Chocolate Brownie",
+      "— Key Lime Tart",
+      "— Cutwater Mai Tai"
+    ]
+  },
+  {
+    "id": "dl-river-belle-terrace-dinner",
+    "name": "River Belle Terrace (Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/dinner/",
+    "added": [
+      "— Creamy Dill, Pickel & Onion Dip",
+      "— Fried Cheese Curds & Peppers",
+      "— House-Made Cornbread",
+      "— Pot Roast",
+      "— Wedge Salad",
+      "— Seasonal Vegetables with Chickpea Spread",
+      "— Créme Brûlée",
+      "— Peach Tea Cocktail",
+      "— VMC Paloma"
+    ],
+    "removed": [
+      "Farmhouse Salad with Almond - Pistachio Dressing",
+      "— Chicken Pot Pie Soup",
+      "— Pork Chop",
+      "— Blackened Fish",
+      "— Chocolate Brownie",
+      "— Key Lime Tart",
+      "— Cutwater Mai Tai"
+    ]
+  },
+  {
+    "id": "dl-royal-street-veranda",
+    "name": "Royal Street Veranda",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/royal-street-veranda/menus/lunch-and-dinner/",
     "added": [
       "Halloween Travel Tumbler 2026 [Available starting August 18]",
       "Magic Key Ursula Straw Clip [Available starting August 18]",
-      "Vampire Mickey Mouse Bucket [Available starting August 18]",
-      "Winnie the Pooh Hunny Bee Sipper [Available starting August 18]",
       "Pain and Panic Straw Clip [Available starting August 18]"
     ],
-    "removed": [
-      "— Jabba the Hutt Sail Barge Bucket",
-      "— Bantha Sipper",
-      "— Salvaged Protocol Droid Bucket"
-    ]
-  },
-  {
-    "id": "dl-bengal-barbecue",
-    "name": "Bengal Barbecue",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/bengal-barbecue/menus/",
-    "added": [
-      "Iced Pandan Cooler [Available starting August 18]"
-    ],
     "removed": []
   },
   {
-    "id": "dl-blue-bayou-restaurant-lunch",
-    "name": "Blue Bayou Restaurant (Lunch)",
+    "id": "dl-stage-door-cafe",
+    "name": "Stage Door Cafe",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/blue-bayou-restaurant/menus/lunch/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/stage-door-cafe/menus/lunch-and-dinner/",
     "added": [
-      "— French Quarter Fields",
-      "— Banana Upside-down Cake",
-      "— Garlic Cheese Dip with Sourdough Boule",
-      "— Ribeye*",
-      "— Lacquered Chicken",
-      "— Fonseca Ruby Port",
-      "Karl Strauss® Brewing Co., Red Trolley Ale",
-      "— Southern Sunset Old Fashioned",
-      "— Plant-based French Quarter Fields"
-    ],
-    "removed": [
-      "— Vegetable Hearts Salad",
-      "— Chocolate-Pistachio Cheesecake",
-      "— Artisanal Bread",
-      "— Ribeye Steak with Western-style Butter*",
-      "— Roasted Chicken",
-      "— Crescent City Salad",
-      "— Fonseca Ruby Port (2 oz.)",
-      "Karl Strauss® Brewing Company, 70th Anniversary IPA, San Diego CA. (ABV 7.0%)"
-    ]
-  },
-  {
-    "id": "dl-blue-bayou-restaurant-dinner",
-    "name": "Blue Bayou Restaurant (Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/blue-bayou-restaurant/menus/dinner/",
-    "added": [
-      "— French Quarter Fields",
-      "— Banana Upside-down Cake",
-      "— Garlic Cheese Dip with Sourdough Boule",
-      "— Ribeye*",
-      "— Lacquered Chicken",
-      "— Fonseca Ruby Port",
-      "Karl Strauss® Brewing Co., Red Trolley Ale",
-      "— Southern Sunset Old Fashioned",
-      "— Plant-based French Quarter Fields"
-    ],
-    "removed": [
-      "— Vegetable Hearts Salad",
-      "— Chocolate-Pistachio Cheesecake",
-      "— Artisanal Bread",
-      "— Ribeye Steak with Western-style Butter*",
-      "— Roasted Chicken",
-      "— Crescent City Salad",
-      "— Fonseca Ruby Port (2 oz.)",
-      "Karl Strauss® Brewing Company, 70th Anniversary IPA, San Diego CA. (ABV 7.0%)"
-    ]
-  },
-  {
-    "id": "dl-cafe-daisy",
-    "name": "Café Daisy",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/cafe-daisy/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "— The Miss Daisy"
-    ]
-  },
-  {
-    "id": "dl-cafe-orleans-lunch",
-    "name": "Cafe Orleans (Lunch)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/cafe-orleans/menus/lunch/",
-    "added": [
-      "— Braised Beef",
-      "— Crispy Chicken Cutlet Alfredo Pasta",
-      "— NOLA BBQ Shrimp",
-      "— Fall Squash Soup",
-      "— The Frightful Delightful Yule Log",
-      "— Daou Rosé, Paso Robles",
-      "— Plant-based Fall Squash Soup"
-    ],
-    "removed": [
-      "— Braised Beef Short Rib",
-      "Battered & Fried Triple Cheese Monte Cristo Sandwich",
-      "— Herb Roasted Chicken Alfredo Pasta",
-      "— Blackened Shrimp Alfredo Pasta",
-      "— Provençal Bean & Herb Pesto Salad",
-      "— Lemon Icebox Cake",
-      "— McBride Sisters, Chardonnay"
-    ]
-  },
-  {
-    "id": "dl-cafe-orleans-dinner",
-    "name": "Cafe Orleans (Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/cafe-orleans/menus/dinner/",
-    "added": [
-      "— Braised Beef",
-      "— Crispy Chicken Cutlet Alfredo Pasta",
-      "— NOLA BBQ Shrimp",
-      "— Fall Squash Soup",
-      "— The Frightful Delightful Yule Log",
-      "— Daou Rosé, Paso Robles",
-      "— Plant-based Fall Squash Soup"
-    ],
-    "removed": [
-      "— Braised Beef Short Rib",
-      "Battered & Fried Triple Cheese Monte Cristo Sandwich",
-      "— Herb Roasted Chicken Alfredo Pasta",
-      "— Blackened Shrimp Alfredo Pasta",
-      "— Provençal Bean & Herb Pesto Salad",
-      "— Lemon Icebox Cake",
-      "— McBride Sisters, Chardonnay"
-    ]
-  },
-  {
-    "id": "dl-carnation-cafe-lunch",
-    "name": "Carnation Cafe (Lunch)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/carnation-cafe/menus/lunch/",
-    "added": [
-      "— The Carnation Café Cheeseburger*"
-    ],
-    "removed": [
-      "— Parmesan Toasted Patty Melt*"
-    ]
-  },
-  {
-    "id": "dl-carnation-cafe-dinner",
-    "name": "Carnation Cafe (Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/carnation-cafe/menus/dinner/",
-    "added": [
-      "— The Carnation Café Cheeseburger*"
-    ],
-    "removed": [
-      "— Parmesan Toasted Patty Melt*"
-    ]
-  },
-  {
-    "id": "dl-edelweiss-snacks",
-    "name": "Edelweiss Snacks",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/edelweiss-snacks/menus/snack/",
-    "added": [
-      "Matterhorn Puff [Available starting August 18]"
-    ],
-    "removed": [
-      "— Matterhorn Puff"
-    ]
-  },
-  {
-    "id": "dl-galactic-grill-breakfast",
-    "name": "Galactic Grill (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/breakfast/",
-    "added": [
-      "Pumpkin Cream Sweet Tea [Available starting August 18]",
-      "Darth by Chocolate Cold Brew [Available starting August 18]",
+      "Oogie Boogie Moon Glow Cube [Available starting August 18]",
+      "Tim Burton's The Nightmare Before Christmas Mayor Sipper",
+      "Tim Burton's The Nightmare Before Christmas Jack Skellington Gravestone Bucket [Available starting August 18]",
       "Magic Key Ursula Straw Clip [Available starting August 18]",
       "Halloween Travel Tumbler 2026 [Available starting August 18]",
-      "Vampire Mickey Mouse Bucket [Available starting August 18]",
-      "Winnie the Pooh Hunny Bee Sipper [Available starting August 18]",
       "Pain and Panic Straw Clip [Available starting August 18]",
-      "Oogie Boogie Moon Glow Cube [Available starting August 18]",
-      "Darth by Chocolate [Available starting August 18]"
-    ],
-    "removed": [
-      "— Pineapple Parfait"
-    ]
-  },
-  {
-    "id": "dl-galactic-grill-lunch-and-dinner",
-    "name": "Galactic Grill (Lunch & Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/lunch-and-dinner/",
-    "added": [
-      "Pumpkin Cream Sweet Tea [Available starting August 18]",
-      "Darth by Chocolate Cold Brew [Available starting August 18]",
-      "Magic Key Ursula Straw Clip [Available starting August 18]",
-      "Halloween Travel Tumbler 2026 [Available starting August 18]",
-      "Vampire Mickey Mouse Bucket [Available starting August 18]",
-      "Winnie the Pooh Hunny Bee Sipper [Available starting August 18]",
-      "Pain and Panic Straw Clip [Available starting August 18]",
-      "Oogie Boogie Moon Glow Cube [Available starting August 18]",
-      "Darth by Chocolate [Available starting August 18]"
-    ],
-    "removed": [
-      "— Pineapple Parfait"
-    ]
-  },
-  {
-    "id": "dl-gibson-girl-ice-cream-parlor",
-    "name": "Gibson Girl Ice Cream Parlor",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/gibson-girl-ice-cream-parlor/menus/snack/",
-    "added": [
-      "Rest In Chocolate [Available starting August 18]",
-      "Magic Key Ursula Straw Clip [Available starting August 18]",
-      "Halloween Huey, Dewey, and Louie Bottle Topper [Available starting September 3]"
+      "Chili-Cheese Fries [Available starting August 18]",
+      "Strawberry Soda [Available starting August 18]"
     ],
     "removed": []
   }
