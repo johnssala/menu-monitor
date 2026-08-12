@@ -1,241 +1,46 @@
 [
   {
-    "id": "dl-harbour-galley",
-    "name": "Harbour Galley",
+    "id": "dl-tianas-palace",
+    "name": "Tiana's Palace",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/harbour-galley/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/tianas-palace/menus/lunch-and-dinner/",
     "added": [
-      "Whipped Cream Cheese Dip [Available starting August 18]",
-      "Haunted Mansion Hatbox Ghost Bucket [Available starting August 13]",
-      "Tim Burton's The Nightmare Before Christmas Mayor Sipper [Available starting August 18]",
-      "Tim Burton's The Nightmare Before Christmas Jack Skellington Gravestone Bucket [Available starting August 18]",
-      "Magic Key Ursula Straw Clip [Available starting August 18]",
-      "Pain and Panic Straw Clip [Available starting August 18]",
-      "Winnie the Pooh Hunny Bee Sipper [Available starting August 18]",
-      "Vampire Mickey Mouse Bucket [Available starting August 18]",
-      "Halloween Travel Tumbler 2026 [Available starting August 18]",
-      "Brown Butter Maple Cold Brew [Available starting August 18]"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dl-hungry-bear-barbecue-jamboree",
-    "name": "Hungry Bear Barbecue Jamboree",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/hungry-bear-barbecue/menus/lunch-and-dinner/",
-    "added": [
-      "Halloween Travel Tumbler 2026 [Available starting August 18]",
-      "Haunted Mansion Hatbox Ghost Bucket [Available starting August 13]",
-      "Magic Key Ursula Straw Clip [Available starting August 18]",
-      "Tim Burton's The Nightmare Before Christmas Jack Skellington Gravestone Bucket [Available starting August 18]",
-      "Winnie the Pooh Hunny Bee Sipper [Available starting August 18]",
-      "Tim Burton's The Nightmare Before Christmas Mayor Sipper [Available starting August 18]",
-      "Grizzly Pumpkin Cold Brew Latte [Available starting August 18]"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dl-jolly-holiday-bakery-cafe-breakfast",
-    "name": "Jolly Holiday Bakery Cafe (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/breakfast/",
-    "added": [
-      "Oogie Boogie Moon Glow Cube [Available starting August 18]",
-      "Halloween Travel Tumbler 2026 [Available starting August 18]",
-      "Winnie the Pooh Hunny Bee Sipper [Available starting August 18]",
-      "Pumpkin Muffin [Available starting August 18]",
-      "Halloween Matterhorn Macaroon [Available starting August 18]",
-      "Caramel Apple Cheesecake [Available starting August 18]",
-      "Mickey Mummy Macaron [Available starting August 18]",
-      "Mickey Pumpkin Cupcake [Available starting August 18]",
-      "Brownie Pie [Available starting August 18]",
-      "Maple-Bacon Cinnamon Roll [Available starting August 18]",
-      "Raspberry-Rose Macaron [Available starting August 18]",
-      "Pumpkin Cold Brew [Available starting August 18]"
+      "Brown Butter Cold Foam [Available starting August 18]"
     ],
     "removed": [
-      "— Celebration Matterhorn Macaroon",
-      "— Strawberry Shortcake Macaron",
-      "— Raspberry Rose Mickey Macaron"
+      "— Sweet Heat Beignet Chicken Sandwich"
     ]
   },
   {
-    "id": "dl-jolly-holiday-bakery-cafe-lunch-and-dinner",
-    "name": "Jolly Holiday Bakery Cafe (Lunch & Dinner)",
+    "id": "dl-tiki-juice-bar",
+    "name": "Tiki Juice Bar",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/tiki-juice-bar/menus/snack/",
     "added": [
-      "Oogie Boogie Moon Glow Cube [Available starting August 18]",
-      "Halloween Travel Tumbler 2026 [Available starting August 18]",
-      "Winnie the Pooh Hunny Bee Sipper [Available starting August 18]",
-      "Pumpkin Muffin [Available starting August 18]",
-      "Halloween Matterhorn Macaroon [Available starting August 18]",
-      "Caramel Apple Cheesecake [Available starting August 18]",
-      "Mickey Mummy Macaron [Available starting August 18]",
-      "Mickey Pumpkin Cupcake [Available starting August 18]",
-      "Brownie Pie [Available starting August 18]",
-      "Maple-Bacon Cinnamon Roll [Available starting August 18]",
-      "Raspberry-Rose Macaron [Available starting August 18]",
-      "Pumpkin Cold Brew [Available starting August 18]"
-    ],
-    "removed": [
-      "— Celebration Matterhorn Macaroon",
-      "— Strawberry Shortcake Macaron",
-      "— Raspberry Rose Mickey Macaron"
-    ]
-  },
-  {
-    "id": "dl-market-house-breakfast",
-    "name": "Market House - Starbucks (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/breakfast/",
-    "added": [
-      "Blended Mango Dragonfruit Lemonade Energy Refresher - Grande",
-      "— Dragon Drink® Refresher - Grande"
+      "DOLE Whip® Cone [Available starting August 18]"
     ],
     "removed": []
   },
   {
-    "id": "dl-market-house-lunch-and-dinner",
-    "name": "Market House - Starbucks (Lunch & Dinner)",
+    "id": "dl-troubadour-tavern",
+    "name": "Troubadour Tavern",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/lunch-and-dinner/",
-    "added": [
-      "Blended Mango Dragonfruit Lemonade Energy Refresher - Grande",
-      "— Dragon Drink® Refresher - Grande"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dl-mint-julep-bar",
-    "name": "Mint Julep Bar",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/mint-julep-bar/menus/snack/",
-    "added": [
-      "Frightfully Festive Cocoa Dip [Available starting August 18]",
-      "Oogie Boogie Moon Glow Cube [Available starting August 18]",
-      "Halloween Travel Tumbler 2026 [Available starting August 18]"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dl-red-rose-taverne-breakfast",
-    "name": "Red Rose Taverne (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/breakfast/",
-    "added": [
-      "Enchanted Pumpkin Stuff [Available starting August 18]",
-      "Halloween Travel Tumbler 2026 [Available starting August 18]",
-      "Winnie the Pooh Hunny Bee Sipper [Available starting August 18]",
-      "French Toast Cold Brew [Available starting August 18]"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dl-red-rose-taverne-lunch-and-dinner",
-    "name": "Red Rose Taverne (Lunch & Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/lunch-and-dinner/",
-    "added": [
-      "Enchanted Pumpkin Stuff [Available starting August 18]",
-      "Halloween Travel Tumbler 2026 [Available starting August 18]",
-      "Winnie the Pooh Hunny Bee Sipper [Available starting August 18]",
-      "French Toast Cold Brew [Available starting August 18]"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dl-refreshment-corner",
-    "name": "Refreshment Corner",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/refreshment-corner/menus/lunch-and-dinner/",
-    "added": [
-      "Vampire Mickey Mouse Bucket [Available starting August 18]",
-      "Winnie the Pooh Hunny Bee Sipper [Available starting August 18]",
-      "Halloween Travel Tumbler 2026 [Available starting August 18]",
-      "Oogie Boogie Moon Glow Cube [Available starting August 18]",
-      "Birria Potato [Available starting August 18]"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dl-river-belle-terrace-lunch",
-    "name": "River Belle Terrace (Lunch)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/lunch/",
-    "added": [
-      "— Creamy Dill, Pickel & Onion Dip",
-      "— Fried Cheese Curds & Peppers",
-      "— House-Made Cornbread",
-      "— Pot Roast",
-      "— Wedge Salad",
-      "— Seasonal Vegetables with Chickpea Spread",
-      "— Créme Brûlée",
-      "— Peach Tea Cocktail",
-      "— VMC Paloma"
-    ],
-    "removed": [
-      "Farmhouse Salad with Almond - Pistachio Dressing",
-      "— Chicken Pot Pie Soup",
-      "— Pork Chop",
-      "— Blackened Fish",
-      "— Chocolate Brownie",
-      "— Key Lime Tart",
-      "— Cutwater Mai Tai"
-    ]
-  },
-  {
-    "id": "dl-river-belle-terrace-dinner",
-    "name": "River Belle Terrace (Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/dinner/",
-    "added": [
-      "— Creamy Dill, Pickel & Onion Dip",
-      "— Fried Cheese Curds & Peppers",
-      "— House-Made Cornbread",
-      "— Pot Roast",
-      "— Wedge Salad",
-      "— Seasonal Vegetables with Chickpea Spread",
-      "— Créme Brûlée",
-      "— Peach Tea Cocktail",
-      "— VMC Paloma"
-    ],
-    "removed": [
-      "Farmhouse Salad with Almond - Pistachio Dressing",
-      "— Chicken Pot Pie Soup",
-      "— Pork Chop",
-      "— Blackened Fish",
-      "— Chocolate Brownie",
-      "— Key Lime Tart",
-      "— Cutwater Mai Tai"
-    ]
-  },
-  {
-    "id": "dl-royal-street-veranda",
-    "name": "Royal Street Veranda",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/royal-street-veranda/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/troubadour-tavern/menus/",
     "added": [
       "Halloween Travel Tumbler 2026 [Available starting August 18]",
       "Magic Key Ursula Straw Clip [Available starting August 18]",
-      "Pain and Panic Straw Clip [Available starting August 18]"
+      "Pain and Panic Straw Clip [Available starting August 18]",
+      "Winnie the Pooh Hunny Bee Sipper [Available starting August 18]"
     ],
     "removed": []
   },
   {
-    "id": "dl-stage-door-cafe",
-    "name": "Stage Door Cafe",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/stage-door-cafe/menus/lunch-and-dinner/",
+    "id": "epcot-connections-eatery",
+    "name": "Connections Eatery",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/connections-eatery/menus/",
     "added": [
-      "Oogie Boogie Moon Glow Cube [Available starting August 18]",
-      "Tim Burton's The Nightmare Before Christmas Mayor Sipper",
-      "Tim Burton's The Nightmare Before Christmas Jack Skellington Gravestone Bucket [Available starting August 18]",
-      "Magic Key Ursula Straw Clip [Available starting August 18]",
-      "Halloween Travel Tumbler 2026 [Available starting August 18]",
-      "Pain and Panic Straw Clip [Available starting August 18]",
-      "Chili-Cheese Fries [Available starting August 18]",
-      "Strawberry Soda [Available starting August 18]"
+      "— Winnie the Pooh Hunny Bee Sipper"
     ],
     "removed": []
   }
