@@ -1,47 +1,16 @@
 [
   {
-    "id": "dl-tianas-palace",
-    "name": "Tiana's Palace",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/tianas-palace/menus/lunch-and-dinner/",
+    "id": "epcot-katsura-grill",
+    "name": "Katsura Grill",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/katsura-grill/menus/lunch-and-dinner/",
     "added": [
-      "Brown Butter Cold Foam [Available starting August 18]"
+      "— Curry Udon",
+      "— Japanese Mineral Water",
+      "— Smartwater"
     ],
     "removed": [
-      "— Sweet Heat Beignet Chicken Sandwich"
+      "— DASANI® Bottled Water"
     ]
-  },
-  {
-    "id": "dl-tiki-juice-bar",
-    "name": "Tiki Juice Bar",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/tiki-juice-bar/menus/snack/",
-    "added": [
-      "DOLE Whip® Cone [Available starting August 18]"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dl-troubadour-tavern",
-    "name": "Troubadour Tavern",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/troubadour-tavern/menus/",
-    "added": [
-      "Halloween Travel Tumbler 2026 [Available starting August 18]",
-      "Magic Key Ursula Straw Clip [Available starting August 18]",
-      "Pain and Panic Straw Clip [Available starting August 18]",
-      "Winnie the Pooh Hunny Bee Sipper [Available starting August 18]"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-connections-eatery",
-    "name": "Connections Eatery",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/connections-eatery/menus/",
-    "added": [
-      "— Winnie the Pooh Hunny Bee Sipper"
-    ],
-    "removed": []
   }
 ]
