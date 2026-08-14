@@ -1,16 +1,22 @@
 [
   {
-    "id": "epcot-katsura-grill",
-    "name": "Katsura Grill",
+    "id": "epcot-space-220-restaurant-lunch",
+    "name": "Space 220 Restaurant (Lunch)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/katsura-grill/menus/lunch-and-dinner/",
-    "added": [
-      "— Curry Udon",
-      "— Japanese Mineral Water",
-      "— Smartwater"
-    ],
+    "url": "https://disneyworld.disney.go.com/dining/epcot/space-220/menus/lunch/",
+    "added": [],
     "removed": [
-      "— DASANI® Bottled Water"
+      "— The Milky Meltaway"
+    ]
+  },
+  {
+    "id": "epcot-space-220-restaurant-dinner",
+    "name": "Space 220 Restaurant (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/space-220/menus/dinner/",
+    "added": [],
+    "removed": [
+      "— The Milky Meltaway"
     ]
   }
 ]
