@@ -1,22 +1,48 @@
 [
   {
-    "id": "epcot-space-220-restaurant-lunch",
-    "name": "Space 220 Restaurant (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/space-220/menus/lunch/",
+    "id": "eu-the-oak-and-star-tavern",
+    "name": "The Oak & Star Tavern",
+    "park": "Epic Universe",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-oak-and-star-tavern/menu.html",
     "added": [],
     "removed": [
-      "— The Milky Meltaway"
+      "Side Chorizo",
+      "— Side Chorizo",
+      "Special Holiday Coca-Cola Freestyle® Offer",
+      "Buy 2, Get 1 Free Coca-Cola Freestyle® Souvenir",
+      "Holiday Coca-Cola Freestyle® Souvenir Cups"
     ]
   },
   {
-    "id": "epcot-space-220-restaurant-dinner",
-    "name": "Space 220 Restaurant (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/space-220/menus/dinner/",
+    "id": "hs-abc-commissary",
+    "name": "ABC Commissary",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/abc-commissary/menus/lunch-and-dinner/",
+    "added": [
+      "— Bubbles of the Sea"
+    ],
+    "removed": [
+      "— Sheriff Jessie Punch"
+    ]
+  },
+  {
+    "id": "hs-backlot-express",
+    "name": "Backlot Express",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/backlot-express/menus/lunch-and-dinner/",
     "added": [],
     "removed": [
-      "— The Milky Meltaway"
+      "— Sheriff Jessie Punch"
     ]
+  },
+  {
+    "id": "hs-dockside-diner",
+    "name": "Dockside Diner",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/dockside-diner/menus/lunch-and-dinner/",
+    "added": [
+      "— Key Lime Kermit Milk Shake"
+    ],
+    "removed": []
   }
 ]
