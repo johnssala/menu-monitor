@@ -1,48 +1,70 @@
 [
   {
-    "id": "eu-the-oak-and-star-tavern",
-    "name": "The Oak & Star Tavern",
-    "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-oak-and-star-tavern/menu.html",
+    "id": "hs-fairfax-fare-breakfast",
+    "name": "Fairfax Fare (Breakfast)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/breakfast/",
     "added": [],
-    "removed": [
-      "Side Chorizo",
-      "— Side Chorizo",
-      "Special Holiday Coca-Cola Freestyle® Offer",
-      "Buy 2, Get 1 Free Coca-Cola Freestyle® Souvenir",
-      "Holiday Coca-Cola Freestyle® Souvenir Cups"
-    ]
-  },
-  {
-    "id": "hs-abc-commissary",
-    "name": "ABC Commissary",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/abc-commissary/menus/lunch-and-dinner/",
-    "added": [
-      "— Bubbles of the Sea"
-    ],
-    "removed": [
-      "— Sheriff Jessie Punch"
-    ]
-  },
-  {
-    "id": "hs-backlot-express",
-    "name": "Backlot Express",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/backlot-express/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "— Sheriff Jessie Punch"
-    ]
-  },
-  {
-    "id": "hs-dockside-diner",
-    "name": "Dockside Diner",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/dockside-diner/menus/lunch-and-dinner/",
-    "added": [
-      "— Key Lime Kermit Milk Shake"
-    ],
     "removed": []
+  },
+  {
+    "id": "hs-fairfax-fare-lunch-and-dinner",
+    "name": "Fairfax Fare (Lunch & Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": []
+  },
+  {
+    "id": "hs-rosies-all-american-cafe",
+    "name": "Rosie's All-American Café",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/rosies-all-american-cafe/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "— Sheriff Jessie Punch"
+    ]
+  },
+  {
+    "id": "hs-the-hollywood-brown-derby-lunch",
+    "name": "The Hollywood Brown Derby (Lunch)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/lunch/",
+    "added": [
+      "— Roasted Butternut Squash Soup",
+      "— Braised Duck Pappardelle Pasta",
+      "— Pumpkin Cheesecake"
+    ],
+    "removed": [
+      "— Cream of Chicken and Asparagus Soup"
+    ]
+  },
+  {
+    "id": "hs-the-hollywood-brown-derby-dinner",
+    "name": "The Hollywood Brown Derby (Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/dinner/",
+    "added": [
+      "— Roasted Butternut Squash Soup",
+      "— Braised Duck Pappardelle Pasta",
+      "— Pumpkin Cheesecake"
+    ],
+    "removed": [
+      "— Cream of Chicken and Asparagus Soup"
+    ]
+  },
+  {
+    "id": "hs-the-hollywood-brown-derby-lounge",
+    "name": "The Hollywood Brown Derby Lounge",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby-lounge/menus/bar-%E2%80%93-lounge/",
+    "added": [
+      "— Roasted Butternut Squash Soup",
+      "— Braised Duck Pappardelle Pasta",
+      "— Pumpkin Cheesecake"
+    ],
+    "removed": [
+      "— Cream of Chicken and Asparagus Soup"
+    ]
   }
 ]
