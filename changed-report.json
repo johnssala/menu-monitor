@@ -1,70 +1,28 @@
 [
   {
-    "id": "hs-fairfax-fare-breakfast",
-    "name": "Fairfax Fare (Breakfast)",
+    "id": "hs-woodys-lunch-box-breakfast",
+    "name": "Woody's Lunch Box (Breakfast)",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/breakfast/",
-    "added": [],
-    "removed": []
-  },
-  {
-    "id": "hs-fairfax-fare-lunch-and-dinner",
-    "name": "Fairfax Fare (Lunch & Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": []
-  },
-  {
-    "id": "hs-rosies-all-american-cafe",
-    "name": "Rosie's All-American Café",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/rosies-all-american-cafe/menus/lunch-and-dinner/",
-    "added": [],
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/breakfast/",
+    "added": [
+      "— Pumpkin Lunch Box Tart"
+    ],
     "removed": [
-      "— Sheriff Jessie Punch"
+      "— Screen Time Swirl Float",
+      "— Lilypad Lunch Box Tart"
     ]
   },
   {
-    "id": "hs-the-hollywood-brown-derby-lunch",
-    "name": "The Hollywood Brown Derby (Lunch)",
+    "id": "hs-woodys-lunch-box-lunch-and-dinner",
+    "name": "Woody's Lunch Box (Lunch & Dinner)",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/lunch/",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/lunch-and-dinner/",
     "added": [
-      "— Roasted Butternut Squash Soup",
-      "— Braised Duck Pappardelle Pasta",
-      "— Pumpkin Cheesecake"
+      "— Pumpkin Lunch Box Tart"
     ],
     "removed": [
-      "— Cream of Chicken and Asparagus Soup"
-    ]
-  },
-  {
-    "id": "hs-the-hollywood-brown-derby-dinner",
-    "name": "The Hollywood Brown Derby (Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/dinner/",
-    "added": [
-      "— Roasted Butternut Squash Soup",
-      "— Braised Duck Pappardelle Pasta",
-      "— Pumpkin Cheesecake"
-    ],
-    "removed": [
-      "— Cream of Chicken and Asparagus Soup"
-    ]
-  },
-  {
-    "id": "hs-the-hollywood-brown-derby-lounge",
-    "name": "The Hollywood Brown Derby Lounge",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby-lounge/menus/bar-%E2%80%93-lounge/",
-    "added": [
-      "— Roasted Butternut Squash Soup",
-      "— Braised Duck Pappardelle Pasta",
-      "— Pumpkin Cheesecake"
-    ],
-    "removed": [
-      "— Cream of Chicken and Asparagus Soup"
+      "— Screen Time Swirl Float",
+      "— Lilypad Lunch Box Tart"
     ]
   }
 ]
