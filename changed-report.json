@@ -1,28 +1,157 @@
 [
   {
-    "id": "hs-woodys-lunch-box-breakfast",
-    "name": "Woody's Lunch Box (Breakfast)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/breakfast/",
+    "id": "mk-aloha-isle",
+    "name": "Aloha Isle",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/aloha-isle/menus/snack/",
     "added": [
-      "— Pumpkin Lunch Box Tart"
+      "— DOLE Whip® Mango and Chamoy Float"
+    ],
+    "removed": []
+  },
+  {
+    "id": "mk-auntie-gravitys-galactic-goodies",
+    "name": "Auntie Gravity's Galactic Goodies",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/auntie-gravitys-galactic-goodies/menus/",
+    "added": [
+      "— Cauldron Cold Brew"
+    ],
+    "removed": []
+  },
+  {
+    "id": "mk-be-our-guest-restaurant-special",
+    "name": "Be Our Guest Restaurant (Special)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/special/",
+    "added": [
+      "— Beef Short Rib (Party Exclusive)",
+      "— The Forbidden Rose (Party Exclusive)",
+      "— Apple Cider Margarita (Party Exclusive)",
+      "— Castle Fog (Party Exclusive)"
     ],
     "removed": [
-      "— Screen Time Swirl Float",
-      "— Lilypad Lunch Box Tart"
+      "— Short Rib Beef Bourguignon",
+      "— Blooming Rose",
+      "— Iceberg Salad",
+      "— Fruit and Cheese Plate",
+      "— Fresh Fruit Bowl",
+      "— Pan-seared Chicken Breast",
+      "— Pan-seared Shrimp",
+      "— Chicken Strips",
+      "— House-made Macaroni & Cheese",
+      "— Braised Beef Short Rib",
+      "— Steamed Fresh Green Beans",
+      "— Brown Rice",
+      "— Sautéed Squash",
+      "— Sweet Potatoes",
+      "— French Fries",
+      "— Fresh Fruit",
+      "— Dessert Duo",
+      "— Minute Maid® Premium Lemonade",
+      "— French 75",
+      "— Roses & Rhubarb",
+      "— Tapioca Dinner Rolls with Buttery Spread",
+      "— Iceberg Wedge Salad",
+      "— Braised Beef Short Rib with Gravy",
+      "— Seasonal Fruit Bowl"
     ]
   },
   {
-    "id": "hs-woodys-lunch-box-lunch-and-dinner",
-    "name": "Woody's Lunch Box (Lunch & Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/lunch-and-dinner/",
+    "id": "mk-be-our-guest-restaurant-lunch",
+    "name": "Be Our Guest Restaurant (Lunch)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/lunch/",
+    "added": [],
+    "removed": [
+      "— Minute Maid® Premium Lemonade"
+    ]
+  },
+  {
+    "id": "mk-be-our-guest-restaurant-dinner",
+    "name": "Be Our Guest Restaurant (Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/dinner/",
+    "added": [],
+    "removed": [
+      "— Minute Maid® Premium Lemonade"
+    ]
+  },
+  {
+    "id": "mk-chesire-cafe",
+    "name": "Cheshire Café",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cheshire-cafe/menus/",
     "added": [
-      "— Pumpkin Lunch Box Tart"
+      "— Queen of Hearts Tart"
+    ],
+    "removed": []
+  },
+  {
+    "id": "mk-cinderellas-royal-table-lunch",
+    "name": "Cinderella's Royal Table (Lunch)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cinderella-royal-table/menus/lunch/",
+    "added": [
+      "— Buttered Corn",
+      "— Sunset Margarita",
+      "— Blackberry-Orange Spritz",
+      "— Roses & Rhubarb"
     ],
     "removed": [
-      "— Screen Time Swirl Float",
-      "— Lilypad Lunch Box Tart"
+      "— Rice Pilaf",
+      "— Buttered Corn-on-the-Cob"
     ]
+  },
+  {
+    "id": "mk-cinderellas-royal-table-dinner",
+    "name": "Cinderella's Royal Table (Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cinderella-royal-table/menus/dinner/",
+    "added": [
+      "— Buttered Corn"
+    ],
+    "removed": [
+      "— Rice Pilaf",
+      "— Buttered Corn-on-the-Cob"
+    ]
+  },
+  {
+    "id": "mk-columbia-harbour-house",
+    "name": "Columbia Harbour House",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/columbia-harbour-house/menus/",
+    "added": [
+      "— S'mores Cup"
+    ],
+    "removed": []
+  },
+  {
+    "id": "mk-cosmic-rays-starlight-cafe",
+    "name": "Cosmic Ray's Starlight Café",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cosmic-ray-starlight-cafe/menus/",
+    "added": [
+      "— Kids' Grilled Chicken Sandwich"
+    ],
+    "removed": []
+  },
+  {
+    "id": "mk-liberty-square-market",
+    "name": "Liberty Square Market",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/liberty-square-market/menus/",
+    "added": [
+      "— Magic Potion Slushy"
+    ],
+    "removed": []
+  },
+  {
+    "id": "mk-pecos-bill-tall-tale-inn-and-cafe",
+    "name": "Pecos Bill Tall Tale Inn and Cafe",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/pecos-bill-tall-tale-inn-and-cafe/menus/",
+    "added": [],
+    "removed": []
   }
 ]
