@@ -1,157 +1,118 @@
 [
   {
-    "id": "mk-aloha-isle",
-    "name": "Aloha Isle",
+    "id": "mk-pinocchio-village-haus",
+    "name": "Pinocchio Village Haus",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/aloha-isle/menus/snack/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/pinocchio-village-haus/menus/lunch-and-dinner/",
     "added": [
-      "— DOLE Whip® Mango and Chamoy Float"
+      "— Pluto Skeleton Sipper"
     ],
     "removed": []
   },
   {
-    "id": "mk-auntie-gravitys-galactic-goodies",
-    "name": "Auntie Gravity's Galactic Goodies",
+    "id": "mk-plaza-ice-cream-parlor",
+    "name": "Plaza Ice Cream Parlor",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/auntie-gravitys-galactic-goodies/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-ice-cream-parlor/menus/snack/",
     "added": [
-      "— Cauldron Cold Brew"
+      "— Pumpkin Sundae"
     ],
     "removed": []
   },
   {
-    "id": "mk-be-our-guest-restaurant-special",
-    "name": "Be Our Guest Restaurant (Special)",
+    "id": "mk-sleepy-hollow",
+    "name": "Sleepy Hollow",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/special/",
-    "added": [
-      "— Beef Short Rib (Party Exclusive)",
-      "— The Forbidden Rose (Party Exclusive)",
-      "— Apple Cider Margarita (Party Exclusive)",
-      "— Castle Fog (Party Exclusive)"
-    ],
-    "removed": [
-      "— Short Rib Beef Bourguignon",
-      "— Blooming Rose",
-      "— Iceberg Salad",
-      "— Fruit and Cheese Plate",
-      "— Fresh Fruit Bowl",
-      "— Pan-seared Chicken Breast",
-      "— Pan-seared Shrimp",
-      "— Chicken Strips",
-      "— House-made Macaroni & Cheese",
-      "— Braised Beef Short Rib",
-      "— Steamed Fresh Green Beans",
-      "— Brown Rice",
-      "— Sautéed Squash",
-      "— Sweet Potatoes",
-      "— French Fries",
-      "— Fresh Fruit",
-      "— Dessert Duo",
-      "— Minute Maid® Premium Lemonade",
-      "— French 75",
-      "— Roses & Rhubarb",
-      "— Tapioca Dinner Rolls with Buttery Spread",
-      "— Iceberg Wedge Salad",
-      "— Braised Beef Short Rib with Gravy",
-      "— Seasonal Fruit Bowl"
-    ]
-  },
-  {
-    "id": "mk-be-our-guest-restaurant-lunch",
-    "name": "Be Our Guest Restaurant (Lunch)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/lunch/",
-    "added": [],
-    "removed": [
-      "— Minute Maid® Premium Lemonade"
-    ]
-  },
-  {
-    "id": "mk-be-our-guest-restaurant-dinner",
-    "name": "Be Our Guest Restaurant (Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/dinner/",
-    "added": [],
-    "removed": [
-      "— Minute Maid® Premium Lemonade"
-    ]
-  },
-  {
-    "id": "mk-chesire-cafe",
-    "name": "Cheshire Café",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cheshire-cafe/menus/",
-    "added": [
-      "— Queen of Hearts Tart"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-cinderellas-royal-table-lunch",
-    "name": "Cinderella's Royal Table (Lunch)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cinderella-royal-table/menus/lunch/",
-    "added": [
-      "— Buttered Corn",
-      "— Sunset Margarita",
-      "— Blackberry-Orange Spritz",
-      "— Roses & Rhubarb"
-    ],
-    "removed": [
-      "— Rice Pilaf",
-      "— Buttered Corn-on-the-Cob"
-    ]
-  },
-  {
-    "id": "mk-cinderellas-royal-table-dinner",
-    "name": "Cinderella's Royal Table (Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cinderella-royal-table/menus/dinner/",
-    "added": [
-      "— Buttered Corn"
-    ],
-    "removed": [
-      "— Rice Pilaf",
-      "— Buttered Corn-on-the-Cob"
-    ]
-  },
-  {
-    "id": "mk-columbia-harbour-house",
-    "name": "Columbia Harbour House",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/columbia-harbour-house/menus/",
-    "added": [
-      "— S'mores Cup"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-cosmic-rays-starlight-cafe",
-    "name": "Cosmic Ray's Starlight Café",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cosmic-ray-starlight-cafe/menus/",
-    "added": [
-      "— Kids' Grilled Chicken Sandwich"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-liberty-square-market",
-    "name": "Liberty Square Market",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/liberty-square-market/menus/",
-    "added": [
-      "— Magic Potion Slushy"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-pecos-bill-tall-tale-inn-and-cafe",
-    "name": "Pecos Bill Tall Tale Inn and Cafe",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/pecos-bill-tall-tale-inn-and-cafe/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/sleepy-hollow/menus/all-day/",
     "added": [],
     "removed": []
+  },
+  {
+    "id": "mk-the-friars-nook-breakfast",
+    "name": "The Friar's Nook (Breakfast)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/breakfast/",
+    "added": [],
+    "removed": [
+      "— Cheddar, Bacon, and Ranch Tots",
+      "— All-Beef Hot Dog"
+    ]
+  },
+  {
+    "id": "mk-the-friars-nook-lunch-and-dinner",
+    "name": "The Friar's Nook (Lunch & Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "— Cheddar, Bacon, and Ranch Tots",
+      "— All-Beef Hot Dog"
+    ]
+  },
+  {
+    "id": "mk-the-lunching-pad-breakfast",
+    "name": "The Lunching Pad (Breakfast)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/lunching-pad/menus/breakfast/",
+    "added": [
+      "— Ghoulish Blue Raspberry Slushy"
+    ],
+    "removed": []
+  },
+  {
+    "id": "mk-the-lunching-pad-lunch-and-dinner",
+    "name": "The Lunching Pad (Lunch & Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/lunching-pad/menus/lunch-and-dinner/",
+    "added": [
+      "— Ghoulish Blue Raspberry Slushy"
+    ],
+    "removed": []
+  },
+  {
+    "id": "mk-the-plaza-restaurant-lunch",
+    "name": "The Plaza Restaurant (Lunch)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-restaurant/menus/lunch/",
+    "added": [
+      "— Skull Meatloaf",
+      "— Devilish Crispy Chicken Sandwich",
+      "— Goblins and Ghoulies",
+      "— Phantom Pecan-Caramel Cheesecake"
+    ],
+    "removed": [
+      "— Crispy Chicken Sandwich",
+      "— Pot Roast Stack",
+      "— Chocolate-Hazelnut Milk Shake",
+      "— Strawberry Shortcake Milk Shake",
+      "— Berry Lemonade Pie",
+      "— Brownie Sundae",
+      "— Caramel-Banana Cream Tart",
+      "— S'mores Cake",
+      "The Plaza Restaurant Sundae"
+    ]
+  },
+  {
+    "id": "mk-the-plaza-restaurant-dinner",
+    "name": "The Plaza Restaurant (Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-restaurant/menus/dinner/",
+    "added": [
+      "— Skull Meatloaf",
+      "— Devilish Crispy Chicken Sandwich",
+      "— Goblins and Ghoulies",
+      "— Phantom Pecan-Caramel Cheesecake"
+    ],
+    "removed": [
+      "— Crispy Chicken Sandwich",
+      "— Pot Roast Stack",
+      "— Chocolate-Hazelnut Milk Shake",
+      "— Strawberry Shortcake Milk Shake",
+      "— Berry Lemonade Pie",
+      "— Brownie Sundae",
+      "— Caramel-Banana Cream Tart",
+      "— S'mores Cake",
+      "The Plaza Restaurant Sundae"
+    ]
   }
 ]
