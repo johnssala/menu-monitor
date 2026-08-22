@@ -1,273 +1,129 @@
 [
   {
-    "id": "ush-cletus-chicken-shack",
-    "name": "Cletus' Chicken Shack",
+    "id": "ush-three-broomsticks",
+    "name": "Three Broomsticks",
     "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/cletus-chicken-shack/menu.html",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/three-broomsticks/menu.html",
     "added": [
-      "Vanilla, Chocolate or Swirl. Contains: Milk",
-      "Blue Raspberry, Wild Cherry, or Watermelon Lemonade Contains: No Major Food Allergens*"
-    ],
-    "removed": [
-      "Vanilla, Chocolate or Swirl. Milk",
-      "Blue Raspberry, Wild Cherry, or Watermelon Lemonade Contains: No Allergens"
-    ]
-  },
-  {
-    "id": "ush-cocina-mexicana",
-    "name": "Cocina Mexicana",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/cocina-mexicana/menu.html",
-    "added": [
-      "Powerade",
-      "Mountain Blast or Fruit Punch",
-      "Pineapple spears drizzled with chamoy. Contains: No Major Food Allergens*"
-    ],
-    "removed": [
-      "Mountain Blast Powerade",
-      "Pineapple spears drizzled with chamoy. Contains: No Allergens"
-    ]
-  },
-  {
-    "id": "ush-despicable-delights",
-    "name": "Despicable Delights",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/despicable-delights/menu.html",
-    "added": [
-      "Nutella™ Banana Pudding",
-      "Banana pudding, vanilla wafer, Nutella™, cocoa butter Contains: Milk, Egg, Wheat, Soy, Tree Nuts (Hazelnuts)",
-      "Contains: No Major Food Allergens*"
-    ],
-    "removed": [
-      "Irene’s Orange Banana Float (Gluten Friendly)",
-      "Contains: No Allergens"
-    ]
-  },
-  {
-    "id": "ush-french-street-bistro",
-    "name": "French Street Bistro",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/french-street-bistro/menu.html",
-    "added": [
-      "Strawberry Nutella® or Chocolate Strawberry Banana or Banana Caramel"
-    ],
-    "removed": [
-      "Vegan Bánh Mì",
-      "Quiche",
-      "Lorraine Quiche",
-      "Mushroom Quiche",
-      "Charcuterie Box",
-      "Genoa salami, Muenster cheese, mixed nuts, dried apricot, grapes and assorted crackers",
-      "Protein Box",
-      "Mixed nuts, hummus, carrots, dried apricot and pretzel sticks",
-      "Strawberry & Chocolate or Banana & Nutella®"
-    ]
-  },
-  {
-    "id": "ush-hollywood-and-dine",
-    "name": "Hollywood & Dine",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/hollywood-dine/menu.html",
-    "added": [
-      "Roasted half chicken basted in BBQ sauce. Served with BBQ seasoned fries or fruit. Contains: No Major Food Allergens*",
-      "Fried corn ribs basted in BBQ sauce. Served with BBQ seasoned fries or fruit. Contains: No Major Food Allergens*",
+      "Mixed Fruit. Contains: No Major Food Allergens*",
+      "Served with corn on the cob and roasted potatoes. Contains: No Major Food Allergens*",
+      "Ice Cream",
+      "Butterbeer™, Vanilla, Chocolate (Vegetarian) Contains: Milk",
       "Contains: No Major Food Allergens*",
-      "Fresh pineapple spear and watermelon wedges with Tajín® and chamoy. Contains: No Major Food Allergens*"
+      "Apple or Pear (Non-Alcoholic) Contains: No Major Food Allergens*",
+      "Canned, Alcoholic Contains: No Major Food Allergens*"
     ],
     "removed": [
-      "Fried corn ribs basted in BBQ sauce. Served with BBQ seasoned fries or fruit. Contains: No Allergens",
+      "Mixed Fruit. Contains: No Allergens",
+      "Served with corn on the cob and roasted potatoes. Contains: No Allergens",
+      "Ice Cream: Butterbeer™, Vanilla, Chocolate (Vegetarian)",
       "Contains: No Allergens",
-      "Fresh pineapple spear and watermelon wedges with Tajín® and chamoy. Contains: No Allergens"
+      "Apple or Pear (Non-Alcoholic) Contains: No Allergens",
+      "Canned, Alcoholic Contains: No Allergens"
     ]
   },
   {
-    "id": "ush-jurassic-cafe",
-    "name": "Jurassic Cafe",
+    "id": "ush-toadstool-cafe",
+    "name": "Toadstool Cafe",
     "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/jurassic-cafe/menu.html",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/toadstool-cafe/menu.html",
     "added": [
-      "Raptor Leg (Gluten Friendly)",
-      "Contains: No Major Food Allergens*"
+      "Super Mushroom Soup (request no crackers):"
     ],
     "removed": [
-      "Apex Predator (Gluten Friendly)",
-      "Contains: No Allergens"
+      "Fire Flower Drink Bottle"
     ]
   },
   {
-    "id": "ush-krusty-burger",
-    "name": "Krusty Burger",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/krusty-burger/menu.html",
-    "added": [
-      "Milkshake “100% Mammal Milk!”: Vanilla, Chocolate or Swirl. Contains: Milk",
-      "Blue Raspberry, Wild Cherry, or Strawberry Lemonade Contains: No Major Food Allergens*"
-    ],
-    "removed": [
-      "Milkshake “100% Mammal Milk!”: Vanilla, Chocolate or Swirl. • Milk",
-      "Blue Raspberry, Wild Cherry, or Strawberry Lemonade Contains: No Allergens"
-    ]
-  },
-  {
-    "id": "ush-mels-diner",
-    "name": "Mel's Diner",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/mels-diner/menu.html",
-    "added": [
-      "Pastrami Burger",
-      "Fresh lobster salad on buttered roll with lettuce. Served with Fries.",
-      "American cheese, lettuce, tomato, pickles, and thousand island dressing on a toasted bun served with pub fries.",
-      "Beer battered cod and fried chicken tender served with pub fries and a side of tartar sauce",
-      "Served with fries."
-    ],
-    "removed": [
-      "Mega Movie Summer Exclusive Offering",
-      "Fresh lobster salad on buttered roll with lettuce. Served with coleslaw and tartar sauce",
-      "Beer battered cod and fried chicken tender served with seasoned pub fries and a side of tartar sauce",
-      "Amity Island Funnel Cake",
-      "Amity Island Open Water (Non-Alcoholic)",
-      "Sprite and blue curacao syrup with a shark lollipop",
-      "Shark Bite (Alcoholic)",
-      "Rum, sprite, coconut water, and coconut syrup with a grenadine and guava puree floater. Topped with a shark lollipop",
-      "Jaws Sipper",
-      "American cheese, lettuce, tomato, pickles, and thousand island dressing on a toasted bun served with pub fries",
-      "Crinkle Cut Fries",
-      "Chili Cheese Crinkle Fries",
-      "Served with fries and mini graham crackers"
-    ]
-  },
-  {
-    "id": "ush-minion-cafe",
-    "name": "Minion Cafe",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/minion-cafe/menu.html",
-    "added": [
-      "Half roasted chicken with a side of BBQ sauce and Minion tots. Contains: No Major Food Allergens*",
-      "Chicken tenders served with a side of BBQ sauce and Minion tots. Contains: Egg, Wheat"
-    ],
-    "removed": [
-      "Half roasted chicken with a side of BBQ sauce and Minion tots. Contains: No Allergens",
-      "Chicken tenders served with Minion tots, and BBQ sauce. Contains: Egg, Wheat",
-      "James’ Carbonara",
-      "Cavatappi pasta in a garlic cream sauce, topped with peas and pancetta. Contains: Milk, Wheat, Soy",
-      "Irene’s Orange Banana Float (Gluten Friendly)"
-    ]
-  },
-  {
-    "id": "ush-palace-deli-and-market",
-    "name": "Palace Deli & Market",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/palace-deli-market/menu.html",
+    "id": "vb-bambu",
+    "name": "Bambu",
+    "park": "Volcano Bay",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/bambu/menu.html",
     "added": [],
     "removed": [
-      "Featured Offerings",
-      "California Roll",
-      "California roll served with ginger and wasabi",
-      "Charcuterie Box",
-      "Genoa salami, Muenster cheese, mixed nuts, dried apricot, grapes and assorted crackers",
-      "Protein Box",
-      "Mixed nuts, hummus, carrots, dried apricot and pretzel sticks",
-      "Heineken"
+      "All combos are served with an Icee. Gluten-free buns are available upon request.",
+      "All combos are served with an Icee.",
+      "Bambu Burger Combo",
+      "Bacon Cheeseburger Combo",
+      "Spicy Chicken Sandwich Combo",
+      "all combos are served with an ICEE®",
+      "Chicken Teriyaki Rice Bowl Combo",
+      "Shrimp Rice Bowl Combo",
+      "Chick'n Katsu Bowl Combo",
+      "Chicken Tenders Combo"
     ]
   },
   {
-    "id": "ush-power-up-cafe",
-    "name": "Power Up Cafe",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/power-up-cafe/menu.html",
-    "added": [
-      "Power Fizz Drinks (Vegan/Vegetarian/Gluten Friendly)",
-      "Super Mushroom Fizz, 1-Up Mushroom Fizz, Fire Flower Fizz, Super Star Fizz. Contains: No Major Food Allergens*",
-      "Super Mushroom Fizz, 1-Up Mushroom Fizz, Fire Flower Fizz, Super Star Fizz.",
-      "Contains: No Major Food Allergens*",
-      "Super Star Popcorn Cup (Vegan/Vegetarian/Gluten Friendly)",
-      "Butter Popcorn Topped with Edible Glitter Contains: No Major Food Allergens*",
-      "Mushroom-shaped calzone filled with pepperoni, sausage, mozzarella cheese, and tomato sauce. Contains: Milk, Egg, Wheat",
-      "Mushroom-shaped calzone filled with pepperoni, sausage, mozzarella cheese, and tomato sauce.",
-      "Contains: Milk, Egg, Wheat",
-      "1-Up Mushroom Calzone (Vegetarian)",
-      "Mushroom-shaped calzone filled with spinach, green pepper, mushrooms, mozzarella cheese, basil pesto, and tomato sauce.",
-      "Fire Flower Pretzel (Vegetarian)",
-      "Fire Flower Pretzel with chipotle cheese, mustard, and white queso dipping sauces. Contains: Milk, Wheat",
-      "Fire Flower Pretzel with chipotle cheese, mustard, and white queso dipping sauces.",
-      "Contains: Milk, Wheat"
-    ],
+    "id": "vb-kohola-reef-restaurant-and-social-club",
+    "name": "Kohola Reef Restaurant & Social Club",
+    "park": "Volcano Bay",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/kohola-reef-restaurant-social/menu.html",
+    "added": [],
     "removed": [
-      "Super Star Popcorn",
-      "Drinks - Power Fizz Drinks",
-      "Lemon Lime Soda with Popping Pearls and Power Up"
+      "combos served with an ICEE®",
+      "Lava Chicken Sandwich Combo",
+      "Coconut Curry Chicken Combo",
+      "Coconut Curry Shrimp Combo",
+      "Ropa Vieja Combo",
+      "Huli Huli Chicken Sandwich Combo",
+      "Tuna Nachos Combo*",
+      "wonton chips topped with marinated tuna poke*, mango boba salsa, cucumber pico, shoyu aioli, scallions, sesame seeds",
+      "Island Bacon Cheeseburger Combo",
+      "Kohola Burger Combo",
+      "Hawaiian Ribs Combo",
+      "Mango BBQ Pulled Pork Sandwich Combo",
+      "Mauka Vegetable Burger Combo",
+      "combos served with an ICEE",
+      "Hawaiian and Spam® Combo",
+      "Pepperoni Pizza Combo",
+      "Cheese Pizza Combo",
+      "Vegan Pizza Combo"
     ]
   },
   {
-    "id": "ush-studio-cafe",
-    "name": "Studio Cafe",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/studio-cafe/menu.html",
+    "id": "vb-the-feasting-frog",
+    "name": "The Feasting Frog",
+    "park": "Volcano Bay",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-feasting-frog/menu.html",
     "added": [
-      "Caprese Sandwich",
-      "Roasted Eggplant Sandwich (V)",
-      "Mediterranean Chicken Wrap",
-      "Mediterranean Shrimp & Couscous Salad",
-      "Cheese Pizza",
-      "Pepperoni Pizza",
-      "Pickle",
-      "Dill or Sour",
-      "Neon Bundt Cake",
-      "Gidget Ice Cream Bar",
-      "Max Ice Cream Bar",
-      "Snowball Ice Cream Bar",
-      "Chocolate Chip or Peanut Butter",
-      "Mountain Blast or Fruit Punch",
-      "Topo Chico Sabores ™",
-      "Lime with Mint or Tropical Mango",
-      "Modelo Especial",
-      "Pacifico",
-      "Golden Road Mango Cart",
-      "Mai Tai or Margarita",
-      "White Claw Hard Seltzer",
-      "Black Cherry or Peach"
+      "Ropa Vieja Walking Taco",
+      "Ancho Pepper Chicken Taco",
+      "grilled ancho spiced chicken, pineapple cabbage slaw, queso fresco, with coconut mojo rice & black beans",
+      "Seared Shrimp Tacos",
+      "Chorizo Walking Taco",
+      "Chorizo Tacos"
     ],
     "removed": [
-      "California Club Wrap",
-      "Roasted turkey, ham, American cheese and mustard spread",
-      "Vegan Bánh Mì",
-      "California Cobb Salad",
-      "Personal Pizza",
-      "Cheese or Pepperoni",
-      "Charcuterie Box",
-      "Genoa salami, Muenster cheese, mixed nuts, dried apricot, grapes and assorted crackers",
-      "Protein Box",
-      "Mixed nuts, hummus, carrots, dried apricot and pretzel sticks",
-      "Cupcakes",
-      "Muffins",
-      "Minion Cotton Candy",
-      "Hazelnut Panna Cotta",
-      "Mountain Blast",
-      "Blue Moon",
-      "Bud Light",
-      "Heineken",
-      "Modelo",
-      "Truly Hard Seltzer",
-      "Strawberry Lemonade or Wild Berry",
-      "Twisted Tea",
-      "Mango Cart",
-      "Champagne",
-      "Wine",
-      "White Wine, Red Wine"
+      "Ropa Vieja Walking Taco Combo",
+      "Ancho Pepper Chicken Taco Combo",
+      "Seared Shrimp Tacos Combo",
+      "Chorizo Walking Taco Combo",
+      "Chorizo Tacos Combo",
+      "Modelo Especial Michelob Ultra",
+      "Michelob Ultra"
     ]
   },
   {
-    "id": "ush-studio-scoop",
-    "name": "Studio Scoop",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/studio-scoop/menu.html",
-    "added": [
-      "Popcorn (Vegan/Vegetarian/Gluten Friendly)",
-      "Contains: No Major Food Allergens*"
-    ],
+    "id": "vb-whakawaiwai-eats",
+    "name": "Whakawaiwai Eats",
+    "park": "Volcano Bay",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/whakawaiwai-eats/menu.html",
+    "added": [],
     "removed": [
-      "Popcorn (Vegetarian/Gluten Friendly)",
-      "Contains: No Allergens"
+      "combos are served with an ICEE®",
+      "Hawaiian Pizza Combo",
+      "caramelized pineapple, diced ham, pickled jalapeños",
+      "BBQ Smoked Pork Pizza Combo",
+      "Cheese Pizza Combo",
+      "Pepperoni Pizza Combo",
+      "Vegan Pizza Combo",
+      "combos with chips and an ICEE®",
+      "Big Kahuna Dog Combo",
+      "Footlong Dog Combo",
+      "Garlic Knot Pork Slider Combo",
+      "Hawaiian Smoked Pork Mac & Cheese Combo",
+      "Jerk Shrimp Mac & Cheese Combo",
+      "Mac & Cheese Combo"
     ]
   }
 ]
