@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "id": "dca-aunt-cass-cafe",
+    "name": "Aunt Cass Café",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/aunt-cass-cafe/menus/lunch-and-dinner/",
+    "added": [
+      "— Chocolate-Raspberry Cold Brew",
+      "— Chicken Pot Pie Soup",
+      "— Vampire Mickey-shaped Sourdough Bread",
+      "— Taro Bread Pudding"
+    ],
+    "removed": [
+      "— Chicken Tortilla Soup",
+      "— Cinnamon Apple Cold Brew"
+    ]
+  },
+  {
+    "id": "dca-award-wieners",
+    "name": "Award Wieners",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/award-wieners/menus/lunch-and-dinner/",
+    "added": [
+      "— Oktoberfest Dog",
+      "— Halloween Travel Tumbler 2026",
+      "— Seaborn Sangria",
+      "— Route 30 Brewing Co., Oktoberfest Lager"
+    ],
+    "removed": [
+      "— Gary De'Snake Sipper"
+    ]
+  },
+  {
+    "id": "dca-bayside-brews",
+    "name": "Bayside Brews",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/bayside-brews/menus/snack/",
+    "added": [
+      "— Santa Monica Brew Works Pickle Lager",
+      "Michelada with Santa Monica Brew Works Pickle Lager"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dca-boardwalk-pizza-and-pasta",
+    "name": "Boardwalk Pizza & Pasta",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/boardwalk-pizza-pasta/menus/lunch-and-dinner/",
+    "added": [
+      "— Halloween Travel Tumbler 2026",
+      "— Magic Key Ursula Straw Clip",
+      "— Anti Vampire Pizza - Slice",
+      "— Anti Vampire Pizza - Whole",
+      "— Caramel Apple Cheesecake"
+    ],
+    "removed": [
+      "— Jiminy Cricket Sipper",
+      "Disneyland 70th Celebration Sipper",
+      "Disneyland 70th Celebration Travel Tumbler",
+      "— BBQ Chicken Pizza - Slice",
+      "— BBQ Chicken Pizza - Whole",
+      "— Brewery X, Huckleberry Seltzer"
+    ]
+  }
+]
