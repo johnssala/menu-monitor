@@ -1,65 +1,246 @@
 [
   {
-    "id": "dca-aunt-cass-cafe",
-    "name": "Aunt Cass Café",
+    "id": "dca-clarabelles-hand-scooped-ice-cream-breakfast",
+    "name": "Clarabelle's Hand-Scooped Ice Cream (Breakfast)",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/aunt-cass-cafe/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/clarabelles-hand-scooped-ice-cream/menus/breakfast/",
     "added": [
-      "— Chocolate-Raspberry Cold Brew",
-      "— Chicken Pot Pie Soup",
-      "— Vampire Mickey-shaped Sourdough Bread",
-      "— Taro Bread Pudding"
+      "— Halloween Mickey Ice Cream Bar",
+      "— Pain and Panic Straw Clip"
     ],
     "removed": [
-      "— Chicken Tortilla Soup",
-      "— Cinnamon Apple Cold Brew"
+      "— 250th Celebration Dipped Mickey Bar"
     ]
   },
   {
-    "id": "dca-award-wieners",
-    "name": "Award Wieners",
+    "id": "dca-clarabelles-hand-scooped-ice-cream-snack",
+    "name": "Clarabelle's Hand-Scooped Ice Cream (Snack)",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/award-wieners/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/clarabelles-hand-scooped-ice-cream/menus/snack/",
     "added": [
-      "— Oktoberfest Dog",
+      "— Halloween Mickey Ice Cream Bar",
+      "— Pain and Panic Straw Clip"
+    ],
+    "removed": [
+      "— 250th Celebration Dipped Mickey Bar"
+    ]
+  },
+  {
+    "id": "dca-cocina-cucamonga-mexican-grill",
+    "name": "Cocina Cucamonga Mexican Grill",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/cocina-cucamonga-mexican-grill/menus/lunch-and-dinner/",
+    "added": [
+      "— Ube Flan Cake",
+      "— Mango Agua Fresca",
+      "Bottle Logic Brewing, Blood Orange Paloma Hard Seltzer",
+      "— Mango Tequila Cocktail"
+    ],
+    "removed": [
+      "— Cool as a Cucumber Cocktail"
+    ]
+  },
+  {
+    "id": "dca-corn-dog-castle",
+    "name": "Corn Dog Castle",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/corn-dog-castle/menus/snack/",
+    "added": [
       "— Halloween Travel Tumbler 2026",
-      "— Seaborn Sangria",
-      "— Route 30 Brewing Co., Oktoberfest Lager"
+      "— Magic Key Ursula Straw Clip"
     ],
     "removed": [
-      "— Gary De'Snake Sipper"
+      "Disneyland 70th Celebration Sipper",
+      "Disneyland 70th Celebration Travel Tumbler"
     ]
   },
   {
-    "id": "dca-bayside-brews",
-    "name": "Bayside Brews",
+    "id": "dca-cozy-cone-motel",
+    "name": "Cozy Cone Motel",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/bayside-brews/menus/snack/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/cozy-cone-motel/menus/snack/",
     "added": [
-      "— Santa Monica Brew Works Pickle Lager",
-      "Michelada with Santa Monica Brew Works Pickle Lager"
+      "Vietnamese Coffee with Ube Sweet Cream Foam",
+      "— Cursed Ube Foam Iced Coffee",
+      "— Ube Soft Serve",
+      "— Ube-Vanilla Twist Soft Serve",
+      "— Slow Burnin' Mac & Cheese Cone",
+      "— Strawberry-Peach Margarita",
+      "— Strawberry Michelada",
+      "Mother Earth Brew Co., Cali Screamin' Pumpkin Vanilla Cream Ale",
+      "— Unsung Brewing Co., Poison Apple Seltzer",
+      "— Fantasma Agua Fresca Cocktail",
+      "— Pineapple-Cucumber Agua Fresca"
+    ],
+    "removed": [
+      "— Golden Road Brewing, Mango Cart",
+      "— Brewery X, Green Melon Seltzer",
+      "— Watermelon Chamoy Margarita",
+      "— Watermelon Michelada",
+      "— Watermelon Vodka Lemonade Cocktail",
+      "— Watermelon Lemonade",
+      "— Strawberry Paloma"
+    ]
+  },
+  {
+    "id": "dca-fiddler-fifer-and-practical-cafe-breakfast",
+    "name": "Fiddler, Fifer & Practical Cafe - Starbucks (Breakfast)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fiddler-fifer-and-practical-cafe/menus/breakfast/",
+    "added": [
+      "— Pumpkin Spice Latte",
+      "— Iced Pumpkin Cream Chai Latte - Grande",
+      "— Pumpkin Cream Cold Brew - Grande",
+      "— Pecan Crunch Latte - Grande",
+      "— Pumpkin Cream Cheese Muffin",
+      "— Hedgehog Cake Pop"
     ],
     "removed": []
   },
   {
-    "id": "dca-boardwalk-pizza-and-pasta",
-    "name": "Boardwalk Pizza & Pasta",
+    "id": "dca-fiddler-fifer-and-practical-cafe-lunch-and-dinner",
+    "name": "Fiddler, Fifer & Practical Cafe - Starbucks (Lunch & Dinner)",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/boardwalk-pizza-pasta/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fiddler-fifer-and-practical-cafe/menus/lunch-and-dinner/",
+    "added": [
+      "— Pumpkin Spice Latte",
+      "— Iced Pumpkin Cream Chai Latte - Grande",
+      "— Pumpkin Cream Cold Brew - Grande",
+      "— Pecan Crunch Latte - Grande",
+      "— Pumpkin Cream Cheese Muffin",
+      "— Hedgehog Cake Pop"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dca-flos-v8-cafe",
+    "name": "Flo's V8 Cafe",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/flos-v8-cafe/menus/lunch-and-dinner/",
+    "added": [
+      "— Mango-Habanero Chicken Strips",
+      "— Desert Pear Agave Wine Margarita"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dca-lamplight-lounge-lunch",
+    "name": "Lamplight Lounge (Lunch)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge/menus/lunch/",
+    "added": [
+      "— 2 Towns Spiced Cosmic Crisp",
+      "— Halloween Cocktail",
+      "— Ommegang Seasonal Selection",
+      "— Arroz Con Leche Donut"
+    ],
+    "removed": [
+      "— Aguachile Verde",
+      "— Beer-battered Onion Blossom",
+      "— Thai Seafood Pasta*"
+    ]
+  },
+  {
+    "id": "dca-lamplight-lounge-dinner",
+    "name": "Lamplight Lounge (Dinner)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge/menus/dinner/",
+    "added": [
+      "— 2 Towns Spiced Cosmic Crisp",
+      "— Halloween Cocktail",
+      "— Ommegang Seasonal Selection",
+      "— Arroz Con Leche Donut"
+    ],
+    "removed": [
+      "— Aguachile Verde",
+      "— Beer-battered Onion Blossom",
+      "— Thai Seafood Pasta*"
+    ]
+  },
+  {
+    "id": "dca-lamplight-lounge-boardwalk-dining-lunch",
+    "name": "Lamplight Lounge Boardwalk Dining (Lunch)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge-boardwalk-dining/menus/lunch/",
+    "added": [
+      "— 2 Towns Spiced Cosmic Crisp",
+      "— Cinnamon Whiskey Cocktail"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dca-lamplight-lounge-boardwalk-dining-dinner",
+    "name": "Lamplight Lounge Boardwalk Dining (Dinner)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge-boardwalk-dining/menus/dinner/",
+    "added": [
+      "— 2 Towns Spiced Cosmic Crisp",
+      "— Cinnamon Whiskey Cocktail"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dca-lucky-fortune-cookery",
+    "name": "Lucky Fortune Cookery",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lucky-fortune-cookery/menus/lunch-and-dinner/",
+    "added": [
+      "— Seasonal Baymax Macaron",
+      "— Three Milk Ube Tea"
+    ],
+    "removed": [
+      "— Matcha-Raspberry Baymax Macaron"
+    ]
+  },
+  {
+    "id": "dca-paradise-garden-grill",
+    "name": "Paradise Garden Grill",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/paradise-garden-grill/menus/lunch-and-dinner/",
     "added": [
       "— Halloween Travel Tumbler 2026",
       "— Magic Key Ursula Straw Clip",
-      "— Anti Vampire Pizza - Slice",
-      "— Anti Vampire Pizza - Whole",
-      "— Caramel Apple Cheesecake"
+      "— Chilaquiles Carnitas Torta",
+      "— Nuez Gelatina Cake",
+      "— Marigold Margarita"
     ],
     "removed": [
       "— Jiminy Cricket Sipper",
+      "Disneyland 70th Celebration D Glow Cube",
       "Disneyland 70th Celebration Sipper",
-      "Disneyland 70th Celebration Travel Tumbler",
-      "— BBQ Chicken Pizza - Slice",
-      "— BBQ Chicken Pizza - Whole",
-      "— Brewery X, Huckleberry Seltzer"
+      "Disneyland 70th Celebration Travel Tumbler"
     ]
+  },
+  {
+    "id": "dca-port-of-san-fransokyo-cerveceria",
+    "name": "Port of San Fransokyo Cervecería",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/port-of-san-fransokyo-cerveceria/menus/snack/",
+    "added": [
+      "Karl Strauss® Brewing Company, Oktoberfest"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dca-pym-test-kitchen-breakfast",
+    "name": "Pym Test Kitchen (Breakfast)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/pym-test-kitchen/menus/breakfast/",
+    "added": [
+      "— Strawberry Matcha Latte",
+      "— Strawberry Matcha Rum Cocktail"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dca-pym-test-kitchen-lunch-and-dinner",
+    "name": "Pym Test Kitchen (Lunch & Dinner)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/pym-test-kitchen/menus/lunch-and-dinner/",
+    "added": [
+      "— Strawberry Matcha Latte",
+      "— Strawberry Matcha Rum Cocktail"
+    ],
+    "removed": []
   }
 ]
