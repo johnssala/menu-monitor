@@ -4,6 +4,7 @@
       "title": "menu",
       "items": [
         "Connections Café",
+        "— Pistachio-Chocolate Mochi Doughnut",
         "— Caramel Frappuccino® - Grande",
         "Caramel Ribbon Crunch Frappuccino® - Grande",
         "— Mocha Frappuccino® - Grande",
@@ -25,6 +26,8 @@
         "Iced Brown Sugar Oatmilk Shaken Espresso - Grande",
         "— Iced Horchata Shaken Espresso - Grande",
         "— Freshly Brewed Coffee - Grande",
+        "— Pecan Crunch Oatmilk Latte - Grande",
+        "— Pumpkin Spice Latte - Grande",
         "— Nitro Cold Brew - Grande",
         "Vanilla Sweet Cream Nitro Cold Brew - Grande",
         "— Salted Caramel Cream Cold Brew - Grande",
@@ -34,6 +37,7 @@
         "— Teavana® Chai Tea Latte - Grande",
         "Teavana® Iced Matcha Green Tea Latte – Grande",
         "Iced Banana Bread Matcha Tea Latte - Grande",
+        "— Iced Pumpkin Cream Chai Latte - Grande",
         "— Caramel Protein Matcha Latte - Grande",
         "— Pistachio Crème Cold Brew - Grande",
         "— Iced Dubai Chocolate Matcha - Grande",
@@ -47,7 +51,9 @@
         "— Sausage, Cheddar & Egg Sandwich",
         "— Bacon, Gouda & Egg Sandwich",
         "Double-Smoked Bacon, Cheddar & Egg Sandwich",
+        "— Hedgehog Cake Pop",
         "— Liege Waffle",
+        "— Pumpkin Cream Cheese Muffin",
         "— Assorted Pastries"
       ]
     }
