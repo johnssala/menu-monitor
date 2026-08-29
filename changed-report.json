@@ -1,171 +1,59 @@
 [
   {
-    "id": "dl-the-golden-horseshoe",
-    "name": "The Golden Horseshoe",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/golden-horseshoe-restaurant/menus/lunch-and-dinner/",
-    "added": [
-      "— Chili-Cheese Fries",
-      "— Apple Pie Sundae",
-      "— Strawberry Soda",
-      "Tim Burton's The Nightmare Before Christmas Jack Skellington Gravestone Bucket & Mayor Sipper Combo"
-    ],
-    "removed": [
-      "— Jiminy Cricket Sipper",
-      "Disneyland 70th Celebration D Glow Cube",
-      "Disneyland 70th Celebration Travel Tumbler"
-    ]
-  },
-  {
-    "id": "dl-the-tropical-hideaway",
-    "name": "The Tropical Hideaway",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/tropical-hideaway/menus/snack/",
-    "added": [
-      "— Miso Soup"
-    ],
-    "removed": [
-      "— Hoa Aloha Float"
-    ]
-  },
-  {
-    "id": "dl-tianas-palace",
-    "name": "Tiana's Palace",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/tianas-palace/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "— Louis Sipper",
-      "Brown Butter Cold Foam [Available starting August 18]"
-    ]
-  },
-  {
-    "id": "dl-tiki-juice-bar",
-    "name": "Tiki Juice Bar",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/tiki-juice-bar/menus/snack/",
-    "added": [
-      "— DOLE Whip® Cone"
-    ],
-    "removed": [
-      "DOLE Whip® Cone [Available starting August 18]"
-    ]
-  },
-  {
-    "id": "dl-troubadour-tavern",
-    "name": "Troubadour Tavern",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/troubadour-tavern/menus/",
-    "added": [
-      "— Halloween Travel Tumbler 2026",
-      "— Magic Key Ursula Straw Clip",
-      "— Pain and Panic Straw Clip"
-    ],
-    "removed": [
-      "Halloween Travel Tumbler 2026 [Available starting August 18]",
-      "Magic Key Ursula Straw Clip [Available starting August 18]",
-      "Pain and Panic Straw Clip [Available starting August 18]",
-      "Winnie the Pooh Hunny Bee Sipper [Available starting August 18]"
-    ]
-  },
-  {
-    "id": "epcot-block-and-hans",
-    "name": "Block & Hans",
+    "id": "epcot-le-cellier-steakhouse-lunch",
+    "name": "Le Cellier Steakhouse (Lunch)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/block-hans/menus/bar-%E2%80%93-lounge/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/le-cellier-steakhouse/menus/lunch/",
     "added": [
-      "— Spicy Strawberry-Mango Smoothie"
+      "— Caesar Salad",
+      "— 12-oz Prime New York Strip Steak*",
+      "— Roasted Chicken",
+      "— Miso-roasted Cabbage",
+      "— Almond-Crusted Salmon",
+      "— Butter Tart"
+    ],
+    "removed": [
+      "— Land Greens Salad",
+      "— 12-oz. New York Strip Steak*",
+      "— Heritage Chicken",
+      "— Roasted Cauliflower \"Steak\"",
+      "— Seafood Cioppino",
+      "— Boutique Collection",
+      "Silverado Vineyards Chardonnay, Los Carneros"
+    ]
+  },
+  {
+    "id": "epcot-le-cellier-steakhouse-dinner",
+    "name": "Le Cellier Steakhouse (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/le-cellier-steakhouse/menus/dinner/",
+    "added": [
+      "— Caesar Salad",
+      "— 12-oz Prime New York Strip Steak*",
+      "— Roasted Chicken",
+      "— Miso-roasted Cabbage",
+      "— Almond-Crusted Salmon",
+      "— Butter Tart"
+    ],
+    "removed": [
+      "— Land Greens Salad",
+      "— 12-oz. New York Strip Steak*",
+      "— Heritage Chicken",
+      "— Roasted Cauliflower \"Steak\"",
+      "— Seafood Cioppino",
+      "— Boutique Collection",
+      "Silverado Vineyards Chardonnay, Los Carneros"
+    ]
+  },
+  {
+    "id": "epcot-regal-eagle-smokehouse",
+    "name": "Regal Eagle Smokehouse",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/regal-eagle-smokehouse/menus/lunch-and-dinner/",
+    "added": [
+      "— Blackberry Buckle",
+      "— Pumpkin Pie Milk Shake"
     ],
     "removed": []
-  },
-  {
-    "id": "epcot-canada-popcorn-cart",
-    "name": "Canada Popcorn Cart",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/popcorn-at-canada-pavilion/menus/snack/",
-    "added": [
-      "— Northern Ruby"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-chefs-de-france-lunch",
-    "name": "Chefs de France (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/chefs-de-france/menus/lunch/",
-    "added": [
-      "— Poulet au Vinaigre",
-      "Nougat glace aux oranges confites, sorbet framboise"
-    ],
-    "removed": [
-      "— Poulet Cordon Bleu",
-      "Cygne profiterole, glace a la vanille, sauce chocolat"
-    ]
-  },
-  {
-    "id": "epcot-chefs-de-france-dinner",
-    "name": "Chefs de France (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/chefs-de-france/menus/dinner/",
-    "added": [
-      "— Poulet au Vinaigre",
-      "Nougat glace aux oranges confites, sorbet framboise"
-    ],
-    "removed": [
-      "— Poulet Cordon Bleu",
-      "Cygne profiterole, glace a la vanille, sauce chocolat"
-    ]
-  },
-  {
-    "id": "epcot-connections-cafe",
-    "name": "Connections Café (Starbucks)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/connections-cafe/menus/coffee-%E2%80%93-bakery/",
-    "added": [
-      "— Pistachio-Chocolate Mochi Doughnut",
-      "— Pecan Crunch Oatmilk Latte - Grande",
-      "— Pumpkin Spice Latte - Grande",
-      "— Iced Pumpkin Cream Chai Latte - Grande",
-      "— Hedgehog Cake Pop",
-      "— Pumpkin Cream Cheese Muffin"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-connections-eatery",
-    "name": "Connections Eatery",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/connections-eatery/menus/",
-    "added": [
-      "— BBQ Braai Chicken Pizza",
-      "— Caramel-Apple Cheesecake Baumkuchen",
-      "— Frozen Waffle Old Fashioned"
-    ],
-    "removed": [
-      "— Winnie the Pooh Hunny Bee Sipper",
-      "— Peach Whiskey Iced Tea"
-    ]
-  },
-  {
-    "id": "epcot-coral-reef-restaurant",
-    "name": "Coral Reef Restaurant",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/coral-reef-restaurant/menus/dinner/",
-    "added": [
-      "— Braised Short Rib"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-funnel-cake",
-    "name": "Funnel Cake – EPCOT",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/funnel-cake/menus/",
-    "added": [
-      "— Pumpkin Pie Funnel Cake"
-    ],
-    "removed": [
-      "— Bananas Foster Funnel Cake"
-    ]
   }
 ]
