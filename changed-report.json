@@ -1,82 +1,37 @@
 [
   {
-    "id": "epcot-sommerfest",
-    "name": "Sommerfest",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/sommerfest/menus/lunch-and-dinner/",
-    "added": [
-      "— Zwiebelkuchen",
-      "— Cinnamon Pretzel Cold Brew"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-space-220-restaurant-lunch",
-    "name": "Space 220 Restaurant (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/space-220/menus/lunch/",
-    "added": [
-      "— Orange Creamsicle Comet Float"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-space-220-restaurant-dinner",
-    "name": "Space 220 Restaurant (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/space-220/menus/dinner/",
-    "added": [
-      "— Orange Creamsicle Comet Float"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-sunshine-seasons-breakfast",
-    "name": "Sunshine Seasons (Breakfast)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/sunshine-seasons/menus/breakfast/",
-    "added": [
-      "— Mickey-shaped Celebration Macaron",
-      "— Remy Milk Shake"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-sunshine-seasons-lunch",
-    "name": "Sunshine Seasons (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/sunshine-seasons/menus/lunch/",
-    "added": [
-      "— Mickey-shaped Celebration Macaron",
-      "— Remy Milk Shake"
-    ],
-    "removed": [
-      "Mickey-shaped Strawberry Lemonade Macaron"
-    ]
-  },
-  {
-    "id": "epcot-sunshine-seasons-snack",
-    "name": "Sunshine Seasons (Snack)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/sunshine-seasons/menus/snack/",
-    "added": [
-      "— Mickey-shaped Celebration Macaron",
-      "— Remy Milk Shake"
-    ],
-    "removed": [
-      "Mickey-shaped Strawberry Lemonade Macaron"
-    ]
-  },
-  {
-    "id": "eu-atlantic",
-    "name": "Atlantic",
+    "id": "eu-meteor-astropub",
+    "name": "Meteor Astropub",
     "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/atlantic/menu.html",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/meteor-astropub/menu.html",
     "added": [
-      "Seared Scallops",
-      "— Seared Scallops",
-      "Arborio rice, trumpet mushrooms, charred romanesco, Parmigiano-Reggiano"
+      "All Ale the Pumpkin Lord",
+      "— All Ale the Pumpkin Lord"
     ],
     "removed": []
+  },
+  {
+    "id": "eu-the-oak-and-star-tavern",
+    "name": "The Oak & Star Tavern",
+    "park": "Epic Universe",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-oak-and-star-tavern/menu.html",
+    "added": [
+      "Tropical Pulled Pork",
+      "— Tropical Pulled Pork"
+    ],
+    "removed": [
+      "Huli Huli Pulled Pork",
+      "— Huli Huli Pulled Pork"
+    ]
+  },
+  {
+    "id": "hs-abc-commissary",
+    "name": "ABC Commissary",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/abc-commissary/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "— Bubbles of the Sea"
+    ]
   }
 ]
