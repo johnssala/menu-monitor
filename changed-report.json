@@ -1,37 +1,35 @@
 [
   {
-    "id": "eu-meteor-astropub",
-    "name": "Meteor Astropub",
-    "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/meteor-astropub/menu.html",
-    "added": [
-      "All Ale the Pumpkin Lord",
-      "— All Ale the Pumpkin Lord"
-    ],
-    "removed": []
-  },
-  {
-    "id": "eu-the-oak-and-star-tavern",
-    "name": "The Oak & Star Tavern",
-    "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-oak-and-star-tavern/menu.html",
-    "added": [
-      "Tropical Pulled Pork",
-      "— Tropical Pulled Pork"
-    ],
+    "id": "hs-the-hollywood-brown-derby-lunch",
+    "name": "The Hollywood Brown Derby (Lunch)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/lunch/",
+    "added": [],
     "removed": [
-      "Huli Huli Pulled Pork",
-      "— Huli Huli Pulled Pork"
+      "— Seafood Fregola",
+      "— Vanilla-Fruit Cheesecake"
     ]
   },
   {
-    "id": "hs-abc-commissary",
-    "name": "ABC Commissary",
+    "id": "hs-the-hollywood-brown-derby-dinner",
+    "name": "The Hollywood Brown Derby (Dinner)",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/abc-commissary/menus/lunch-and-dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/dinner/",
     "added": [],
     "removed": [
-      "— Bubbles of the Sea"
+      "— Seafood Fregola",
+      "— Vanilla-Fruit Cheesecake"
+    ]
+  },
+  {
+    "id": "hs-the-hollywood-brown-derby-lounge",
+    "name": "The Hollywood Brown Derby Lounge",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby-lounge/menus/bar-%E2%80%93-lounge/",
+    "added": [],
+    "removed": [
+      "— Seafood Fregola",
+      "— Vanilla-Fruit Cheesecake"
     ]
   }
 ]
