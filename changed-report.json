@@ -1,35 +1,38 @@
 [
   {
-    "id": "hs-the-hollywood-brown-derby-lunch",
-    "name": "The Hollywood Brown Derby (Lunch)",
+    "id": "hs-the-trolley-car-cafe",
+    "name": "The Trolley Car Café (Starbucks)",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/lunch/",
-    "added": [],
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/trolley-car-cafe/menus/",
+    "added": [
+      "— Pecan Crunch Oatmilk Latte - Grande",
+      "— Pumpkin Spice Latte - Grande",
+      "— Pumpkin Cream Cold Brew - Grande",
+      "— Iced Pumpkin Cream Chai Latte - Grande"
+    ],
+    "removed": []
+  },
+  {
+    "id": "ioa-blondies",
+    "name": "Blondie's",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/blondies/menu.html",
+    "added": [
+      "Mich Ultra, Miller Lite, Sierra Nevada® Hazy Little Thing 11.00 Modelo Especial 12.00"
+    ],
     "removed": [
-      "— Seafood Fregola",
-      "— Vanilla-Fruit Cheesecake"
+      "Mich Ultra, Miller Lite, Sierra Nevada® Hazy Little Thing, Modelo Especial 11.75"
     ]
   },
   {
-    "id": "hs-the-hollywood-brown-derby-dinner",
-    "name": "The Hollywood Brown Derby (Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/dinner/",
-    "added": [],
-    "removed": [
-      "— Seafood Fregola",
-      "— Vanilla-Fruit Cheesecake"
-    ]
-  },
-  {
-    "id": "hs-the-hollywood-brown-derby-lounge",
-    "name": "The Hollywood Brown Derby Lounge",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby-lounge/menus/bar-%E2%80%93-lounge/",
-    "added": [],
-    "removed": [
-      "— Seafood Fregola",
-      "— Vanilla-Fruit Cheesecake"
-    ]
+    "id": "ioa-croissant-moon-bakery",
+    "name": "Croissant Moon Bakery",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/croissant-moon-bakery/menu.html",
+    "added": [
+      "Halloween Horror Nights desserts",
+      "choose from a variety of Halloween Horror Nights desserts."
+    ],
+    "removed": []
   }
 ]
