@@ -1,37 +1,56 @@
 [
   {
-    "id": "hs-the-trolley-car-cafe",
-    "name": "The Trolley Car Café (Starbucks)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/trolley-car-cafe/menus/",
+    "id": "mk-astrofizz",
+    "name": "Astrofizz",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/astrofizz/menus/",
     "added": [
-      "— Pecan Crunch Oatmilk Latte - Grande",
-      "— Pumpkin Spice Latte - Grande",
-      "— Pumpkin Cream Cold Brew - Grande",
-      "— Iced Pumpkin Cream Chai Latte - Grande"
+      "— Vampire Mickey Mouse Bucket"
     ],
     "removed": []
   },
   {
-    "id": "ioa-blondies",
-    "name": "Blondie's",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/blondies/menu.html",
-    "added": [
-      "Mich Ultra, Miller Lite, Sierra Nevada® Hazy Little Thing 11.00 Modelo Especial 12.00"
-    ],
+    "id": "mk-chesire-cafe",
+    "name": "Cheshire Café",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cheshire-cafe/menus/",
+    "added": [],
     "removed": [
-      "Mich Ultra, Miller Lite, Sierra Nevada® Hazy Little Thing, Modelo Especial 11.75"
+      "— Merry Unbirthday Cupcake"
     ]
   },
   {
-    "id": "ioa-croissant-moon-bakery",
-    "name": "Croissant Moon Bakery",
-    "park": "Islands of Adventure",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/croissant-moon-bakery/menu.html",
+    "id": "mk-golden-oak-outpost-breakfast",
+    "name": "Golden Oak Outpost (Breakfast)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/golden-oak-outpost/menus/breakfast/",
     "added": [
-      "Halloween Horror Nights desserts",
-      "choose from a variety of Halloween Horror Nights desserts."
+      "— Biscuit Breakfast Sandwich"
+    ],
+    "removed": []
+  },
+  {
+    "id": "mk-golden-oak-outpost-lunch-and-dinner",
+    "name": "Golden Oak Outpost (Lunch & Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/golden-oak-outpost/menus/lunch-and-dinner/",
+    "added": [
+      "— Biscuit Breakfast Sandwich"
+    ],
+    "removed": []
+  },
+  {
+    "id": "mk-main-street-bakery",
+    "name": "Main Street Bakery (Starbucks)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/main-street-bakery/menus/",
+    "added": [
+      "— Pecan Crunch Oatmilk Latte - Grande",
+      "— Pumpkin Spice Latte - Grande",
+      "— Pumpkin Cream Cold Brew - Grande",
+      "— Iced Pumpkin Cream Chai Latte - Grande",
+      "— Hedgehog Cake Pop",
+      "— Pumpkin Cream Cheese Muffin"
     ],
     "removed": []
   }
