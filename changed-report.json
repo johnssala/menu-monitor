@@ -1,56 +1,43 @@
 [
   {
-    "id": "mk-astrofizz",
-    "name": "Astrofizz",
+    "id": "mk-the-friars-nook-breakfast",
+    "name": "The Friar's Nook (Breakfast)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/astrofizz/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/breakfast/",
     "added": [
-      "— Vampire Mickey Mouse Bucket"
+      "— All-Beef Hot Dog",
+      "— Cheddar, Bacon, and Ranch Tots"
     ],
     "removed": []
   },
   {
-    "id": "mk-chesire-cafe",
-    "name": "Cheshire Café",
+    "id": "mk-the-friars-nook-lunch-and-dinner",
+    "name": "The Friar's Nook (Lunch & Dinner)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cheshire-cafe/menus/",
-    "added": [],
-    "removed": [
-      "— Merry Unbirthday Cupcake"
-    ]
-  },
-  {
-    "id": "mk-golden-oak-outpost-breakfast",
-    "name": "Golden Oak Outpost (Breakfast)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/golden-oak-outpost/menus/breakfast/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/lunch-and-dinner/",
     "added": [
-      "— Biscuit Breakfast Sandwich"
+      "— All-Beef Hot Dog",
+      "— Cheddar, Bacon, and Ranch Tots"
     ],
     "removed": []
   },
   {
-    "id": "mk-golden-oak-outpost-lunch-and-dinner",
-    "name": "Golden Oak Outpost (Lunch & Dinner)",
+    "id": "mk-the-plaza-restaurant-lunch",
+    "name": "The Plaza Restaurant (Lunch)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/golden-oak-outpost/menus/lunch-and-dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-restaurant/menus/lunch/",
     "added": [
-      "— Biscuit Breakfast Sandwich"
+      "— Sorbet"
     ],
     "removed": []
   },
   {
-    "id": "mk-main-street-bakery",
-    "name": "Main Street Bakery (Starbucks)",
+    "id": "mk-the-plaza-restaurant-dinner",
+    "name": "The Plaza Restaurant (Dinner)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/main-street-bakery/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-restaurant/menus/dinner/",
     "added": [
-      "— Pecan Crunch Oatmilk Latte - Grande",
-      "— Pumpkin Spice Latte - Grande",
-      "— Pumpkin Cream Cold Brew - Grande",
-      "— Iced Pumpkin Cream Chai Latte - Grande",
-      "— Hedgehog Cake Pop",
-      "— Pumpkin Cream Cheese Muffin"
+      "— Sorbet"
     ],
     "removed": []
   }
