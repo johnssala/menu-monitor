@@ -1,43 +1,35 @@
 [
   {
-    "id": "mk-the-friars-nook-breakfast",
-    "name": "The Friar's Nook (Breakfast)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/breakfast/",
+    "id": "usf-louies-italian-restaurant",
+    "name": "Louie's Italian Restaurant",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/louies-italian-restaurant/menu.html",
     "added": [
-      "— All-Beef Hot Dog",
-      "— Cheddar, Bacon, and Ranch Tots"
+      "Rigatoni Ritual Slice",
+      "garlic butter cheese pizza with baked rigatoni a la vodka, crispy sausage and pesto"
     ],
     "removed": []
   },
   {
-    "id": "mk-the-friars-nook-lunch-and-dinner",
-    "name": "The Friar's Nook (Lunch & Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/lunch-and-dinner/",
+    "id": "usf-richters-burger-co",
+    "name": "Richter's Burger Co.",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/richters-burger-co/menu.html",
     "added": [
-      "— All-Beef Hot Dog",
-      "— Cheddar, Bacon, and Ranch Tots"
+      "Scary Hot Chicken Combo",
+      "Scary Hot Chicken Platter",
+      "Fear the Deep"
     ],
     "removed": []
   },
   {
-    "id": "mk-the-plaza-restaurant-lunch",
-    "name": "The Plaza Restaurant (Lunch)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-restaurant/menus/lunch/",
+    "id": "usf-san-francisco-pastry-company",
+    "name": "San Francisco Pastry Company",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/san-francisco-pastry-company/menu.html",
     "added": [
-      "— Sorbet"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-the-plaza-restaurant-dinner",
-    "name": "The Plaza Restaurant (Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-restaurant/menus/dinner/",
-    "added": [
-      "— Sorbet"
+      "Halloween Horror Nights desserts",
+      "choose from a variety of Halloween Horror Nights desserts"
     ],
     "removed": []
   }
