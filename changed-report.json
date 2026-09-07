@@ -1,181 +1,60 @@
 [
   {
-    "id": "usf-today-cafe",
-    "name": "TODAY Cafe",
-    "park": "Universal Studios Florida",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/today-cafe/menu.html",
+    "id": "ush-three-broomsticks",
+    "name": "Three Broomsticks",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/three-broomsticks/menu.html",
     "added": [
-      "Halloween Horror Nights desserts",
-      "choose from a variety of Halloween Horror Nights desserts"
+      "Baked Beans (Breakfast Only)"
     ],
     "removed": [
-      "Eclairs",
-      "chocolate or vanilla"
+      "Baked Beans (Breakfast Only) (Vegetarian)"
     ]
   },
   {
-    "id": "ush-city-snack-shop",
-    "name": "City Snack Shop",
+    "id": "ush-universal-tower-snack-bar",
+    "name": "Universal Tower Snack Bar",
     "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/city-snack-shop/menu.html",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/universal-tower-snack-bar/menu.html",
     "added": [
-      "Remmick’s Burnt Ends",
-      "Pork burnt ends in a black garlic whiskey BBQ sauce. Served with jalapeno cornbread.",
-      "“Pick Poor Robin Clean”",
-      "Contains: Milk, Egg, Wheat",
-      "Pecan and Whiskey Bread Pudding (Vegetarian)",
-      "Warm brown sugar pecan bread pudding topped with a whiskey butterscotch sauce and flaky salt.",
-      "Contains: Milk, Egg, Wheat, Tree Nuts (Pecan)",
-      "Fritos® Scoops® The Walking Taco",
-      "Fritos Scoops topped with whiskey BBQ sauce pork burnt ends and cheddar cheese.",
-      "Contains: Milk",
-      "I Lied to You, I Love the Blues-Berry (non-alcoholic)",
-      "Ginger ale, white grape juice, lemon juice and blue curacao syrup. Topped with fresh blueberries and a lemon wedge.",
-      "Contains: No Major Food Allergens*"
-    ],
-    "removed": [
-      "Fritos® Scoops® The Walking Taco (Gluten Friendly)",
-      "Vanilla Cheesecake Sweet Horn (Vegetarian)",
-      "Sugar pastry cone with vanilla bean cheesecake. Contains: Milk, Egg, Wheat, Soy",
-      "Sugar pastry cone with vanilla bean cheesecake.",
+      "Battle Bus Dog",
       "Contains: Milk, Egg, Wheat, Soy",
-      "Dragon Fire Chicken Spire",
-      "Brisket Mac & Cheese",
-      "Classic Mac & Cheese (Vegetarian)"
-    ]
-  },
-  {
-    "id": "ush-cletus-chicken-shack",
-    "name": "Cletus' Chicken Shack",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/cletus-chicken-shack/menu.html",
-    "added": [
-      "Road Scrapin's",
-      "French fries topped with white country gravy, cheese, fried chicken, and crispy onions",
-      "Road Scrapin’s",
-      "French fries topped with white country gravy, cheese, fried chicken, and crispy onions. Contains: Milk, Wheat, Soy",
-      "French fries topped with white country gravy, cheese, fried chicken, and crispy onions.",
-      "Contains: Milk, Wheat, Soy"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ush-cocina-mexicana",
-    "name": "Cocina Mexicana",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/cocina-mexicana/menu.html",
-    "added": [
-      "Muerte Mango Michelada**",
-      "Contains: Soy",
-      "Spiked Mangonada**",
-      "Frozen Margaritas**: Mango, Strawberry or Classic Lime",
-      "Contains: No Major Food Allergens*"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ush-krusty-burger",
-    "name": "Krusty Burger",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/krusty-burger/menu.html",
-    "added": [
-      "Sloppy D'oh",
-      "Ground beef in a tangy tomato chili sauce topped with Fritos. Served with fries.",
-      "Sloppy D’oh",
-      "Ground beef in a tangy tomato chili sauce topped with Fritos. Contains: Milk, Wheat, Soy",
-      "Ground beef in a tangy tomato chili sauce topped with Fritos.",
-      "Contains: Milk, Wheat, Soy"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ush-lard-lad-donuts",
-    "name": "Lard Lad Donuts",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/lard-lad-donuts/menu.html",
-    "added": [
-      "Mmm...Forbidden Pumpkin Donut",
-      "Vanilla donut with a pumpkin spice icing topped with sprinkles and edible glitter. Contains: Milk, Egg, Wheat, Soy",
-      "Vanilla donut with a pumpkin spice icing topped with sprinkles and edible glitter.",
-      "Contains: Milk, Egg, Wheat, Soy",
-      "Pumpkin Spice Cold Brew",
-      "Cold brew topped with pumpkin spice cold foam and a donut hole. Contains: Milk, Egg, Wheat, Soy",
-      "Cold brew topped with pumpkin spice cold foam and a donut hole."
-    ],
-    "removed": []
-  },
-  {
-    "id": "ush-mels-diner",
-    "name": "Mel's Diner",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/mels-diner/menu.html",
-    "added": [
-      "Classic Sundae",
-      "Contains: Milk, Soy",
-      "Hollywood Coconut Cream Coke",
-      "Contains: No Major Food Allergens*",
-      "Fries at Mel’s Diner are prepared in a shared fryer and are not allergen/gluten friendly."
-    ],
-    "removed": [
-      "Shark Bait Burger",
-      "Amity Island Funnel Cake (Vegetarian)",
-      "Lifesaver Swirl"
-    ]
-  },
-  {
-    "id": "ush-mummy-eats",
-    "name": "Mummy Eats",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/mummy-eats/menu.html",
-    "added": [
-      "Severed & Smoked Chicken (Gluten Friendly)",
-      "Smoked chicken quarter with a Sichuan chili crisp. Contains: No Major Food Allergens*",
-      "Smoked chicken quarter with a Sichuan chili crisp.",
-      "Contains: No Major Food Allergens*"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ush-studio-scoop",
-    "name": "Studio Scoop",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/studio-scoop/menu.html",
-    "added": [
-      "Hello Kitty Chucky",
-      "Strawberry swirled vanilla soft-serve, strawberry topping and cheesecake pieces with a chocolate bow."
-    ],
-    "removed": []
-  },
-  {
-    "id": "ush-suds-mcduffs-hot-dog-stand",
-    "name": "Suds McDuff's Hot Dog Stand",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/suds-mcduffs-hot-dogs/menu.html",
-    "added": [
-      "Wurst. Brat. Ever!",
-      "Bratwurst in a pretzel roll topped with Duff cheese sauce and sauerkraut.",
-      "Contains: Milk, Wheat",
-      "I Call the Big Pretzel Bitey",
-      "Pretzel Bites with Duff Cheese Sauce Contains: Milk, Wheat",
-      "Pretzel Bites with Duff Cheese Sauce",
-      "Nathan’s Famous All-Beef Hot Dog and a bag of Chips.",
+      "Point Zero Pretzel",
+      "Soft pretzel dipped in dark chocolate and topped with purple sugar. Contains: Milk, Wheat, Soy",
+      "Soft pretzel dipped in dark chocolate and topped with purple sugar.",
       "Contains: Milk, Wheat, Soy",
-      "Pretzel with Everything Seasoning Contains: Milk, Wheat, Soy, Sesame",
+      "The Final Peel (Vegetarian)",
+      "Green vanilla whoopie pie filled with banana buttercream, salted toffee sauce and salted caramel crisp pearls.",
+      "Slurp Juice",
+      "POWERADE® Mountain Berry Blast, Sprite®, pineapple juice, blue curacao syrup and edible glitter.",
+      "Contains: No Major Food Allergens*",
+      "Fritos® Scoops® The Walking Taco (Gluten Friendly)",
+      "Fritos® topped with beef chili and cheddar cheese.",
+      "Contains: Milk",
+      "Jumbo Turkey Leg (Gluten Friendly)",
+      "Contains: Soy",
+      "Hot Dog & Chips Combo",
+      "Plain, Salted, Cinnamon Contains: Milk, Wheat, Soy",
+      "Plain, Salted, Cinnamon",
+      "Everything Seasoning Contains: Milk, Wheat, Soy, Sesame",
+      "Everything Seasoning",
       "Contains: Milk, Wheat, Soy, Sesame",
-      "Regular, Salted, or Cinnamon Contains: Milk, Wheat, Soy",
-      "Ralph Wiggum’s Choo-Choo Churro (Vegetarian)",
-      "Contains: Milk, Egg, Wheat, Soy",
-      "Squishee Frozen Drink (Vegan/Vegetarian/Gluten Friendly)",
-      "Contains: No Major Food Allergens*"
+      "Classic Cinnamon Churro (Vegetarian)"
     ],
     "removed": [
-      "Krusty’s Non-Kosher Hot Dog Kombo (request original sea salt chips)",
-      "Nathan’s Famous All-Beef Hot Dog and Choice of Chips",
-      "Marge Blue Cotton Candy",
-      "Drinks - Squishee Frozen Drink",
-      "Assorted Flavors",
-      "Pretzel Bites with everything seasoning",
-      "Squishee Frozen Drink"
+      "Hot Dog & Chips (request original sea salt chips)",
+      "All- beef hot dog",
+      "Jumbo turkey Leg",
+      "Fritos Scoops The Walking Taco (request no cheese)",
+      "Fritos Scoops topped with chili and shredded cheese",
+      "Giant Pretzel (Request plain, no margarine)",
+      "Fritos Scoops The Walking Taco",
+      "All-beef hot dog",
+      "Giant Pretzel",
+      "Salted or Everything Seasoning",
+      "Classic Pretzel",
+      "Choice of Plain, Salted, Cinnamon, or Everything",
+      "Giant Pretzel (request plain, no margarine)"
     ]
   }
 ]
