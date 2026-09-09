@@ -1,27 +1,70 @@
 [
   {
-    "id": "ak-creature-comforts",
-    "name": "Creature Comforts (Starbucks)",
+    "id": "ak-tiffins-restaurant-lunch",
+    "name": "Tiffins Restaurant (Lunch)",
     "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/creature-comforts/menus/coffee-%E2%80%93-bakery/",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tiffins/menus/lunch/",
     "added": [
-      "— Pecan Crunch Oatmilk Latte - Grande",
-      "— Pumpkin Spice Latte - Grande",
-      "— Pumpkin Cream Cold Brew - Grande",
-      "— Iced Pumpkin Cream Chai Latte - Grande",
-      "— Hedgehog Cake Pop",
-      "— Pumpkin Cream Cheese Muffin"
+      "— Chocolate Travel Cake"
+    ],
+    "removed": [
+      "— African Pot de Crème"
+    ]
+  },
+  {
+    "id": "ak-tiffins-restaurant-dinner",
+    "name": "Tiffins Restaurant (Dinner)",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tiffins/menus/dinner/",
+    "added": [
+      "— Chocolate Travel Cake"
+    ],
+    "removed": [
+      "— African Pot de Crème"
+    ]
+  },
+  {
+    "id": "dca-award-wieners",
+    "name": "Award Wieners",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/award-wieners/menus/lunch-and-dinner/",
+    "added": [
+      "— Coco Lantern Sipper"
     ],
     "removed": []
   },
   {
-    "id": "ak-pizzafari",
-    "name": "Pizzafari",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/pizzafari/menus/lunch-and-dinner/",
+    "id": "dca-bayside-brews",
+    "name": "Bayside Brews",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/bayside-brews/menus/snack/",
     "added": [
-      "— Baked Chicken Tenders"
+      "Michelada with Golden Road Mango Cart Wheat"
     ],
     "removed": []
+  },
+  {
+    "id": "dca-boardwalk-pizza-and-pasta",
+    "name": "Boardwalk Pizza & Pasta",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/boardwalk-pizza-pasta/menus/lunch-and-dinner/",
+    "added": [
+      "— Hades Glow Cube",
+      "— Coco Lantern Sipper",
+      "— Brewery X, Huckleberry Seltzer"
+    ],
+    "removed": [
+      "— Cinnamon Roll Cheesecake"
+    ]
+  },
+  {
+    "id": "dca-carthay-circle-lounge-lunch",
+    "name": "Carthay Circle Lounge (Lunch)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-lounge/menus/lunch/",
+    "added": [],
+    "removed": [
+      "Vietnamese Twice-cooked Beef Lettuce Wraps"
+    ]
   }
 ]
