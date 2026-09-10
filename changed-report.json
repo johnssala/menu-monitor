@@ -1,70 +1,69 @@
 [
   {
-    "id": "ak-tiffins-restaurant-lunch",
-    "name": "Tiffins Restaurant (Lunch)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tiffins/menus/lunch/",
-    "added": [
-      "— Chocolate Travel Cake"
-    ],
-    "removed": [
-      "— African Pot de Crème"
-    ]
-  },
-  {
-    "id": "ak-tiffins-restaurant-dinner",
-    "name": "Tiffins Restaurant (Dinner)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tiffins/menus/dinner/",
-    "added": [
-      "— Chocolate Travel Cake"
-    ],
-    "removed": [
-      "— African Pot de Crème"
-    ]
-  },
-  {
-    "id": "dca-award-wieners",
-    "name": "Award Wieners",
+    "id": "dca-carthay-circle-lounge-dinner",
+    "name": "Carthay Circle Lounge (Dinner)",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/award-wieners/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-lounge/menus/dinner/",
+    "added": [],
+    "removed": [
+      "Vietnamese Twice-cooked Beef Lettuce Wraps"
+    ]
+  },
+  {
+    "id": "dca-clarabelles-hand-scooped-ice-cream-breakfast",
+    "name": "Clarabelle's Hand-Scooped Ice Cream (Breakfast)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/clarabelles-hand-scooped-ice-cream/menus/breakfast/",
     "added": [
+      "— Hades Glow Cube",
       "— Coco Lantern Sipper"
     ],
     "removed": []
   },
   {
-    "id": "dca-bayside-brews",
-    "name": "Bayside Brews",
+    "id": "dca-clarabelles-hand-scooped-ice-cream-snack",
+    "name": "Clarabelle's Hand-Scooped Ice Cream (Snack)",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/bayside-brews/menus/snack/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/clarabelles-hand-scooped-ice-cream/menus/snack/",
     "added": [
-      "Michelada with Golden Road Mango Cart Wheat"
+      "— Hades Glow Cube",
+      "— Coco Lantern Sipper"
     ],
     "removed": []
   },
   {
-    "id": "dca-boardwalk-pizza-and-pasta",
-    "name": "Boardwalk Pizza & Pasta",
+    "id": "dca-corn-dog-castle",
+    "name": "Corn Dog Castle",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/boardwalk-pizza-pasta/menus/lunch-and-dinner/",
-    "added": [
-      "— Hades Glow Cube",
-      "— Coco Lantern Sipper",
-      "— Brewery X, Huckleberry Seltzer"
-    ],
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/corn-dog-castle/menus/snack/",
+    "added": [],
     "removed": [
-      "— Cinnamon Roll Cheesecake"
+      "— Tropical Stitch Straw Clip",
+      "— Little Green Men Jetpack Sipper"
     ]
   },
   {
-    "id": "dca-carthay-circle-lounge-lunch",
-    "name": "Carthay Circle Lounge (Lunch)",
+    "id": "dca-cozy-cone-motel",
+    "name": "Cozy Cone Motel",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-lounge/menus/lunch/",
-    "added": [],
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/cozy-cone-motel/menus/snack/",
+    "added": [
+      "— Cars Land Lighted Cone Sipper"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dca-paradise-garden-grill",
+    "name": "Paradise Garden Grill",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/paradise-garden-grill/menus/lunch-and-dinner/",
+    "added": [
+      "— Hades Glow Cube",
+      "— Coco Lantern Sipper"
+    ],
     "removed": [
-      "Vietnamese Twice-cooked Beef Lettuce Wraps"
+      "— Coco Sipper",
+      "— Dante Sipper"
     ]
   }
 ]
