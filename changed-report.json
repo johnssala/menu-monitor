@@ -1,69 +1,104 @@
 [
   {
-    "id": "dca-carthay-circle-lounge-dinner",
-    "name": "Carthay Circle Lounge (Dinner)",
+    "id": "dca-smokejumpers-grill-breakfast",
+    "name": "Smokejumpers Grill (Breakfast)",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-lounge/menus/dinner/",
-    "added": [],
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/breakfast/",
+    "added": [
+      "— Coco Lantern Sipper"
+    ],
     "removed": [
-      "Vietnamese Twice-cooked Beef Lettuce Wraps"
+      "— Sam Eagle Bucket"
     ]
   },
   {
-    "id": "dca-clarabelles-hand-scooped-ice-cream-breakfast",
-    "name": "Clarabelle's Hand-Scooped Ice Cream (Breakfast)",
+    "id": "dca-smokejumpers-grill-lunch-and-dinner",
+    "name": "Smokejumpers Grill (Lunch & Dinner)",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/clarabelles-hand-scooped-ice-cream/menus/breakfast/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/lunch-and-dinner/",
     "added": [
-      "— Hades Glow Cube",
+      "— Coco Lantern Sipper"
+    ],
+    "removed": [
+      "— Sam Eagle Bucket"
+    ]
+  },
+  {
+    "id": "dca-studio-catering-co",
+    "name": "Studio Catering Co.",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/studio-catering-co/menus/snack/",
+    "added": [
+      "— Hades Glow Cube"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-alien-pizza-planet",
+    "name": "Alien Pizza Planet",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/alien-pizza-planet/menus/lunch-and-dinner/",
+    "added": [
       "— Coco Lantern Sipper"
     ],
     "removed": []
   },
   {
-    "id": "dca-clarabelles-hand-scooped-ice-cream-snack",
-    "name": "Clarabelle's Hand-Scooped Ice Cream (Snack)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/clarabelles-hand-scooped-ice-cream/menus/snack/",
+    "id": "dl-bengal-barbecue",
+    "name": "Bengal Barbecue",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/bengal-barbecue/menus/",
     "added": [
-      "— Hades Glow Cube",
-      "— Coco Lantern Sipper"
+      "— Garlic Naan"
     ],
     "removed": []
   },
   {
-    "id": "dca-corn-dog-castle",
-    "name": "Corn Dog Castle",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/corn-dog-castle/menus/snack/",
+    "id": "dl-docking-bay-7-food-and-cargo",
+    "name": "Docking Bay 7 Food and Cargo",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/docking-bay-7-food-and-cargo/menus/",
     "added": [],
+    "removed": [
+      "— The Mandalorian and Grogu Jetpack Sipper"
+    ]
+  },
+  {
+    "id": "dl-galactic-grill-breakfast",
+    "name": "Galactic Grill (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/breakfast/",
+    "added": [
+      "— Hades Glow Cube",
+      "— Coco Lantern Sipper"
+    ],
     "removed": [
       "— Tropical Stitch Straw Clip",
-      "— Little Green Men Jetpack Sipper"
+      "— The Mandalorian and Grogu Jetpack Sipper"
     ]
   },
   {
-    "id": "dca-cozy-cone-motel",
-    "name": "Cozy Cone Motel",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/cozy-cone-motel/menus/snack/",
-    "added": [
-      "— Cars Land Lighted Cone Sipper"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dca-paradise-garden-grill",
-    "name": "Paradise Garden Grill",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/paradise-garden-grill/menus/lunch-and-dinner/",
+    "id": "dl-galactic-grill-lunch-and-dinner",
+    "name": "Galactic Grill (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/lunch-and-dinner/",
     "added": [
       "— Hades Glow Cube",
       "— Coco Lantern Sipper"
     ],
     "removed": [
-      "— Coco Sipper",
-      "— Dante Sipper"
+      "— Tropical Stitch Straw Clip",
+      "— The Mandalorian and Grogu Jetpack Sipper"
     ]
+  },
+  {
+    "id": "dl-gibson-girl-ice-cream-parlor",
+    "name": "Gibson Girl Ice Cream Parlor",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/gibson-girl-ice-cream-parlor/menus/snack/",
+    "added": [
+      "Halloween Huey, Dewey, and Louie Bottle Topper"
+    ],
+    "removed": []
   }
 ]
