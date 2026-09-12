@@ -1,103 +1,268 @@
 [
   {
-    "id": "dca-smokejumpers-grill-breakfast",
-    "name": "Smokejumpers Grill (Breakfast)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/breakfast/",
+    "id": "dl-good-boy-grocers",
+    "name": "Good Boy Grocers",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/good-boy-grocers/menus/",
     "added": [
-      "— Coco Lantern Sipper"
+      "— Donald Souvenir Sipper"
     ],
     "removed": [
-      "— Sam Eagle Bucket"
+      "— Premium Souvenir Sipper"
     ]
   },
   {
-    "id": "dca-smokejumpers-grill-lunch-and-dinner",
-    "name": "Smokejumpers Grill (Lunch & Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/lunch-and-dinner/",
+    "id": "dl-harbour-galley",
+    "name": "Harbour Galley",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/harbour-galley/menus/lunch-and-dinner/",
     "added": [
-      "— Coco Lantern Sipper"
+      "— Hades Glow Cube"
     ],
     "removed": [
-      "— Sam Eagle Bucket"
+      "— Louis Sipper"
     ]
   },
   {
-    "id": "dca-studio-catering-co",
-    "name": "Studio Catering Co.",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/studio-catering-co/menus/snack/",
+    "id": "dl-hungry-bear-barbecue-jamboree",
+    "name": "Hungry Bear Barbecue Jamboree",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/hungry-bear-barbecue/menus/lunch-and-dinner/",
+    "added": [
+      "— Hades Glow Cube"
+    ],
+    "removed": [
+      "— Louis Sipper"
+    ]
+  },
+  {
+    "id": "dl-jolly-holiday-bakery-cafe-breakfast",
+    "name": "Jolly Holiday Bakery Cafe (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/breakfast/",
+    "added": [
+      "— Hades Glow Cube"
+    ],
+    "removed": [
+      "— Louis Sipper",
+      "— Cinnamon Roll"
+    ]
+  },
+  {
+    "id": "dl-jolly-holiday-bakery-cafe-lunch-and-dinner",
+    "name": "Jolly Holiday Bakery Cafe (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/lunch-and-dinner/",
+    "added": [
+      "— Hades Glow Cube",
+      "— Bacon & Egg Croissant",
+      "— Bacon & Egg Croissant with Fruit",
+      "— Yogurt Parfait"
+    ],
+    "removed": [
+      "— Louis Sipper",
+      "— Cinnamon Roll",
+      "BooGogi Beef Toasted with Corn Cheese Soup",
+      "— Beef Birria Toasted Cheese",
+      "— Turkey on Ciabatta",
+      "— Toasted Cheese",
+      "— Garden Grain Salad",
+      "— Breadstick",
+      "— Cuties® Mandarin Orange",
+      "— Side of Soup",
+      "— Side of Fruit",
+      "— House-made Chips",
+      "— Turkey Sandwich",
+      "— Macaroni and Cheese"
+    ]
+  },
+  {
+    "id": "dl-market-house-lunch-and-dinner",
+    "name": "Market House - Starbucks (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": []
+  },
+  {
+    "id": "dl-milk-stand-galaxys-edge",
+    "name": "Milk Stand – Star Wars: Galaxy's Edge",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/milk-stand/menus/",
+    "added": [
+      "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-mint-julep-bar",
+    "name": "Mint Julep Bar",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/mint-julep-bar/menus/snack/",
     "added": [
       "— Hades Glow Cube"
     ],
     "removed": []
   },
   {
-    "id": "dl-alien-pizza-planet",
-    "name": "Alien Pizza Planet",
+    "id": "dl-plaza-inn-lunch-and-dinner",
+    "name": "Plaza Inn (Lunch & Dinner)",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/alien-pizza-planet/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/plaza-inn/menus/lunch-and-dinner/",
     "added": [
-      "— Coco Lantern Sipper"
+      "— Assorted Cereal",
+      "— Made-to-Order Omelets",
+      "— Scrambled Eggs",
+      "— Sausage",
+      "— Bacon",
+      "— Biscuits and Gravy",
+      "— Minnie Waffles",
+      "— Breakfast Potatoes",
+      "Variety of Muffins, Croissants, Danish, and Fruit",
+      "— Braille menu available upon request"
     ],
-    "removed": []
-  },
-  {
-    "id": "dl-bengal-barbecue",
-    "name": "Bengal Barbecue",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/bengal-barbecue/menus/",
-    "added": [
-      "— Garlic Naan"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dl-docking-bay-7-food-and-cargo",
-    "name": "Docking Bay 7 Food and Cargo",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/docking-bay-7-food-and-cargo/menus/",
-    "added": [],
     "removed": [
-      "— The Mandalorian and Grogu Jetpack Sipper"
+      "— Pumpkin Cake",
+      "— Villainous Red Velvet Cake",
+      "— Chicken",
+      "— Cobb Salad",
+      "— Salmon",
+      "— Meatloaf",
+      "— Penne Pasta with Marinara",
+      "Penne Pasta with Chicken Pesto Alfredo Sauce",
+      "— Penne Pasta",
+      "— Kids' Chicken Tenders",
+      "— Stumpfest Cake",
+      "— Assorted Fountain Beverages",
+      "— Chocolate Milk",
+      "— DASANI® Bottled Water",
+      "— Coffee - Regular",
+      "— Coffee - Decaffeinated",
+      "— Hot Chocolate",
+      "— Hot Tea",
+      "— Lowfat Milk",
+      "— Minute Maid Apple Juice Box"
     ]
   },
   {
-    "id": "dl-galactic-grill-breakfast",
-    "name": "Galactic Grill (Breakfast)",
+    "id": "dl-rancho-del-zocalo-restaurante",
+    "name": "Rancho del Zocalo Restaurante",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/breakfast/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/rancho-del-zocalo-restaurante/menus/lunch-and-dinner/",
+    "added": [
+      "— Mexican-style Shrimp Cocktail",
+      "— Tortilla Chips",
+      "— Chicken Tostada Salad",
+      "— Cheese Enchilada Plate",
+      "— Nachos",
+      "— Duo of Barbacoa Tacos",
+      "— Duo of Chicken Tacos",
+      "— Burrito Sonora with Barbacoa",
+      "— Duo of Cauliflower Tacos",
+      "— Side Salsa Verde",
+      "— Side House-made Salsa",
+      "— Guacamole",
+      "— Beef Taquitos",
+      "— Cinnamon Crisps",
+      "— Jamaica Slushy",
+      "— Horchata Slushy"
+    ],
+    "removed": [
+      "— Duo Tacos with Carne Asada",
+      "— Duo Tacos with Chicken",
+      "— Burrito Sonora with Carne Asada",
+      "— Zocalo Fries",
+      "— Esquite Bowl",
+      "— Hacienda Salad",
+      "— Crispy Chips con Limón",
+      "— Crispy Chips con Limón with Salsa",
+      "— Mac & Cheese",
+      "— Cucumber-Lime Agua Fresca"
+    ]
+  },
+  {
+    "id": "dl-red-rose-taverne-breakfast",
+    "name": "Red Rose Taverne (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/breakfast/",
+    "added": [
+      "— Hades Glow Cube",
+      "— Abominable Snowman Sipper"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-red-rose-taverne-lunch-and-dinner",
+    "name": "Red Rose Taverne (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/lunch-and-dinner/",
+    "added": [
+      "— Hades Glow Cube",
+      "— Abominable Snowman Sipper",
+      "— Breakfast Fantasyland Faire Fold",
+      "— Bonjour! Breakfast",
+      "— Mickey-shaped Pancake",
+      "— Hash Brown"
+    ],
+    "removed": [
+      "— Gaston Burger",
+      "— Provincial Burger",
+      "— Chicken Fantasyland Faire Fold",
+      "— Spicy Chicken Fantasyland Faire Fold",
+      "— Cottage Salad",
+      "— Petales de Pepperoni Flatbread",
+      "— Pizza au Fromage",
+      "— Les Tenders de Poulet",
+      "— Side Fries",
+      "— Hamburger",
+      "— Mac & Cheese"
+    ]
+  },
+  {
+    "id": "dl-refreshment-corner",
+    "name": "Refreshment Corner",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/refreshment-corner/menus/lunch-and-dinner/",
     "added": [
       "— Hades Glow Cube",
       "— Coco Lantern Sipper"
     ],
     "removed": [
-      "— Tropical Stitch Straw Clip",
-      "— The Mandalorian and Grogu Jetpack Sipper"
+      "— Sam Eagle Bucket",
+      "— Louis Sipper"
     ]
   },
   {
-    "id": "dl-galactic-grill-lunch-and-dinner",
-    "name": "Galactic Grill (Lunch & Dinner)",
+    "id": "dl-river-belle-terrace-lunch",
+    "name": "River Belle Terrace (Lunch)",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/lunch/",
     "added": [
-      "— Hades Glow Cube",
-      "— Coco Lantern Sipper"
+      "— Creamy Dill, Pickle & Onion Dip"
     ],
     "removed": [
-      "— Tropical Stitch Straw Clip",
-      "— The Mandalorian and Grogu Jetpack Sipper"
+      "— Creamy Dill, Pickel & Onion Dip"
     ]
   },
   {
-    "id": "dl-gibson-girl-ice-cream-parlor",
-    "name": "Gibson Girl Ice Cream Parlor",
+    "id": "dl-river-belle-terrace-dinner",
+    "name": "River Belle Terrace (Dinner)",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/gibson-girl-ice-cream-parlor/menus/snack/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/dinner/",
     "added": [
-      "Halloween Huey, Dewey, and Louie Bottle Topper"
+      "— Creamy Dill, Pickle & Onion Dip"
+    ],
+    "removed": [
+      "— Creamy Dill, Pickel & Onion Dip"
+    ]
+  },
+  {
+    "id": "dl-stage-door-cafe",
+    "name": "Stage Door Cafe",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/stage-door-cafe/menus/lunch-and-dinner/",
+    "added": [
+      "— Hades Glow Cube"
     ],
     "removed": []
   }
