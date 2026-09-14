@@ -1,23 +1,66 @@
 [
   {
-    "id": "dl-the-golden-horseshoe",
-    "name": "The Golden Horseshoe",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/golden-horseshoe-restaurant/menus/lunch-and-dinner/",
+    "id": "epcot-la-creperie-de-paris-breakfast",
+    "name": "La Crêperie de Paris (Breakfast)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/creperie-de-paris/menus/breakfast/",
     "added": [],
+    "removed": []
+  },
+  {
+    "id": "epcot-la-creperie-de-paris-lunch",
+    "name": "La Crêperie de Paris (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/creperie-de-paris/menus/lunch/",
+    "added": [],
+    "removed": []
+  },
+  {
+    "id": "epcot-la-creperie-de-paris-dinner",
+    "name": "La Crêperie de Paris (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/creperie-de-paris/menus/dinner/",
+    "added": [],
+    "removed": []
+  },
+  {
+    "id": "epcot-le-cellier-steakhouse-lunch",
+    "name": "Le Cellier Steakhouse (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/le-cellier-steakhouse/menus/lunch/",
+    "added": [
+      "Groth Oakville Cabernet Sauvignon, Napa Valley",
+      "— Le Cellier Ice Wine Flight",
+      "La Fin du Monde Belgian-style Tripel Ale - Draft"
+    ],
     "removed": [
-      "— Coco Sipper"
+      "— Le Cellier Icewine Flight",
+      "— La Fin du Monde - Draft"
     ]
   },
   {
-    "id": "dl-troubadour-tavern",
-    "name": "Troubadour Tavern",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/troubadour-tavern/menus/",
+    "id": "epcot-le-cellier-steakhouse-dinner",
+    "name": "Le Cellier Steakhouse (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/le-cellier-steakhouse/menus/dinner/",
     "added": [
-      "— Hades Glow Cube",
-      "Halloween Huey, Dewey, and Louie Bottle Topper"
+      "Groth Oakville Cabernet Sauvignon, Napa Valley",
+      "— Le Cellier Ice Wine Flight",
+      "La Fin du Monde Belgian-style Tripel Ale - Draft"
     ],
-    "removed": []
+    "removed": [
+      "— Le Cellier Icewine Flight",
+      "— La Fin du Monde - Draft"
+    ]
+  },
+  {
+    "id": "epcot-regal-eagle-smokehouse",
+    "name": "Regal Eagle Smokehouse",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/regal-eagle-smokehouse/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "— Spiced Honey-Habanero Wings"
+    ]
   }
 ]
