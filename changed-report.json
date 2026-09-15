@@ -1,66 +1,37 @@
 [
   {
-    "id": "epcot-la-creperie-de-paris-breakfast",
-    "name": "La Crêperie de Paris (Breakfast)",
+    "id": "epcot-space-220-lounge-lunch",
+    "name": "Space 220 Lounge (Lunch)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/creperie-de-paris/menus/breakfast/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/space-220-lounge/menus/lunch/",
     "added": [],
-    "removed": []
-  },
-  {
-    "id": "epcot-la-creperie-de-paris-lunch",
-    "name": "La Crêperie de Paris (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/creperie-de-paris/menus/lunch/",
-    "added": [],
-    "removed": []
-  },
-  {
-    "id": "epcot-la-creperie-de-paris-dinner",
-    "name": "La Crêperie de Paris (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/creperie-de-paris/menus/dinner/",
-    "added": [],
-    "removed": []
-  },
-  {
-    "id": "epcot-le-cellier-steakhouse-lunch",
-    "name": "Le Cellier Steakhouse (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/le-cellier-steakhouse/menus/lunch/",
-    "added": [
-      "Groth Oakville Cabernet Sauvignon, Napa Valley",
-      "— Le Cellier Ice Wine Flight",
-      "La Fin du Monde Belgian-style Tripel Ale - Draft"
-    ],
     "removed": [
-      "— Le Cellier Icewine Flight",
-      "— La Fin du Monde - Draft"
+      "— Titan Crater Flatbread*"
     ]
   },
   {
-    "id": "epcot-le-cellier-steakhouse-dinner",
-    "name": "Le Cellier Steakhouse (Dinner)",
+    "id": "epcot-space-220-lounge-dinner",
+    "name": "Space 220 Lounge (Dinner)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/le-cellier-steakhouse/menus/dinner/",
-    "added": [
-      "Groth Oakville Cabernet Sauvignon, Napa Valley",
-      "— Le Cellier Ice Wine Flight",
-      "La Fin du Monde Belgian-style Tripel Ale - Draft"
-    ],
+    "url": "https://disneyworld.disney.go.com/dining/epcot/space-220-lounge/menus/dinner/",
+    "added": [],
     "removed": [
-      "— Le Cellier Icewine Flight",
-      "— La Fin du Monde - Draft"
+      "— Titan Crater Flatbread*"
     ]
   },
   {
-    "id": "epcot-regal-eagle-smokehouse",
-    "name": "Regal Eagle Smokehouse",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/regal-eagle-smokehouse/menus/lunch-and-dinner/",
-    "added": [],
+    "id": "eu-atlantic",
+    "name": "Atlantic",
+    "park": "Epic Universe",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/atlantic/menu.html",
+    "added": [
+      "Wild Mushroom Steak",
+      "— Wild Mushroom Steak"
+    ],
     "removed": [
-      "— Spiced Honey-Habanero Wings"
+      "Arborio rice, trumpet mushrooms, charred romanesco, Parmigiano-Reggiano",
+      "Lion's Mane Steak",
+      "— Lion's Mane Steak"
     ]
   }
 ]
