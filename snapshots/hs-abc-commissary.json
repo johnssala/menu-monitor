@@ -46,7 +46,9 @@
         "— Shrimp Bowl",
         "— Chicken Arugula-Farro Salad",
         "— Grilled Ham and Cheese Sandwich",
-        "— Pork Taco"
+        "— Pork Taco",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

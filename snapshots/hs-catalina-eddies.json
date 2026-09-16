@@ -35,7 +35,9 @@
         "— Opici Family Selection Red Sangria",
         "— Sierra Nevada Pale Ale - Chico, CA",
         "— White Claw Black Cherry Hard Seltzer",
-        "— Bud Light Lager – St. Louis, MO"
+        "— Bud Light Lager – St. Louis, MO",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

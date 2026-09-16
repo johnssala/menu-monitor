@@ -38,7 +38,9 @@
         "Minute Maid® Premium Frozen Lemonade with Tito’s Handmade Vodka",
         "— Cigar City Jai Alai IPA - Tampa, FL",
         "Yuengling Traditional Lager - Pottsville, PA",
-        "— Bud Light Lager – St. Louis, MO"
+        "— Bud Light Lager – St. Louis, MO",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

@@ -20,7 +20,9 @@
         "— Anaheim Margarita",
         "Frozen Coca-Cola® with Bacardí Superior Rum or Jack Daniel's Whiskey",
         "— Frozen Golden Margarita",
-        "— Canned Beer"
+        "— Canned Beer",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

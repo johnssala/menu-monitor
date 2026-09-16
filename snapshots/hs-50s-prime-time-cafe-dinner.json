@@ -80,7 +80,9 @@
         "— Cousin Bob's Chowder",
         "— Mom’s Old-fashioned Pot Roast",
         "— Caesar Salad",
-        "— Mom's Favorite Recipes"
+        "— Mom's Favorite Recipes",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

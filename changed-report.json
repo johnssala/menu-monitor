@@ -1,37 +1,184 @@
 [
   {
-    "id": "epcot-space-220-lounge-lunch",
-    "name": "Space 220 Lounge (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/space-220-lounge/menus/lunch/",
-    "added": [],
-    "removed": [
-      "— Titan Crater Flatbread*"
-    ]
-  },
-  {
-    "id": "epcot-space-220-lounge-dinner",
-    "name": "Space 220 Lounge (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/space-220-lounge/menus/dinner/",
-    "added": [],
-    "removed": [
-      "— Titan Crater Flatbread*"
-    ]
-  },
-  {
-    "id": "eu-atlantic",
-    "name": "Atlantic",
+    "id": "eu-mead-hall",
+    "name": "Mead Hall",
     "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/atlantic/menu.html",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/mead-hall/menu.html",
     "added": [
-      "Wild Mushroom Steak",
-      "— Wild Mushroom Steak"
+      "Stoick’s Viking Burger",
+      "— Stoick’s Viking Burger"
     ],
     "removed": [
-      "Arborio rice, trumpet mushrooms, charred romanesco, Parmigiano-Reggiano",
-      "Lion's Mane Steak",
-      "— Lion's Mane Steak"
+      "Stoick’s Fire-Grilled Burger",
+      "— Stoick’s Fire-Grilled Burger"
     ]
+  },
+  {
+    "id": "eu-meteor-astropub",
+    "name": "Meteor Astropub",
+    "park": "Epic Universe",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/meteor-astropub/menu.html",
+    "added": [
+      "— Milkshakes",
+      "Captain Cacao's Starlight Voyage",
+      "— Captain Cacao's Starlight Voyage",
+      "Astronomer's Strawberry Shortcake",
+      "— Astronomer's Strawberry Shortcake"
+    ],
+    "removed": []
+  },
+  {
+    "id": "eu-the-blue-dragon-pan-asian-restaurant",
+    "name": "The Blue Dragon Pan-Asian Restaurant",
+    "park": "Epic Universe",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-blue-dragon-pan-asian-restaurant/menu.html",
+    "added": [],
+    "removed": [
+      "Kikori",
+      "— Kikori"
+    ]
+  },
+  {
+    "id": "eu-the-oak-and-star-tavern",
+    "name": "The Oak & Star Tavern",
+    "park": "Epic Universe",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-oak-and-star-tavern/menu.html",
+    "added": [
+      "Sun Cruiser Iced Tea + Vodka",
+      "— Sun Cruiser Iced Tea + Vodka"
+    ],
+    "removed": [
+      "Bud Light®",
+      "— Bud Light®",
+      "Left Hand Brewing Co.® Milk Stout",
+      "— Left Hand Brewing Co.® Milk Stout",
+      "Abita® Amber Lager",
+      "— Abita® Amber Lager",
+      "Modelo Negra®",
+      "— Modelo Negra®",
+      "NÜTRL®",
+      "— NÜTRL®"
+    ]
+  },
+  {
+    "id": "hs-50s-prime-time-cafe-lunch",
+    "name": "50's Prime Time Café (Lunch)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/50s-prime-time-cafe/menus/lunch/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "hs-50s-prime-time-cafe-dinner",
+    "name": "50's Prime Time Café (Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/50s-prime-time-cafe/menus/dinner/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "hs-abc-commissary",
+    "name": "ABC Commissary",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/abc-commissary/menus/lunch-and-dinner/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "hs-anaheim-produce",
+    "name": "Anaheim Produce",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/anaheim-produce/menus/all-day/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "hs-backlot-express",
+    "name": "Backlot Express",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/backlot-express/menus/lunch-and-dinner/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "hs-baseline-tap-house",
+    "name": "BaseLine Tap House",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/baseline-tap-house/menus/bar-%E2%80%93-lounge/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "hs-catalina-eddies",
+    "name": "Catalina Eddie's",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/catalina-eddies/menus/lunch-and-dinner/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "hs-docking-bay-7-food-and-cargo-lunch",
+    "name": "Docking Bay 7 Food and Cargo (Lunch)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/docking-bay-7-food-and-cargo/menus/lunch/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "hs-docking-bay-7-food-and-cargo-dinner",
+    "name": "Docking Bay 7 Food and Cargo (Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/docking-bay-7-food-and-cargo/menus/dinner/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "hs-dockside-diner",
+    "name": "Dockside Diner",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/dockside-diner/menus/lunch-and-dinner/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "hs-epic-eats",
+    "name": "Epic Eats",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/epic-eats/menus/all-day/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
   }
 ]

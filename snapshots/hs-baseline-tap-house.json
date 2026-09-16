@@ -43,7 +43,9 @@
         "— Johnnie Walker Black Label",
         "— Jose Cuervo Tradicional Reposado",
         "— Patrón Silver",
-        "— Lunazul Añejo Tequila"
+        "— Lunazul Añejo Tequila",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

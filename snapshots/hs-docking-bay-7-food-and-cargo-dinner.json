@@ -24,7 +24,9 @@
         "— DASANI® Bottled Water",
         "— Small Chocolate Milk",
         "— Minute Maid® Apple Juice",
-        "— Lowfat Milk"
+        "— Lowfat Milk",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

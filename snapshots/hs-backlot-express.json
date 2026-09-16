@@ -47,7 +47,9 @@
         "— Copa Chardonnay, Oregon",
         "— Copa Cabernet Sauvignon, Oregon",
         "— Yuengling",
-        "— Bud Light Lager - St. Louis, MO"
+        "— Bud Light Lager - St. Louis, MO",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]
