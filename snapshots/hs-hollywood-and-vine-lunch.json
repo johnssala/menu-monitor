@@ -47,7 +47,9 @@
         "Cigar City Jai Alai IPA - Tampa, FL - Draft",
         "Samuel Adams Seasonal - Boston, MA - Draft",
         "Angry Orchard Crisp Apple Hard Cider - Cincinnati, OH",
-        "White Claw Black Cherry Hard Seltzer - Chicago, IL"
+        "White Claw Black Cherry Hard Seltzer - Chicago, IL",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

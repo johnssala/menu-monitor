@@ -16,7 +16,9 @@
         "— Mint Chocolate Chip",
         "— Fat-free, No Sugar Added Vanilla",
         "— DASANI® Bottled Water",
-        "— smartwater®"
+        "— smartwater®",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

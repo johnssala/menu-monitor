@@ -12,7 +12,9 @@
         "— Blue Milk with Rum",
         "— Green Milk with Tequila",
         "— Pink Milk Cooler with Rum",
-        "— DASANI® Bottled Water"
+        "— DASANI® Bottled Water",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

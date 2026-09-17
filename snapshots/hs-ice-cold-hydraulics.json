@@ -29,7 +29,9 @@
         "— Cabernet Sauvignon",
         "— Chardonnay",
         "— Moscato",
-        "— Pinot Grigio"
+        "— Pinot Grigio",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

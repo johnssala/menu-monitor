@@ -67,7 +67,9 @@
         "— Sci-Fi Impossible™ Nachos",
         "— Brownie",
         "— Sorbet with Fresh Fruit",
-        "— Green Beans & Carrots"
+        "— Green Beans & Carrots",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

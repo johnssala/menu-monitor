@@ -61,7 +61,8 @@
         "— Rémy Martin VSOP",
         "— Rémy Martin XO",
         "— Brown Derby Original Grapefruit Cake",
-        "with Chocolate Sauce and Mickey Sprinkles (For Fish/Shellfish, Peanut, and Sesame Allergies)"
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

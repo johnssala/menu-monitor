@@ -18,7 +18,9 @@
         "— DASANI® Bottled Water",
         "— smartwater®",
         "— RAMONA Blood Orange Wine Spritz",
-        "— High Noon Pineapple Vodka Hard Seltzer"
+        "— High Noon Pineapple Vodka Hard Seltzer",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

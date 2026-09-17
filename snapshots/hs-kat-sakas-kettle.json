@@ -13,7 +13,9 @@
         "— Sprite® Bottle",
         "— Cold Brew Black Caf",
         "— DASANI® Bottled Water",
-        "— Spiked Cold Brew Black Caf"
+        "— Spiked Cold Brew Black Caf",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

@@ -27,7 +27,9 @@
         "— Bloody Mary",
         "— Cold Brew Martini",
         "Marsuret Prosecco, Valdobbiadene Superior Brut NV",
-        "Allergen Guide available upon arrival to the location"
+        "Allergen Guide available upon arrival to the location",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

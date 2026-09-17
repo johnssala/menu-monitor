@@ -19,7 +19,9 @@
         "— Cigar City Jai Alai IPA",
         "— Copa Di Vino",
         "— Sunshine Margarita",
-        "— Classic Piña Colada"
+        "— Classic Piña Colada",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

@@ -10,7 +10,9 @@
         "— Wild Cherry Slushy",
         "— Assorted Bottled Beverages",
         "— DASANI® Bottled Water",
-        "— smartwater®"
+        "— smartwater®",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

@@ -44,7 +44,9 @@
         "Hess Shirtail Creek Chardonnay – Monterey, CA",
         "— Imagery Pinot Noir – Sonoma, CA",
         "Line 39 Cabernet Sauvignon – Central Coast, CA",
-        "— Wheezy’s Watermelon Salad"
+        "— Wheezy’s Watermelon Salad",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]
