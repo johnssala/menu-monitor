@@ -42,7 +42,9 @@
         "— Grown-Up's Lemonade",
         "— Blue Moon Belgian White Ale - Golden, CO",
         "— Bud Light Lager - St. Louis, MO",
-        "Angry Orchard Crisp Apple Hard Cider - Cincinnati, OH"
+        "Angry Orchard Crisp Apple Hard Cider - Cincinnati, OH",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

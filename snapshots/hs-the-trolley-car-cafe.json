@@ -55,7 +55,9 @@
         "— Ham & Swiss Croissant",
         "— Carrot Cake Whoopie Pie",
         "— Assorted Pastries",
-        "— Mickey-shaped Cinnamon Roll"
+        "— Mickey-shaped Cinnamon Roll",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]
