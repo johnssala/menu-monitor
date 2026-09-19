@@ -29,7 +29,9 @@
         "— Chocolate Milk",
         "— DASANI® Bottled Water",
         "— Freshly Brewed Joffrey's Coffee™ Regular",
-        "— Freshly Brewed Joffrey's Coffee™ Decaf"
+        "— Freshly Brewed Joffrey's Coffee™ Decaf",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

@@ -42,7 +42,9 @@
         "— Freshly Brewed Joffrey's Coffee™ Regular",
         "— Freshly Brewed Joffrey's Coffee™ Decaf",
         "— Twinings® Hot Tea",
-        "— Hot Cocoa"
+        "— Hot Cocoa",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

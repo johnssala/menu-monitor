@@ -77,7 +77,9 @@
         "Unibroue La Fin du Monde Belgian-style Strong Ale, Canada",
         "Saison Dupont Belgian Farmhouse Ale, Belgium",
         "Heineken 0.0 (Non-Alcoholic) Zoeterwoude, Netherlands",
-        "Bite-sized Cheddar Cheese and Seasonal Fruit"
+        "Bite-sized Cheddar Cheese and Seasonal Fruit",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

@@ -57,7 +57,9 @@
         "— Brownie",
         "— Assorted Pastries",
         "— Hedgehog Cake Pop",
-        "— Pumpkin Cream Cheese Muffin"
+        "— Pumpkin Cream Cheese Muffin",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

@@ -19,7 +19,9 @@
         "— DASANI® Bottled Water",
         "— smartwater®",
         "— Gold Peak® Sweet Tea",
-        "— Minute Maid® Apple Juice"
+        "— Minute Maid® Apple Juice",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

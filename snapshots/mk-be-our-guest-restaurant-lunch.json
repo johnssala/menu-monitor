@@ -73,7 +73,9 @@
         "— Tapioca Dinner Rolls with Buttery Spread",
         "— Iceberg Wedge Salad",
         "— Braised Beef Short Rib with Gravy",
-        "— Seasonal Fruit Bowl"
+        "— Seasonal Fruit Bowl",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

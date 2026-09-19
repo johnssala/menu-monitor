@@ -41,7 +41,9 @@
         "— Blackberry-Orange Spritz",
         "— Bloody Mary",
         "— Legacy Mimosa",
-        "— Waffle"
+        "— Waffle",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

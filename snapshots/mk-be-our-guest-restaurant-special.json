@@ -54,7 +54,9 @@
         "— The Prisoner Red Blend, Napa Valley",
         "Simi Cabernet Sauvignon, Alexander Valley",
         "Silverado Vineyards Cabernet Sauvignon, Napa Valley",
-        "Silver Oak Cabernet Sauvignon, Alexander Valley"
+        "Silver Oak Cabernet Sauvignon, Alexander Valley",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

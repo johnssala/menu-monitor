@@ -8,18 +8,19 @@
         "— Soft-serve Cup",
         "— Churro",
         "— Churro with Chocolate Dipping Sauce",
-        "— Zurg Overload Shake",
         "Hand-dipped Mickey's Premium Ice Cream Bar",
         "— Churro Shake",
         "— Vanilla Shake",
         "— Chocolate Shake",
         "— Space Ranger Float",
-        "— Chocolate-Salted Caramel Cold Brew Float",
+        "— Chocolate-Caramel Cold Brew Float",
         "— Floats",
         "— Cherry Limeade Float",
         "— Assorted Fountain Beverages",
         "— DASANI® Bottled Water",
-        "— Joffrey’s™ Cold Brew Coffee"
+        "— Joffrey’s™ Cold Brew Coffee",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

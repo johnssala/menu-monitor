@@ -17,7 +17,9 @@
         "— Chocolate Milk",
         "— Twinings® Hot Tea",
         "— Freshly Brewed Joffrey's Coffee™",
-        "— Joffrey's™ Cold Brew Coffee"
+        "— Joffrey's™ Cold Brew Coffee",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

@@ -39,7 +39,9 @@
         "— Cheeseburger",
         "— Turkey Sandwich Kid's Pack",
         "— Kids' Chicken Strips (2 Strips)",
-        "— Kids' Macaroni & Cheese"
+        "— Kids' Macaroni & Cheese",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

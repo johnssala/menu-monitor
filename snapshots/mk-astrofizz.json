@@ -19,7 +19,9 @@
         "— Mickey’s Premium Ice Cream Bar",
         "— Mickey’s Premium Ice Cream Sandwich",
         "— Frozen Lemonade Cup",
-        "— Outshine® Strawberry Fruit Bar"
+        "— Outshine® Strawberry Fruit Bar",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]
