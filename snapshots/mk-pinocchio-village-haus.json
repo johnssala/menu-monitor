@@ -43,7 +43,9 @@
         "— Twinings® Hot Tea",
         "— DASANI® Bottled Water",
         "— Small Chocolate Milk",
-        "— Lowfat Milk"
+        "— Lowfat Milk",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

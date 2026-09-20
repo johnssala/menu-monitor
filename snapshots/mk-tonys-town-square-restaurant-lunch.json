@@ -56,7 +56,9 @@
         "— Stella Artois Belgian Lager, 16-oz draft",
         "— Cigar City Jai Alai IPA, 16-oz draft",
         "— Rice Pasta Spaghetti and Turkey Meatball",
-        "— Rice Macaroni & Cheese"
+        "— Rice Macaroni & Cheese",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

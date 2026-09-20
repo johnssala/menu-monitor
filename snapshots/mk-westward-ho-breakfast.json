@@ -2,7 +2,10 @@
   "sections": [
     {
       "title": "menu",
-      "items": []
+      "items": [
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
+      ]
     }
   ]
 }

@@ -34,7 +34,9 @@
         "— Legacy Mimosa",
         "— Island Fusion Punch",
         "— Enchanted Grove Lime Splash",
-        "Allergen Guide available upon arrival to the location"
+        "Allergen Guide available upon arrival to the location",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

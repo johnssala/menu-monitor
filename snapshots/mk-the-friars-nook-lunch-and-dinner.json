@@ -25,7 +25,9 @@
         "— Large Twinings® Hot Tea",
         "— Freshly Brewed Joffrey's Coffee™",
         "— Hot Cocoa",
-        "— Twinings® Hot Tea"
+        "— Twinings® Hot Tea",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

@@ -31,7 +31,9 @@
         "— Blackberry-Orange Spritz",
         "— Sunrise Margarita",
         "— Island Fusion Punch",
-        "Allergen Guide available upon arrival to the location"
+        "Allergen Guide available upon arrival to the location",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

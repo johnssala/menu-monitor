@@ -17,7 +17,9 @@
         "— Frozen Strawberry Lemonade Cup",
         "— Assorted Fountain Beverages",
         "— DASANI® Bottled Water",
-        "— smartwater®"
+        "— smartwater®",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

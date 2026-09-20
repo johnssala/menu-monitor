@@ -24,7 +24,9 @@
         "— S'mores Shake",
         "— Ice Cream Float",
         "— Assorted Bottled Beverages",
-        "— DASANI® Bottled Water"
+        "— DASANI® Bottled Water",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

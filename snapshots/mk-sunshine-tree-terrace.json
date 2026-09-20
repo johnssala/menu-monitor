@@ -21,7 +21,9 @@
         "Large Joffrey's™ Cold Brew Coffee with Sweet Cream",
         "Joffrey's™ Cold Brew Coffee with Sweet Cream",
         "— Assorted Fountain Beverages",
-        "— DASANI® Bottled Water"
+        "— DASANI® Bottled Water",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

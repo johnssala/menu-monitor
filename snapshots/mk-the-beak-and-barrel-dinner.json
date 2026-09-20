@@ -28,7 +28,9 @@
         "Athletic Brewing Co Upside Dawn Golden (Non-Alcoholic)",
         "Foursquare Rum Distillery Exceptional Cask Selection Mark XXVIII",
         "— Flor de Caña 25 yr Rum",
-        "— Diplomático Ambassador Selection Rum"
+        "— Diplomático Ambassador Selection Rum",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

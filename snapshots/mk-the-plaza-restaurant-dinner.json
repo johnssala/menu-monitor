@@ -51,7 +51,9 @@
         "— Sunrise Margarita",
         "— Cold Brew Martini",
         "— House-made White Sangria",
-        "— Impossible™ Chili Burger"
+        "— Impossible™ Chili Burger",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

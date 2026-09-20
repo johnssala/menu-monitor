@@ -48,7 +48,9 @@
         "— Herbed Rice Bread Stuffing",
         "— House-made Gravy",
         "— Seasonal Sorbet",
-        "Plant-based Johnny Appleseed's Warm Apple Cake"
+        "Plant-based Johnny Appleseed's Warm Apple Cake",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

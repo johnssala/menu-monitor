@@ -11,7 +11,9 @@
         "— Seaside Serenade",
         "— Frozen Coca-Cola® Slushy",
         "— Assorted Bottled Beverages",
-        "— DASANI® Bottled Water"
+        "— DASANI® Bottled Water",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]
