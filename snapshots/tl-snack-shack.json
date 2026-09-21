@@ -16,7 +16,9 @@
         "— Piña Colada",
         "DOLE Whip® or Soft-serve Cup with Alcohol",
         "— Bud Light Lager",
-        "— Michelob Ultra Lager"
+        "— Michelob Ultra Lager",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

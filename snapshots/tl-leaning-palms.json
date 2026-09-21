@@ -52,7 +52,9 @@
         "— Frozen Blue Colada",
         "— RAMONA Meyer Lemon Wine Spritz",
         "— RAMONA Ruby Grapefruit Wine Spritz",
-        "— RAMONA Blood Orange Wine Spritz"
+        "— RAMONA Blood Orange Wine Spritz",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

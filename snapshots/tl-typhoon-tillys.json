@@ -41,7 +41,9 @@
         "Bud Light Lager - St. Louis, MO with a Souvenir Cup",
         "Yuengling Traditional Lager – Pottsville, PA with a Souvenir Cup",
         "— Opici Family Red Sangria",
-        "— Opici Family White Sangria"
+        "— Opici Family White Sangria",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

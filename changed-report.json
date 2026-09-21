@@ -1,277 +1,77 @@
 [
   {
-    "id": "mk-pinocchio-village-haus",
-    "name": "Pinocchio Village Haus",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/pinocchio-village-haus/menus/lunch-and-dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-plaza-ice-cream-parlor",
-    "name": "Plaza Ice Cream Parlor",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-ice-cream-parlor/menus/snack/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-prince-erics-village-market",
-    "name": "Prince Eric's Village Market",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/prince-eric-village-market/menus/snack/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-sleepy-hollow",
-    "name": "Sleepy Hollow",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/sleepy-hollow/menus/all-day/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-storybook-treats",
-    "name": "Storybook Treats",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/storybook-treats/menus/snack/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-sunshine-tree-terrace",
-    "name": "Sunshine Tree Terrace",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/sunshine-tree-terrace/menus/snack/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-the-beak-and-barrel-lunch",
-    "name": "The Beak and Barrel (Lunch)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/beak-barrel/menus/lunch/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-the-beak-and-barrel-dinner",
-    "name": "The Beak and Barrel (Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/beak-barrel/menus/dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-the-crystal-palace-breakfast",
-    "name": "The Crystal Palace (Breakfast)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/crystal-palace/menus/breakfast/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-the-crystal-palace-lunch",
-    "name": "The Crystal Palace (Lunch)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/crystal-palace/menus/lunch/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-the-crystal-palace-dinner",
-    "name": "The Crystal Palace (Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/crystal-palace/menus/dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-the-diamond-horseshoe-lunch",
-    "name": "The Diamond Horseshoe (Lunch)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/diamond-horseshoe/menus/lunch/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-the-diamond-horseshoe-dinner",
-    "name": "The Diamond Horseshoe (Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/diamond-horseshoe/menus/dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-the-friars-nook-breakfast",
-    "name": "The Friar's Nook (Breakfast)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/breakfast/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-the-friars-nook-lunch-and-dinner",
-    "name": "The Friar's Nook (Lunch & Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/lunch-and-dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-the-lunching-pad-breakfast",
-    "name": "The Lunching Pad (Breakfast)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/lunching-pad/menus/breakfast/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-the-lunching-pad-lunch-and-dinner",
-    "name": "The Lunching Pad (Lunch & Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/lunching-pad/menus/lunch-and-dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-the-plaza-restaurant-lunch",
-    "name": "The Plaza Restaurant (Lunch)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-restaurant/menus/lunch/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-the-plaza-restaurant-dinner",
-    "name": "The Plaza Restaurant (Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-restaurant/menus/dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-tonys-town-square-restaurant-lunch",
-    "name": "Tony's Town Square Restaurant (Lunch)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/tonys-town-square-restaurant/menus/lunch/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-tonys-town-square-restaurant-dinner",
-    "name": "Tony's Town Square Restaurant (Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/tonys-town-square-restaurant/menus/dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-tortuga-tavern",
-    "name": "Tortuga Tavern",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/tortuga-tavern/menus/lunch-and-dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-westward-ho-breakfast",
-    "name": "Westward Ho (Breakfast)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/westward-ho/menus/breakfast/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-westward-ho-lunch-and-dinner",
-    "name": "Westward Ho (Lunch & Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/westward-ho/menus/lunch-and-dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "tl-happy-landings-ice-cream",
-    "name": "Happy Landings Ice Cream",
+    "id": "tl-leaning-palms",
+    "name": "Leaning Palms",
     "park": "Typhoon Lagoon",
-    "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/happy-landings-ice-cream/menus/snack/",
+    "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/leaning-palms/menus/lunch/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
     ],
     "removed": []
+  },
+  {
+    "id": "tl-lowtide-lous",
+    "name": "Lowtide Lou's",
+    "park": "Typhoon Lagoon",
+    "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/low-tide-lou/menus/snack/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "tl-snack-shack",
+    "name": "Snack Shack",
+    "park": "Typhoon Lagoon",
+    "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/snack-shack/menus/snack/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "tl-surf-doggies",
+    "name": "Surf Doggies",
+    "park": "Typhoon Lagoon",
+    "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/surf-doggies/menus/snack/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "tl-typhoon-tillys",
+    "name": "Typhoon Tilly's",
+    "park": "Typhoon Lagoon",
+    "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/typhoon-tilly/menus/lunch-and-dinner/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "usf-schwabs-pharmacy",
+    "name": "Schwab's Pharmacy",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/schwabs-pharmacy/menu.html",
+    "added": [
+      "Halloween Horror Nights Speciality",
+      "The Jack Shake",
+      "caramel cone ice cream milkshake with \"Jack\" whipped topping, maraschino cherry and green sprinkles",
+      "The Oddfellow Shake",
+      "brownie a la mode ice cream milkshake with green whipped topping, edible glitter and a golden chocolate zodiac symbol",
+      "Dole® Soft Serve"
+    ],
+    "removed": [
+      "Mardi Gras Speciality",
+      "King Gator's",
+      "praline ice cream milkshake with mardi gras inspired sweetened milk, sprinkles and a golden chocolate gator",
+      "Dole Whip Pineapple Sorbet"
+    ]
   }
 ]

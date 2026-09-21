@@ -12,7 +12,9 @@
         "— smartwater®",
         "— High Noon Pineapple Hard Seltzer",
         "— Bud Light Lager - St. Louis, MO",
-        "— Corona Extra Lager - Mexico"
+        "— Corona Extra Lager - Mexico",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

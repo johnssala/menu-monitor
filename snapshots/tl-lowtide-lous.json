@@ -19,7 +19,9 @@
         "— High Noon Pineapple Vodka Hard Seltzer",
         "— RAMONA Blood Orange Wine Spritz",
         "— RAMONA Ruby Grapefruit Wine Spritz",
-        "— RAMONA Meyer Lemon Wine Spritz"
+        "— RAMONA Meyer Lemon Wine Spritz",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]
