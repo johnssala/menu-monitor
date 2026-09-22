@@ -1,77 +1,32 @@
 [
   {
-    "id": "tl-leaning-palms",
-    "name": "Leaning Palms",
-    "park": "Typhoon Lagoon",
-    "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/leaning-palms/menus/lunch/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "tl-lowtide-lous",
-    "name": "Lowtide Lou's",
-    "park": "Typhoon Lagoon",
-    "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/low-tide-lou/menus/snack/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "tl-snack-shack",
-    "name": "Snack Shack",
-    "park": "Typhoon Lagoon",
-    "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/snack-shack/menus/snack/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "tl-surf-doggies",
-    "name": "Surf Doggies",
-    "park": "Typhoon Lagoon",
-    "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/surf-doggies/menus/snack/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "tl-typhoon-tillys",
-    "name": "Typhoon Tilly's",
-    "park": "Typhoon Lagoon",
-    "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/typhoon-tilly/menus/lunch-and-dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "usf-schwabs-pharmacy",
-    "name": "Schwab's Pharmacy",
-    "park": "Universal Studios Florida",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/schwabs-pharmacy/menu.html",
-    "added": [
-      "Halloween Horror Nights Speciality",
-      "The Jack Shake",
-      "caramel cone ice cream milkshake with \"Jack\" whipped topping, maraschino cherry and green sprinkles",
-      "The Oddfellow Shake",
-      "brownie a la mode ice cream milkshake with green whipped topping, edible glitter and a golden chocolate zodiac symbol",
-      "Dole® Soft Serve"
-    ],
+    "id": "ush-city-snack-shop",
+    "name": "City Snack Shop",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/city-snack-shop/menu.html",
+    "added": [],
     "removed": [
-      "Mardi Gras Speciality",
-      "King Gator's",
-      "praline ice cream milkshake with mardi gras inspired sweetened milk, sprinkles and a golden chocolate gator",
-      "Dole Whip Pineapple Sorbet"
+      "Frito Scoops topped with beef chili and cheddar cheese",
+      "Vanilla Cheesecake Sweet Horn",
+      "Sugar pastry cone with vanilla bean cheesecake",
+      "“Pick Poor Robin Clean”",
+      "Contains: Milk, Egg, Wheat"
+    ]
+  },
+  {
+    "id": "ush-minion-cafe",
+    "name": "Minion Cafe",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/minion-cafe/menu.html",
+    "added": [],
+    "removed": [
+      "Mega Movie Summer Exclusive Offerings",
+      "James' Carbonara",
+      "Cavatappi pasta in a garlic cream sauce, topped with peas and pancetta.",
+      "Irene’s Orange Banana Float",
+      "Orange Slush Puppy and frozen banana yogurt topped with whipped cream, orange and yellow sprinkles, and candy eyes",
+      "Howard's Berry Lemonade Cupcake",
+      "Pink vanilla cupcake filled with lemon, topped with a berry lemonade buttercream and pink lemonade gummy tentacles."
     ]
   }
 ]
