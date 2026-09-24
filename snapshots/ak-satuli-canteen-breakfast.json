@@ -35,7 +35,9 @@
         "— Mo'ara High Country Ale",
         "— Mangkwan Mousse",
         "— Blueberry Cream Cheese Mousse",
-        "— Cereal with Milk"
+        "— Cereal with Milk",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

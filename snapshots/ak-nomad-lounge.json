@@ -53,7 +53,9 @@
         "— Kiama Mamma",
         "— Lilly Gorill-ie",
         "— Passion Fruit-Vanilla Flavored Iced Tea",
-        "— Joffrey's® Coffee Shade Grown Sumatra"
+        "— Joffrey's® Coffee Shade Grown Sumatra",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

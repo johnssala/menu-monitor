@@ -26,7 +26,9 @@
         "— Coconut-flavored Iced Coffee",
         "Coconut-flavored Iced Coffee with Amarula Cream Liqueur",
         "— African Coffee",
-        "— Assorted Beer (10.25 - 12)"
+        "— Assorted Beer (10.25 - 12)",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

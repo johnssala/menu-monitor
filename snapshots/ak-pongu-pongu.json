@@ -14,7 +14,9 @@
         "— Rum Blossom",
         "— Mo'ara Margarita",
         "— Mo'ara High Country Ale",
-        "— Hawkes' Grog Ale"
+        "— Hawkes' Grog Ale",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

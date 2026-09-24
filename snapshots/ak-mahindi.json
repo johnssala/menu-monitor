@@ -15,7 +15,9 @@
         "— POWERADE®",
         "— DASANI® Bottled Water",
         "— Bud Light Lager",
-        "— Tiger Eye Gold Ale"
+        "— Tiger Eye Gold Ale",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

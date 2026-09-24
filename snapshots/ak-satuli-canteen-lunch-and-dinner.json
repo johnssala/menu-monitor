@@ -4,10 +4,16 @@
       "title": "menu",
       "items": [
         "Satu'li Canteen",
-        "— Slow-roasted Pork Shoulder Potato Hash",
-        "— Frittata and Beef",
-        "— Cinnamon French Toast",
-        "— Tropical Pandoran Forest Fruits",
+        "— Ocean Moon Bowl*",
+        "— Chimichurri Beef and Chili-Garlic Shrimp",
+        "Chopped Wood-grilled Chicken and Chili-Garlic Shrimp",
+        "Chimichurri Beef and Chopped Wood-grilled Chicken",
+        "— Chili-Garlic Shrimp Bowl",
+        "— Chimichurri Beef Bowl",
+        "— Spicy Pork Steamed \"Pods\"",
+        "— Cheeseburger Steamed Pods - Bao Buns",
+        "— Chopped Wood-Grilled Chicken Bowl",
+        "— Chili-Spiced Crispy Fried Tofu Bowl",
         "— Pandoran Sunrise",
         "— smartwater®",
         "— Assorted Fountain Beverages",
@@ -35,7 +41,11 @@
         "— Mo'ara High Country Ale",
         "— Mangkwan Mousse",
         "— Blueberry Cream Cheese Mousse",
-        "— Cereal with Milk"
+        "— Cheeseburger Steamed Pod",
+        "— Cheese Quesadilla",
+        "\"Teylu\" All-Beef Hot Dog Wrapped in Dough",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

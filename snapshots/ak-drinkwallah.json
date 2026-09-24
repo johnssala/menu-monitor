@@ -14,7 +14,9 @@
         "— Kona Longboard Island Lager",
         "— Tiger Eye Gold Ale",
         "— Frozen Rum & Coke®",
-        "— Frozen Jack & Coke®"
+        "— Frozen Jack & Coke®",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

@@ -51,7 +51,9 @@
         "— Hot Cocoa",
         "— Lowfat Milk",
         "— Small Minute Maid® Apple Juice",
-        "— Small Chocolate Milk"
+        "— Small Chocolate Milk",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

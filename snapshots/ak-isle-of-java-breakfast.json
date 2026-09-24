@@ -20,7 +20,9 @@
         "— Caffè Latte",
         "— Espresso",
         "— Joffrey’s Coffee™ Cold Brew Coffee",
-        "— Freshly Brewed Joffrey's Coffee™"
+        "— Freshly Brewed Joffrey's Coffee™",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

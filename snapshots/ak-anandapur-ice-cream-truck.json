@@ -11,7 +11,9 @@
         "— Assorted Fountain Beverages",
         "— DASANI® Bottled Water",
         "— Kona Longboard Island Lager",
-        "— Sierra Nevada Pale Ale"
+        "— Sierra Nevada Pale Ale",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

@@ -19,7 +19,9 @@
         "— POWERADE®",
         "— smartwater®",
         "— Minute Maid® Apple Juice",
-        "— Simply® Orange"
+        "— Simply® Orange",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

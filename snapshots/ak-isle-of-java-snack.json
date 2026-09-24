@@ -21,7 +21,9 @@
         "— Joffrey’s Coffee™ Cold Brew Coffee",
         "— Freshly Brewed Joffrey's Coffee™",
         "— Party Parrot",
-        "— Irish Coffee"
+        "— Irish Coffee",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

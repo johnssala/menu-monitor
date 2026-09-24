@@ -129,7 +129,9 @@
         "Rainbow Colada served in a Souvenir Glass",
         "Summer Rum Punch served in a Souvenir Glass",
         "— Coronarita",
-        "— Hurricane"
+        "— Hurricane",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

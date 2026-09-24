@@ -57,7 +57,9 @@
         "— Café Au Lait",
         "— Espresso",
         "— Cappuccino",
-        "— Rio's Java Freeze"
+        "— Rio's Java Freeze",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

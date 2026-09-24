@@ -17,7 +17,9 @@
         "DOLE Whip® Pineapple Juice Float with Parrot Bay Coconut Rum",
         "— African Coffee",
         "— Safari Amber Draft",
-        "— Irish Coffee"
+        "— Irish Coffee",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

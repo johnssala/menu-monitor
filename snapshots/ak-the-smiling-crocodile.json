@@ -11,7 +11,9 @@
         "— DASANI® Bottled Water",
         "— Bud Light Lager Draft",
         "— Blue Moon Belgian White Ale Draft",
-        "Passion Fruit-Orange-Guava Juice Limeade with Chili-Lime Seasoning and Tequila"
+        "Passion Fruit-Orange-Guava Juice Limeade with Chili-Lime Seasoning and Tequila",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

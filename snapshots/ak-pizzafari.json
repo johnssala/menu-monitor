@@ -45,7 +45,9 @@
         "— Blue Lagoon with Rum",
         "— Safari Amber - St. Louis, MO",
         "— RAMONA Ruby Grapefruit Wine Spritz",
-        "— Bud Light Lager - St. Louis, MO"
+        "— Bud Light Lager - St. Louis, MO",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

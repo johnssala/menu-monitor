@@ -11,7 +11,9 @@
         "— Bluey's Berry Lemonade",
         "— Assorted Fountain Beverages",
         "— DASANI® Bottled Water",
-        "— Kona Longboard Island Lager"
+        "— Kona Longboard Island Lager",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

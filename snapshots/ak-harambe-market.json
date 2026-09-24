@@ -29,7 +29,9 @@
         "— Hot Cocoa",
         "— Harambe Sunrise",
         "— Safari Amber - St. Louis, MO",
-        "Tampa Bay Reef Donkey APA - Tampa Bay, FL"
+        "Tampa Bay Reef Donkey APA - Tampa Bay, FL",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]
