@@ -14,7 +14,9 @@
         "Premium and Craft Beer with a Souvenir Cup",
         "Premium and Craft Beer Souvenir Cup Same-Day Refills",
         "— Domestic Beer with a Souvenir Cup",
-        "Domestic Beer Souvenir Cup Same-Day Refills"
+        "Domestic Beer Souvenir Cup Same-Day Refills",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

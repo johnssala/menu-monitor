@@ -17,7 +17,9 @@
         "— Simply® Orange",
         "— DASANI® Bottled Water",
         "— smartwater®",
-        "— Freshly Brewed Joffrey's Coffee™"
+        "— Freshly Brewed Joffrey's Coffee™",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

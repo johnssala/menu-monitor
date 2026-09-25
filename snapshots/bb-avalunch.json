@@ -22,7 +22,9 @@
         "Lexington Kentucky Bourbon Barrel Ale - Lexington, KY with a Souvenir Cup",
         "— High Noon Pineapple Vodka Seltzer",
         "— Crooked Can High Stepper IPA",
-        "— RAMONA Ruby Grapefruit Wine Spritz"
+        "— RAMONA Ruby Grapefruit Wine Spritz",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

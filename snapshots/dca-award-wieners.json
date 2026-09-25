@@ -6,8 +6,7 @@
         "Award Wieners",
         "— Coco Lantern Sipper",
         "— Oktoberfest Dog",
-        "— Halloween Travel Tumbler 2026",
-        "— Bullseye Bucket",
+        "— Halloween Travel Tumbler",
         "Bacon Street Dog",
         "— Uptown Chili Dog",
         "— All-Beef Hot Dog",
@@ -29,7 +28,9 @@
         "— Hot Cocoa",
         "— Coffee - Regular",
         "— Coffee - Decaffeinated",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

@@ -92,7 +92,9 @@
         "— Full Wine List Available Upon Request",
         "— White Wine Flight",
         "— Red Wine Flight",
-        "— Fresh Fruit"
+        "— Fresh Fruit",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

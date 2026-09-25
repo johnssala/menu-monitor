@@ -18,7 +18,9 @@
         "— Assorted Fountain Beverages",
         "— DASANI® Bottled Water",
         "— Crooked Can High Stepper IPA",
-        "— Blue Moon Belgian White Ale - Golden, CO"
+        "— Blue Moon Belgian White Ale - Golden, CO",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

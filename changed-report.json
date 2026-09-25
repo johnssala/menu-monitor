@@ -1,9 +1,9 @@
 [
   {
-    "id": "ak-anandapur-ice-cream-truck",
-    "name": "Anandapur Ice Cream Truck",
+    "id": "ak-tiffins-restaurant-lunch",
+    "name": "Tiffins Restaurant (Lunch)",
     "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/anandapur-ice-cream-truck/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tiffins/menus/lunch/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -11,10 +11,10 @@
     "removed": []
   },
   {
-    "id": "ak-caravan-road",
-    "name": "Caravan Road",
+    "id": "ak-tiffins-restaurant-dinner",
+    "name": "Tiffins Restaurant (Dinner)",
     "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/caravan-road/menus/snack/",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tiffins/menus/dinner/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -22,10 +22,10 @@
     "removed": []
   },
   {
-    "id": "ak-creature-comforts",
-    "name": "Creature Comforts (Starbucks)",
+    "id": "ak-trek-snacks",
+    "name": "Trek Snacks",
     "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/creature-comforts/menus/coffee-%E2%80%93-bakery/",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/trek-snacks/menus/snack/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -33,10 +33,10 @@
     "removed": []
   },
   {
-    "id": "ak-drinkwallah",
-    "name": "Drinkwallah",
+    "id": "ak-tusker-house-restaurant-breakfast",
+    "name": "Tusker House Restaurant (Breakfast)",
     "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/drinkwallah/menus/snack/",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tusker-house-restaurant/menus/breakfast/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -44,10 +44,10 @@
     "removed": []
   },
   {
-    "id": "ak-eight-spoon-cafe",
-    "name": "Eight Spoon Café",
+    "id": "ak-tusker-house-restaurant-lunch",
+    "name": "Tusker House Restaurant (Lunch)",
     "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/eight-spoon-cafe/menus/snack/",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tusker-house-restaurant/menus/lunch/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -55,10 +55,10 @@
     "removed": []
   },
   {
-    "id": "ak-flame-tree-barbecue",
-    "name": "Flame Tree Barbecue",
+    "id": "ak-tusker-house-restaurant-dinner",
+    "name": "Tusker House Restaurant (Dinner)",
     "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/flame-tree-barbecue/menus/lunch-and-dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tusker-house-restaurant/menus/dinner/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -66,10 +66,10 @@
     "removed": []
   },
   {
-    "id": "ak-harambe-fruit-market",
-    "name": "Harambe Fruit Market",
+    "id": "ak-warung-outpost",
+    "name": "Warung Outpost",
     "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/harambe-fruit-market/menus/snack/",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/warung-outpost/menus/bar-%E2%80%93-lounge/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -77,10 +77,10 @@
     "removed": []
   },
   {
-    "id": "ak-harambe-market",
-    "name": "Harambe Market",
+    "id": "ak-yak-and-yeti-local-food-cafes-breakfast",
+    "name": "Yak & Yeti Local Food Cafes (Breakfast)",
     "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/harambe-market/menus/lunch-and-dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/yak-and-yeti-local-foods-cafe/menus/breakfast/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -88,172 +88,61 @@
     "removed": []
   },
   {
-    "id": "ak-isle-of-java-breakfast",
-    "name": "Isle of Java (Breakfast)",
+    "id": "ak-yak-and-yeti-local-food-cafes-lunch-and-dinner",
+    "name": "Yak & Yeti Local Food Cafes (Lunch & Dinner)",
     "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/isle-of-java/menus/breakfast/",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/yak-and-yeti-local-foods-cafe/menus/lunch-and-dinner/",
     "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ak-isle-of-java-snack",
-    "name": "Isle of Java (Snack)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/isle-of-java/menus/snack/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ak-kusafiri-coffee-shop-and-bakery-breakfast",
-    "name": "Kusafiri Coffee Shop & Bakery (Breakfast)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/kusafiri-coffee-shop-and-bakery/menus/breakfast/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ak-kusafiri-coffee-shop-and-bakery-lunch-and-dinner",
-    "name": "Kusafiri Coffee Shop & Bakery (Lunch & Dinner)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/kusafiri-coffee-shop-and-bakery/menus/lunch-and-dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ak-mahindi",
-    "name": "Mahindi",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/mahindi/menus/snack/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ak-nomad-lounge",
-    "name": "Nomad Lounge",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/nomad-lounge/menus/bar-%E2%80%93-lounge/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ak-pizzafari",
-    "name": "Pizzafari",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/pizzafari/menus/lunch-and-dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ak-pongu-pongu",
-    "name": "Pongu Pongu",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/pongu-pongu/menus/snack/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ak-rainforest-cafe-breakfast",
-    "name": "Rainforest Cafe (Breakfast)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/rainforest-cafe-animal-kingdom/menus/breakfast/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ak-rainforest-cafe-lunch",
-    "name": "Rainforest Cafe (Lunch)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/rainforest-cafe-animal-kingdom/menus/lunch/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ak-rainforest-cafe-dinner",
-    "name": "Rainforest Cafe (Dinner)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/rainforest-cafe-animal-kingdom/menus/dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ak-satuli-canteen-breakfast",
-    "name": "Satu'li Canteen (Breakfast)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/satuli-canteen/menus/breakfast/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ak-satuli-canteen-lunch-and-dinner",
-    "name": "Satu'li Canteen (Lunch & Dinner)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/satuli-canteen/menus/lunch-and-dinner/",
-    "added": [
-      "— Ocean Moon Bowl*",
-      "— Chimichurri Beef and Chili-Garlic Shrimp",
-      "Chopped Wood-grilled Chicken and Chili-Garlic Shrimp",
-      "Chimichurri Beef and Chopped Wood-grilled Chicken",
-      "— Chili-Garlic Shrimp Bowl",
-      "— Chimichurri Beef Bowl",
-      "— Spicy Pork Steamed \"Pods\"",
-      "— Cheeseburger Steamed Pods - Bao Buns",
-      "— Chopped Wood-Grilled Chicken Bowl",
-      "— Chili-Spiced Crispy Fried Tofu Bowl",
-      "— Cheeseburger Steamed Pod",
-      "— Cheese Quesadilla",
-      "\"Teylu\" All-Beef Hot Dog Wrapped in Dough",
+      "— Honey Sesame Chicken",
+      "— Yeti Cheeseburger",
+      "— Firecracker Shrimp",
+      "— Korean Fried Chicken Sandwich",
+      "— Korean Barbecue Rib Tips",
+      "— Teriyaki Chicken Salad",
+      "— Vegetable Tikka Masala",
+      "— Pork Egg Rolls - 2 Rolls",
+      "— Chicken Fried Rice",
+      "— Crispy Pork Pot Stickers",
+      "— Pork Egg Rolls - 1 Roll",
+      "— Snack Chicken Fried Rice",
+      "— Basket of French Fries",
+      "— Banana Pudding Parfait",
+      "— Mini Mango Pie",
+      "— Cheeseburger",
+      "— Chicken Strips",
+      "— PB&J Uncrustable",
+      "— Assorted Fountain Beverages",
+      "— Souvenir Panda Cup",
+      "— DASANI® Bottled Water",
+      "— Milk",
+      "— Chocolate Milk",
+      "— Bud Light Lager",
+      "— Safari Amber Lager",
+      "— Local Seasonal Beer",
+      "— Opici Family Sangria",
+      "J Pop Tokyo Sparkling Cocktail",
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
     ],
     "removed": [
-      "— Slow-roasted Pork Shoulder Potato Hash",
-      "— Frittata and Beef",
-      "— Cinnamon French Toast",
-      "— Tropical Pandoran Forest Fruits",
-      "— Cereal with Milk"
+      "— Breakfast Bowl",
+      "— Breakfast Bowl with Bacon or Sausage",
+      "— Egg White English Muffin",
+      "— Sausage and Egg English Muffin",
+      "— Fruit Salad",
+      "— Yogurt Parfait",
+      "— Hash Brown Bites",
+      "— Pancake Sausage Stick",
+      "— French Toast",
+      "— Simply® Orange",
+      "— Freshly Brewed Coffee"
     ]
   },
   {
-    "id": "ak-tamu-tamu-refreshments-breakfast",
-    "name": "Tamu Tamu Refreshments (Breakfast)",
+    "id": "ak-yak-and-yeti-restaurant-lunch",
+    "name": "Yak & Yeti Restaurant (Lunch)",
     "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tamu-tamu-refreshments/menus/breakfast/",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/yak-and-yeti-restaurant/menus/lunch/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -261,10 +150,10 @@
     "removed": []
   },
   {
-    "id": "ak-tamu-tamu-refreshments-snack",
-    "name": "Tamu Tamu Refreshments (Snack)",
+    "id": "ak-yak-and-yeti-restaurant-dinner",
+    "name": "Yak & Yeti Restaurant (Dinner)",
     "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tamu-tamu-refreshments/menus/snack/",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/yak-and-yeti-restaurant/menus/dinner/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -272,10 +161,10 @@
     "removed": []
   },
   {
-    "id": "ak-terra-treats",
-    "name": "Terra Treats",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/terra-treats/menus/snack/",
+    "id": "bb-arctic-expeditions",
+    "name": "Arctic Expeditions",
+    "park": "Blizzard Beach",
+    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/arctic-expeditions/menus/snack/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -283,14 +172,160 @@
     "removed": []
   },
   {
-    "id": "ak-the-smiling-crocodile",
-    "name": "The Smiling Crocodile",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/smiling-crocodile/menus/lunch-and-dinner/",
+    "id": "bb-avalunch",
+    "name": "Avalunch",
+    "park": "Blizzard Beach",
+    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/avalunch/menus/snack/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
     ],
     "removed": []
+  },
+  {
+    "id": "bb-cooling-hut-all-day",
+    "name": "Cooling Hut (All-Day)",
+    "park": "Blizzard Beach",
+    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/cooling-hut/menus/all-day/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "bb-cooling-hut-snack",
+    "name": "Cooling Hut (Snack)",
+    "park": "Blizzard Beach",
+    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/cooling-hut/menus/snack/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "bb-i-c-expeditions",
+    "name": "I.C. Expeditions",
+    "park": "Blizzard Beach",
+    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/i-c-expeditions/menus/snack/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "bb-lottawatta-lodge-all-day",
+    "name": "Lottawatta Lodge (All-Day)",
+    "park": "Blizzard Beach",
+    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/lottawatta-lodge/menus/all-day/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "bb-lottawatta-lodge-lunch-and-dinner",
+    "name": "Lottawatta Lodge (Lunch & Dinner)",
+    "park": "Blizzard Beach",
+    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/lottawatta-lodge/menus/lunch-and-dinner/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "bb-warming-hut",
+    "name": "Warming Hut",
+    "park": "Blizzard Beach",
+    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/warming-hut/menus/snack/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dca-adorable-snowman-frosted-treats",
+    "name": "Adorable Snowman Frosted Treats",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/adorable-snowman-frosted-treats/menus/snack/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dca-aunt-cass-cafe",
+    "name": "Aunt Cass Café",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/aunt-cass-cafe/menus/lunch-and-dinner/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dca-award-wieners",
+    "name": "Award Wieners",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/award-wieners/menus/lunch-and-dinner/",
+    "added": [
+      "— Halloween Travel Tumbler",
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": [
+      "— Halloween Travel Tumbler 2026",
+      "— Bullseye Bucket"
+    ]
+  },
+  {
+    "id": "dca-bayside-brews",
+    "name": "Bayside Brews",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/bayside-brews/menus/snack/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dca-boardwalk-pizza-and-pasta",
+    "name": "Boardwalk Pizza & Pasta",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/boardwalk-pizza-pasta/menus/lunch-and-dinner/",
+    "added": [
+      "— Halloween Travel Tumbler",
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": [
+      "— Halloween Travel Tumbler 2026",
+      "— Pixar Pals Travel Mug"
+    ]
+  },
+  {
+    "id": "dca-carthay-circle-lounge-lunch",
+    "name": "Carthay Circle Lounge (Lunch)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-lounge/menus/lunch/",
+    "added": [
+      "— Mini Pepperoni Calzones",
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": [
+      "— Pepperoni Pizza Pinwheels",
+      "Golden Road Golden State Cerveza, Los Angeles",
+      "— Bootlegger's Old World Hefeweizen",
+      "— Stone Brewery Delicious IPA"
+    ]
   }
 ]

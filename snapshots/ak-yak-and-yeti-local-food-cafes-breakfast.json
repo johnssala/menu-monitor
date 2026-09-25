@@ -16,7 +16,9 @@
         "— Simply® Orange",
         "— Minute Maid® Apple Juice",
         "— Freshly Brewed Coffee",
-        "— Flavored Coconut Water"
+        "— Flavored Coconut Water",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

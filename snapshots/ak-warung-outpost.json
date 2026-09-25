@@ -10,7 +10,9 @@
         "— Churro",
         "— Assorted Coca-Cola® Fountain Beverages",
         "— DASANI® Bottled Water",
-        "DOLE Whip® Pineapple Juice Float with Rum"
+        "DOLE Whip® Pineapple Juice Float with Rum",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

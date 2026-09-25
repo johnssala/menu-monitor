@@ -105,7 +105,9 @@
         "— Sho Chiku Bai Sake - 6oz",
         "Sho Chiku Bai Mio Sparkling Sake",
         "— Hana Fuji Apple Flavored Sake - 6oz",
-        "Sho Chiku Bai Junmai Nigori Sake - 300 mL"
+        "Sho Chiku Bai Junmai Nigori Sake - 300 mL",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

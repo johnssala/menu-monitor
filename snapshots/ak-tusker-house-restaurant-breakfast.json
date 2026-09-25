@@ -67,7 +67,9 @@
         "— India Pale Ale",
         "— Hard Cider and Hard Seltzer",
         "— Seasonal",
-        "Allergen Guide available upon arrival to the location"
+        "Allergen Guide available upon arrival to the location",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]
