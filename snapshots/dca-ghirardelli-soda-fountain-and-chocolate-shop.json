@@ -49,7 +49,9 @@
         "— Sodas - Medium",
         "— Sodas - Large",
         "— Bottled Water",
-        "Sparkling Bottled Water"
+        "Sparkling Bottled Water",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

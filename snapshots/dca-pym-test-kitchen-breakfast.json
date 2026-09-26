@@ -31,14 +31,15 @@
         "— Coca-Cola® Freestyle - Large",
         "— DASANI® Bottled Water",
         "— Glowing Pym Particle Capsule",
-        "— Glowing Pym Particle Disc",
         "— Strawberry Matcha Rum Cocktail",
         "— Proton Potation",
         "— Topa Topa Brewing Co., Chief Peak IPA",
         "— Kona Brewing Co., Big Wave",
         "— Beer Mimosa",
         "— Sierra Nevada, Sunny Little Thing",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

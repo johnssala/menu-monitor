@@ -4,7 +4,7 @@
       "title": "menu",
       "items": [
         "Corn Dog Castle",
-        "— Halloween Travel Tumbler 2026",
+        "— Halloween Travel Tumbler",
         "— Magic Key Ursula Straw Clip",
         "— Original Corn Dog",
         "— Hot-Link Corn Dog",
@@ -18,7 +18,9 @@
         "— Hot Cocoa",
         "— Coffee - Regular",
         "— Coffee - Decaffeinated",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

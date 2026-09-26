@@ -19,8 +19,8 @@
         "White Cheddar Parker House Rolls",
         "— Yukon Gold Mashed Potatoes",
         "— Roasted Broccolini",
-        "— Phyllo Dough Peach Custard",
-        "— Black Forest Cherry Bliss",
+        "— Warm Brown Butter Hummingbird Cake",
+        "— Chocolate Pumpkin Feather Cake",
         "Seasonal Fruit with Honey Yogurt & Granola",
         "— Tomato Soup with Grilled Cheese Bar",
         "Tempura Green Beans with Buttermilk Dressing",
@@ -69,7 +69,9 @@
         "— Bourbon Crusta",
         "— Club Mojito",
         "— Bloody Mary",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

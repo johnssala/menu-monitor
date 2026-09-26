@@ -6,7 +6,7 @@
         "Paradise Garden Grill",
         "— Hades Glow Cube",
         "— Coco Lantern Sipper",
-        "— Halloween Travel Tumbler 2026",
+        "— Halloween Travel Tumbler",
         "— Magic Key Ursula Straw Clip",
         "— Little Green Men Jetpack Sipper",
         "— Chilaquiles Carnitas Torta",
@@ -30,7 +30,9 @@
         "— Coffee - Decaffeinated",
         "— Hot Tea",
         "— Hot Cocoa",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

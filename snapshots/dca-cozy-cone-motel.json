@@ -28,12 +28,12 @@
         "— Chili Cone Queso",
         "— Bacon Mac 'n' Cheese",
         "— Chimichanga",
+        "— Tarantula Hill Liquid Hazy Candy IPA",
         "— Strawberry-Peach Margarita",
         "— Strawberry Michelada",
         "Mother Earth Brew Co., Cali Screamin' Pumpkin Vanilla Cream Ale",
         "— Unsung Brewing Co., Poison Apple Seltzer",
         "— Modelo Especial",
-        "— Golden Road Mango Cart Soju Michelada",
         "— Vodka & All Natural Lemonade",
         "— Vodka & Pomegranate Limeade",
         "Fillmore's Fuelin' Groovy' All Natural Lemonade",
@@ -43,7 +43,9 @@
         "— Fantasma Agua Fresca Cocktail",
         "— Watermelon Chamoy Lemonade Michelada",
         "— Pineapple-Cucumber Agua Fresca",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

@@ -63,7 +63,9 @@
         "Honey Bubbles Sparkling Moscato, Italy",
         "— Santa Marina Prosecco, Italy",
         "— Braille menu available upon request",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]
