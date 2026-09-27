@@ -9,6 +9,7 @@
         "— Magic Key Ursula Straw Clip",
         "— Vampire Mickey Mouse Bucket",
         "— Oogie Boogie Moon Glow Cube",
+        "— The Headless Horseman Bucket",
         "— French Toast Sticks",
         "— Breakfast Sandwich",
         "— Classic Breakfast Burrito",
@@ -38,7 +39,9 @@
         "— Chocolate Milk",
         "— Fish/Shellfish Chorizo Breakfast Burrito",
         "— Braille menu available upon request",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

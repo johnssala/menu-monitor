@@ -9,11 +9,10 @@
         "— Pumpkin Cream Sweet Tea",
         "— Darth by Chocolate Cold Brew",
         "— Magic Key Ursula Straw Clip",
-        "— Halloween Travel Tumbler 2026",
+        "— Halloween Travel Tumbler",
         "— Vampire Mickey Mouse Bucket",
         "— Pain and Panic Straw Clip",
         "— Oogie Boogie Moon Glow Cube",
-        "— Tauntaun Bucket",
         "The Mandalorian and Grogu Stainless Steel Tumbler",
         "— Bantha Sipper",
         "— Little Green Men Jetpack Sipper",
@@ -48,7 +47,9 @@
         "— Hot Cocoa",
         "— Hot Tea",
         "— Braille menu available upon request",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]
