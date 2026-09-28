@@ -1,9 +1,9 @@
 [
   {
-    "id": "dca-schmoozies",
-    "name": "Schmoozies!",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/schmoozies-smoothies/menus/snack/",
+    "id": "dl-good-boy-grocers",
+    "name": "Good Boy Grocers",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/good-boy-grocers/menus/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -11,113 +11,315 @@
     "removed": []
   },
   {
-    "id": "dca-senor-buzz-churros",
-    "name": "Señor Buzz Churros",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/senor-buzz-churros/menus/snack/",
+    "id": "dl-harbour-galley",
+    "name": "Harbour Galley",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/harbour-galley/menus/lunch-and-dinner/",
     "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dca-shawarma-palace-breakfast",
-    "name": "Shawarma Palace (Breakfast)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/shawarma-palace/menus/breakfast/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dca-shawarma-palace-snack",
-    "name": "Shawarma Palace (Snack)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/shawarma-palace/menus/snack/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dca-smokejumpers-grill-breakfast",
-    "name": "Smokejumpers Grill (Breakfast)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/breakfast/",
-    "added": [
-      "— The Headless Horseman Bucket",
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dca-smokejumpers-grill-lunch-and-dinner",
-    "name": "Smokejumpers Grill (Lunch & Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/lunch-and-dinner/",
-    "added": [
-      "— The Headless Horseman Bucket",
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dca-studio-catering-co",
-    "name": "Studio Catering Co.",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/studio-catering-co/menus/snack/",
-    "added": [
+      "— Halloween Travel Tumbler",
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
     ],
     "removed": [
+      "— Halloween Travel Tumbler 2026"
+    ]
+  },
+  {
+    "id": "dl-hungry-bear-barbecue-jamboree",
+    "name": "Hungry Bear Barbecue Jamboree",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/hungry-bear-barbecue/menus/lunch-and-dinner/",
+    "added": [
+      "— Halloween Travel Tumbler",
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": [
+      "— Halloween Travel Tumbler 2026",
+      "Haunted Mansion Victor Geist's Spectral Sipper"
+    ]
+  },
+  {
+    "id": "dl-jolly-holiday-bakery-cafe-breakfast",
+    "name": "Jolly Holiday Bakery Cafe (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/breakfast/",
+    "added": [
+      "— Halloween Travel Tumbler",
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": [
+      "— Halloween Travel Tumbler 2026"
+    ]
+  },
+  {
+    "id": "dl-jolly-holiday-bakery-cafe-lunch-and-dinner",
+    "name": "Jolly Holiday Bakery Cafe (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/lunch-and-dinner/",
+    "added": [
+      "— Halloween Travel Tumbler",
+      "BooGogi Beef Toasted with Corn Cheese Soup",
+      "— Turkey on Ciabatta",
+      "— Toasted Cheese",
+      "— Garden Grain Salad",
+      "— Breadstick",
+      "— Cuties® Mandarin Orange",
+      "— Side of Soup",
+      "— Side of Fruit",
+      "— House-made Chips",
+      "— Turkey Sandwich",
+      "— Macaroni and Cheese",
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": [
+      "— Halloween Travel Tumbler 2026",
+      "— Bacon & Egg Croissant",
+      "— Bacon & Egg Croissant with Fruit",
+      "— Yogurt Parfait"
+    ]
+  },
+  {
+    "id": "dl-market-house-breakfast",
+    "name": "Market House - Starbucks (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/breakfast/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-market-house-lunch-and-dinner",
+    "name": "Market House - Starbucks (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/lunch-and-dinner/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-maurices-treats",
+    "name": "Maurice's Treats",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/maurices-treats/menus/snack/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-milk-stand-galaxys-edge",
+    "name": "Milk Stand – Star Wars: Galaxy's Edge",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/milk-stand/menus/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-mint-julep-bar",
+    "name": "Mint Julep Bar",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/mint-julep-bar/menus/snack/",
+    "added": [
+      "— Halloween Travel Tumbler",
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": [
+      "— Halloween Travel Tumbler 2026"
+    ]
+  },
+  {
+    "id": "dl-ogas-cantina-breakfast",
+    "name": "Oga's Cantina (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/breakfast/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-ogas-cantina-lunch",
+    "name": "Oga's Cantina (Lunch)",
+    "park": "Disneyland Park",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/lunch/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-ogas-cantina-dinner",
+    "name": "Oga's Cantina (Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/dinner/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-plaza-inn-breakfast",
+    "name": "Plaza Inn (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/plaza-inn/menus/breakfast/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-plaza-inn-lunch-and-dinner",
+    "name": "Plaza Inn (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/plaza-inn/menus/lunch-and-dinner/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-rancho-del-zocalo-restaurante",
+    "name": "Rancho del Zocalo Restaurante",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/rancho-del-zocalo-restaurante/menus/lunch-and-dinner/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-red-rose-taverne-breakfast",
+    "name": "Red Rose Taverne (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/breakfast/",
+    "added": [
+      "— Halloween Travel Tumbler",
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": [
+      "— Halloween Travel Tumbler 2026"
+    ]
+  },
+  {
+    "id": "dl-red-rose-taverne-lunch-and-dinner",
+    "name": "Red Rose Taverne (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/lunch-and-dinner/",
+    "added": [
+      "— Halloween Travel Tumbler",
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": [
+      "— Halloween Travel Tumbler 2026"
+    ]
+  },
+  {
+    "id": "dl-refreshment-corner",
+    "name": "Refreshment Corner",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/refreshment-corner/menus/lunch-and-dinner/",
+    "added": [
+      "— Halloween Travel Tumbler",
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": [
+      "— Magic Key Mirrored Mickey-Shaped Sipper",
+      "— Magic Key Tumbler",
+      "— Halloween Travel Tumbler 2026",
       "— Tropical Stitch Straw Clip"
     ]
   },
   {
-    "id": "dca-terran-treats",
-    "name": "Terran Treats",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/terran-treats/menus/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dca-wine-country-trattoria-lunch",
-    "name": "Wine Country Trattoria (Lunch)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/wine-country-trattoria/menus/lunch/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dca-wine-country-trattoria-dinner",
-    "name": "Wine Country Trattoria (Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/wine-country-trattoria/menus/dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dl-alien-pizza-planet",
-    "name": "Alien Pizza Planet",
+    "id": "dl-river-belle-terrace-lunch",
+    "name": "River Belle Terrace (Lunch)",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/alien-pizza-planet/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/lunch/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-river-belle-terrace-dinner",
+    "name": "River Belle Terrace (Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/dinner/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-ronto-roasters-breakfast",
+    "name": "Ronto Roasters (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/breakfast/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-ronto-roasters-lunch-and-dinner",
+    "name": "Ronto Roasters (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/lunch-and-dinner/",
+    "added": [
+      "— Zuchii Wrap",
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": [
+      "— Ronto Morning Wrap",
+      "— Rising Moons Overnight Oats",
+      "— Triple Suns Breakfast Wrap",
+      "— Lowfat Milk",
+      "— Small Chocolate Milk"
+    ]
+  },
+  {
+    "id": "dl-royal-street-veranda",
+    "name": "Royal Street Veranda",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/royal-street-veranda/menus/lunch-and-dinner/",
+    "added": [
+      "— Halloween Travel Tumbler",
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": [
+      "— Halloween Travel Tumbler 2026"
+    ]
+  },
+  {
+    "id": "dl-stage-door-cafe",
+    "name": "Stage Door Cafe",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/stage-door-cafe/menus/lunch-and-dinner/",
     "added": [
       "— Halloween Travel Tumbler",
       "— {INTERSTITIAL_TITLE_TEXT}",
@@ -125,174 +327,7 @@
     ],
     "removed": [
       "— Halloween Travel Tumbler 2026",
-      "— Tropical Stitch Straw Clip",
-      "— Magic Key King Arthur Carrousel Bucket",
-      "— Tauntaun Bucket",
-      "— Alien Pizza Planet Sipper"
+      "Haunted Mansion Victor Geist's Spectral Sipper"
     ]
-  },
-  {
-    "id": "dl-bengal-barbecue",
-    "name": "Bengal Barbecue",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/bengal-barbecue/menus/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dl-blue-bayou-restaurant-lunch",
-    "name": "Blue Bayou Restaurant (Lunch)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/blue-bayou-restaurant/menus/lunch/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dl-blue-bayou-restaurant-dinner",
-    "name": "Blue Bayou Restaurant (Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/blue-bayou-restaurant/menus/dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dl-cafe-daisy",
-    "name": "Café Daisy",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/cafe-daisy/menus/lunch-and-dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dl-cafe-orleans-lunch",
-    "name": "Cafe Orleans (Lunch)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/cafe-orleans/menus/lunch/",
-    "added": [
-      "— Seaborn Cherry Temple Cocktail",
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dl-cafe-orleans-dinner",
-    "name": "Cafe Orleans (Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/cafe-orleans/menus/dinner/",
-    "added": [
-      "— Seaborn Cherry Temple Cocktail",
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dl-carnation-cafe-breakfast",
-    "name": "Carnation Cafe (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/carnation-cafe/menus/breakfast/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dl-carnation-cafe-lunch",
-    "name": "Carnation Cafe (Lunch)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/carnation-cafe/menus/lunch/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dl-carnation-cafe-dinner",
-    "name": "Carnation Cafe (Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/carnation-cafe/menus/dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dl-docking-bay-7-food-and-cargo",
-    "name": "Docking Bay 7 Food and Cargo",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/docking-bay-7-food-and-cargo/menus/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dl-edelweiss-snacks",
-    "name": "Edelweiss Snacks",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/edelweiss-snacks/menus/snack/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dl-galactic-grill-breakfast",
-    "name": "Galactic Grill (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/breakfast/",
-    "added": [
-      "— Halloween Travel Tumbler",
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": [
-      "— Halloween Travel Tumbler 2026",
-      "— Tauntaun Bucket"
-    ]
-  },
-  {
-    "id": "dl-galactic-grill-lunch-and-dinner",
-    "name": "Galactic Grill (Lunch & Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/lunch-and-dinner/",
-    "added": [
-      "— Halloween Travel Tumbler",
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": [
-      "— Halloween Travel Tumbler 2026",
-      "— Tauntaun Bucket"
-    ]
-  },
-  {
-    "id": "dl-gibson-girl-ice-cream-parlor",
-    "name": "Gibson Girl Ice Cream Parlor",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/gibson-girl-ice-cream-parlor/menus/snack/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
   }
 ]

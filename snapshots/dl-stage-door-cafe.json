@@ -9,10 +9,9 @@
         "Tim Burton's The Nightmare Before Christmas Mayor Sipper",
         "Tim Burton's The Nightmare Before Christmas Jack Skellington Gravestone Bucket",
         "— Magic Key Ursula Straw Clip",
-        "— Halloween Travel Tumbler 2026",
+        "— Halloween Travel Tumbler",
         "— Pain and Panic Straw Clip",
         "Tim Burton's The Nightmare Before Christmas Jack Skellington Gravestone Bucket & Mayor Sipper Combo",
-        "Haunted Mansion Victor Geist's Spectral Sipper",
         "— Magic Key Sampler Box",
         "— Magic Key Mirrored Mickey-Shaped Sipper",
         "— Chili-Cheese Fries",
@@ -41,7 +40,9 @@
         "— Coffee - Decaffeinated",
         "— Hot Cocoa",
         "— Hot Tea",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

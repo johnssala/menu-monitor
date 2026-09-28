@@ -6,7 +6,7 @@
         "Jolly Holiday Bakery Cafe",
         "— Hades Glow Cube",
         "— Oogie Boogie Moon Glow Cube",
-        "— Halloween Travel Tumbler 2026",
+        "— Halloween Travel Tumbler",
         "— Toffee-Nut Cold Brew",
         "— Pumpkin Muffin",
         "— Halloween Matterhorn Macaroon",
@@ -50,7 +50,9 @@
         "— Minute Maid® Orange Juice - 16 oz",
         "— Chocolate Milk",
         "— Lowfat Milk",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

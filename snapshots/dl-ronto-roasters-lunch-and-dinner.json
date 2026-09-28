@@ -5,25 +5,23 @@
       "items": [
         "Ronto Roasters",
         "— Bantha Sipper",
-        "— Ronto Morning Wrap",
-        "— Rising Moons Overnight Oats",
         "— Ronto Wrap",
         "— Keshian Spiced Chips",
-        "— Triple Suns Breakfast Wrap",
+        "— Zuchii Wrap",
         "— Andoan Fruit with Muja Sauce",
         "Bad Motivator IPA - Sierra Nevada Brewing Co.",
         "— Malastare Margarita",
         "— Surly Sarlacc",
         "— Tatooine Sunset",
-        "— Lowfat Milk",
-        "— Small Chocolate Milk",
         "— Assorted Fountain Beverages - Large",
         "— Assorted Fountain Beverages - Regular",
         "Large Freshly Brewed Joffrey's Coffee™ Regular",
         "Large Freshly Brewed Joffrey's Coffee™ Decaf",
         "— Coffee",
         "— Coffee - Decaf",
-        "— DASANI® Bottled Water"
+        "— DASANI® Bottled Water",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

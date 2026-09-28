@@ -6,7 +6,7 @@
         "Red Rose Taverne",
         "— Hades Glow Cube",
         "— Enchanted Pumpkin Stuff",
-        "— Halloween Travel Tumbler 2026",
+        "— Halloween Travel Tumbler",
         "— Abominable Snowman Sipper",
         "— Breakfast Fantasyland Faire Fold",
         "— Bonjour! Breakfast",
@@ -26,7 +26,9 @@
         "— Lowfat Milk",
         "— Minute Maid® Apple Juice",
         "— Simply® Orange Juice",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

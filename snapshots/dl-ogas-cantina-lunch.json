@@ -35,7 +35,9 @@
         "— Happabore Sampler",
         "— Batuu Bites",
         "— Umbaran Cheese Roll",
-        "— Thruster Roasted Bantha Flatbread"
+        "— Thruster Roasted Bantha Flatbread",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]
