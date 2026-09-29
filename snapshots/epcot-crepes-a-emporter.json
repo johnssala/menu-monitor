@@ -26,7 +26,9 @@
         "— Assorted Beverages",
         "— Evian Natural Spring Water",
         "Perrier Sparkling Mineral Water",
-        "— Regular Coffee"
+        "— Regular Coffee",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

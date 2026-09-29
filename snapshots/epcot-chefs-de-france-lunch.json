@@ -13,10 +13,10 @@
         "Filet de saumon, riz pilaf, sauce beurre blanc",
         "— Gratin de macaroni",
         "— Ratatouille Provençale",
-        "Jarret de Proc Braise, ragout de lentilles de puy, petit oignons",
-        "— Poulet au Vinaigre",
+        "— Le Croissant du Boucher*",
+        "— Supreme de poulet rôti",
         "— Boeuf Bourguignon",
-        "Steak Frites, entrecote grillé, pommes frites, sauce bérnaise *",
+        "— Filet de Boeuf, Sauce Au poivre *",
         "— Plateau de fromages et charcuteries",
         "— Crème Brûlée",
         "Gateau aux 3 chocolats, glace a la vanille",
@@ -83,7 +83,9 @@
         "— Perrier 750mL",
         "— Perrier 33mL",
         "— Orangina",
-        "— Limonade"
+        "— Limonade",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

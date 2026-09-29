@@ -23,7 +23,9 @@
         "— Midnight Sun",
         "— Blackberry-Orange Spritz",
         "— Legacy Mimosa",
-        "— Viking Bloody Mary"
+        "— Viking Bloody Mary",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

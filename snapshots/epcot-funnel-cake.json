@@ -10,7 +10,9 @@
         "— Funnel Cake with Whipped Cream",
         "— Funnel Cake with Vanilla Ice Cream",
         "— DASANI® Bottled Water",
-        "— Funnel Cake Gift Kit"
+        "— Funnel Cake Gift Kit",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

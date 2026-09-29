@@ -48,7 +48,9 @@
         "— Scarpetta Pinot Grigio, Friuli",
         "Fess Parker Riesling, Santa Barbara County",
         "Domaine Ste. Michelle Brut, Columbia Valley",
-        "Banfi Rosa Regale Sparkling Red, Piedmont"
+        "Banfi Rosa Regale Sparkling Red, Piedmont",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

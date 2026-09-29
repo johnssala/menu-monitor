@@ -1,9 +1,9 @@
 [
   {
-    "id": "dl-good-boy-grocers",
-    "name": "Good Boy Grocers",
+    "id": "dl-the-golden-horseshoe",
+    "name": "The Golden Horseshoe",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/good-boy-grocers/menus/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/golden-horseshoe-restaurant/menus/lunch-and-dinner/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -11,10 +11,48 @@
     "removed": []
   },
   {
-    "id": "dl-harbour-galley",
-    "name": "Harbour Galley",
+    "id": "dl-the-tropical-hideaway",
+    "name": "The Tropical Hideaway",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/harbour-galley/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/tropical-hideaway/menus/snack/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": [
+      "— Swirl Up Some Magic Cup Swirl",
+      "— Swirl Up Some Magic Cup"
+    ]
+  },
+  {
+    "id": "dl-tianas-palace",
+    "name": "Tiana's Palace",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/tianas-palace/menus/lunch-and-dinner/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-tiki-juice-bar",
+    "name": "Tiki Juice Bar",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/tiki-juice-bar/menus/snack/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": [
+      "— Swirl Up Some Magic Cup"
+    ]
+  },
+  {
+    "id": "dl-troubadour-tavern",
+    "name": "Troubadour Tavern",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/troubadour-tavern/menus/",
     "added": [
       "— Halloween Travel Tumbler",
       "— {INTERSTITIAL_TITLE_TEXT}",
@@ -25,67 +63,123 @@
     ]
   },
   {
-    "id": "dl-hungry-bear-barbecue-jamboree",
-    "name": "Hungry Bear Barbecue Jamboree",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/hungry-bear-barbecue/menus/lunch-and-dinner/",
+    "id": "epcot-akershus-royal-banquet-hall-breakfast",
+    "name": "Akershus Royal Banquet Hall (Breakfast)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/akershus-royal-banquet-hall/menus/breakfast/",
     "added": [
-      "— Halloween Travel Tumbler",
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "epcot-akershus-royal-banquet-hall-lunch",
+    "name": "Akershus Royal Banquet Hall (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/akershus-royal-banquet-hall/menus/lunch/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "epcot-akershus-royal-banquet-hall-dinner",
+    "name": "Akershus Royal Banquet Hall (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/akershus-royal-banquet-hall/menus/dinner/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "epcot-biergarten-restaurant-lunch",
+    "name": "Biergarten Restaurant (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/biergarten-restaurant/menus/lunch/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "epcot-biergarten-restaurant-dinner",
+    "name": "Biergarten Restaurant (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/biergarten-restaurant/menus/dinner/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "epcot-block-and-hans",
+    "name": "Block & Hans",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/block-hans/menus/bar-%E2%80%93-lounge/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "epcot-canada-popcorn-cart",
+    "name": "Canada Popcorn Cart",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/popcorn-at-canada-pavilion/menus/snack/",
+    "added": [
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
+    ],
+    "removed": []
+  },
+  {
+    "id": "epcot-chefs-de-france-lunch",
+    "name": "Chefs de France (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/chefs-de-france/menus/lunch/",
+    "added": [
+      "— Le Croissant du Boucher*",
+      "— Supreme de poulet rôti",
+      "— Filet de Boeuf, Sauce Au poivre *",
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
     ],
     "removed": [
-      "— Halloween Travel Tumbler 2026",
-      "Haunted Mansion Victor Geist's Spectral Sipper"
+      "Jarret de Proc Braise, ragout de lentilles de puy, petit oignons",
+      "— Poulet au Vinaigre",
+      "Steak Frites, entrecote grillé, pommes frites, sauce bérnaise *"
     ]
   },
   {
-    "id": "dl-jolly-holiday-bakery-cafe-breakfast",
-    "name": "Jolly Holiday Bakery Cafe (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/breakfast/",
+    "id": "epcot-chefs-de-france-dinner",
+    "name": "Chefs de France (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/chefs-de-france/menus/dinner/",
     "added": [
-      "— Halloween Travel Tumbler",
+      "— Le Croissant du Boucher*",
+      "— Supreme de poulet rôti",
+      "— Filet de Boeuf, Sauce Au poivre *",
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
     ],
     "removed": [
-      "— Halloween Travel Tumbler 2026"
+      "Jarret de Proc Braise, ragout de lentilles de puy, petit oignons",
+      "— Poulet au Vinaigre",
+      "Steak Frites, entrecote grillé, pommes frites, sauce bérnaise *"
     ]
   },
   {
-    "id": "dl-jolly-holiday-bakery-cafe-lunch-and-dinner",
-    "name": "Jolly Holiday Bakery Cafe (Lunch & Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/lunch-and-dinner/",
-    "added": [
-      "— Halloween Travel Tumbler",
-      "BooGogi Beef Toasted with Corn Cheese Soup",
-      "— Turkey on Ciabatta",
-      "— Toasted Cheese",
-      "— Garden Grain Salad",
-      "— Breadstick",
-      "— Cuties® Mandarin Orange",
-      "— Side of Soup",
-      "— Side of Fruit",
-      "— House-made Chips",
-      "— Turkey Sandwich",
-      "— Macaroni and Cheese",
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": [
-      "— Halloween Travel Tumbler 2026",
-      "— Bacon & Egg Croissant",
-      "— Bacon & Egg Croissant with Fruit",
-      "— Yogurt Parfait"
-    ]
-  },
-  {
-    "id": "dl-market-house-breakfast",
-    "name": "Market House - Starbucks (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/breakfast/",
+    "id": "epcot-choza-de-margarita",
+    "name": "Choza de Margarita",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/choza-de-margarita/menus/snack/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -93,10 +187,10 @@
     "removed": []
   },
   {
-    "id": "dl-market-house-lunch-and-dinner",
-    "name": "Market House - Starbucks (Lunch & Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/lunch-and-dinner/",
+    "id": "epcot-connections-cafe",
+    "name": "Connections Café (Starbucks)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/connections-cafe/menus/coffee-%E2%80%93-bakery/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -104,10 +198,10 @@
     "removed": []
   },
   {
-    "id": "dl-maurices-treats",
-    "name": "Maurice's Treats",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/maurices-treats/menus/snack/",
+    "id": "epcot-connections-eatery",
+    "name": "Connections Eatery",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/connections-eatery/menus/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -115,10 +209,10 @@
     "removed": []
   },
   {
-    "id": "dl-milk-stand-galaxys-edge",
-    "name": "Milk Stand – Star Wars: Galaxy's Edge",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/milk-stand/menus/",
+    "id": "epcot-coral-reef-restaurant",
+    "name": "Coral Reef Restaurant",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/coral-reef-restaurant/menus/dinner/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -126,24 +220,10 @@
     "removed": []
   },
   {
-    "id": "dl-mint-julep-bar",
-    "name": "Mint Julep Bar",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/mint-julep-bar/menus/snack/",
-    "added": [
-      "— Halloween Travel Tumbler",
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": [
-      "— Halloween Travel Tumbler 2026"
-    ]
-  },
-  {
-    "id": "dl-ogas-cantina-breakfast",
-    "name": "Oga's Cantina (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/breakfast/",
+    "id": "epcot-crepes-a-emporter",
+    "name": "Crêpes À Emporter by La Crêperie de Paris",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/crepes-a-emporter/menus/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -151,10 +231,10 @@
     "removed": []
   },
   {
-    "id": "dl-ogas-cantina-lunch",
-    "name": "Oga's Cantina (Lunch)",
-    "park": "Disneyland Park",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/lunch/",
+    "id": "epcot-fife-and-drum-tavern",
+    "name": "Fife & Drum Tavern",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/fife-and-drum-tavern/menus/snack/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -162,10 +242,10 @@
     "removed": []
   },
   {
-    "id": "dl-ogas-cantina-dinner",
-    "name": "Oga's Cantina (Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/dinner/",
+    "id": "epcot-funnel-cake",
+    "name": "Funnel Cake – EPCOT",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/funnel-cake/menus/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -173,10 +253,10 @@
     "removed": []
   },
   {
-    "id": "dl-plaza-inn-breakfast",
-    "name": "Plaza Inn (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/plaza-inn/menus/breakfast/",
+    "id": "epcot-garden-grill-restaurant-breakfast",
+    "name": "Garden Grill Restaurant (Breakfast)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/garden-grill-restaurant/menus/breakfast/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -184,10 +264,10 @@
     "removed": []
   },
   {
-    "id": "dl-plaza-inn-lunch-and-dinner",
-    "name": "Plaza Inn (Lunch & Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/plaza-inn/menus/lunch-and-dinner/",
+    "id": "epcot-garden-grill-restaurant-lunch",
+    "name": "Garden Grill Restaurant (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/garden-grill-restaurant/menus/lunch/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -195,10 +275,10 @@
     "removed": []
   },
   {
-    "id": "dl-rancho-del-zocalo-restaurante",
-    "name": "Rancho del Zocalo Restaurante",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/rancho-del-zocalo-restaurante/menus/lunch-and-dinner/",
+    "id": "epcot-garden-grill-restaurant-dinner",
+    "name": "Garden Grill Restaurant (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/garden-grill-restaurant/menus/dinner/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -206,128 +286,14 @@
     "removed": []
   },
   {
-    "id": "dl-red-rose-taverne-breakfast",
-    "name": "Red Rose Taverne (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/breakfast/",
-    "added": [
-      "— Halloween Travel Tumbler",
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": [
-      "— Halloween Travel Tumbler 2026"
-    ]
-  },
-  {
-    "id": "dl-red-rose-taverne-lunch-and-dinner",
-    "name": "Red Rose Taverne (Lunch & Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/lunch-and-dinner/",
-    "added": [
-      "— Halloween Travel Tumbler",
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": [
-      "— Halloween Travel Tumbler 2026"
-    ]
-  },
-  {
-    "id": "dl-refreshment-corner",
-    "name": "Refreshment Corner",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/refreshment-corner/menus/lunch-and-dinner/",
-    "added": [
-      "— Halloween Travel Tumbler",
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": [
-      "— Magic Key Mirrored Mickey-Shaped Sipper",
-      "— Magic Key Tumbler",
-      "— Halloween Travel Tumbler 2026",
-      "— Tropical Stitch Straw Clip"
-    ]
-  },
-  {
-    "id": "dl-river-belle-terrace-lunch",
-    "name": "River Belle Terrace (Lunch)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/lunch/",
+    "id": "epcot-gelateria-toscana",
+    "name": "Gelateria Toscana",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/gelateria-toscana/menus/snack/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
     ],
     "removed": []
-  },
-  {
-    "id": "dl-river-belle-terrace-dinner",
-    "name": "River Belle Terrace (Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dl-ronto-roasters-breakfast",
-    "name": "Ronto Roasters (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/breakfast/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "dl-ronto-roasters-lunch-and-dinner",
-    "name": "Ronto Roasters (Lunch & Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/lunch-and-dinner/",
-    "added": [
-      "— Zuchii Wrap",
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": [
-      "— Ronto Morning Wrap",
-      "— Rising Moons Overnight Oats",
-      "— Triple Suns Breakfast Wrap",
-      "— Lowfat Milk",
-      "— Small Chocolate Milk"
-    ]
-  },
-  {
-    "id": "dl-royal-street-veranda",
-    "name": "Royal Street Veranda",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/royal-street-veranda/menus/lunch-and-dinner/",
-    "added": [
-      "— Halloween Travel Tumbler",
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": [
-      "— Halloween Travel Tumbler 2026"
-    ]
-  },
-  {
-    "id": "dl-stage-door-cafe",
-    "name": "Stage Door Cafe",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/stage-door-cafe/menus/lunch-and-dinner/",
-    "added": [
-      "— Halloween Travel Tumbler",
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": [
-      "— Halloween Travel Tumbler 2026",
-      "Haunted Mansion Victor Geist's Spectral Sipper"
-    ]
   }
 ]

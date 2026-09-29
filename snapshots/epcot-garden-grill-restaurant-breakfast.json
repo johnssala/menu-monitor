@@ -21,7 +21,9 @@
         "— Specialty Character Drink",
         "— Legacy Mimosa",
         "— Bloody Mary",
-        "— Cold Brew Martini"
+        "— Cold Brew Martini",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

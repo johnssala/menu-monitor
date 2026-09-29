@@ -54,7 +54,9 @@
         "— Hedgehog Cake Pop",
         "— Liege Waffle",
         "— Pumpkin Cream Cheese Muffin",
-        "— Assorted Pastries"
+        "— Assorted Pastries",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

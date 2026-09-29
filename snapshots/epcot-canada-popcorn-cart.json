@@ -13,7 +13,9 @@
         "— DASANI® Bottled Water",
         "— Moosehead Lager Draft",
         "— Collective Arts Brewing Hazy State IPA",
-        "— Ottawa Apple"
+        "— Ottawa Apple",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

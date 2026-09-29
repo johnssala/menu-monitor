@@ -6,7 +6,7 @@
         "Troubadour Tavern",
         "— Hades Glow Cube",
         "Halloween Huey, Dewey, and Louie Bottle Topper",
-        "— Halloween Travel Tumbler 2026",
+        "— Halloween Travel Tumbler",
         "— Magic Key Ursula Straw Clip",
         "— Pain and Panic Straw Clip",
         "— Bluey Sipper",
@@ -30,7 +30,9 @@
         "— Coffee - Regular",
         "— Hot Cocoa",
         "— Hot Tea",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

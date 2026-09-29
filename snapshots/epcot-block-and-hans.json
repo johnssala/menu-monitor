@@ -12,7 +12,9 @@
         "Orange Blossom Brewing Orange Blossom Pilsner - Orlando, FL",
         "Golden Road Brewing Mango Cart Wheat Ale- - Los Angeles, CA",
         "Ciderboys Strawberry Magic Hard Cider - Steven's Point, WI",
-        "Owl's Brew Black Tea & Pineapple Hard Tea - New York, NY"
+        "Owl's Brew Black Tea & Pineapple Hard Tea - New York, NY",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

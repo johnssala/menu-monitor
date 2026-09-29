@@ -69,7 +69,9 @@
         "Columbia Crest H3 Merlot, Columbia Valley",
         "— Catena 'Vista Flores' Malbec, Mendoza",
         "Robert Mondavi Cabernet Sauvignon, Napa Valley",
-        "— Grilled Chicken"
+        "— Grilled Chicken",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

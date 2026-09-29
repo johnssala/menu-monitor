@@ -42,7 +42,9 @@
         "— Prosecco",
         "— Bellini",
         "— Rossini",
-        "— Blue Lagoon Lemon-Sprits"
+        "— Blue Lagoon Lemon-Sprits",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

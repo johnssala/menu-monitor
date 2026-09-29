@@ -5,13 +5,14 @@
       "items": [
         "Tiki Juice Bar",
         "— DOLE Whip® Cone",
-        "— Swirl Up Some Magic Cup",
         "— DOLE Whip® Pineapple Soft Serve",
         "— DOLE Whip® Float",
         "— Chamoy Sauce",
         "— DASANI® Bottled Water",
         "— DOLE® Pineapple Juice",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

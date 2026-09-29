@@ -24,7 +24,9 @@
         "— Pastor Quesadillas",
         "— Tostada de Pollo",
         "— Guacamole",
-        "— Elote"
+        "— Elote",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

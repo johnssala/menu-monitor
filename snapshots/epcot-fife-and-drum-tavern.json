@@ -20,7 +20,9 @@
         "— Yuengling Traditional Lager",
         "— Samuel Adams Seasonal",
         "— Blue Moon Belgian White Ale",
-        "— Frozen Black Cherry Bourbon Lemonade"
+        "— Frozen Black Cherry Bourbon Lemonade",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

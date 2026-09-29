@@ -43,7 +43,9 @@
         "Angry Orchard Crisp Apple Hard Cider - Cincinnati, OH",
         "Hess Shirtail Creek Chardonnay, California",
         "— Acrobat Pinot Noir, Oregon",
-        "— Mango Mai Tai"
+        "— Mango Mai Tai",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]
