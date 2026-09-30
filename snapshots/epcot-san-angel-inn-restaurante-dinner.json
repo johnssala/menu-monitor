@@ -52,7 +52,9 @@
         "— San Angel Inn Premium Tequila Flight**",
         "— Traditional Tequila Flight**",
         "— Mezcal Tequila Flight**",
-        "— Create Your Own Margarita Flight**"
+        "— Create Your Own Margarita Flight**",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

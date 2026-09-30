@@ -27,7 +27,9 @@
         "— Sapporo Draft Beer",
         "— Kirin Light Beer",
         "— Sake",
-        "— Nigori (Unfiltered) Sake"
+        "— Nigori (Unfiltered) Sake",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

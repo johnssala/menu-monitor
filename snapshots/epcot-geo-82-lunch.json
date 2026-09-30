@@ -42,7 +42,9 @@
         "Snowden Vineyards 'The Ranch' Cabernet Sauvignon",
         "— Lingua Franca Estate Pinot Noir",
         "— Lingua Franca 'Bunker Hill' Chardonnay",
-        "Garagisti Anonimi Friulani Sauvignon Blanc"
+        "Garagisti Anonimi Friulani Sauvignon Blanc",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

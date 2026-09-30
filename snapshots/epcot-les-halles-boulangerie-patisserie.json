@@ -59,7 +59,9 @@
         "— Chardonnay",
         "— Champagne",
         "— Kronenbourg 1664",
-        "— Frosé"
+        "— Frosé",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

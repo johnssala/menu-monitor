@@ -68,7 +68,9 @@
         "— Molson Canadian Lager",
         "— Labatt Blue Canadian Pilsener",
         "— Labatt Blue Light Canadian Pilsener",
-        "— Rekorderlig Pear Hard Cider"
+        "— Rekorderlig Pear Hard Cider",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

@@ -25,7 +25,9 @@
         "— TsingTao Bottled Beer",
         "— Lucky Foo Pale Ale",
         "— Honey Jasmine Lager",
-        "— Plum Wine"
+        "— Plum Wine",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

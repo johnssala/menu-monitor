@@ -26,7 +26,9 @@
         "— Raspberry Sorbet",
         "— Strawberry Sorbet",
         "— Piña Colada Sorbet",
-        "— Evian"
+        "— Evian",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

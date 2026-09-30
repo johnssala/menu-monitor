@@ -19,7 +19,9 @@
         "— Coconut Cream Cold Brew",
         "— Nordic Draft Beer",
         "— Viking Coffee",
-        "— Frozen Viking Coffee"
+        "— Frozen Viking Coffee",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

@@ -18,7 +18,9 @@
         "— Strawberry Daiquiri",
         "— Opici Family Sangria",
         "Red or White",
-        "— Blood Orange Mimosa"
+        "— Blood Orange Mimosa",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

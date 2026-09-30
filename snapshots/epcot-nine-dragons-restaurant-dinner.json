@@ -73,7 +73,9 @@
         "— Prosecco Benvolio, ITALY (187ml)",
         "— Cuvée Mumm Napa, “M”, CALIFORNIA",
         "— Moscato Roscato, ITALY",
-        "— Plum Takara, CALIFORNIA"
+        "— Plum Takara, CALIFORNIA",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

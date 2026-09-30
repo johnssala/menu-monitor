@@ -50,7 +50,9 @@
         "Kim Crawford Sauvignon Blanc, Marlborough",
         "— Mirassou Pinot Noir, California",
         "— Simi Cabernet Sauvignon, Sonoma County",
-        "— Opici Family Red Sangria, Spain"
+        "— Opici Family Red Sangria, Spain",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

@@ -135,7 +135,9 @@
         "— Jose Cuervo Gold",
         "— Munn Napa Prestige Brut, Napa, CA",
         "Zenato Pino Grigio delle Venezie, Veneto, Italy",
-        "Rainstorm Pinot Noir, Willamette Valley, OR"
+        "Rainstorm Pinot Noir, Willamette Valley, OR",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

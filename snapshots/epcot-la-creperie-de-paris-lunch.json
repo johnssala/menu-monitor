@@ -41,7 +41,9 @@
         "— Espresso",
         "— Cappuccino",
         "— Thé",
-        "— Café"
+        "— Café",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

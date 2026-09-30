@@ -38,7 +38,9 @@
         "— Mexican Red Sangria",
         "— Hercules Draft Beer",
         "— Seasonal Mexican Craft",
-        "— Dos Equis Lager Draft Beer"
+        "— Dos Equis Lager Draft Beer",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

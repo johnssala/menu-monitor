@@ -57,7 +57,9 @@
         "— Clásica",
         "— La Hacienda Smoked Old Fashioned",
         "— La Paloma",
-        "— La Flaca"
+        "— La Flaca",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

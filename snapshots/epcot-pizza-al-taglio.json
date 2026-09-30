@@ -23,7 +23,9 @@
         "— Limoncello Mule",
         "— Bellini",
         "— Prosecco Frozen White Sangria",
-        "— Langhe Frozen Red Sangria"
+        "— Langhe Frozen Red Sangria",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]
