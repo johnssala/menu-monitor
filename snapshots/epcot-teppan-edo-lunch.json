@@ -67,7 +67,9 @@
         "— Roku Gin",
         "— Legent Bourbon",
         "— Toki - Single",
-        "— Toki - Double"
+        "— Toki - Double",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

@@ -47,7 +47,9 @@
         "— Corona",
         "— Modelo Especial",
         "— Heineken 0.0",
-        "— Rotating Space Beer"
+        "— Rotating Space Beer",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

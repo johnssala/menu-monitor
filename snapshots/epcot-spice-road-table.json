@@ -34,7 +34,9 @@
         "— Moroccan Hot Tea Service",
         "Premium Sparkling Water",
         "— smartwater®",
-        "— Assorted Fountain Beverages"
+        "— Assorted Fountain Beverages",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

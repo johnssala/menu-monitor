@@ -12,7 +12,9 @@
         "— Freshly Brewed Joffrey's Coffee™ Regular",
         "— Twinings® English Breakfast Tea",
         "— Harp Lager - Ireland",
-        "— Sullivan's Maltings Irish Red Ale"
+        "— Sullivan's Maltings Irish Red Ale",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

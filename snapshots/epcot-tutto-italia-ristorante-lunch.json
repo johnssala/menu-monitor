@@ -114,7 +114,9 @@
         "— Nonino Il Moscato",
         "— Sweet",
         "— Dry",
-        "— Stock 84"
+        "— Stock 84",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

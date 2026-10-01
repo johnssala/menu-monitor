@@ -55,7 +55,9 @@
         "— Surfside Peach Tea + Vodka Hard Tea",
         "— Surfside Lemonade + Vodka",
         "— White Claw Black Cherry Hard Seltzer",
-        "— Gluten/Wheat-Friendly Brownie"
+        "— Gluten/Wheat-Friendly Brownie",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

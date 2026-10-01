@@ -98,7 +98,9 @@
         "— Via Napoli Flight",
         "— Red Flight",
         "— Sangria Flight",
-        "— Beer Flight (4.5 oz pours)"
+        "— Beer Flight (4.5 oz pours)",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

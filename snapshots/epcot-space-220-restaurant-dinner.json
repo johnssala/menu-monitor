@@ -93,7 +93,9 @@
         "— Merlot Decoy, Sonoma, CA",
         "— Red Blend The Prisoner, Napa Valley, CA",
         "— Malbec Uno, Mendoza, Argentina",
-        "Cabernet Sauvignon Zero Gravity, Lodi, CA"
+        "Cabernet Sauvignon Zero Gravity, Lodi, CA",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

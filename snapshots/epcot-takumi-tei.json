@@ -57,7 +57,9 @@
         "Kenzo Estate \"Rindo\" Flagship Red 2019 - Napa Valley, USA",
         "Kenzo Estate \"Murasaki\" Proprietary Red 2019 - Napa Valley, CA",
         "Chateau Malherbe, Cotes de Provence Rose 2021 - Provence, France",
-        "Chateau Climents, Cypres de Climens Barsac 20 - Provence, France"
+        "Chateau Climents, Cypres de Climens Barsac 20 - Provence, France",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

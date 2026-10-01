@@ -22,7 +22,9 @@
         "— Bitburger Premium Pilsner - Germany",
         "Schöfferhofer Pink Grapefruit Hefeweizen - Germany",
         "Selbach-Oster 'Blue Label' Riesling, Mosel",
-        "August Kesseler Pinot Noir Spätburgunder, Rheingau"
+        "August Kesseler Pinot Noir Spätburgunder, Rheingau",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]

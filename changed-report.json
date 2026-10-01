@@ -1,9 +1,9 @@
 [
   {
-    "id": "epcot-geo-82-lunch",
-    "name": "GEO-82 (Lunch)",
+    "id": "epcot-sommerfest",
+    "name": "Sommerfest",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/geo-82-lounge/menus/lunch/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/sommerfest/menus/lunch-and-dinner/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -11,10 +11,10 @@
     "removed": []
   },
   {
-    "id": "epcot-geo-82-dinner",
-    "name": "GEO-82 (Dinner)",
+    "id": "epcot-space-220-lounge-lunch",
+    "name": "Space 220 Lounge (Lunch)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/geo-82-lounge/menus/dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/space-220-lounge/menus/lunch/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -22,10 +22,10 @@
     "removed": []
   },
   {
-    "id": "epcot-kabuki-cafe",
-    "name": "Kabuki Cafe",
+    "id": "epcot-space-220-lounge-dinner",
+    "name": "Space 220 Lounge (Dinner)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/kabuki-cafe/menus/snack/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/space-220-lounge/menus/dinner/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -33,10 +33,10 @@
     "removed": []
   },
   {
-    "id": "epcot-katsura-grill",
-    "name": "Katsura Grill",
+    "id": "epcot-space-220-restaurant-lunch",
+    "name": "Space 220 Restaurant (Lunch)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/katsura-grill/menus/lunch-and-dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/space-220/menus/lunch/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -44,10 +44,10 @@
     "removed": []
   },
   {
-    "id": "epcot-kringla-bakeri-og-kafe",
-    "name": "Kringla Bakeri Og Kafe",
+    "id": "epcot-space-220-restaurant-dinner",
+    "name": "Space 220 Restaurant (Dinner)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/kringla-bakeri-og-kafe/menus/snack/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/space-220/menus/dinner/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -55,10 +55,10 @@
     "removed": []
   },
   {
-    "id": "epcot-l-artisan-des-glaces",
-    "name": "L'Artisan des Glaces",
+    "id": "epcot-spice-road-table",
+    "name": "Spice Road Table",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/l-artisan-des-glaces/menus/snack/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/spice-road-table/menus/dinner/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -66,10 +66,10 @@
     "removed": []
   },
   {
-    "id": "epcot-la-cantina-de-san-angel",
-    "name": "La Cantina de San Angel",
+    "id": "epcot-sunshine-seasons-breakfast",
+    "name": "Sunshine Seasons (Breakfast)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/cantina-de-san-angel/menus/lunch-and-dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/sunshine-seasons/menus/breakfast/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -77,10 +77,10 @@
     "removed": []
   },
   {
-    "id": "epcot-la-creperie-de-paris-breakfast",
-    "name": "La Crêperie de Paris (Breakfast)",
+    "id": "epcot-sunshine-seasons-lunch",
+    "name": "Sunshine Seasons (Lunch)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/creperie-de-paris/menus/breakfast/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/sunshine-seasons/menus/lunch/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -88,10 +88,10 @@
     "removed": []
   },
   {
-    "id": "epcot-la-creperie-de-paris-lunch",
-    "name": "La Crêperie de Paris (Lunch)",
+    "id": "epcot-sunshine-seasons-snack",
+    "name": "Sunshine Seasons (Snack)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/creperie-de-paris/menus/lunch/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/sunshine-seasons/menus/snack/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -99,10 +99,10 @@
     "removed": []
   },
   {
-    "id": "epcot-la-creperie-de-paris-dinner",
-    "name": "La Crêperie de Paris (Dinner)",
+    "id": "epcot-takumi-tei",
+    "name": "Takumi-Tei",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/creperie-de-paris/menus/dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/takumi-tei-restaurant/menus/dinner/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -110,10 +110,10 @@
     "removed": []
   },
   {
-    "id": "epcot-la-hacienda-de-san-angel",
-    "name": "La Hacienda de San Angel",
+    "id": "epcot-teppan-edo-lunch",
+    "name": "Teppan Edo (Lunch)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/hacienda-de-san-angel/menus/dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/teppan-edo/menus/lunch/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -121,10 +121,10 @@
     "removed": []
   },
   {
-    "id": "epcot-le-cellier-steakhouse-lunch",
-    "name": "Le Cellier Steakhouse (Lunch)",
+    "id": "epcot-teppan-edo-dinner",
+    "name": "Teppan Edo (Dinner)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/le-cellier-steakhouse/menus/lunch/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/teppan-edo/menus/dinner/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -132,10 +132,10 @@
     "removed": []
   },
   {
-    "id": "epcot-le-cellier-steakhouse-dinner",
-    "name": "Le Cellier Steakhouse (Dinner)",
+    "id": "epcot-tutto-gusto-wine-cellar",
+    "name": "Tutto Gusto Wine Cellar",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/le-cellier-steakhouse/menus/dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/tutto-gusto-wine-cellar/menus/bar-%E2%80%93-lounge/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -143,10 +143,10 @@
     "removed": []
   },
   {
-    "id": "epcot-les-halles-boulangerie-patisserie",
-    "name": "Les Halles Boulangerie-Patisserie",
+    "id": "epcot-tutto-italia-ristorante-lunch",
+    "name": "Tutto Italia Ristorante (Lunch)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/les-halles-boulangerie-patisserie/menus/lunch-and-dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/tutto-italia-ristorante/menus/lunch/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -154,10 +154,10 @@
     "removed": []
   },
   {
-    "id": "epcot-lotus-blossom-cafe",
-    "name": "Lotus Blossom Café",
+    "id": "epcot-tutto-italia-ristorante-dinner",
+    "name": "Tutto Italia Ristorante (Dinner)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/lotus-blossom-cafe/menus/lunch-and-dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/tutto-italia-ristorante/menus/dinner/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -165,10 +165,10 @@
     "removed": []
   },
   {
-    "id": "epcot-nine-dragons-restaurant-lunch",
-    "name": "Nine Dragons Restaurant (Lunch)",
+    "id": "epcot-via-napoli-lunch",
+    "name": "Via Napoli Ristorante e Pizzeria (Lunch)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/nine-dragons-restaurant/menus/lunch/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/via-napoli/menus/lunch/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -176,10 +176,10 @@
     "removed": []
   },
   {
-    "id": "epcot-nine-dragons-restaurant-dinner",
-    "name": "Nine Dragons Restaurant (Dinner)",
+    "id": "epcot-via-napoli-dinner",
+    "name": "Via Napoli Ristorante e Pizzeria (Dinner)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/nine-dragons-restaurant/menus/dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/via-napoli/menus/dinner/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -187,10 +187,10 @@
     "removed": []
   },
   {
-    "id": "epcot-oasis-sweets-and-sips",
-    "name": "Oasis Sweets & Sips",
+    "id": "epcot-yorkshire-county-fish-shop",
+    "name": "Yorkshire County Fish Shop",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/oasis-sweets-sips/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/yorkshire-county-fish-shop/menus/lunch-and-dinner/",
     "added": [
       "— {INTERSTITIAL_TITLE_TEXT}",
       "{INTERSTITIAL_BODY_TEXT}"
@@ -198,80 +198,50 @@
     "removed": []
   },
   {
-    "id": "epcot-pizza-al-taglio",
-    "name": "Pizza al Taglio",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/pizza-taglio/menus/lunch-and-dinner/",
+    "id": "eu-atlantic",
+    "name": "Atlantic",
+    "park": "Epic Universe",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/atlantic/menu.html",
     "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
+      "Atlantic Lobster Bisque",
+      "— Atlantic Lobster Bisque",
+      "Keys to the Ship",
+      "— Keys to the Ship"
     ],
-    "removed": []
+    "removed": [
+      "Corn Chowder",
+      "— Corn Chowder"
+    ]
   },
   {
-    "id": "epcot-regal-eagle-smokehouse",
-    "name": "Regal Eagle Smokehouse",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/regal-eagle-smokehouse/menus/lunch-and-dinner/",
+    "id": "eu-bar-moonshine",
+    "name": "Bar Moonshine",
+    "park": "Epic Universe",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/bar-moonshine/menu.html",
     "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
+      "Le Pils",
+      "— Le Pils"
     ],
-    "removed": []
+    "removed": [
+      "Kronenbourg 1664®",
+      "— Kronenbourg 1664®"
+    ]
   },
   {
-    "id": "epcot-rose-and-crown-dining-room",
-    "name": "Rose & Crown Dining Room",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/rose-and-crown-dining-room/menus/dinner/",
+    "id": "eu-cafe-lair-de-la-sirene",
+    "name": "Café L'air De La Sirène",
+    "park": "Epic Universe",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/cafe-lair-de-la-sirene/menu.html",
     "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
+      "— Sides",
+      "Side of Pommes Frites",
+      "— Side of Pommes Frites",
+      "Le Pils",
+      "— Le Pils"
     ],
-    "removed": []
-  },
-  {
-    "id": "epcot-san-angel-inn-restaurante-lunch",
-    "name": "San Angel Inn Restaurante (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/san-angel-inn-restaurante/menus/lunch/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-san-angel-inn-restaurante-dinner",
-    "name": "San Angel Inn Restaurante (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/san-angel-inn-restaurante/menus/dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-shiki-sai-lunch",
-    "name": "Shiki-Sai: Sushi Izakaya (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/shiki-sai-izakaya-and-sushi/menus/lunch/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-shiki-sai-dinner",
-    "name": "Shiki-Sai: Sushi Izakaya (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/shiki-sai-izakaya-and-sushi/menus/dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
+    "removed": [
+      "Kronenbourg 1664®",
+      "— Kronenbourg 1664®"
+    ]
   }
 ]

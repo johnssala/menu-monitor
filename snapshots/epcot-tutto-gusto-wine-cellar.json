@@ -56,7 +56,9 @@
         "— Guidalberto, Tenuta San Guido",
         "— Under a Tuscan Sun",
         "— Crisp Italian Whites",
-        "— From the Hills of Piemonte"
+        "— From the Hills of Piemonte",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]
