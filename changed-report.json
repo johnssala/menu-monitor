@@ -1,247 +1,29 @@
 [
   {
-    "id": "epcot-sommerfest",
-    "name": "Sommerfest",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/sommerfest/menus/lunch-and-dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-space-220-lounge-lunch",
-    "name": "Space 220 Lounge (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/space-220-lounge/menus/lunch/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-space-220-lounge-dinner",
-    "name": "Space 220 Lounge (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/space-220-lounge/menus/dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-space-220-restaurant-lunch",
-    "name": "Space 220 Restaurant (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/space-220/menus/lunch/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-space-220-restaurant-dinner",
-    "name": "Space 220 Restaurant (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/space-220/menus/dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-spice-road-table",
-    "name": "Spice Road Table",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/spice-road-table/menus/dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-sunshine-seasons-breakfast",
-    "name": "Sunshine Seasons (Breakfast)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/sunshine-seasons/menus/breakfast/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-sunshine-seasons-lunch",
-    "name": "Sunshine Seasons (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/sunshine-seasons/menus/lunch/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-sunshine-seasons-snack",
-    "name": "Sunshine Seasons (Snack)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/sunshine-seasons/menus/snack/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-takumi-tei",
-    "name": "Takumi-Tei",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/takumi-tei-restaurant/menus/dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-teppan-edo-lunch",
-    "name": "Teppan Edo (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/teppan-edo/menus/lunch/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-teppan-edo-dinner",
-    "name": "Teppan Edo (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/teppan-edo/menus/dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-tutto-gusto-wine-cellar",
-    "name": "Tutto Gusto Wine Cellar",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/tutto-gusto-wine-cellar/menus/bar-%E2%80%93-lounge/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-tutto-italia-ristorante-lunch",
-    "name": "Tutto Italia Ristorante (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/tutto-italia-ristorante/menus/lunch/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-tutto-italia-ristorante-dinner",
-    "name": "Tutto Italia Ristorante (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/tutto-italia-ristorante/menus/dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-via-napoli-lunch",
-    "name": "Via Napoli Ristorante e Pizzeria (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/via-napoli/menus/lunch/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-via-napoli-dinner",
-    "name": "Via Napoli Ristorante e Pizzeria (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/via-napoli/menus/dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-yorkshire-county-fish-shop",
-    "name": "Yorkshire County Fish Shop",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/yorkshire-county-fish-shop/menus/lunch-and-dinner/",
-    "added": [
-      "— {INTERSTITIAL_TITLE_TEXT}",
-      "{INTERSTITIAL_BODY_TEXT}"
-    ],
-    "removed": []
-  },
-  {
-    "id": "eu-atlantic",
-    "name": "Atlantic",
+    "id": "eu-le-gobelet-noir",
+    "name": "Le Gobelet Noir",
     "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/atlantic/menu.html",
-    "added": [
-      "Atlantic Lobster Bisque",
-      "— Atlantic Lobster Bisque",
-      "Keys to the Ship",
-      "— Keys to the Ship"
-    ],
-    "removed": [
-      "Corn Chowder",
-      "— Corn Chowder"
-    ]
-  },
-  {
-    "id": "eu-bar-moonshine",
-    "name": "Bar Moonshine",
-    "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/bar-moonshine/menu.html",
-    "added": [
-      "Le Pils",
-      "— Le Pils"
-    ],
-    "removed": [
-      "Kronenbourg 1664®",
-      "— Kronenbourg 1664®"
-    ]
-  },
-  {
-    "id": "eu-cafe-lair-de-la-sirene",
-    "name": "Café L'air De La Sirène",
-    "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/cafe-lair-de-la-sirene/menu.html",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/le-gobelet-noir/menu.html",
     "added": [
       "— Sides",
-      "Side of Pommes Frites",
-      "— Side of Pommes Frites",
+      "Side of Tavern Frites",
+      "— Side of Tavern Frites",
       "Le Pils",
       "— Le Pils"
     ],
     "removed": [
       "Kronenbourg 1664®",
       "— Kronenbourg 1664®"
+    ]
+  },
+  {
+    "id": "hs-dockside-diner",
+    "name": "Dockside Diner",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/dockside-diner/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "— Key Lime Kermit Milk Shake"
     ]
   }
 ]
