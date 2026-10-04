@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "hs-woodys-lunch-box-lunch-and-dinner",
+    "name": "Woody's Lunch Box (Lunch & Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "— Breakfast Bowl",
+      "— Kids' Breakfast Bowl"
+    ]
+  }
+]
