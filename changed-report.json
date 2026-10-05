@@ -1,13 +1,12 @@
 [
   {
-    "id": "hs-woodys-lunch-box-lunch-and-dinner",
-    "name": "Woody's Lunch Box (Lunch & Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/lunch-and-dinner/",
+    "id": "mk-golden-oak-outpost-lunch-and-dinner",
+    "name": "Golden Oak Outpost (Lunch & Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/golden-oak-outpost/menus/lunch-and-dinner/",
     "added": [],
     "removed": [
-      "— Breakfast Bowl",
-      "— Kids' Breakfast Bowl"
+      "— Biscuit Breakfast Sandwich"
     ]
   }
 ]
