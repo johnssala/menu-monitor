@@ -1,17 +1,18 @@
 [
   {
-    "id": "tl-leaning-palms",
-    "name": "Leaning Palms",
-    "park": "Typhoon Lagoon",
-    "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/leaning-palms/menus/lunch/",
+    "id": "usf-today-cafe",
+    "name": "TODAY Cafe",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/today-cafe/menu.html",
     "added": [
-      "— Golden Frozen Flame",
-      "— Golden Frozen Flame with Tequila"
+      "Hot Honey Pepperoni Flatbread",
+      "pepperoni, mozzarella, ricotta, and hot honey drizzle",
+      "Sheinelle’s Fall Salad",
+      "roasted butternut squash, crisp red apples, kale, endive, mixed greens, candied pecans, pomegranate vinaigrette"
     ],
     "removed": [
-      "— Angus Cheeseburger",
-      "— Frozen Butterfly Pea Tea Lemonade",
-      "Frozen Butterfly Pea Tea Lemonade with Vodka"
+      "Carson Daly's Cheesy Potato Pizza",
+      "potatoes, fontina cheese, Béchamel, rosemary, thyme, focaccia"
     ]
   }
 ]
