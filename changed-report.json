@@ -1,18 +1,14 @@
 [
   {
-    "id": "usf-today-cafe",
-    "name": "TODAY Cafe",
-    "park": "Universal Studios Florida",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/today-cafe/menu.html",
-    "added": [
-      "Hot Honey Pepperoni Flatbread",
-      "pepperoni, mozzarella, ricotta, and hot honey drizzle",
-      "Sheinelle’s Fall Salad",
-      "roasted butternut squash, crisp red apples, kale, endive, mixed greens, candied pecans, pomegranate vinaigrette"
-    ],
+    "id": "ush-three-broomsticks",
+    "name": "Three Broomsticks",
+    "park": "Universal Studios Hollywood",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/three-broomsticks/menu.html",
+    "added": [],
     "removed": [
-      "Carson Daly's Cheesy Potato Pizza",
-      "potatoes, fontina cheese, Béchamel, rosemary, thyme, focaccia"
+      "The Wizarding World of Harry Potter™ 10th Anniversary",
+      "10th Anniversary Stein - Cold Butterbeer",
+      "10th Anniversary Stein - Frozen Butterbeer"
     ]
   }
 ]
