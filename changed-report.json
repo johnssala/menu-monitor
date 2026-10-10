@@ -1,14 +1,140 @@
 [
   {
-    "id": "ush-three-broomsticks",
-    "name": "Three Broomsticks",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/three-broomsticks/menu.html",
-    "added": [],
+    "id": "ak-eight-spoon-cafe",
+    "name": "Eight Spoon Café",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/eight-spoon-cafe/menus/snack/",
+    "added": [
+      "— Michelob Ultra Lager"
+    ],
     "removed": [
-      "The Wizarding World of Harry Potter™ 10th Anniversary",
-      "10th Anniversary Stein - Cold Butterbeer",
-      "10th Anniversary Stein - Frozen Butterbeer"
+      "— Kona Longboard Island Lager"
+    ]
+  },
+  {
+    "id": "ak-flame-tree-barbecue",
+    "name": "Flame Tree Barbecue",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/flame-tree-barbecue/menus/lunch-and-dinner/",
+    "added": [
+      "— Old Fashioned Freeze",
+      "— Michelob Ultra Lager",
+      "— PB&J Uncrustables",
+      "— Candy Corn Pop",
+      "— Peaches and Cream"
+    ],
+    "removed": [
+      "— Frozen Mango Slushy with Glow Cube",
+      "— Frozen Raspberry Slushy with Glow Cube",
+      "— Tropical Breeze with Glow Cube",
+      "— Bubbling Pink Lagoon (with Glow Cube)",
+      "— Island Breeze with Glow Cube",
+      "— Island Breeze",
+      "— Bud Light Lager - St. Louis, MO",
+      "— PB&J Uncrustable",
+      "— Key Lime Pie Pop",
+      "— Frozen Mango Slushy",
+      "— Frozen Raspberry Slushy",
+      "— Tropical Breeze"
+    ]
+  },
+  {
+    "id": "ak-harambe-market",
+    "name": "Harambe Market",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/harambe-market/menus/lunch-and-dinner/",
+    "added": [
+      "— PB&J Uncrustables",
+      "— Golden Frozen Flame",
+      "— Frozen Prickly Pear Margarita",
+      "— Golden Frozen Flame with Tequila"
+    ],
+    "removed": [
+      "— PB&J Uncrustable"
+    ]
+  },
+  {
+    "id": "ak-isle-of-java-breakfast",
+    "name": "Isle of Java (Breakfast)",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/isle-of-java/menus/breakfast/",
+    "added": [
+      "— Churro-misu Cold Brew"
+    ],
+    "removed": []
+  },
+  {
+    "id": "ak-isle-of-java-snack",
+    "name": "Isle of Java (Snack)",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/isle-of-java/menus/snack/",
+    "added": [
+      "— Churro-misu Cold Brew"
+    ],
+    "removed": [
+      "— Irish Coffee"
+    ]
+  },
+  {
+    "id": "ak-kusafiri-coffee-shop-and-bakery-lunch-and-dinner",
+    "name": "Kusafiri Coffee Shop & Bakery (Lunch & Dinner)",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/kusafiri-coffee-shop-and-bakery/menus/lunch-and-dinner/",
+    "added": [
+      "— Chicken and Rice Bowl",
+      "— Plant-based Picadillo Bowl",
+      "— Beef and Chicken Rice Bowl",
+      "— Beef and Rice Bowl",
+      "— Kid's Chicken Bowl",
+      "— Kid's Beef and Rice Bowl",
+      "— PB&J Uncrustable",
+      "— High Noon Pineapple Vodka Hard Seltzer",
+      "— Joffrey's™ Cold Brew Coffee"
+    ],
+    "removed": [
+      "— Egg and Bacon Croissant Sandwich",
+      "— Breakfast Totchos",
+      "— Overnight Oats",
+      "— Potato Barrels",
+      "— Mickey Cinnamon Roll",
+      "— Guava and Cheese Danish",
+      "— 7-Layer Bar",
+      "— Simply® Orange",
+      "— Minute Maid® Apple Juice",
+      "— Whole Milk"
+    ]
+  },
+  {
+    "id": "ak-pizzafari",
+    "name": "Pizzafari",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/pizzafari/menus/lunch-and-dinner/",
+    "added": [
+      "— Blackberry Cobbler",
+      "— Kona Longboard Island Lager"
+    ],
+    "removed": [
+      "— Blue Lagoon Lemonade with Glow Cube",
+      "Blue Lagoon Lemonade with Rum and Glow Cube",
+      "— Blue Lagoon Lemonade",
+      "— Blue Lagoon with Rum",
+      "— Bud Light Lager - St. Louis, MO"
+    ]
+  },
+  {
+    "id": "ak-the-smiling-crocodile",
+    "name": "The Smiling Crocodile",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/smiling-crocodile/menus/lunch-and-dinner/",
+    "added": [
+      "— Isla Dorada",
+      "— Isla Dorada with Tequila",
+      "— Kona Brewing Co. Big Wave Golden Ale"
+    ],
+    "removed": [
+      "Passion Fruit-Orange-Guava Juice Limeade with Chili-Lime Seasoning",
+      "— Bud Light Lager Draft",
+      "Passion Fruit-Orange-Guava Juice Limeade with Chili-Lime Seasoning and Tequila"
     ]
   }
 ]
