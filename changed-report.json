@@ -1,140 +1,200 @@
 [
   {
-    "id": "ak-eight-spoon-cafe",
-    "name": "Eight Spoon Café",
+    "id": "ak-tusker-house-restaurant-breakfast",
+    "name": "Tusker House Restaurant (Breakfast)",
     "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/eight-spoon-cafe/menus/snack/",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tusker-house-restaurant/menus/breakfast/",
     "added": [
-      "— Michelob Ultra Lager"
+      "— Malawi Mango Margarita",
+      "— Coconut Gimlet",
+      "— Espresso Martini",
+      "— Spicy Margarita",
+      "— Tangier Old Fashioned",
+      "— Kara Tara Chardonnay Glass"
     ],
     "removed": [
-      "— Kona Longboard Island Lager"
+      "— Sunrise Margarita",
+      "— Pink Spritzer",
+      "— All-Natural Lemonade",
+      "— Lava Smoothie",
+      "— So Many Wishes",
+      "— Specialty Character Drink",
+      "— Wild Strawberry Lemonade",
+      "— Blood Orange Margarita",
+      "— Spicy Poblano Margarita",
+      "— Paloma",
+      "— Rum Swizzle",
+      "— Raspberry Mojito",
+      "— Sunset Margarita",
+      "— Whiskey Breeze",
+      "— Kentucky Mule",
+      "— Bahama Mama",
+      "— Piña CoLava",
+      "— Ultimate Long Island Iced Tea",
+      "— Captain’s Mai Tai",
+      "— Indigo Hibiscus",
+      "— Chocolate Martini",
+      "— Red Sangria",
+      "— White Sangria",
+      "— Bacardi Mojito",
+      "— Jam Jar Sweet White, Western Cape",
+      "— Indaba Chardonnay, Western Cape",
+      "— Jam Jar Sweet Shiraz, Western Cape"
     ]
   },
   {
-    "id": "ak-flame-tree-barbecue",
-    "name": "Flame Tree Barbecue",
+    "id": "ak-tusker-house-restaurant-lunch",
+    "name": "Tusker House Restaurant (Lunch)",
     "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/flame-tree-barbecue/menus/lunch-and-dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tusker-house-restaurant/menus/lunch/",
     "added": [
-      "— Old Fashioned Freeze",
-      "— Michelob Ultra Lager",
-      "— PB&J Uncrustables",
-      "— Candy Corn Pop",
-      "— Peaches and Cream"
+      "— Malawi Mango Margarita",
+      "— Coconut Gimlet",
+      "— Espresso Martini",
+      "— Spicy Margarita",
+      "— Tangier Old Fashioned",
+      "— Kara Tara Chardonnay Glass"
     ],
     "removed": [
-      "— Frozen Mango Slushy with Glow Cube",
-      "— Frozen Raspberry Slushy with Glow Cube",
-      "— Tropical Breeze with Glow Cube",
-      "— Bubbling Pink Lagoon (with Glow Cube)",
-      "— Island Breeze with Glow Cube",
-      "— Island Breeze",
-      "— Bud Light Lager - St. Louis, MO",
-      "— PB&J Uncrustable",
-      "— Key Lime Pie Pop",
-      "— Frozen Mango Slushy",
-      "— Frozen Raspberry Slushy",
-      "— Tropical Breeze"
+      "— All-Natural Lemonade",
+      "— Lava Smoothie",
+      "— So Many Wishes",
+      "— Specialty Character Drink",
+      "— Wild Strawberry Lemonade",
+      "— Blood Orange Margarita",
+      "— Spicy Poblano Margarita",
+      "— Paloma",
+      "— Rum Swizzle",
+      "— Raspberry Mojito",
+      "— Sunset Margarita",
+      "— Sunrise Margarita",
+      "— Whiskey Breeze",
+      "— Kentucky Mule",
+      "— Bahama Mama",
+      "— Piña CoLava",
+      "— Ultimate Long Island Iced Tea",
+      "— Captain’s Mai Tai",
+      "— Indigo Hibiscus",
+      "— Chocolate Martini",
+      "— Red Sangria",
+      "— White Sangria",
+      "— Bacardi Mojito",
+      "— Jam Jar Sweet White, Western Cape",
+      "— Indaba Chardonnay, Western Cape",
+      "— Jam Jar Sweet Shiraz, Western Cape"
     ]
   },
   {
-    "id": "ak-harambe-market",
-    "name": "Harambe Market",
+    "id": "ak-tusker-house-restaurant-dinner",
+    "name": "Tusker House Restaurant (Dinner)",
     "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/harambe-market/menus/lunch-and-dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tusker-house-restaurant/menus/dinner/",
     "added": [
-      "— PB&J Uncrustables",
-      "— Golden Frozen Flame",
-      "— Frozen Prickly Pear Margarita",
-      "— Golden Frozen Flame with Tequila"
+      "— Malawi Mango Margarita",
+      "— Coconut Gimlet",
+      "— Espresso Martini",
+      "— Spicy Margarita",
+      "— Tangier Old Fashioned",
+      "— Kara Tara Chardonnay Glass"
     ],
     "removed": [
-      "— PB&J Uncrustable"
+      "— All-Natural Lemonade",
+      "— Lava Smoothie",
+      "— So Many Wishes",
+      "— Specialty Character Drink",
+      "— Wild Strawberry Lemonade",
+      "— Blood Orange Margarita",
+      "— Spicy Poblano Margarita",
+      "— Paloma",
+      "— Rum Swizzle",
+      "— Raspberry Mojito",
+      "— Sunset Margarita",
+      "— Sunrise Margarita",
+      "— Whiskey Breeze",
+      "— Kentucky Mule",
+      "— Bahama Mama",
+      "— Piña CoLava",
+      "— Ultimate Long Island Iced Tea",
+      "— Captain’s Mai Tai",
+      "— Indigo Hibiscus",
+      "— Chocolate Martini",
+      "— Red Sangria",
+      "— White Sangria",
+      "— Bacardi Mojito",
+      "— Jam Jar Sweet White, Western Cape",
+      "— Indaba Chardonnay, Western Cape",
+      "— Jam Jar Sweet Shiraz, Western Cape"
     ]
   },
   {
-    "id": "ak-isle-of-java-breakfast",
-    "name": "Isle of Java (Breakfast)",
+    "id": "ak-warung-outpost",
+    "name": "Warung Outpost",
     "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/isle-of-java/menus/breakfast/",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/warung-outpost/menus/bar-%E2%80%93-lounge/",
     "added": [
-      "— Churro-misu Cold Brew"
+      "DOLE Whip® Pineapple with Chili-Lime and Churro Sundae"
     ],
     "removed": []
   },
   {
-    "id": "ak-isle-of-java-snack",
-    "name": "Isle of Java (Snack)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/isle-of-java/menus/snack/",
+    "id": "bb-avalunch",
+    "name": "Avalunch",
+    "park": "Blizzard Beach",
+    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/avalunch/menus/snack/",
     "added": [
-      "— Churro-misu Cold Brew"
+      "— Pepperoni Pizza",
+      "— Cheese Pizza",
+      "— Maple-Bacon Churro Fries"
     ],
     "removed": [
-      "— Irish Coffee"
+      "— Winter Harvest Salad with Chicken",
+      "— Winter Harvest Salad",
+      "— Roasted Veggie Wrap"
     ]
   },
   {
-    "id": "ak-kusafiri-coffee-shop-and-bakery-lunch-and-dinner",
-    "name": "Kusafiri Coffee Shop & Bakery (Lunch & Dinner)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/kusafiri-coffee-shop-and-bakery/menus/lunch-and-dinner/",
+    "id": "bb-lottawatta-lodge-all-day",
+    "name": "Lottawatta Lodge (All-Day)",
+    "park": "Blizzard Beach",
+    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/lottawatta-lodge/menus/all-day/",
     "added": [
-      "— Chicken and Rice Bowl",
-      "— Plant-based Picadillo Bowl",
-      "— Beef and Chicken Rice Bowl",
-      "— Beef and Rice Bowl",
-      "— Kid's Chicken Bowl",
-      "— Kid's Beef and Rice Bowl",
-      "— PB&J Uncrustable",
-      "— High Noon Pineapple Vodka Hard Seltzer",
-      "— Joffrey's™ Cold Brew Coffee"
+      "— Peaches and Cream",
+      "— Peaches and Cream with Vodka"
     ],
     "removed": [
-      "— Egg and Bacon Croissant Sandwich",
-      "— Breakfast Totchos",
-      "— Overnight Oats",
-      "— Potato Barrels",
-      "— Mickey Cinnamon Roll",
-      "— Guava and Cheese Danish",
-      "— 7-Layer Bar",
-      "— Simply® Orange",
-      "— Minute Maid® Apple Juice",
-      "— Whole Milk"
+      "— White Cap Flatbread",
+      "— Cheeseburger",
+      "— Roasted Veggie Wrap",
+      "— Winter Paloma"
     ]
   },
   {
-    "id": "ak-pizzafari",
-    "name": "Pizzafari",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/pizzafari/menus/lunch-and-dinner/",
+    "id": "bb-lottawatta-lodge-lunch-and-dinner",
+    "name": "Lottawatta Lodge (Lunch & Dinner)",
+    "park": "Blizzard Beach",
+    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/lottawatta-lodge/menus/lunch-and-dinner/",
     "added": [
-      "— Blackberry Cobbler",
-      "— Kona Longboard Island Lager"
+      "— Peaches and Cream",
+      "— Peaches and Cream with Vodka"
     ],
     "removed": [
-      "— Blue Lagoon Lemonade with Glow Cube",
-      "Blue Lagoon Lemonade with Rum and Glow Cube",
-      "— Blue Lagoon Lemonade",
-      "— Blue Lagoon with Rum",
-      "— Bud Light Lager - St. Louis, MO"
+      "— White Cap Flatbread",
+      "— Cheeseburger",
+      "— Roasted Veggie Wrap",
+      "— Winter Paloma"
     ]
   },
   {
-    "id": "ak-the-smiling-crocodile",
-    "name": "The Smiling Crocodile",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/smiling-crocodile/menus/lunch-and-dinner/",
-    "added": [
-      "— Isla Dorada",
-      "— Isla Dorada with Tequila",
-      "— Kona Brewing Co. Big Wave Golden Ale"
-    ],
+    "id": "bb-warming-hut",
+    "name": "Warming Hut",
+    "park": "Blizzard Beach",
+    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/warming-hut/menus/snack/",
+    "added": [],
     "removed": [
-      "Passion Fruit-Orange-Guava Juice Limeade with Chili-Lime Seasoning",
-      "— Bud Light Lager Draft",
-      "Passion Fruit-Orange-Guava Juice Limeade with Chili-Lime Seasoning and Tequila"
+      "— Winter Harvest Salad with Chicken",
+      "— Winter Harvest Salad",
+      "— Turkey and Cheddar Sandwich",
+      "— Roasted Veggie Wrap"
     ]
   }
 ]
