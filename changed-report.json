@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "dl-jolly-holiday-bakery-cafe-lunch-and-dinner",
+    "name": "Jolly Holiday Bakery Cafe (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/lunch-and-dinner/",
+    "added": [
+      "— Bacon & Egg Croissant",
+      "— Bacon & Egg Croissant with Fruit",
+      "— Yogurt Parfait"
+    ],
+    "removed": [
+      "BooGogi Beef Toasted with Corn Cheese Soup",
+      "— Turkey on Ciabatta",
+      "— Toasted Cheese",
+      "— Garden Grain Salad",
+      "— Breadstick",
+      "— Cuties® Mandarin Orange",
+      "— Side of Soup",
+      "— Side of Fruit",
+      "— House-made Chips",
+      "— Turkey Sandwich",
+      "— Macaroni and Cheese"
+    ]
+  },
+  {
+    "id": "dl-ronto-roasters-lunch-and-dinner",
+    "name": "Ronto Roasters (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/lunch-and-dinner/",
+    "added": [
+      "— Ronto Morning Wrap",
+      "— Rising Moons Overnight Oats",
+      "— Triple Suns Breakfast Wrap",
+      "— Lowfat Milk",
+      "— Small Chocolate Milk"
+    ],
+    "removed": [
+      "— Zuchii Wrap"
+    ]
+  }
+]
