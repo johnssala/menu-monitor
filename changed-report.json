@@ -1,42 +1,67 @@
 [
   {
-    "id": "dl-jolly-holiday-bakery-cafe-lunch-and-dinner",
-    "name": "Jolly Holiday Bakery Cafe (Lunch & Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/lunch-and-dinner/",
+    "id": "epcot-connections-eatery",
+    "name": "Connections Eatery",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/connections-eatery/menus/",
     "added": [
-      "— Bacon & Egg Croissant",
-      "— Bacon & Egg Croissant with Fruit",
-      "— Yogurt Parfait"
+      "— Fried Chicken Sandwich",
+      "— PB&J Uncrustables",
+      "— S’mores Gelato Milkshake",
+      "— Mango-Coconut Milkshake"
     ],
     "removed": [
-      "BooGogi Beef Toasted with Corn Cheese Soup",
-      "— Turkey on Ciabatta",
-      "— Toasted Cheese",
-      "— Garden Grain Salad",
-      "— Breadstick",
-      "— Cuties® Mandarin Orange",
-      "— Side of Soup",
-      "— Side of Fruit",
-      "— House-made Chips",
-      "— Turkey Sandwich",
-      "— Macaroni and Cheese"
+      "— Hand-breaded Chicken Sandwich",
+      "— PB&J Uncrustable",
+      "— Mango-Coconut Milk Shake"
     ]
   },
   {
-    "id": "dl-ronto-roasters-lunch-and-dinner",
-    "name": "Ronto Roasters (Lunch & Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/lunch-and-dinner/",
+    "id": "epcot-coral-reef-restaurant",
+    "name": "Coral Reef Restaurant",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/coral-reef-restaurant/menus/dinner/",
     "added": [
-      "— Ronto Morning Wrap",
-      "— Rising Moons Overnight Oats",
-      "— Triple Suns Breakfast Wrap",
-      "— Lowfat Milk",
-      "— Small Chocolate Milk"
+      "— Chicken Strips",
+      "— Steamed Broccoli",
+      "— The Fishbowl",
+      "(For Fish/Shellfish, Peanut, Sesame Allergies)"
     ],
     "removed": [
-      "— Zuchii Wrap"
+      "— Broccoli",
+      "— Kakamora Coconut Treat",
+      "— Michelob Ultra Lager - St. Louis, MO",
+      "— Reef Amber - Littleton, CO"
+    ]
+  },
+  {
+    "id": "epcot-crepes-a-emporter",
+    "name": "Crêpes À Emporter by La Crêperie de Paris",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/crepes-a-emporter/menus/",
+    "added": [
+      "— La Bête de Crepe"
+    ],
+    "removed": []
+  },
+  {
+    "id": "epcot-garden-grill-restaurant-lunch",
+    "name": "Garden Grill Restaurant (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/garden-grill-restaurant/menus/lunch/",
+    "added": [],
+    "removed": [
+      "— Specialty Character Drink"
+    ]
+  },
+  {
+    "id": "epcot-garden-grill-restaurant-dinner",
+    "name": "Garden Grill Restaurant (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/garden-grill-restaurant/menus/dinner/",
+    "added": [],
+    "removed": [
+      "— Specialty Character Drink"
     ]
   }
 ]
