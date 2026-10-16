@@ -1,67 +1,212 @@
 [
   {
-    "id": "epcot-connections-eatery",
-    "name": "Connections Eatery",
+    "id": "epcot-geo-82-lunch",
+    "name": "GEO-82 (Lunch)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/connections-eatery/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/geo-82-lounge/menus/lunch/",
     "added": [
-      "— Fried Chicken Sandwich",
-      "— PB&J Uncrustables",
-      "— S’mores Gelato Milkshake",
-      "— Mango-Coconut Milkshake"
+      "— Zero-Proof Blueberry 75",
+      "— Clarified Passion Fruit Martini",
+      "— Tiramisu Martini",
+      "Famille Joly Savennières \"Les Vieux Clos\"",
+      "Jean-Louis Chave Côtes du Rhône Selection \"Mon Coeur\"",
+      "Weingut Schätzel Rheinischer Riesling Kabinett",
+      "— Littorai \"Les Larmes\" Pinot Noir",
+      "Turley Wine Cellars, Zinfandel Rattlesnake Ridge Vineyard"
     ],
     "removed": [
-      "— Hand-breaded Chicken Sandwich",
-      "— PB&J Uncrustable",
-      "— Mango-Coconut Milk Shake"
+      "— Manhattan in the Morning",
+      "— High Brow Batanga"
     ]
   },
   {
-    "id": "epcot-coral-reef-restaurant",
-    "name": "Coral Reef Restaurant",
+    "id": "epcot-geo-82-dinner",
+    "name": "GEO-82 (Dinner)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/coral-reef-restaurant/menus/dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/geo-82-lounge/menus/dinner/",
     "added": [
-      "— Chicken Strips",
-      "— Steamed Broccoli",
-      "— The Fishbowl",
-      "(For Fish/Shellfish, Peanut, Sesame Allergies)"
+      "— Zero-Proof Blueberry 75",
+      "— Clarified Passion Fruit Martini",
+      "— Tiramisu Martini",
+      "Famille Joly Savennières \"Les Vieux Clos\"",
+      "Jean-Louis Chave Côtes du Rhône Selection \"Mon Coeur\"",
+      "Weingut Schätzel Rheinischer Riesling Kabinett",
+      "— Littorai \"Les Larmes\" Pinot Noir",
+      "Turley Wine Cellars, Zinfandel Rattlesnake Ridge Vineyard"
     ],
     "removed": [
-      "— Broccoli",
-      "— Kakamora Coconut Treat",
-      "— Michelob Ultra Lager - St. Louis, MO",
-      "— Reef Amber - Littleton, CO"
+      "— Manhattan in the Morning",
+      "— High Brow Batanga"
     ]
   },
   {
-    "id": "epcot-crepes-a-emporter",
-    "name": "Crêpes À Emporter by La Crêperie de Paris",
+    "id": "epcot-la-creperie-de-paris-breakfast",
+    "name": "La Crêperie de Paris (Breakfast)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/crepes-a-emporter/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/creperie-de-paris/menus/breakfast/",
     "added": [
-      "— La Bête de Crepe"
+      "— Burger Brenton"
     ],
     "removed": []
   },
   {
-    "id": "epcot-garden-grill-restaurant-lunch",
-    "name": "Garden Grill Restaurant (Lunch)",
+    "id": "epcot-la-creperie-de-paris-lunch",
+    "name": "La Crêperie de Paris (Lunch)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/garden-grill-restaurant/menus/lunch/",
-    "added": [],
+    "url": "https://disneyworld.disney.go.com/dining/epcot/creperie-de-paris/menus/lunch/",
+    "added": [
+      "— Burger Brenton"
+    ],
+    "removed": []
+  },
+  {
+    "id": "epcot-la-creperie-de-paris-dinner",
+    "name": "La Crêperie de Paris (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/creperie-de-paris/menus/dinner/",
+    "added": [
+      "— Burger Brenton"
+    ],
+    "removed": []
+  },
+  {
+    "id": "epcot-la-hacienda-de-san-angel",
+    "name": "La Hacienda de San Angel",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/hacienda-de-san-angel/menus/dinner/",
+    "added": [
+      "— Top Shelf Margarita"
+    ],
     "removed": [
-      "— Specialty Character Drink"
+      "— San Angel Inn Margarita",
+      "— Clásica"
     ]
   },
   {
-    "id": "epcot-garden-grill-restaurant-dinner",
-    "name": "Garden Grill Restaurant (Dinner)",
+    "id": "epcot-le-cellier-steakhouse-lunch",
+    "name": "Le Cellier Steakhouse (Lunch)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/garden-grill-restaurant/menus/dinner/",
-    "added": [],
+    "url": "https://disneyworld.disney.go.com/dining/epcot/le-cellier-steakhouse/menus/lunch/",
+    "added": [
+      "— Heritage Chicken",
+      "Les Cadrans de Lassègue Merlot, Saint-Émilion",
+      "Frank Family Vineyards Cabernet Sauvignon, Napa Valley",
+      "— Inniskillin Cabernet Franc Icewine",
+      "Châteaux La Tour Blanche Emotions, Sauternes Bordeaux"
+    ],
     "removed": [
-      "— Specialty Character Drink"
+      "— Roasted Chicken",
+      "Les Cadrans de Lassègue Merlot, Saint-Émilion Grand Cru, Bordeaux",
+      "— Frank Family Cabernet, Napa Valley",
+      "Meeker FroZin Zinfandel Icewine, Sonoma County",
+      "Chateau La Tour Blanche Emotions, Sauternes Bordeaux"
+    ]
+  },
+  {
+    "id": "epcot-le-cellier-steakhouse-dinner",
+    "name": "Le Cellier Steakhouse (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/le-cellier-steakhouse/menus/dinner/",
+    "added": [
+      "— Heritage Chicken",
+      "Les Cadrans de Lassègue Merlot, Saint-Émilion",
+      "Frank Family Vineyards Cabernet Sauvignon, Napa Valley",
+      "— Inniskillin Cabernet Franc Icewine",
+      "Châteaux La Tour Blanche Emotions, Sauternes Bordeaux"
+    ],
+    "removed": [
+      "— Roasted Chicken",
+      "Les Cadrans de Lassègue Merlot, Saint-Émilion Grand Cru, Bordeaux",
+      "— Frank Family Cabernet, Napa Valley",
+      "Meeker FroZin Zinfandel Icewine, Sonoma County",
+      "Chateau La Tour Blanche Emotions, Sauternes Bordeaux"
+    ]
+  },
+  {
+    "id": "epcot-les-halles-boulangerie-patisserie",
+    "name": "Les Halles Boulangerie-Patisserie",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/les-halles-boulangerie-patisserie/menus/lunch-and-dinner/",
+    "added": [
+      "— Frangipane",
+      "— Pistachio"
+    ],
+    "removed": [
+      "— Croiss Oh La La",
+      "— Croissant Amandes",
+      "— Napoleon"
+    ]
+  },
+  {
+    "id": "epcot-regal-eagle-smokehouse",
+    "name": "Regal Eagle Smokehouse",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/regal-eagle-smokehouse/menus/lunch-and-dinner/",
+    "added": [
+      "— PB&J Uncrustables"
+    ],
+    "removed": [
+      "— PB&J Uncrustable"
+    ]
+  },
+  {
+    "id": "epcot-rose-and-crown-dining-room",
+    "name": "Rose & Crown Dining Room",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/rose-and-crown-dining-room/menus/dinner/",
+    "added": [
+      "— Baked Fish",
+      "— Fried Fish",
+      "— Macaroni & Cheese",
+      "— English Peas",
+      "— Roasted Carrots",
+      "— Basmati Rice",
+      "— Mashed Potatoes",
+      "— Thick-cut Fries",
+      "— Royal Berry Spritzer",
+      "— Enchanted Grove Lime Splash",
+      "— Dublin After Dark",
+      "— Rosé Spritz",
+      "— Scotch & Honey",
+      "— Berry Proper",
+      "(For Gluten/Wheat, Egg, Milk, Peanut/Tree Nut, Sesame, Shellfish, Soy Allergies)",
+      "(For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",
+      "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)",
+      "(For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",
+      "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame Allergies)"
+    ],
+    "removed": [
+      "— Indigo Hibiscus",
+      "— Leaping Leprechaun",
+      "— Cider and Fireball",
+      "— English Rose",
+      "— Courvoisier VS"
+    ]
+  },
+  {
+    "id": "epcot-san-angel-inn-restaurante-lunch",
+    "name": "San Angel Inn Restaurante (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/san-angel-inn-restaurante/menus/lunch/",
+    "added": [
+      "— Tamal De Rajas",
+      "— Churrasco* **"
+    ],
+    "removed": [
+      "— Gordita"
+    ]
+  },
+  {
+    "id": "epcot-san-angel-inn-restaurante-dinner",
+    "name": "San Angel Inn Restaurante (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/san-angel-inn-restaurante/menus/dinner/",
+    "added": [
+      "— Tamal De Rajas",
+      "— Churrasco* **"
+    ],
+    "removed": [
+      "— Gordita"
     ]
   }
 ]
