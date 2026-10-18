@@ -1,57 +1,99 @@
 [
   {
-    "id": "epcot-sommerfest",
-    "name": "Sommerfest",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/sommerfest/menus/lunch-and-dinner/",
+    "id": "hs-50s-prime-time-cafe-lunch",
+    "name": "50's Prime Time Café (Lunch)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/50s-prime-time-cafe/menus/lunch/",
+    "added": [
+      "— Cousin Amy's Mixed Salad"
+    ],
+    "removed": [
+      "— Mixed Salad"
+    ]
+  },
+  {
+    "id": "hs-50s-prime-time-cafe-dinner",
+    "name": "50's Prime Time Café (Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/50s-prime-time-cafe/menus/dinner/",
+    "added": [
+      "— Cousin Amy's Mixed Salad"
+    ],
+    "removed": [
+      "— Mixed Salad"
+    ]
+  },
+  {
+    "id": "hs-abc-commissary",
+    "name": "ABC Commissary",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/abc-commissary/menus/lunch-and-dinner/",
+    "added": [
+      "— Pluto Skeleton Sipper",
+      "— Ghost Cream Puff"
+    ],
+    "removed": []
+  },
+  {
+    "id": "hs-anaheim-produce",
+    "name": "Anaheim Produce",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/anaheim-produce/menus/all-day/",
+    "added": [
+      "— Bavarian Cream-filled Churro",
+      "— Key Lime Slush",
+      "— Old Fashioned Freeze"
+    ],
+    "removed": [
+      "— Anaheim Margarita"
+    ]
+  },
+  {
+    "id": "hs-backlot-express",
+    "name": "Backlot Express",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/backlot-express/menus/lunch-and-dinner/",
+    "added": [
+      "— Pluto Skeleton Sipper",
+      "— Ghost Cream Puff",
+      "— Peaches and Cream",
+      "— Blackberry Cobbler"
+    ],
+    "removed": [
+      "— Annual Passholder Tumbler",
+      "— Blue Raspberry Slushy",
+      "— 1/3 lb Angus Cheeseburger"
+    ]
+  },
+  {
+    "id": "hs-catalina-eddies",
+    "name": "Catalina Eddie's",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/catalina-eddies/menus/lunch-and-dinner/",
     "added": [],
     "removed": [
-      "— Assorted Fountain Beverages",
-      "— Coca-Cola® Bottle",
-      "— Diet Coke® Bottle",
-      "— Sprite® Bottle"
+      "— Alfredo Basil Chicken Pasta"
     ]
   },
   {
-    "id": "epcot-spice-road-table",
-    "name": "Spice Road Table",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/spice-road-table/menus/dinner/",
+    "id": "hs-dockside-diner",
+    "name": "Dockside Diner",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/dockside-diner/menus/lunch-and-dinner/",
     "added": [
-      "— Tangier Old Fashioned",
-      "— Marrakech Mango Margarita",
-      "— House-made White Sangria",
-      "— House-made Red Sangria",
-      "— Enchanted Grove Lime Splash"
+      "— Pluto Skeleton Sipper"
     ],
     "removed": [
-      "— Pomegranate Mimosa",
-      "— Hibiscus Mimosa",
-      "— Medina Mixer",
-      "— Sahara Spritz",
-      "— House-made Sangria"
+      "— Annual Passholder Tumbler"
     ]
   },
   {
-    "id": "epcot-sunshine-seasons-lunch",
-    "name": "Sunshine Seasons (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/sunshine-seasons/menus/lunch/",
+    "id": "hs-epic-eats",
+    "name": "Epic Eats",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/epic-eats/menus/all-day/",
     "added": [
-      "— PB&J Uncrustables",
-      "— Churro Strawberry Shortcake Sundae"
-    ],
-    "removed": [
-      "— PB&J Uncrustable"
-    ]
-  },
-  {
-    "id": "epcot-sunshine-seasons-snack",
-    "name": "Sunshine Seasons (Snack)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/sunshine-seasons/menus/snack/",
-    "added": [
-      "— Churro Strawberry Shortcake Sundae"
+      "— Maleficent Funnel Cake"
     ],
     "removed": []
   }
