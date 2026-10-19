@@ -1,99 +1,128 @@
 [
   {
-    "id": "hs-50s-prime-time-cafe-lunch",
-    "name": "50's Prime Time Café (Lunch)",
+    "id": "hs-fairfax-fare-breakfast",
+    "name": "Fairfax Fare (Breakfast)",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/50s-prime-time-cafe/menus/lunch/",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/breakfast/",
     "added": [
-      "— Cousin Amy's Mixed Salad"
-    ],
-    "removed": [
-      "— Mixed Salad"
-    ]
-  },
-  {
-    "id": "hs-50s-prime-time-cafe-dinner",
-    "name": "50's Prime Time Café (Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/50s-prime-time-cafe/menus/dinner/",
-    "added": [
-      "— Cousin Amy's Mixed Salad"
-    ],
-    "removed": [
-      "— Mixed Salad"
-    ]
-  },
-  {
-    "id": "hs-abc-commissary",
-    "name": "ABC Commissary",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/abc-commissary/menus/lunch-and-dinner/",
-    "added": [
-      "— Pluto Skeleton Sipper",
-      "— Ghost Cream Puff"
+      "— Pluto Skeleton Sipper"
     ],
     "removed": []
   },
   {
-    "id": "hs-anaheim-produce",
-    "name": "Anaheim Produce",
+    "id": "hs-fairfax-fare-lunch-and-dinner",
+    "name": "Fairfax Fare (Lunch & Dinner)",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/anaheim-produce/menus/all-day/",
-    "added": [
-      "— Bavarian Cream-filled Churro",
-      "— Key Lime Slush",
-      "— Old Fashioned Freeze"
-    ],
-    "removed": [
-      "— Anaheim Margarita"
-    ]
-  },
-  {
-    "id": "hs-backlot-express",
-    "name": "Backlot Express",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/backlot-express/menus/lunch-and-dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/lunch-and-dinner/",
     "added": [
       "— Pluto Skeleton Sipper",
-      "— Ghost Cream Puff",
-      "— Peaches and Cream",
-      "— Blackberry Cobbler"
+      "— Barbecued Beef Brisket Bowl",
+      "— Korean Barbecued Pork Belly Bowl",
+      "— Buffalo Chicken Bowl",
+      "Plant-based Soba Noodle Salad Bowl with Chik'n",
+      "— Plant-based Soba Noodle Salad Bowl",
+      "— Enchanted Rose"
     ],
     "removed": [
-      "— Annual Passholder Tumbler",
-      "— Blue Raspberry Slushy",
-      "— 1/3 lb Angus Cheeseburger"
+      "— Waffle Platter",
+      "— Mimosa"
     ]
   },
   {
-    "id": "hs-catalina-eddies",
-    "name": "Catalina Eddie's",
+    "id": "hs-ice-cold-hydraulics",
+    "name": "Ice Cold Hydraulics",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/catalina-eddies/menus/lunch-and-dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ice-cold-hydraulics/menus/all-day/",
     "added": [],
-    "removed": [
-      "— Alfredo Basil Chicken Pasta"
-    ]
+    "removed": []
   },
   {
-    "id": "hs-dockside-diner",
-    "name": "Dockside Diner",
+    "id": "hs-market",
+    "name": "Market",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/dockside-diner/menus/lunch-and-dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/market/menus/",
     "added": [
-      "— Pluto Skeleton Sipper"
+      "— Chocolate-filled Mini Churros",
+      "Strawberry Lemonade with Bacardi Dragonberry"
     ],
     "removed": [
-      "— Annual Passholder Tumbler"
+      "— Churro with Chocolate Sauce"
     ]
   },
   {
-    "id": "hs-epic-eats",
-    "name": "Epic Eats",
+    "id": "hs-ronto-roasters-lunch-and-dinner",
+    "name": "Ronto Roasters (Lunch & Dinner)",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/epic-eats/menus/all-day/",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/lunch-and-dinner/",
     "added": [
-      "— Maleficent Funnel Cake"
+      "— Zuchii Wrap"
+    ],
+    "removed": [
+      "— Ronto Morning Wrap",
+      "— Rising Moons Overnight Oats",
+      "— Triple Suns Breakfast Wrap",
+      "— Lowfat Milk",
+      "— Small Chocolate Milk"
+    ]
+  },
+  {
+    "id": "hs-rosies-all-american-cafe",
+    "name": "Rosie's All-American Café",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/rosies-all-american-cafe/menus/lunch-and-dinner/",
+    "added": [
+      "— Cherry Lemonade Slushy",
+      "— Frozen Cherry Lemonade with Whiskey",
+      "— Frozen Cherry Lemonade with Vodka"
+    ],
+    "removed": [
+      "— 1/3 lb Angus Cheeseburger",
+      "— Cherry Lemonade",
+      "— Cherry Lemonade with Whiskey",
+      "— Cherry Lemonade with Vodka"
+    ]
+  },
+  {
+    "id": "hs-roundup-rodeo-bbq-lunch",
+    "name": "Roundup Rodeo BBQ (Lunch)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/roundup-rodeo-bbq/menus/lunch/",
+    "added": [
+      "— Prickly Spur"
+    ],
+    "removed": [
+      "— Prickly Spur Long Island"
+    ]
+  },
+  {
+    "id": "hs-roundup-rodeo-bbq-dinner",
+    "name": "Roundup Rodeo BBQ (Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/roundup-rodeo-bbq/menus/dinner/",
+    "added": [
+      "— Prickly Spur"
+    ],
+    "removed": [
+      "— Prickly Spur Long Island"
+    ]
+  },
+  {
+    "id": "hs-sci-fi-dine-in-theater-restaurant-lunch",
+    "name": "Sci-Fi Dine-In Theater Restaurant (Lunch)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/sci-fi-dine-in-theater/menus/lunch/",
+    "added": [
+      "— Espresso Martini Milkshake"
+    ],
+    "removed": []
+  },
+  {
+    "id": "hs-sci-fi-dine-in-theater-restaurant-dinner",
+    "name": "Sci-Fi Dine-In Theater Restaurant (Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/sci-fi-dine-in-theater/menus/dinner/",
+    "added": [
+      "— Espresso Martini Milkshake"
     ],
     "removed": []
   }
