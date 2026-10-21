@@ -1,13 +1,199 @@
 [
   {
-    "id": "hs-woodys-lunch-box-lunch-and-dinner",
-    "name": "Woody's Lunch Box (Lunch & Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/lunch-and-dinner/",
+    "id": "mk-astrofizz",
+    "name": "Astrofizz",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/astrofizz/menus/",
     "added": [
-      "— Breakfast Bowl",
-      "— Kids' Breakfast Bowl"
+      "— Orange Slushy Float"
     ],
-    "removed": []
+    "removed": [
+      "— Cherry Cola Churro"
+    ]
+  },
+  {
+    "id": "mk-be-our-guest-restaurant-special",
+    "name": "Be Our Guest Restaurant (Special)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/special/",
+    "added": [
+      "— Free Range Chicken"
+    ],
+    "removed": [
+      "— Poulet Rouge Chicken"
+    ]
+  },
+  {
+    "id": "mk-be-our-guest-restaurant-lunch",
+    "name": "Be Our Guest Restaurant (Lunch)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/lunch/",
+    "added": [
+      "— Beef Bourguignon en Croute",
+      "— Free Range Chicken",
+      "— House-cut French Fries",
+      "— Grilled Steak",
+      "— Mashed Potatoes",
+      "— Spicy Margarita",
+      "Mashed Potatoes (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+    ],
+    "removed": [
+      "— Short Rib Beef Bourguignon",
+      "— Poulet Rouge Chicken",
+      "— Sautéed Shrimp",
+      "— Double-smoked Bacon",
+      "— Roquefort Fondue",
+      "— Braised Beef Short Rib",
+      "— Brown Rice",
+      "— Sautéed Squash",
+      "— French 75",
+      "— Braised Beef Short Rib with Gravy"
+    ]
+  },
+  {
+    "id": "mk-be-our-guest-restaurant-dinner",
+    "name": "Be Our Guest Restaurant (Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/dinner/",
+    "added": [
+      "— Beef Bourguignon en Croute",
+      "— Free Range Chicken",
+      "— House-cut French Fries",
+      "— Grilled Steak",
+      "— Mashed Potatoes",
+      "— Spicy Margarita",
+      "Mashed Potatoes (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+    ],
+    "removed": [
+      "— Short Rib Beef Bourguignon",
+      "— Poulet Rouge Chicken",
+      "— Sautéed Shrimp",
+      "— Double-smoked Bacon",
+      "— Roquefort Fondue",
+      "— Braised Beef Short Rib",
+      "— Brown Rice",
+      "— Sautéed Squash",
+      "— French 75",
+      "— Braised Beef Short Rib with Gravy"
+    ]
+  },
+  {
+    "id": "mk-cinderellas-royal-table-breakfast",
+    "name": "Cinderella's Royal Table (Breakfast)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cinderella-royal-table/menus/breakfast/",
+    "added": [
+      "— Royal Berry Spritzer"
+    ],
+    "removed": [
+      "— Enchanted Grove Lime Splash"
+    ]
+  },
+  {
+    "id": "mk-cinderellas-royal-table-lunch",
+    "name": "Cinderella's Royal Table (Lunch)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cinderella-royal-table/menus/lunch/",
+    "added": [
+      "— Pan-seared Chicken Breast",
+      "— Miso-glazed Beef Short Rib",
+      "— Royal Berry Spritzer"
+    ],
+    "removed": [
+      "— Chicken Cottage Pie",
+      "— Enchanted Grove Lime Splash"
+    ]
+  },
+  {
+    "id": "mk-cinderellas-royal-table-dinner",
+    "name": "Cinderella's Royal Table (Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cinderella-royal-table/menus/dinner/",
+    "added": [
+      "— Pan-seared Chicken Breast",
+      "— Miso-glazed Beef Short Rib"
+    ],
+    "removed": [
+      "— Chicken Cottage Pie"
+    ]
+  },
+  {
+    "id": "mk-columbia-harbour-house",
+    "name": "Columbia Harbour House",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/columbia-harbour-house/menus/",
+    "added": [
+      "— PB&J Uncrustables"
+    ],
+    "removed": [
+      "— Turkey Sandwich Kid's Pack",
+      "— PB&J Uncrustable"
+    ]
+  },
+  {
+    "id": "mk-cosmic-rays-starlight-cafe",
+    "name": "Cosmic Ray's Starlight Café",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cosmic-ray-starlight-cafe/menus/",
+    "added": [
+      "— Fried Chicken Sandwich"
+    ],
+    "removed": [
+      "— 1/3 lb Angus Cheeseburger",
+      "— Hand-dipped Fried Chicken Sandwich",
+      "— Turkey Sandwich Kid's Pack"
+    ]
+  },
+  {
+    "id": "mk-golden-oak-outpost-breakfast",
+    "name": "Golden Oak Outpost (Breakfast)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/golden-oak-outpost/menus/breakfast/",
+    "added": [
+      "— Mama Odie's Hot Honey Chicken Strips"
+    ],
+    "removed": [
+      "Hot Honey Chicken with Sweet Potato Fries"
+    ]
+  },
+  {
+    "id": "mk-golden-oak-outpost-lunch-and-dinner",
+    "name": "Golden Oak Outpost (Lunch & Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/golden-oak-outpost/menus/lunch-and-dinner/",
+    "added": [
+      "— Biscuit Breakfast Sandwich",
+      "— Mama Odie's Hot Honey Chicken Strips"
+    ],
+    "removed": [
+      "Hot Honey Chicken with Sweet Potato Fries"
+    ]
+  },
+  {
+    "id": "mk-liberty-square-market",
+    "name": "Liberty Square Market",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/liberty-square-market/menus/",
+    "added": [
+      "— Fanta® Blue Raspberry with Sweet Cream",
+      "— Fanta® Wild Cherry with Sweet Cream"
+    ],
+    "removed": [
+      "— Fanta® Frozen Slushy"
+    ]
+  },
+  {
+    "id": "mk-pecos-bill-tall-tale-inn-and-cafe",
+    "name": "Pecos Bill Tall Tale Inn and Cafe",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/pecos-bill-tall-tale-inn-and-cafe/menus/",
+    "added": [
+      "— Barbecue Bacon Jam Cheeseburger",
+      "— PB&J Uncrustables"
+    ],
+    "removed": [
+      "— Barbecue Bacon Cheeseburger",
+      "— PB&J Uncrustable"
+    ]
   }
 ]
