@@ -1,79 +1,25 @@
 [
   {
-    "id": "mk-pinocchio-village-haus",
-    "name": "Pinocchio Village Haus",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/pinocchio-village-haus/menus/lunch-and-dinner/",
+    "id": "tl-typhoon-tillys",
+    "name": "Typhoon Tilly's",
+    "park": "Typhoon Lagoon",
+    "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/typhoon-tilly/menus/lunch-and-dinner/",
     "added": [
-      "— Kids' Cheese Pizza",
-      "— Kids' Pepperoni Pizza"
+      "— PB&J Uncrustables"
     ],
     "removed": [
-      "— Cheese Pizza"
+      "— PB&J Uncrustable"
     ]
   },
   {
-    "id": "mk-the-beak-and-barrel-lunch",
-    "name": "The Beak and Barrel (Lunch)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/beak-barrel/menus/lunch/",
+    "id": "usf-louies-italian-restaurant",
+    "name": "Louie's Italian Restaurant",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/louies-italian-restaurant/menu.html",
     "added": [],
     "removed": [
-      "— Lit Fuse"
-    ]
-  },
-  {
-    "id": "mk-the-beak-and-barrel-dinner",
-    "name": "The Beak and Barrel (Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/beak-barrel/menus/dinner/",
-    "added": [],
-    "removed": [
-      "— Lit Fuse"
-    ]
-  },
-  {
-    "id": "mk-the-crystal-palace-breakfast",
-    "name": "The Crystal Palace (Breakfast)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/crystal-palace/menus/breakfast/",
-    "added": [],
-    "removed": [
-      "— Pink Spritzer"
-    ]
-  },
-  {
-    "id": "mk-the-friars-nook-lunch-and-dinner",
-    "name": "The Friar's Nook (Lunch & Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/lunch-and-dinner/",
-    "added": [
-      "— Breakfast Tot Bowl"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-tonys-town-square-restaurant-lunch",
-    "name": "Tony's Town Square Restaurant (Lunch)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/tonys-town-square-restaurant/menus/lunch/",
-    "added": [],
-    "removed": [
-      "— Seasonal Cannoli",
-      "— Grapes",
-      "— Interactive Vanilla Cake Bar"
-    ]
-  },
-  {
-    "id": "mk-tonys-town-square-restaurant-dinner",
-    "name": "Tony's Town Square Restaurant (Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/tonys-town-square-restaurant/menus/dinner/",
-    "added": [],
-    "removed": [
-      "— Seasonal Cannoli",
-      "— Grapes",
-      "— Interactive Vanilla Cake Bar"
+      "Antipasto Salad",
+      "Antipasto Salad Combo"
     ]
   }
 ]
