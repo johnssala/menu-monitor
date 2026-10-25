@@ -1,369 +1,70 @@
 [
   {
-    "id": "ush-city-snack-shop",
-    "name": "City Snack Shop",
+    "id": "ush-three-broomsticks",
+    "name": "Three Broomsticks",
     "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/city-snack-shop/menu.html",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/three-broomsticks/menu.html",
     "added": [
-      "Special Offerings",
-      "Remmick's Burnt Ends",
-      "Pecan and Whiskey Bread Pudding",
-      "I Lied to You, I Love the Blues-Berry (Non-Alcoholic)",
-      "Ginger ale, white grape juice, lemon juice, and blue curacao syrup. Topped with fresh blueberries and a lemon wedge.",
-      "Our giant warm and toasty authentic Bavarian style pretzel.",
-      "Giant cinnamon roll topped with powdered sugar served with cream cheese frosting.",
-      "Beverages"
+      "— Breakfast",
+      "Breakfast Courses for Adults (Served until 11am on Select Days)",
+      "Fresh scrambled eggs, potatoes, bacon and sausage link with butter croissant.",
+      "Breakfast Courses for Kids (Served until 11am on Select Days)",
+      "Fresh scrambled eggs, sausage link, bacon, baked beans, baked tomato, and potatoes served with a butter croissant.",
+      "Breakfast Sides",
+      "Mixed fruit.",
+      "Two pieces of ale battered deep fried cod, served with chips and tartar sauce.",
+      "Grilled English sausage, creamy mashed potatoes, minted peas, and onion gravy.",
+      "Grilled Vegan sausage, creamy mashed potatoes, minted peas, and onion gravy.",
+      "Served with corn on the cob and roasted potatoes on the side.",
+      "Served with corn on the cob and roast potatoes on the side.",
+      "Served with your choice of dressing.",
+      "Butterbeer™ waffle served with Butterbeer™ syrup, Butterbeer™ cream, a butter barrel, and fresh strawberries.",
+      "Effervescent fresh orange beverage with notes of vanilla and cinnamon."
     ],
     "removed": [
-      "Our giant warm and toasty authentic Bavarian style pretzel",
-      "Giant cinnamon roll topped with powdered sugar served with cream cheese frosting"
+      "Butterbeer™ waffle served with Butterbeer™ syrup, Butterbeer™ cream, a butter barrel, and fresh strawberries",
+      "Breakfast Courses for Adults (Served until 11am on select days)",
+      "Fresh scrambled eggs, potatoes, bacon and sausage link with butter croissant",
+      "Breakfast Courses for Kids (Served until 11am on select days)",
+      "Fresh scrambled eggs, sausage link, bacon, baked beans, baked tomato, and potatoes served with a butter croissant",
+      "Mixed fruit with fresh mint.",
+      "Grilled English sausage, creamy mashed potatoes, minted peas, and onion gravy",
+      "Grilled Vegan sausage, creamy mashed potatoes, minted peas, and onion gravy",
+      "Served with corn on the cob, roasted potatoes.",
+      "Served with corn on the cob and roast potatoes on the side",
+      "Served with your choice of dressing",
+      "Effervescent fresh orange beverage with notes of vanilla and cinnamon"
     ]
   },
   {
-    "id": "ush-cletus-chicken-shack",
-    "name": "Cletus' Chicken Shack",
+    "id": "ush-toadstool-cafe",
+    "name": "Toadstool Cafe",
     "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/cletus-chicken-shack/menu.html",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/toadstool-cafe/menu.html",
     "added": [
-      "Special Offering",
-      "Bucket of crisp fried chicken served with biscuits, mashed potatoes and gravy, and coleslaw.",
-      "Fried chicken tenders tossed in our Flamin' Moe Buffalo sauce, served with French fries.",
-      "Crispy fried chicken topped with slaw, pickles, and Springfield sweet heat sauce.",
-      "Pulled chick'n with our Duff BBQ sauce, topped with slaw and pickles (Vegan).",
-      "Fresh Caesar Salad with chopped grilled chicken and Parmesan cheese.",
-      "Honey vanilla cake pop with a pretzel \"bone.\" Served with honey buttercream.",
-      "Mountain Berry Blast Powerade",
-      "Vanilla, Chocolate, or Swirl (Chocolate and Vanilla)"
+      "Mini mushroom shaped knots brushed with garlic butter, parmesan cheese, parsley and a side of marinara sauce.",
+      "Creamy mushroom soup with Super Mushroom crackers. (Bowl included with purchase)",
+      "Vegan tomato basil soup topped with micro basil, sliced mushroom, and truffle oil. (Bowl included with purchase)",
+      "Oven roasted chicken, potatoes, tomatoes, and spinach served with lemon beurre blanc.",
+      "Pesto alfredo sauce, grilled chicken, broccoli, and mushrooms topped with egg shaped bread.",
+      "Spaghetti with mushroom marinara sauce, meatballs, Fire Flower parmesan crisp, shaved parmesan, and chopped parsley.",
+      "Available for purchase at the register.",
+      "Tiramisu layered with coffee soaked lady fingers topped with cocoa powder and chocolate Power-Up.​",
+      "Chocolate, vanilla, and strawberry layered cake topped with a matcha mousse.",
+      "Raspberry filled Funfetti cupcake, buttercream frosting and Princess Peach chocolate crown."
     ],
     "removed": [
-      "Bucket of crisp fried chicken served with biscuits, mashed potatoes and gravy, and coleslaw",
-      "Fried chicken tenders tossed in our Flamin' Moe Buffalo sauce, served with French fries",
-      "Crispy fried chicken topped with slaw, pickles, and Springfield sweet heat sauce",
-      "Pulled chick'n with our Duff BBQ sauce, topped with slaw and pickles (Vegan)",
-      "Fresh Caesar Salad with chopped grilled chicken and Parmesan cheese",
-      "Honey vanilla cake pop with a pretzel \"bone\". Served with honey buttercream.",
-      "Mountain Blast Berry Powerade"
-    ]
-  },
-  {
-    "id": "ush-cocina-mexicana",
-    "name": "Cocina Mexicana",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/cocina-mexicana/menu.html",
-    "added": [
-      "Special Offering",
-      "Eight tacos served with rice, beans, chips, salsa, guacamole, and four (4) dessert tire conchas.",
-      "All entrees served with warm tortilla chips or rice and refried beans:",
-      "Diced onion, cilantro, and queso fresco. Served with red sauce.",
-      "Choice of Dip: Guacamole, Pico de Gallo or Queso",
-      "Side of Rice and Beans"
-    ],
-    "removed": [
-      "Mega Movie Summer Offering",
-      "Eight tacos served with rice, beans, chips, salsa, guacamole, and four (4) dessert tire conchas",
-      "All entrees served with warm tortilla chips or rice and refried beans",
-      "Served with red sauce",
-      "Tortilla Chips & Choice of Dip: Guacamole, Pico de Gallo or Queso",
-      "Side Rice and Beans",
-      "Extra side of rice and beans"
-    ]
-  },
-  {
-    "id": "ush-despicable-delights",
-    "name": "Despicable Delights",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/despicable-delights/menu.html",
-    "added": [
-      "Classic Cinnamon Churro",
-      "Available in a cup or cone"
-    ],
-    "removed": [
-      "Howard's Berry Lemonade Cupcake",
-      "Pink vanilla cupcake filled with lemon, topped with a berry lemonade buttercream and pink lemonade gummy tentacles.",
-      "Cinnamon Churro",
-      "Cup or Cone",
-      "Irene’s Orange Banana Float",
-      "Orange Slush Puppy and frozen banana yogurt topped with whipped cream, orange and yellow sprinkles, and candy eyes"
-    ]
-  },
-  {
-    "id": "ush-french-street-bistro",
-    "name": "French Street Bistro",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/french-street-bistro/menu.html",
-    "added": [
-      "Roasted turkey and Swiss cheese served on a croissant",
-      "Mediterranean Chicken Wrap",
-      "Garlic chicken, cucumber, tomato, red onion, feta cheese, tzatziki",
-      "Vegan Roasted Eggplant Sandwich",
-      "Focaccia, olive tapenade, hummus, cucumber, roasted eggplant, roasted red peppers, purple cabbage.",
-      "Caprese Sandwich",
-      "Fresh mozzarella, basil pesto, tomato, Balsamic glaze and arugula on ciabatta",
-      "Roasted turkey, Swiss cheese",
-      "Savory Crepes",
-      "Turkey & Swiss Crepe",
-      "Crepe willed with sliced turkey and Swiss cheese. Topped with red onion and a raspberry walnut vinaigrette.",
-      "Brie & Apple Crepe",
-      "Crepe filled with brie cheese and crisp green apples. Topped with candied pecans and an apple cider vinaigrette.",
-      "Mediterranean Shrimp & Couscous Salad",
-      "Spring mix topped with a Mediterranean vegetable mix, couscous and lemon shrimp.",
-      "Fresh Fruit Cup",
-      "Pickles",
-      "Charcuterie Box",
-      "Yogurt Parfait",
-      "Strawberry Nutella Crepe",
-      "Hand-held crepe filled with fresh strawberries, Nutella, and whipped topping.",
-      "Banana Caramel Crepe",
-      "Hand-held crepe filled with fresh banana, caramel, whipped topping and a sprinkle of cinnamon.",
-      "Chocolate Strawberry Banana Crepe",
-      "Blueberry or Chocolate",
-      "Brownie",
-      "Cocoa Crunch Cold Brew",
-      "White chocolate flavored cold brew topped with sweet cream cold foam and chocolate cereal",
-      "Add Cold Foam",
-      "Mountain Berry Blast Powerade"
-    ],
-    "removed": [
-      "Roasted turkey, Swiss cheese with onion sprouts",
-      "California Club Wrap",
-      "Roasted turkey, ham and American cheese and mustard spread",
-      "California Cobb Salad",
-      "Strawberry Nutella® or Chocolate Strawberry Banana or Banana Caramel",
-      "Cupcakes",
-      "Lemon Poppy Scone (Vegan)",
-      "Contains: Wheat, Soy"
-    ]
-  },
-  {
-    "id": "ush-hollywood-and-dine",
-    "name": "Hollywood & Dine",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/hollywood-dine/menu.html",
-    "added": [
-      "Bacon wrapped hot dog with sautéed onions, bell peppers, and pickled jalapeños. Served with BBQ seasoned fries.",
-      "BBQ Chicken Meal",
-      "Fried Elote Corn Dog Meal"
-    ],
-    "removed": [
-      "Mezcal, jalapeño, passion fruit puree, blue curaçao, lemon juice, and agave nectar topped with salted rim and lime wheel",
-      "All Beef Burger with 1000 Island Dressing, grilled onions and bell peppers. Served with BBQ seasoned fries.",
-      "Bacon Wrapped hot dog with sautéed onions and bell peppers, and pickled jalapeños. Served with BBQ seasoned fries.",
-      "BBQ Chicken Platter",
-      "Fried Elote Corndog Meal"
-    ]
-  },
-  {
-    "id": "ush-jurassic-cafe",
-    "name": "Jurassic Cafe",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/jurassic-cafe/menu.html",
-    "added": [
-      "Served with fries.",
-      "Mixed greens, red onion, hard-boiled egg, cherry tomato, diced chicken, crumbled bacon, and blue cheese.",
-      "Meatball and pepperoni sub sandwich with mozzarella cheese, marinara sauce on a garlic butter roll.",
-      "Raptor Bites",
-      "Spicy sausage stuffed inside Brazilian cheese bread. Served with white queso.",
-      "Rum, Dark Rum, coconut cream, pineapple and lime juice.",
-      "Powerade",
-      "Mountain Blast or Fruit Punch Flavored"
-    ],
-    "removed": [
-      "Rum, dark rum, coconut cream, pineapple and lime juice",
-      "Canned Cutwater Lime Margarita",
-      "T-Rex Souvenir Sipper",
-      "Chocolate Milk",
-      "Mountain Blast Berry Powerade",
-      "Chocolate Cake",
-      "Served with creamy slaw and fries",
-      "Mixed greens, red onion, hard-boiled egg, cherry tomato, diced chicken, crumbled bacon, and blue cheese"
-    ]
-  },
-  {
-    "id": "ush-krusty-burger",
-    "name": "Krusty Burger",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/krusty-burger/menu.html",
-    "added": [
-      "Topped with icing and sprinkles.",
-      "Powerade",
-      "Mountain Berry Blast or Fruit Punch Flavored"
-    ],
-    "removed": [
-      "topped with icing and sprinkles",
-      "Mountain Blast Berry Powerade"
-    ]
-  },
-  {
-    "id": "ush-lard-lad-donuts",
-    "name": "Lard Lad Donuts",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/lard-lad-donuts/menu.html",
-    "added": [
-      "With maple glaze and bacon bits.",
-      "Pistachio cream donut with chopped pistachios.",
-      "Pumpkin Spice Cold Boo",
-      "Cold brew topped with pumpkin spice cold foam and a donut hole"
-    ],
-    "removed": [
-      "Pistachio cream donut with chopped pistachios"
-    ]
-  },
-  {
-    "id": "ush-luigis-pizza",
-    "name": "Luigi's Pizza",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/luigis-pizza/menu.html",
-    "added": [
-      "Special Offering",
-      "A whole pizza (7 slices) of your choice, Caesar Salad, and cheesy garlic bread.",
-      "Whole Pizzas",
-      "A whole cheese pizza.",
-      "A whole pepperoni pizza.",
-      "A whole The Meat Liker's Pizza topped with sausage, pepperoni, and bacon.",
-      "A whole The Meat Hater's Pizza topped with mushrooms, green bell peppers, tomatoes, olives, and red onions.",
-      "Individual Slices",
-      "Personal size pizza slice topped with tomato sauce and mozzarella cheese.",
-      "Personal size pizza slice topped with tomato sauce, mozzarella cheese, and pepperoni.",
-      "Personal sized pizza slice topped with sausage, pepperoni, and bacon.",
-      "The Meat Hater's",
-      "Personal size pizza slice topped with mushrooms, green bell peppers, tomatoes, olives, and red onions.",
-      "Pasta and More",
-      "Fresh Caesar salad with chopped chicken and Parmesan Cheese."
-    ],
-    "removed": [
-      "Entrees",
-      "A whole pizza (7 slices) of your choice, Caesar Salad, and cheesy garlic bread",
-      "A whole cheese pizza",
-      "A whole pepperoni pizza",
-      "A whole The Meat Liker's Pizza topped with sausage, pepperoni, and bacon",
-      "A whole The Meat Hater's Pizza topped with mushrooms, green bell peppers, tomatoes, olives, and red onions",
-      "Personal size pizza slice topped with tomato sauce and mozzarella cheese",
-      "Personal size pizza slice topped with tomato sauce, mozzarella cheese, and pepperoni",
-      "Personal sized pizza slice topped with sausage, pepperoni, and bacon",
-      "The Meat Hater's (VG)",
-      "Personal size pizza slice topped with mushrooms, green bell peppers, tomatoes, olives, and red onions",
-      "Fresh Caesar salad with chopped chicken and Parmesan Cheese"
-    ]
-  },
-  {
-    "id": "ush-mels-diner",
-    "name": "Mel's Diner",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/mels-diner/menu.html",
-    "added": [
-      "American cheese, lettuce, tomato, pickles, and 1000 Island dressing on a toasted bun served with pub fries.",
-      "Beer battered cod and a fried chicken tender served with pub fries and a side of tartar sauce.",
-      "Classic favorite with roasted chicken breast, freshly tossed in our special Caesar dressing.",
-      "Jr. Cheeseburger",
-      "Classic Strawberry Funnel Cake",
-      "A freshly fried funnel cake with powdered sugar, strawberry topping, vanilla ice cream and whipped cream."
-    ],
-    "removed": [
-      "American cheese, lettuce, tomato, pickles, and thousand island dressing on a toasted bun served with pub fries.",
-      "Beer battered cod and fried chicken tender served with pub fries and a side of tartar sauce",
-      "Classic favorite with roasted chicken breast, freshly tossed in our special Caesar dressing",
-      "Kids Mel Burger",
-      "Fresh Funnel Cake",
-      "A freshly fried funnel cake with strawberry topping, vanilla ice cream and whipped cream."
-    ]
-  },
-  {
-    "id": "ush-minion-cafe",
-    "name": "Minion Cafe",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/minion-cafe/menu.html",
-    "added": [],
-    "removed": []
-  },
-  {
-    "id": "ush-mummy-eats",
-    "name": "Mummy Eats",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/mummy-eats/menu.html",
-    "added": [
-      "Classic corn dog served with a bag of chips.",
-      "Hot dog and mozzarella battered and covered in panko breadcrumbs served with a bag of chips.",
-      "Mountain Berry Blast Powerade"
-    ],
-    "removed": [
-      "Classic corn dog served with a bag of chips"
-    ]
-  },
-  {
-    "id": "ush-palace-deli-and-market",
-    "name": "Palace Deli & Market",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/palace-deli-market/menu.html",
-    "added": [
-      "Roasted turkey and Swiss cheese served on a croissant.",
-      "Mediterranean Chicken Wrap",
-      "Garlic chicken, cucumber, tomato, red onion, feta cheese, tzatziki.",
-      "Vegan Roasted Eggplant Sandwich",
-      "Focaccia, olive tapenade, hummus, cucumber, roasted eggplant, roasted red peppers, purple cabbage.",
-      "Caprese Sandwich",
-      "Fresh mozzarella, basil pesto, tomato, Balsamic glaze and arugula on ciabatta.",
-      "Mediterranean Shrimp & Couscous Salad",
-      "Spring mix topped with a Mediterranean vegetable mix, couscous and lemon shrimp.",
-      "Grilled chicken breast, romaine lettuce, Parmesan cheese, and Caesar dressing.",
-      "Mixed Fruit",
-      "Dill Pickle",
-      "Sour Pickle",
-      "Yogurt Parfait",
-      "Mountain Berry Blast or Fruit Punch Flavored",
-      "Juice",
-      "Orange or Apple",
-      "Topo Chico Flavored Waters",
-      "Tropical Mango or Lime with Mint",
-      "White Claw",
-      "Black Cherry or Peach Flavored",
-      "Pacifico",
-      "Head in the Clouds IPA"
-    ],
-    "removed": [
-      "Roasted turkey, Swiss cheese with onion sprouts",
-      "Slow Roasted Turkey Sandwich",
-      "Slow roasted turkey, cranberry aioli, arugula, and provolone cheese on a hero roll.",
-      "California Club Wrap",
-      "Roasted turkey, ham, American cheese and mustard spread",
-      "Vegan Bánh Mì",
-      "California Cobb Salad",
-      "Grilled chicken breast, romaine lettuce, Parmesan cheese, tossed with Caesar dressing",
-      "Mixed Fruit or Apple Slices with Caramel",
-      "Mountain Blast"
-    ]
-  },
-  {
-    "id": "ush-panda-express",
-    "name": "Panda Express",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/panda-express/menu.html",
-    "added": [
-      "Orange chicken and broccoli beef with fried rice and chow mein. (1155 cal)",
-      "Orange Chicken and Teriyaki Chicken served with fried rice and chow mein. (1345 cal)",
-      "Kung Pao Chicken and Broccoli Beef with fried rice and chow mein. (955 cal)",
-      "Orange Chicken and Honey Walnut Shrimp served with fried rice and chow mein. (1550 cal)",
-      "Plate 7 - Create a Plate",
-      "Fruit Punch Powerade"
-    ],
-    "removed": [
-      "Orange chicken and broccoli beef with fried rice and chow mein (1155 cal)",
-      "Orange chicken and Teriyaki Chicken served with fried rice and chow mein. (1345 cal)",
-      "Kung pao chicken and broccoli beef with fried rice and chow mein (955 cal)",
-      "Orange chicken and Honey Walnut Shrimp served with fried rice and chow mein"
-    ]
-  },
-  {
-    "id": "ush-phineas-q-butterfats-ice-cream",
-    "name": "Phineas Q. Butterfat's Ice Cream",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/phineas-q-butterfats-ice-cream/menu.html",
-    "added": [
-      "Vanilla soft serve topped with butterscotch sauce, chocolate sprinkles, and chopped Butterfingers®.",
-      "Additional Toppings"
-    ],
-    "removed": [
-      "Vanilla soft serve topped with butterscotch sauce, chocolate sprinkles, and chopped Butterfingers®",
-      "Toppings"
+      "Mini mushroom shaped knots brushed with garlic butter, parmesan cheese, parsley and a side of marinara sauce",
+      "Creamy mushroom soup with Super Mushroom crackers (Bowl included with purchase)",
+      "Vegan tomato basil soup topped with micro basil, sliced mushroom, and truffle oil (Bowl included with purchase)",
+      "Oven Roasted Chicken, potatoes, Tomatoes, and Spinach served with lemon beurre blanc",
+      "Purchase with souvenir bowl +10.00",
+      "Pesto alfredo sauce, grilled chicken, broccoli, and mushrooms topped with egg shaped bread",
+      "Spaghetti with mushroom marinara sauce, meatballs, Fire Flower parmesan crisp, shaved parmesan, and chopped parsley",
+      "Available for purchase at the register",
+      "Tiramisu layered with coffee soaked lady fingers topped with cocoa powder and chocolate power-up​",
+      "Chocolate, vanilla, and strawberry layered cake topped with a matcha mousse",
+      "Raspberry filled Funfetti cupcake, buttercream frosting and Princess Peach chocolate crown"
     ]
   }
 ]
