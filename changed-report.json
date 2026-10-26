@@ -1,70 +1,45 @@
 [
   {
-    "id": "ush-three-broomsticks",
-    "name": "Three Broomsticks",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/three-broomsticks/menu.html",
+    "id": "ak-kusafiri-coffee-shop-and-bakery-breakfast",
+    "name": "Kusafiri Coffee Shop & Bakery (Breakfast)",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/kusafiri-coffee-shop-and-bakery/menus/breakfast/",
     "added": [
-      "— Breakfast",
-      "Breakfast Courses for Adults (Served until 11am on Select Days)",
-      "Fresh scrambled eggs, potatoes, bacon and sausage link with butter croissant.",
-      "Breakfast Courses for Kids (Served until 11am on Select Days)",
-      "Fresh scrambled eggs, sausage link, bacon, baked beans, baked tomato, and potatoes served with a butter croissant.",
-      "Breakfast Sides",
-      "Mixed fruit.",
-      "Two pieces of ale battered deep fried cod, served with chips and tartar sauce.",
-      "Grilled English sausage, creamy mashed potatoes, minted peas, and onion gravy.",
-      "Grilled Vegan sausage, creamy mashed potatoes, minted peas, and onion gravy.",
-      "Served with corn on the cob and roasted potatoes on the side.",
-      "Served with corn on the cob and roast potatoes on the side.",
-      "Served with your choice of dressing.",
-      "Butterbeer™ waffle served with Butterbeer™ syrup, Butterbeer™ cream, a butter barrel, and fresh strawberries.",
-      "Effervescent fresh orange beverage with notes of vanilla and cinnamon."
+      "— Pumpkin Cheese Danish",
+      "— Apple Cider Muffin"
     ],
+    "removed": []
+  },
+  {
+    "id": "ak-kusafiri-coffee-shop-and-bakery-lunch-and-dinner",
+    "name": "Kusafiri Coffee Shop & Bakery (Lunch & Dinner)",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/kusafiri-coffee-shop-and-bakery/menus/lunch-and-dinner/",
+    "added": [
+      "— Pumpkin Cheese Danish",
+      "— Apple Cider Muffin"
+    ],
+    "removed": []
+  },
+  {
+    "id": "ak-pizzafari",
+    "name": "Pizzafari",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/pizzafari/menus/lunch-and-dinner/",
+    "added": [],
     "removed": [
-      "Butterbeer™ waffle served with Butterbeer™ syrup, Butterbeer™ cream, a butter barrel, and fresh strawberries",
-      "Breakfast Courses for Adults (Served until 11am on select days)",
-      "Fresh scrambled eggs, potatoes, bacon and sausage link with butter croissant",
-      "Breakfast Courses for Kids (Served until 11am on select days)",
-      "Fresh scrambled eggs, sausage link, bacon, baked beans, baked tomato, and potatoes served with a butter croissant",
-      "Mixed fruit with fresh mint.",
-      "Grilled English sausage, creamy mashed potatoes, minted peas, and onion gravy",
-      "Grilled Vegan sausage, creamy mashed potatoes, minted peas, and onion gravy",
-      "Served with corn on the cob, roasted potatoes.",
-      "Served with corn on the cob and roast potatoes on the side",
-      "Served with your choice of dressing",
-      "Effervescent fresh orange beverage with notes of vanilla and cinnamon"
+      "— Wackadoo Fruit Freeze"
     ]
   },
   {
-    "id": "ush-toadstool-cafe",
-    "name": "Toadstool Cafe",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/toadstool-cafe/menu.html",
+    "id": "ak-terra-treats",
+    "name": "Terra Treats",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/terra-treats/menus/snack/",
     "added": [
-      "Mini mushroom shaped knots brushed with garlic butter, parmesan cheese, parsley and a side of marinara sauce.",
-      "Creamy mushroom soup with Super Mushroom crackers. (Bowl included with purchase)",
-      "Vegan tomato basil soup topped with micro basil, sliced mushroom, and truffle oil. (Bowl included with purchase)",
-      "Oven roasted chicken, potatoes, tomatoes, and spinach served with lemon beurre blanc.",
-      "Pesto alfredo sauce, grilled chicken, broccoli, and mushrooms topped with egg shaped bread.",
-      "Spaghetti with mushroom marinara sauce, meatballs, Fire Flower parmesan crisp, shaved parmesan, and chopped parsley.",
-      "Available for purchase at the register.",
-      "Tiramisu layered with coffee soaked lady fingers topped with cocoa powder and chocolate Power-Up.​",
-      "Chocolate, vanilla, and strawberry layered cake topped with a matcha mousse.",
-      "Raspberry filled Funfetti cupcake, buttercream frosting and Princess Peach chocolate crown."
+      "— Pumpkin Cheese Danish",
+      "— Apple Cider Muffin"
     ],
-    "removed": [
-      "Mini mushroom shaped knots brushed with garlic butter, parmesan cheese, parsley and a side of marinara sauce",
-      "Creamy mushroom soup with Super Mushroom crackers (Bowl included with purchase)",
-      "Vegan tomato basil soup topped with micro basil, sliced mushroom, and truffle oil (Bowl included with purchase)",
-      "Oven Roasted Chicken, potatoes, Tomatoes, and Spinach served with lemon beurre blanc",
-      "Purchase with souvenir bowl +10.00",
-      "Pesto alfredo sauce, grilled chicken, broccoli, and mushrooms topped with egg shaped bread",
-      "Spaghetti with mushroom marinara sauce, meatballs, Fire Flower parmesan crisp, shaved parmesan, and chopped parsley",
-      "Available for purchase at the register",
-      "Tiramisu layered with coffee soaked lady fingers topped with cocoa powder and chocolate power-up​",
-      "Chocolate, vanilla, and strawberry layered cake topped with a matcha mousse",
-      "Raspberry filled Funfetti cupcake, buttercream frosting and Princess Peach chocolate crown"
-    ]
+    "removed": []
   }
 ]
