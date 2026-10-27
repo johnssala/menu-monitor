@@ -1,45 +1,80 @@
 [
   {
-    "id": "ak-kusafiri-coffee-shop-and-bakery-breakfast",
-    "name": "Kusafiri Coffee Shop & Bakery (Breakfast)",
+    "id": "ak-tusker-house-restaurant-breakfast",
+    "name": "Tusker House Restaurant (Breakfast)",
     "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/kusafiri-coffee-shop-and-bakery/menus/breakfast/",
-    "added": [
-      "— Pumpkin Cheese Danish",
-      "— Apple Cider Muffin"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ak-kusafiri-coffee-shop-and-bakery-lunch-and-dinner",
-    "name": "Kusafiri Coffee Shop & Bakery (Lunch & Dinner)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/kusafiri-coffee-shop-and-bakery/menus/lunch-and-dinner/",
-    "added": [
-      "— Pumpkin Cheese Danish",
-      "— Apple Cider Muffin"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ak-pizzafari",
-    "name": "Pizzafari",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/pizzafari/menus/lunch-and-dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tusker-house-restaurant/menus/breakfast/",
     "added": [],
     "removed": [
-      "— Wackadoo Fruit Freeze"
+      "— Blue “Glow-Tini”",
+      "— African Margarita",
+      "— Tikiti Punch",
+      "— Watermelon Margarita",
+      "— Cold Brew Martini"
     ]
   },
   {
-    "id": "ak-terra-treats",
-    "name": "Terra Treats",
+    "id": "ak-tusker-house-restaurant-lunch",
+    "name": "Tusker House Restaurant (Lunch)",
     "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/terra-treats/menus/snack/",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tusker-house-restaurant/menus/lunch/",
+    "added": [],
+    "removed": [
+      "— Blue “Glow-Tini”",
+      "— African Margarita",
+      "— Tikiti Punch",
+      "— Watermelon Margarita",
+      "— Cold Brew Martini"
+    ]
+  },
+  {
+    "id": "ak-tusker-house-restaurant-dinner",
+    "name": "Tusker House Restaurant (Dinner)",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tusker-house-restaurant/menus/dinner/",
+    "added": [],
+    "removed": [
+      "— Blue “Glow-Tini”",
+      "— African Margarita",
+      "— Tikiti Punch",
+      "— Watermelon Margarita",
+      "— Cold Brew Martini"
+    ]
+  },
+  {
+    "id": "dca-carthay-circle-lounge-lunch",
+    "name": "Carthay Circle Lounge (Lunch)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/carthay-circle-lounge/menus/lunch/",
     "added": [
-      "— Pumpkin Cheese Danish",
-      "— Apple Cider Muffin"
+      "— *Spicy Ahi Tuna Spring Roll",
+      "— Caramelized Brussels Sprouts",
+      "— Green Garbanzo Hummus",
+      "— Garnet Yam and Coconut Soup",
+      "— *Spicy Beef Lettuce Wraps",
+      "— *Oven Roasted Jidori Chicken Breast",
+      "— *Steamed Bao Buns",
+      "— Miso Glazed Salmon",
+      "— Three Cheese Tortellini",
+      "— Mini Pepperoni Pizza Wheels",
+      "— “Little Ear” Pasta",
+      "— Teriyaki Chicken Strips"
     ],
-    "removed": []
+    "removed": [
+      "— Spicy Ahi Tuna Spring Roll",
+      "— Moroccan Roasted Chicken Meatballs",
+      "— *Farmers Market Peach Tostadas",
+      "— Chilled Mexican Shrimp",
+      "Bao Buns of Soy-Ginger Braised Pork Belly",
+      "— “Naanza\"",
+      "— Summer Berry Salad",
+      "— *Char Sui Glazed Salmon",
+      "— Cheese Tortellini",
+      "— El Pastor Roasted Chicken Breast",
+      "— Braised Short Rib Sliders",
+      "— Mini Pepperoni Calzones",
+      "— Penne Pasta with Marinara",
+      "— Pineapple-Ginger Glazed Chicken Skewers"
+    ]
   }
 ]
