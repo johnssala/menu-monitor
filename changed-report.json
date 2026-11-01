@@ -1,1 +1,85 @@
-[]
+[
+  {
+    "id": "epcot-geo-82-lunch",
+    "name": "GEO-82 (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/geo-82-lounge/menus/lunch/",
+    "added": [
+      "Robert Moncuit 'Les Vozémieux' Blanc de Blancs Grand Cru 2017",
+      "Domaine Les Monts Fournois ‘Côte’ Cramant Grand Cru Millésimé 2016"
+    ],
+    "removed": [
+      "— Muxagat Douro Branco",
+      "— Domaine Chapel ‘Fleurie’ Charbonnières",
+      "Robert Moncuit 'Vozémieux' Blanc de Blancs Grand Cru",
+      "Raphaël et Vincent Bérêche ‘Côte’ Millésimé",
+      "Snowden Vineyards 'The Ranch' Cabernet Sauvignon",
+      "— Lingua Franca Estate Pinot Noir",
+      "Garagisti Anonimi Friulani Sauvignon Blanc"
+    ]
+  },
+  {
+    "id": "epcot-geo-82-dinner",
+    "name": "GEO-82 (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/geo-82-lounge/menus/dinner/",
+    "added": [
+      "Robert Moncuit 'Les Vozémieux' Blanc de Blancs Grand Cru 2017",
+      "Domaine Les Monts Fournois ‘Côte’ Cramant Grand Cru Millésimé 2016"
+    ],
+    "removed": [
+      "— Muxagat Douro Branco",
+      "— Domaine Chapel ‘Fleurie’ Charbonnières",
+      "Robert Moncuit 'Vozémieux' Blanc de Blancs Grand Cru",
+      "Raphaël et Vincent Bérêche ‘Côte’ Millésimé",
+      "Snowden Vineyards 'The Ranch' Cabernet Sauvignon",
+      "— Lingua Franca Estate Pinot Noir",
+      "Garagisti Anonimi Friulani Sauvignon Blanc"
+    ]
+  },
+  {
+    "id": "epcot-la-cantina-de-san-angel",
+    "name": "La Cantina de San Angel",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/cantina-de-san-angel/menus/lunch-and-dinner/",
+    "added": [
+      "— Flautas de Pollo"
+    ],
+    "removed": []
+  },
+  {
+    "id": "epcot-le-cellier-steakhouse-lunch",
+    "name": "Le Cellier Steakhouse (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/le-cellier-steakhouse/menus/lunch/",
+    "added": [
+      "— Victorian Raspberry"
+    ],
+    "removed": []
+  },
+  {
+    "id": "epcot-le-cellier-steakhouse-dinner",
+    "name": "Le Cellier Steakhouse (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/le-cellier-steakhouse/menus/dinner/",
+    "added": [
+      "— Victorian Raspberry"
+    ],
+    "removed": []
+  },
+  {
+    "id": "epcot-oasis-sweets-and-sips",
+    "name": "Oasis Sweets & Sips",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/oasis-sweets-sips/menus/",
+    "added": [
+      "— House-made Sangria",
+      "Frozen Citrus-Pomegranate Slushy Served with Grey Goose Vodka"
+    ],
+    "removed": [
+      "— Strawberry Smoothie",
+      "— Strawberry Daiquiri",
+      "— Opici Family Sangria"
+    ]
+  }
+]
