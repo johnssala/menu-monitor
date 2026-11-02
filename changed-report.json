@@ -1,85 +1,73 @@
 [
   {
-    "id": "epcot-geo-82-lunch",
-    "name": "GEO-82 (Lunch)",
+    "id": "epcot-spice-road-table",
+    "name": "Spice Road Table",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/geo-82-lounge/menus/lunch/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/spice-road-table/menus/dinner/",
     "added": [
-      "Robert Moncuit 'Les Vozémieux' Blanc de Blancs Grand Cru 2017",
-      "Domaine Les Monts Fournois ‘Côte’ Cramant Grand Cru Millésimé 2016"
+      "— Frozen Marrakech Mango Margarita"
     ],
     "removed": [
-      "— Muxagat Douro Branco",
-      "— Domaine Chapel ‘Fleurie’ Charbonnières",
-      "Robert Moncuit 'Vozémieux' Blanc de Blancs Grand Cru",
-      "Raphaël et Vincent Bérêche ‘Côte’ Millésimé",
-      "Snowden Vineyards 'The Ranch' Cabernet Sauvignon",
-      "— Lingua Franca Estate Pinot Noir",
-      "Garagisti Anonimi Friulani Sauvignon Blanc"
+      "— Marrakech Mango Margarita"
     ]
   },
   {
-    "id": "epcot-geo-82-dinner",
-    "name": "GEO-82 (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/geo-82-lounge/menus/dinner/",
+    "id": "eu-das-stakehaus",
+    "name": "Das Stakehaus",
+    "park": "Epic Universe",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/das-stakehaus/menu.html",
     "added": [
-      "Robert Moncuit 'Les Vozémieux' Blanc de Blancs Grand Cru 2017",
-      "Domaine Les Monts Fournois ‘Côte’ Cramant Grand Cru Millésimé 2016"
+      "Beer and Wine",
+      "— Wine",
+      "19 Crimes® Frankenstein",
+      "— 19 Crimes® Frankenstein",
+      "19 Crimes® The Mummy",
+      "— 19 Crimes® The Mummy",
+      "19 Crimes® The Wolf Man",
+      "— 19 Crimes® The Wolf Man"
     ],
     "removed": [
-      "— Muxagat Douro Branco",
-      "— Domaine Chapel ‘Fleurie’ Charbonnières",
-      "Robert Moncuit 'Vozémieux' Blanc de Blancs Grand Cru",
-      "Raphaël et Vincent Bérêche ‘Côte’ Millésimé",
-      "Snowden Vineyards 'The Ranch' Cabernet Sauvignon",
-      "— Lingua Franca Estate Pinot Noir",
-      "Garagisti Anonimi Friulani Sauvignon Blanc"
+      "Beer"
     ]
   },
   {
-    "id": "epcot-la-cantina-de-san-angel",
-    "name": "La Cantina de San Angel",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/cantina-de-san-angel/menus/lunch-and-dinner/",
+    "id": "eu-frosty-moon",
+    "name": "Frosty Moon",
+    "park": "Epic Universe",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/frosty-moon/menu.html",
     "added": [
-      "— Flautas de Pollo"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-le-cellier-steakhouse-lunch",
-    "name": "Le Cellier Steakhouse (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/le-cellier-steakhouse/menus/lunch/",
-    "added": [
-      "— Victorian Raspberry"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-le-cellier-steakhouse-dinner",
-    "name": "Le Cellier Steakhouse (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/le-cellier-steakhouse/menus/dinner/",
-    "added": [
-      "— Victorian Raspberry"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-oasis-sweets-and-sips",
-    "name": "Oasis Sweets & Sips",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/oasis-sweets-sips/menus/",
-    "added": [
-      "— House-made Sangria",
-      "Frozen Citrus-Pomegranate Slushy Served with Grey Goose Vodka"
+      "— Cups and Cones",
+      "Soft Serve Cup",
+      "— Soft Serve Cup",
+      "Soft Serve Cone",
+      "— Soft Serve Cone",
+      "— Flavors",
+      "Dole® Soft Serve Lime",
+      "— Dole® Soft Serve Lime",
+      "Chocolate Hazelnut",
+      "— Chocolate Hazelnut",
+      "Bottled Coca-Cola®",
+      "— Bottled Coca-Cola®",
+      "Bottled Diet Coke®",
+      "— Bottled Diet Coke®",
+      "Bottled Coca-Cola® Zero Sugar",
+      "— Bottled Coca-Cola® Zero Sugar",
+      "Bottled Sprite®",
+      "— Bottled Sprite®",
+      "Premium Bottled Water",
+      "— Premium Bottled Water",
+      "— Coca-Cola Freestyle® Souvenir Cups",
+      "Coca-Cola Freestyle® Souvenir Cup",
+      "— Coca-Cola Freestyle® Souvenir Cup",
+      "Extra day of refills for Freestyle® Cup",
+      "— Extra day of refills for Freestyle® Cup"
     ],
     "removed": [
-      "— Strawberry Smoothie",
-      "— Strawberry Daiquiri",
-      "— Opici Family Sangria"
+      "— Cones/Cups",
+      "Celestial Sprinkles",
+      "— Celestial Sprinkles",
+      "Niagara Bottled Water",
+      "— Niagara Bottled Water"
     ]
   }
 ]
