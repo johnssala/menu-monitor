@@ -1,24 +1,22 @@
 [
   {
-    "id": "epcot-spice-road-table",
-    "name": "Spice Road Table",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/spice-road-table/menus/dinner/",
-    "added": [
-      "— Frozen Marrakech Mango Margarita"
-    ],
+    "id": "eu-meteor-astropub",
+    "name": "Meteor Astropub",
+    "park": "Epic Universe",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/meteor-astropub/menu.html",
+    "added": [],
     "removed": [
-      "— Marrakech Mango Margarita"
+      "Brooklyn Brewery® Fonio Rising",
+      "— Brooklyn Brewery® Fonio Rising",
+      "Non-Alcoholic Brooklyn Brewery® Special Effects Grapefruit IPA"
     ]
   },
   {
-    "id": "eu-das-stakehaus",
-    "name": "Das Stakehaus",
+    "id": "eu-the-burning-blade-tavern",
+    "name": "The Burning Blade Tavern",
     "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/das-stakehaus/menu.html",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-burning-blade-tavern/menu.html",
     "added": [
-      "Beer and Wine",
-      "— Wine",
       "19 Crimes® Frankenstein",
       "— 19 Crimes® Frankenstein",
       "19 Crimes® The Mummy",
@@ -27,47 +25,71 @@
       "— 19 Crimes® The Wolf Man"
     ],
     "removed": [
-      "Beer"
+      "Poggio Anima® Uriel Grillo Sicilia",
+      "— Poggio Anima® Uriel Grillo Sicilia",
+      "Poggio Anima® Samael Montepulciano d'Abruzzo"
     ]
   },
   {
-    "id": "eu-frosty-moon",
-    "name": "Frosty Moon",
+    "id": "eu-toadstool-cafe",
+    "name": "Toadstool Cafe",
     "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/frosty-moon/menu.html",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/toadstool-cafe/menu.html",
     "added": [
-      "— Cups and Cones",
-      "Soft Serve Cup",
-      "— Soft Serve Cup",
-      "Soft Serve Cone",
-      "— Soft Serve Cone",
-      "— Flavors",
-      "Dole® Soft Serve Lime",
-      "— Dole® Soft Serve Lime",
-      "Chocolate Hazelnut",
-      "— Chocolate Hazelnut",
-      "Bottled Coca-Cola®",
-      "— Bottled Coca-Cola®",
-      "Bottled Diet Coke®",
-      "— Bottled Diet Coke®",
-      "Bottled Coca-Cola® Zero Sugar",
-      "— Bottled Coca-Cola® Zero Sugar",
-      "Bottled Sprite®",
-      "— Bottled Sprite®",
-      "Premium Bottled Water",
-      "— Premium Bottled Water",
-      "— Coca-Cola Freestyle® Souvenir Cups",
-      "Coca-Cola Freestyle® Souvenir Cup",
-      "— Coca-Cola Freestyle® Souvenir Cup",
-      "Extra day of refills for Freestyle® Cup",
-      "— Extra day of refills for Freestyle® Cup"
+      "Truffle French fries"
     ],
     "removed": [
-      "— Cones/Cups",
-      "Celestial Sprinkles",
-      "— Celestial Sprinkles",
-      "Niagara Bottled Water",
-      "— Niagara Bottled Water"
+      "Truffle French fries6.49"
+    ]
+  },
+  {
+    "id": "hs-abc-commissary",
+    "name": "ABC Commissary",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/abc-commissary/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "— The Mandalorian and Grogu Jetpack Sipper"
+    ]
+  },
+  {
+    "id": "hs-backlot-express",
+    "name": "Backlot Express",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/backlot-express/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "— The Mandalorian and Grogu Jetpack Sipper"
+    ]
+  },
+  {
+    "id": "hs-docking-bay-7-food-and-cargo-lunch",
+    "name": "Docking Bay 7 Food and Cargo (Lunch)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/docking-bay-7-food-and-cargo/menus/lunch/",
+    "added": [],
+    "removed": [
+      "— The Mandalorian and Grogu Jetpack Sipper"
+    ]
+  },
+  {
+    "id": "hs-docking-bay-7-food-and-cargo-dinner",
+    "name": "Docking Bay 7 Food and Cargo (Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/docking-bay-7-food-and-cargo/menus/dinner/",
+    "added": [],
+    "removed": [
+      "— The Mandalorian and Grogu Jetpack Sipper"
+    ]
+  },
+  {
+    "id": "hs-dockside-diner",
+    "name": "Dockside Diner",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/dockside-diner/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "— Maritime Mudslide Shake"
     ]
   }
 ]
