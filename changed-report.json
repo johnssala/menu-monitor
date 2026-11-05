@@ -1,62 +1,35 @@
 [
   {
-    "id": "hs-fairfax-fare-breakfast",
-    "name": "Fairfax Fare (Breakfast)",
+    "id": "hs-the-trolley-car-cafe",
+    "name": "The Trolley Car Café (Starbucks)",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/breakfast/",
-    "added": [],
-    "removed": [
-      "— The Mandalorian and Grogu Jetpack Sipper",
-      "— Pluto Skeleton Sipper"
-    ]
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/trolley-car-cafe/menus/",
+    "added": [
+      "Apple Pomegranate Lemonade Refresher - Grande",
+      "— Iced Tiramisu Velvet Latte - Grande",
+      "— Iced Gingerbread Chai Latte - Grande",
+      "— Snowy Apple Drink - Grande",
+      "— Peppermint Mocha - Grande"
+    ],
+    "removed": []
   },
   {
-    "id": "hs-fairfax-fare-lunch-and-dinner",
-    "name": "Fairfax Fare (Lunch & Dinner)",
+    "id": "hs-woodys-lunch-box-breakfast",
+    "name": "Woody's Lunch Box (Breakfast)",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "— The Mandalorian and Grogu Jetpack Sipper",
-      "— Pluto Skeleton Sipper"
-    ]
-  },
-  {
-    "id": "hs-rosies-all-american-cafe",
-    "name": "Rosie's All-American Café",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/rosies-all-american-cafe/menus/lunch-and-dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/breakfast/",
     "added": [],
     "removed": []
   },
   {
-    "id": "hs-the-hollywood-brown-derby-lunch",
-    "name": "The Hollywood Brown Derby (Lunch)",
+    "id": "hs-woodys-lunch-box-lunch-and-dinner",
+    "name": "Woody's Lunch Box (Lunch & Dinner)",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/lunch/",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/lunch-and-dinner/",
     "added": [],
     "removed": [
-      "— Reposado Espresso Martini"
-    ]
-  },
-  {
-    "id": "hs-the-hollywood-brown-derby-dinner",
-    "name": "The Hollywood Brown Derby (Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/dinner/",
-    "added": [],
-    "removed": [
-      "— Reposado Espresso Martini"
-    ]
-  },
-  {
-    "id": "hs-the-hollywood-brown-derby-lounge",
-    "name": "The Hollywood Brown Derby Lounge",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby-lounge/menus/bar-%E2%80%93-lounge/",
-    "added": [],
-    "removed": [
-      "— Reposado Espresso Martini"
+      "— Breakfast Bowl",
+      "— Kids' Breakfast Bowl"
     ]
   }
 ]
