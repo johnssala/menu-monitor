@@ -1,9 +1,188 @@
 [
   {
-    "id": "hs-the-trolley-car-cafe",
-    "name": "The Trolley Car Café (Starbucks)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/trolley-car-cafe/menus/",
+    "id": "mk-aloha-isle",
+    "name": "Aloha Isle",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/aloha-isle/menus/snack/",
+    "added": [],
+    "removed": [
+      "— DOLE Whip® Mango and Chamoy Float"
+    ]
+  },
+  {
+    "id": "mk-astrofizz",
+    "name": "Astrofizz",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/astrofizz/menus/",
+    "added": [
+      "— Toy Story Gingerbread House Bucket"
+    ],
+    "removed": [
+      "— Vampire Mickey Mouse Bucket"
+    ]
+  },
+  {
+    "id": "mk-auntie-gravitys-galactic-goodies",
+    "name": "Auntie Gravity's Galactic Goodies",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/auntie-gravitys-galactic-goodies/menus/",
+    "added": [],
+    "removed": [
+      "— Cauldron Cold Brew"
+    ]
+  },
+  {
+    "id": "mk-be-our-guest-restaurant-special",
+    "name": "Be Our Guest Restaurant (Special)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/special/",
+    "added": [
+      "— Beef Bourguignon en Croute",
+      "— Lobster Macaroni au Gratin",
+      "with Sauce Mornay",
+      "— House-cut French Fries",
+      "— Caramelized Blue Cheese",
+      "— Blooming Rose",
+      "— Iceberg Salad",
+      "— Fruit and Cheese Plate",
+      "— Fresh Fruit Bowl",
+      "— Pan-seared Chicken Breast",
+      "— Pan-seared Shrimp",
+      "— Chicken Strips",
+      "— House-made Macaroni & Cheese",
+      "— Grilled Steak",
+      "— Steamed Fresh Green Beans",
+      "— Sweet Potatoes",
+      "— French Fries",
+      "— Mashed Potatoes",
+      "— Sautéed Carrots",
+      "— Fresh Fruit",
+      "— Dessert Duo",
+      "— Roses & Rhubarb",
+      "— Spicy Margarita",
+      "— Tapioca Dinner Rolls with Buttery Spread",
+      "— Iceberg Wedge Salad",
+      "Mashed Potatoes (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",
+      "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)",
+      "— Seasonal Fruit Bowl"
+    ],
+    "removed": [
+      "— Beef Short Rib (Party Exclusive)",
+      "— Sautéed Shrimp",
+      "— Double-smoked Bacon",
+      "— Roquefort Fondue",
+      "— The Forbidden Rose (Party Exclusive)",
+      "— Apple Cider Margarita (Party Exclusive)",
+      "— Castle Fog (Party Exclusive)"
+    ]
+  },
+  {
+    "id": "mk-be-our-guest-restaurant-lunch",
+    "name": "Be Our Guest Restaurant (Lunch)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/lunch/",
+    "added": [
+      "— Lobster Macaroni au Gratin",
+      "with Sauce Mornay",
+      "— Caramelized Blue Cheese",
+      "— Sautéed Carrots",
+      "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)"
+    ],
+    "removed": []
+  },
+  {
+    "id": "mk-be-our-guest-restaurant-dinner",
+    "name": "Be Our Guest Restaurant (Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/dinner/",
+    "added": [
+      "— Lobster Macaroni au Gratin",
+      "with Sauce Mornay",
+      "— Caramelized Blue Cheese",
+      "— Sautéed Carrots",
+      "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)"
+    ],
+    "removed": []
+  },
+  {
+    "id": "mk-caseys-corner",
+    "name": "Casey's Corner",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/caseys-corner/menus/",
+    "added": [],
+    "removed": []
+  },
+  {
+    "id": "mk-chesire-cafe",
+    "name": "Cheshire Café",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cheshire-cafe/menus/",
+    "added": [],
+    "removed": []
+  },
+  {
+    "id": "mk-columbia-harbour-house",
+    "name": "Columbia Harbour House",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/columbia-harbour-house/menus/",
+    "added": [
+      "— Gingerbread Cake",
+      "— Grilled Shrimp",
+      "— Mixed Platter",
+      "— Hand-breaded Shrimp Platter",
+      "— Plant-based Crab Cake Sandwich",
+      "— Roasted Green Beans",
+      "— White Rice"
+    ],
+    "removed": [
+      "— S'mores Cup",
+      "— Shrimp Skewer Platter",
+      "— Trio Platter",
+      "— Beer-battered Shrimp Platter",
+      "— Hearts of Palm and Artichoke Roll",
+      "— Green Beans",
+      "— Rice"
+    ]
+  },
+  {
+    "id": "mk-cosmic-rays-starlight-cafe",
+    "name": "Cosmic Ray's Starlight Café",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cosmic-ray-starlight-cafe/menus/",
+    "added": [
+      "— Stitch Christmas Tree Sipper"
+    ],
+    "removed": [
+      "— Green Apple-Lemonade Slush"
+    ]
+  },
+  {
+    "id": "mk-golden-oak-outpost-lunch-and-dinner",
+    "name": "Golden Oak Outpost (Lunch & Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/golden-oak-outpost/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "— Biscuit Breakfast Sandwich"
+    ]
+  },
+  {
+    "id": "mk-liberty-square-market",
+    "name": "Liberty Square Market",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/liberty-square-market/menus/",
+    "added": [
+      "— Mickey Whoopie Pie"
+    ],
+    "removed": [
+      "— Magic Potion Slushy"
+    ]
+  },
+  {
+    "id": "mk-main-street-bakery",
+    "name": "Main Street Bakery (Starbucks)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/main-street-bakery/menus/",
     "added": [
       "Apple Pomegranate Lemonade Refresher - Grande",
       "— Iced Tiramisu Velvet Latte - Grande",
@@ -14,22 +193,17 @@
     "removed": []
   },
   {
-    "id": "hs-woodys-lunch-box-breakfast",
-    "name": "Woody's Lunch Box (Breakfast)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/breakfast/",
-    "added": [],
-    "removed": []
-  },
-  {
-    "id": "hs-woodys-lunch-box-lunch-and-dinner",
-    "name": "Woody's Lunch Box (Lunch & Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/lunch-and-dinner/",
-    "added": [],
+    "id": "mk-pecos-bill-tall-tale-inn-and-cafe",
+    "name": "Pecos Bill Tall Tale Inn and Cafe",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/pecos-bill-tall-tale-inn-and-cafe/menus/",
+    "added": [
+      "— Salsa Verde Chicken Nacho Bowl",
+      "— Salsa Verde Chicken Rice Bowl"
+    ],
     "removed": [
-      "— Breakfast Bowl",
-      "— Kids' Breakfast Bowl"
+      "— Citrus-Chipotle Chicken Nacho Bowl",
+      "— Citrus-Chipotle Chicken Rice Bowl"
     ]
   }
 ]

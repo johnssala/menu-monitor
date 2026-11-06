@@ -4,10 +4,12 @@
       "title": "menu",
       "items": [
         "Cosmic Ray's Starlight Café",
+        "— Stitch Christmas Tree Sipper",
         "— Truffle-French Onion Burger",
         "— Grilled Chicken Sandwich",
         "— Buffalo-Ranch Chicken Strips",
         "— Kids' Grilled Chicken Sandwich",
+        "— Kids' Macaroni & Cheese",
         "— 1/3 lb Bacon Cheeseburger",
         "— Fried Chicken Sandwich",
         "— Classic Ranch Salad",
@@ -33,11 +35,9 @@
         "— Chocolate Milk",
         "— Small Chocolate Milk",
         "— Lowfat Milk",
-        "— Green Apple-Lemonade Slush",
         "— Peanut Butter and Jelly Brownie",
         "— Cheeseburger",
         "— Kids' Chicken Strips (2 Strips)",
-        "— Kids' Macaroni & Cheese",
         "— {INTERSTITIAL_TITLE_TEXT}",
         "{INTERSTITIAL_BODY_TEXT}"
       ]
