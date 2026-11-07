@@ -1,209 +1,135 @@
 [
   {
-    "id": "mk-aloha-isle",
-    "name": "Aloha Isle",
+    "id": "mk-pinocchio-village-haus",
+    "name": "Pinocchio Village Haus",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/aloha-isle/menus/snack/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/pinocchio-village-haus/menus/lunch-and-dinner/",
     "added": [],
     "removed": [
-      "— DOLE Whip® Mango and Chamoy Float"
+      "— Pluto Skeleton Sipper"
     ]
   },
   {
-    "id": "mk-astrofizz",
-    "name": "Astrofizz",
+    "id": "mk-plaza-ice-cream-parlor",
+    "name": "Plaza Ice Cream Parlor",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/astrofizz/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-ice-cream-parlor/menus/snack/",
     "added": [
-      "— Toy Story Gingerbread House Bucket"
+      "— Gingerbread Milkshake"
     ],
     "removed": [
-      "— Vampire Mickey Mouse Bucket"
+      "— Pumpkin Sundae"
     ]
   },
   {
-    "id": "mk-auntie-gravitys-galactic-goodies",
-    "name": "Auntie Gravity's Galactic Goodies",
+    "id": "mk-sleepy-hollow",
+    "name": "Sleepy Hollow",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/auntie-gravitys-galactic-goodies/menus/",
-    "added": [],
-    "removed": [
-      "— Cauldron Cold Brew"
-    ]
-  },
-  {
-    "id": "mk-be-our-guest-restaurant-special",
-    "name": "Be Our Guest Restaurant (Special)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/special/",
-    "added": [
-      "— Beef Bourguignon en Croute",
-      "— Lobster Macaroni au Gratin",
-      "with Sauce Mornay",
-      "— House-cut French Fries",
-      "— Caramelized Blue Cheese",
-      "— Blooming Rose",
-      "— Iceberg Salad",
-      "— Fruit and Cheese Plate",
-      "— Fresh Fruit Bowl",
-      "— Pan-seared Chicken Breast",
-      "— Pan-seared Shrimp",
-      "— Chicken Strips",
-      "— House-made Macaroni & Cheese",
-      "— Grilled Steak",
-      "— Steamed Fresh Green Beans",
-      "— Sweet Potatoes",
-      "— French Fries",
-      "— Mashed Potatoes",
-      "— Sautéed Carrots",
-      "— Fresh Fruit",
-      "— Dessert Duo",
-      "— Roses & Rhubarb",
-      "— Spicy Margarita",
-      "— Tapioca Dinner Rolls with Buttery Spread",
-      "— Iceberg Wedge Salad",
-      "Mashed Potatoes (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",
-      "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)",
-      "— Seasonal Fruit Bowl"
-    ],
-    "removed": [
-      "— Beef Short Rib (Party Exclusive)",
-      "— Sautéed Shrimp",
-      "— Double-smoked Bacon",
-      "— Roquefort Fondue",
-      "— The Forbidden Rose (Party Exclusive)",
-      "— Apple Cider Margarita (Party Exclusive)",
-      "— Castle Fog (Party Exclusive)"
-    ]
-  },
-  {
-    "id": "mk-be-our-guest-restaurant-lunch",
-    "name": "Be Our Guest Restaurant (Lunch)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/lunch/",
-    "added": [
-      "— Lobster Macaroni au Gratin",
-      "with Sauce Mornay",
-      "— Caramelized Blue Cheese",
-      "— Sautéed Carrots",
-      "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-be-our-guest-restaurant-dinner",
-    "name": "Be Our Guest Restaurant (Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/dinner/",
-    "added": [
-      "— Lobster Macaroni au Gratin",
-      "with Sauce Mornay",
-      "— Caramelized Blue Cheese",
-      "— Sautéed Carrots",
-      "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-caseys-corner",
-    "name": "Casey's Corner",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/caseys-corner/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/sleepy-hollow/menus/all-day/",
     "added": [],
     "removed": []
   },
   {
-    "id": "mk-chesire-cafe",
-    "name": "Cheshire Café",
+    "id": "mk-sunshine-tree-terrace",
+    "name": "Sunshine Tree Terrace",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cheshire-cafe/menus/",
-    "added": [],
-    "removed": []
-  },
-  {
-    "id": "mk-columbia-harbour-house",
-    "name": "Columbia Harbour House",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/columbia-harbour-house/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/sunshine-tree-terrace/menus/snack/",
     "added": [
-      "— Gingerbread Cake",
-      "— Grilled Shrimp",
-      "— Mixed Platter",
-      "— Hand-breaded Shrimp Platter",
-      "— Plant-based Crab Cake Sandwich",
-      "— Roasted Green Beans",
-      "— White Rice"
+      "DOLE Whip® Orange and Strawberry Swirl Cup",
+      "DOLE Whip® Orange and Vanilla Soft-serve Swirl Cup"
     ],
     "removed": [
-      "— S'mores Cup",
-      "— Shrimp Skewer Platter",
-      "— Trio Platter",
-      "— Beer-battered Shrimp Platter",
-      "— Hearts of Palm and Artichoke Roll",
-      "— Green Beans",
-      "— Rice"
+      "Chocolate and Vanilla Swirl Soft-serve Cup"
     ]
   },
   {
-    "id": "mk-cosmic-rays-starlight-cafe",
-    "name": "Cosmic Ray's Starlight Café",
+    "id": "mk-the-friars-nook-breakfast",
+    "name": "The Friar's Nook (Breakfast)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cosmic-ray-starlight-cafe/menus/",
-    "added": [
-      "— Stitch Christmas Tree Sipper"
-    ],
-    "removed": [
-      "— Green Apple-Lemonade Slush"
-    ]
-  },
-  {
-    "id": "mk-golden-oak-outpost-lunch-and-dinner",
-    "name": "Golden Oak Outpost (Lunch & Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/golden-oak-outpost/menus/lunch-and-dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/breakfast/",
     "added": [],
     "removed": [
-      "— Biscuit Breakfast Sandwich"
+      "— Jumbo Pretzel"
     ]
   },
   {
-    "id": "mk-liberty-square-market",
-    "name": "Liberty Square Market",
+    "id": "mk-the-friars-nook-lunch-and-dinner",
+    "name": "The Friar's Nook (Lunch & Dinner)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/liberty-square-market/menus/",
-    "added": [
-      "— Mickey Whoopie Pie"
-    ],
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/lunch-and-dinner/",
+    "added": [],
     "removed": [
-      "— Magic Potion Slushy"
+      "— Jumbo Pretzel"
     ]
   },
   {
-    "id": "mk-main-street-bakery",
-    "name": "Main Street Bakery (Starbucks)",
+    "id": "mk-the-lunching-pad-breakfast",
+    "name": "The Lunching Pad (Breakfast)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/main-street-bakery/menus/",
-    "added": [
-      "Apple Pomegranate Lemonade Refresher - Grande",
-      "— Iced Tiramisu Velvet Latte - Grande",
-      "— Iced Gingerbread Chai Latte - Grande",
-      "— Snowy Apple Drink - Grande",
-      "— Peppermint Mocha - Grande"
-    ],
-    "removed": []
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/lunching-pad/menus/breakfast/",
+    "added": [],
+    "removed": [
+      "— Ghoulish Blue Raspberry Slushy"
+    ]
   },
   {
-    "id": "mk-pecos-bill-tall-tale-inn-and-cafe",
-    "name": "Pecos Bill Tall Tale Inn and Cafe",
+    "id": "mk-the-lunching-pad-lunch-and-dinner",
+    "name": "The Lunching Pad (Lunch & Dinner)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/pecos-bill-tall-tale-inn-and-cafe/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/lunching-pad/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "— Ghoulish Blue Raspberry Slushy"
+    ]
+  },
+  {
+    "id": "mk-the-plaza-restaurant-lunch",
+    "name": "The Plaza Restaurant (Lunch)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-restaurant/menus/lunch/",
     "added": [
-      "— Salsa Verde Chicken Nacho Bowl",
-      "— Salsa Verde Chicken Rice Bowl"
+      "— Loaded Fries",
+      "— Green Salad",
+      "— Walt's Chili",
+      "— Shrimp Louie Salad",
+      "— Traditional Meatloaf",
+      "— Crispy Chicken Sandwich"
     ],
     "removed": [
-      "— Citrus-Chipotle Chicken Nacho Bowl",
-      "— Citrus-Chipotle Chicken Rice Bowl"
+      "— Skull Meatloaf",
+      "— Devilish Crispy Chicken Sandwich",
+      "— Goblins and Ghoulies",
+      "— Phantom Pecan-Caramel Cheesecake",
+      "— Plaza Loaded Fries",
+      "— House Salad",
+      "— Chilled Shrimp Wedge Salad"
+    ]
+  },
+  {
+    "id": "mk-the-plaza-restaurant-dinner",
+    "name": "The Plaza Restaurant (Dinner)",
+    "park": "Magic Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-restaurant/menus/dinner/",
+    "added": [
+      "— Holiday Beef Pot Roast",
+      "— Holiday Turkey Meatloaf",
+      "— Pistachio and Cherry Cheesecake",
+      "— Holiday Cosmopolitan",
+      "— Loaded Fries",
+      "— Green Salad",
+      "— Walt's Chili",
+      "— Shrimp Louie Salad",
+      "— Traditional Meatloaf",
+      "— Crispy Chicken Sandwich"
+    ],
+    "removed": [
+      "— Skull Meatloaf",
+      "— Devilish Crispy Chicken Sandwich",
+      "— Goblins and Ghoulies",
+      "— Phantom Pecan-Caramel Cheesecake",
+      "— Plaza Loaded Fries",
+      "— House Salad",
+      "— Chilled Shrimp Wedge Salad"
     ]
   }
 ]
