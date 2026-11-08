@@ -1,135 +1,86 @@
 [
   {
-    "id": "mk-pinocchio-village-haus",
-    "name": "Pinocchio Village Haus",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/pinocchio-village-haus/menus/lunch-and-dinner/",
+    "id": "tl-leaning-palms",
+    "name": "Leaning Palms",
+    "park": "Typhoon Lagoon",
+    "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/leaning-palms/menus/lunch/",
     "added": [],
     "removed": [
       "— Pluto Skeleton Sipper"
     ]
   },
   {
-    "id": "mk-plaza-ice-cream-parlor",
-    "name": "Plaza Ice Cream Parlor",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-ice-cream-parlor/menus/snack/",
+    "id": "usf-louies-italian-restaurant",
+    "name": "Louie's Italian Restaurant",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/louies-italian-restaurant/menu.html",
     "added": [
-      "— Gingerbread Milkshake"
+      "Jumbo Spinach Bianca Slice Platter",
+      "Jumbo Spinach Bianca Slice Combo",
+      "Jumbo Spinach Bianca Slice",
+      "spinach, ricotta cheese, mozzarella, roasted garlic cream sauce, shaved Parmesan, olive oil",
+      "Jumbo Philly Cheesesteak Slice Platter",
+      "sliced beef, peppers and onions, provolone, mozzarella, cheese sauce, served with a side Caesar salad",
+      "Jumbo Philly Cheesesteak Slice Combo",
+      "Jumbo Philly Cheesesteak Slice",
+      "sliced beef, peppers and onions, provolone, mozzarella, cheese sauce",
+      "Whole Spinach Bianca Pizza",
+      "Whole Philly Cheesesteak Pizza",
+      "Chicken Alfredo Platter",
+      "Chicken Alfredo Combo",
+      "roasted chicken, fettuccini pasta, roasted garlic cream sauce, shaved Parmesan, served with a garlic knot",
+      "Chicken Alfredo",
+      "Chocolate Cannoli"
     ],
     "removed": [
-      "— Pumpkin Sundae"
+      "Jumbo Con Carne Slice Platter",
+      "mozzarella, Italian sausage, pepperoni, meatball, house made dough, served with a side Caesar salad",
+      "Jumbo Con Carne Slice Combo",
+      "Jumbo Con Carne Slice",
+      "mozzarella, Italian sausage, pepperoni, meatball, house made dough",
+      "Jumbo Veggie Bianca Slice Platter",
+      "Jumbo Veggie Bianca Slice Combo",
+      "Jumbo Veggie Bianca Slice",
+      "spinach, garlic cream sauce, mozzarella, peppers, onions, grape tomatoes, ricotta, Parmesan, house made dough",
+      "Whole Con Carne Pizza",
+      "Whole Veggie Bianca Pizza",
+      "Rigatoni Ritual Slice",
+      "garlic butter cheese pizza with baked rigatoni a la vodka, crispy sausage and pesto",
+      "Bechamel Ravioli Platter",
+      "Bechamel Ravioli Combo",
+      "Bechamel Ravioli",
+      "Spaghetti with Sausage & Pepper",
+      "plant-based sausage crumbles, peppers, onions, Parmesan, spaghetti pasta, house-made marinara with a garlic knot",
+      "Spaghetti with Sausage & Pepper Combo",
+      "Cannoli(FS, PS, SES, SFS, SS, V)",
+      "Cannoli",
+      "chocolate, pistachio or combo"
     ]
   },
   {
-    "id": "mk-sleepy-hollow",
-    "name": "Sleepy Hollow",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/sleepy-hollow/menus/all-day/",
-    "added": [],
-    "removed": []
-  },
-  {
-    "id": "mk-sunshine-tree-terrace",
-    "name": "Sunshine Tree Terrace",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/sunshine-tree-terrace/menus/snack/",
-    "added": [
-      "DOLE Whip® Orange and Strawberry Swirl Cup",
-      "DOLE Whip® Orange and Vanilla Soft-serve Swirl Cup"
-    ],
-    "removed": [
-      "Chocolate and Vanilla Swirl Soft-serve Cup"
-    ]
-  },
-  {
-    "id": "mk-the-friars-nook-breakfast",
-    "name": "The Friar's Nook (Breakfast)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/breakfast/",
-    "added": [],
-    "removed": [
-      "— Jumbo Pretzel"
-    ]
-  },
-  {
-    "id": "mk-the-friars-nook-lunch-and-dinner",
-    "name": "The Friar's Nook (Lunch & Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/lunch-and-dinner/",
+    "id": "usf-richters-burger-co",
+    "name": "Richter's Burger Co.",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/richters-burger-co/menu.html",
     "added": [],
     "removed": [
-      "— Jumbo Pretzel"
+      "Scary Hot Chicken Combo",
+      "Scary Hot Chicken Platter",
+      "Fear the Deep"
     ]
   },
   {
-    "id": "mk-the-lunching-pad-breakfast",
-    "name": "The Lunching Pad (Breakfast)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/lunching-pad/menus/breakfast/",
+    "id": "usf-schwabs-pharmacy",
+    "name": "Schwab's Pharmacy",
+    "park": "Universal Studios Florida",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/schwabs-pharmacy/menu.html",
     "added": [],
     "removed": [
-      "— Ghoulish Blue Raspberry Slushy"
-    ]
-  },
-  {
-    "id": "mk-the-lunching-pad-lunch-and-dinner",
-    "name": "The Lunching Pad (Lunch & Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/lunching-pad/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "— Ghoulish Blue Raspberry Slushy"
-    ]
-  },
-  {
-    "id": "mk-the-plaza-restaurant-lunch",
-    "name": "The Plaza Restaurant (Lunch)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-restaurant/menus/lunch/",
-    "added": [
-      "— Loaded Fries",
-      "— Green Salad",
-      "— Walt's Chili",
-      "— Shrimp Louie Salad",
-      "— Traditional Meatloaf",
-      "— Crispy Chicken Sandwich"
-    ],
-    "removed": [
-      "— Skull Meatloaf",
-      "— Devilish Crispy Chicken Sandwich",
-      "— Goblins and Ghoulies",
-      "— Phantom Pecan-Caramel Cheesecake",
-      "— Plaza Loaded Fries",
-      "— House Salad",
-      "— Chilled Shrimp Wedge Salad"
-    ]
-  },
-  {
-    "id": "mk-the-plaza-restaurant-dinner",
-    "name": "The Plaza Restaurant (Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-restaurant/menus/dinner/",
-    "added": [
-      "— Holiday Beef Pot Roast",
-      "— Holiday Turkey Meatloaf",
-      "— Pistachio and Cherry Cheesecake",
-      "— Holiday Cosmopolitan",
-      "— Loaded Fries",
-      "— Green Salad",
-      "— Walt's Chili",
-      "— Shrimp Louie Salad",
-      "— Traditional Meatloaf",
-      "— Crispy Chicken Sandwich"
-    ],
-    "removed": [
-      "— Skull Meatloaf",
-      "— Devilish Crispy Chicken Sandwich",
-      "— Goblins and Ghoulies",
-      "— Phantom Pecan-Caramel Cheesecake",
-      "— Plaza Loaded Fries",
-      "— House Salad",
-      "— Chilled Shrimp Wedge Salad"
+      "Halloween Horror Nights Speciality",
+      "The Jack Shake",
+      "caramel cone ice cream milkshake with \"Jack\" whipped topping, maraschino cherry and green sprinkles",
+      "The Oddfellow Shake",
+      "brownie a la mode ice cream milkshake with green whipped topping, edible glitter and a golden chocolate zodiac symbol"
     ]
   }
 ]
