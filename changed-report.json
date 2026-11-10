@@ -1,145 +1,19 @@
 [
   {
-    "id": "ush-city-snack-shop",
-    "name": "City Snack Shop",
+    "id": "ush-toadstool-cafe",
+    "name": "Toadstool Cafe",
     "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/city-snack-shop/menu.html",
+    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/toadstool-cafe/menu.html",
     "added": [
-      "Fritos® Scoops® The Walking Taco (Gluten Friendly)",
-      "Fritos Scoops topped with beef chili and cheddar cheese.",
-      "Vanilla Cheesecake Sweet Horn (Vegetarian)",
-      "Sugar pastry cone with vanilla bean cheesecake. Contains: Milk, Egg, Wheat, Soy",
-      "Sugar pastry cone with vanilla bean cheesecake.",
-      "Contains: Milk, Egg, Wheat, Soy",
-      "Dragon Fire Chicken Spire",
-      "Spicy mac & cheese with herb chicken and green onions served in a crunchy cone.",
-      "Contains: Milk, Wheat, Soy, Sesame",
-      "Brisket Mac & Cheese",
-      "Creamy mac & cheese with smoked brisket and parsley served in a crunchy cone.",
-      "Classic Mac & Cheese (Vegetarian)",
-      "Creamy mac & cheese with fish shaped crackers served in a crunchy cone."
+      "Chef Toad Short Rib Special",
+      "Braised short rib with beef demi-glace, mushrooms, and polenta.",
+      "Alfredo sauce, grilled chicken, broccoli, and mushrooms topped with egg shaped bread.",
+      "Mario Snowman Cake"
     ],
     "removed": [
-      "Special Offerings",
-      "Remmick's Burnt Ends",
-      "Pork burnt ends in a black garlic whiskey BBQ sauce. Served with jalapeno cornbread.",
-      "Pecan and Whiskey Bread Pudding",
-      "Warm brown sugar pecan bread pudding topped with a whiskey butterscotch sauce and flaky salt.",
-      "I Lied to You, I Love the Blues-Berry (Non-Alcoholic)",
-      "Ginger ale, white grape juice, lemon juice, and blue curacao syrup. Topped with fresh blueberries and a lemon wedge.",
-      "Remmick’s Burnt Ends",
-      "Pecan and Whiskey Bread Pudding (Vegetarian)",
-      "Contains: Milk, Egg, Wheat, Tree Nuts (Pecan)",
-      "Fritos® Scoops® The Walking Taco",
-      "I Lied to You, I Love the Blues-Berry (non-alcoholic)",
-      "Ginger ale, white grape juice, lemon juice and blue curacao syrup. Topped with fresh blueberries and a lemon wedge.",
-      "Contains: No Major Food Allergens*"
-    ]
-  },
-  {
-    "id": "ush-jurassic-cafe",
-    "name": "Jurassic Cafe",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/jurassic-cafe/menu.html",
-    "added": [
-      "Fall Offerings",
-      "Chowder Bread Bowl",
-      "Classic clam chowder served in a sourdough bread bowl.",
-      "Chili Bread Bowl",
-      "Classic chili served in a sourdough bread bowl.",
-      "Contains: Milk, Wheat",
-      "Classic clam chowder served in a sourdough bread bowl. Contains: Milk, Wheat"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ush-krusty-burger",
-    "name": "Krusty Burger",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/krusty-burger/menu.html",
-    "added": [
-      "The Ribwich w/Fries",
-      "Boneless BBQ ribs, BBQ sauce, & coleslaw on a specialty bun. Served with fries.",
-      "Contains: Egg, Wheat, Soy"
-    ],
-    "removed": [
-      "Sloppy D'oh",
-      "Ground beef in a tangy tomato chili sauce topped with Fritos. Served with fries.",
-      "Sloppy D’oh",
-      "Ground beef in a tangy tomato chili sauce topped with Fritos. Contains: Milk, Wheat, Soy",
-      "Ground beef in a tangy tomato chili sauce topped with Fritos.",
-      "Contains: Milk, Wheat, Soy"
-    ]
-  },
-  {
-    "id": "ush-lard-lad-donuts",
-    "name": "Lard Lad Donuts",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/lard-lad-donuts/menu.html",
-    "added": [],
-    "removed": [
-      "Pumpkin Spice Cold Boo",
-      "Cold brew topped with pumpkin spice cold foam and a donut hole"
-    ]
-  },
-  {
-    "id": "ush-mels-diner",
-    "name": "Mel's Diner",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/mels-diner/menu.html",
-    "added": [
-      "Fall Offerings",
-      "Chowder Bread Bowl",
-      "Classic clam chowder served in a sourdough bread bowl.",
-      "Chili Bread Bowl",
-      "Classic chili served in a sourdough bread bowl.",
-      "Contains: Milk, Wheat",
-      "Classic clam chowder served in a sourdough bread bowl. Contains: Milk, Wheat",
-      "Contains: Milk, Egg, Wheat, Fish (Cod)"
-    ],
-    "removed": [
-      "Contains: Milk, Egg, Wheat, Soy, Fish (Cod)"
-    ]
-  },
-  {
-    "id": "ush-power-up-cafe",
-    "name": "Power Up Cafe",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/power-up-cafe/menu.html",
-    "added": [
-      "How can we help you plan your trip today?",
-      "Select one of the options below:"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ush-studio-scoop",
-    "name": "Studio Scoop",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/studio-scoop/menu.html",
-    "added": [
-      "Strawberry milkshake topped with fresh strawberry, whipped cream and strawberry topping"
-    ],
-    "removed": [
-      "Hello Kitty Jaws Blueberry Cheesecake Sundae",
-      "Berry soft-serve ice cream with blueberry jam, cheesecake pieces, and whipped topping."
-    ]
-  },
-  {
-    "id": "ush-suds-mcduffs-hot-dog-stand",
-    "name": "Suds McDuff's Hot Dog Stand",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/suds-mcduffs-hot-dogs/menu.html",
-    "added": [
-      "Marge Blue Cotton Candy"
-    ],
-    "removed": [
-      "Wurst. Brat. Ever!",
-      "Bratwurst in a pretzel roll topped with Duff cheese sauce and sauerkraut.",
-      "Contains: Milk, Wheat",
-      "I Call the Big Pretzel Bitey",
-      "Pretzel Bites with Duff Cheese Sauce Contains: Milk, Wheat",
-      "Pretzel Bites with Duff Cheese Sauce"
+      "Chef Toad Chicken Special",
+      "Oven roasted chicken, potatoes, tomatoes, and spinach served with lemon beurre blanc.",
+      "Pesto alfredo sauce, grilled chicken, broccoli, and mushrooms topped with egg shaped bread."
     ]
   }
 ]
