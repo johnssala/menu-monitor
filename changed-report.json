@@ -1,19 +1,91 @@
 [
   {
-    "id": "ush-toadstool-cafe",
-    "name": "Toadstool Cafe",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/toadstool-cafe/menu.html",
+    "id": "ak-creature-comforts",
+    "name": "Creature Comforts (Starbucks)",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/creature-comforts/menus/coffee-%E2%80%93-bakery/",
     "added": [
-      "Chef Toad Short Rib Special",
-      "Braised short rib with beef demi-glace, mushrooms, and polenta.",
-      "Alfredo sauce, grilled chicken, broccoli, and mushrooms topped with egg shaped bread.",
-      "Mario Snowman Cake"
+      "Apple Pomegranate Lemonade Refresher - Grande",
+      "— Iced Tiramisu Velvet Latte - Grande",
+      "— Iced Gingerbread Chai Latte - Grande",
+      "— Snowy Apple Drink - Grande",
+      "— Peppermint Mocha - Grande"
+    ],
+    "removed": []
+  },
+  {
+    "id": "ak-flame-tree-barbecue",
+    "name": "Flame Tree Barbecue",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/flame-tree-barbecue/menus/lunch-and-dinner/",
+    "added": [
+      "— Gingerbread Cheesecake Pop"
     ],
     "removed": [
-      "Chef Toad Chicken Special",
-      "Oven roasted chicken, potatoes, tomatoes, and spinach served with lemon beurre blanc.",
-      "Pesto alfredo sauce, grilled chicken, broccoli, and mushrooms topped with egg shaped bread."
+      "— Candy Corn Pop"
     ]
+  },
+  {
+    "id": "ak-harambe-market",
+    "name": "Harambe Market",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/harambe-market/menus/lunch-and-dinner/",
+    "added": [
+      "— High Noon Pineapple Vodka Hard Seltzer"
+    ],
+    "removed": []
+  },
+  {
+    "id": "ak-isle-of-java-snack",
+    "name": "Isle of Java (Snack)",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/isle-of-java/menus/snack/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "ak-kusafiri-coffee-shop-and-bakery-breakfast",
+    "name": "Kusafiri Coffee Shop & Bakery (Breakfast)",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/kusafiri-coffee-shop-and-bakery/menus/breakfast/",
+    "added": [
+      "— Festive Chocolate Twist"
+    ],
+    "removed": [
+      "— Chocolate Twist"
+    ]
+  },
+  {
+    "id": "ak-kusafiri-coffee-shop-and-bakery-lunch-and-dinner",
+    "name": "Kusafiri Coffee Shop & Bakery (Lunch & Dinner)",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/kusafiri-coffee-shop-and-bakery/menus/lunch-and-dinner/",
+    "added": [
+      "— Festive Chocolate Twist"
+    ],
+    "removed": [
+      "— Chocolate Twist"
+    ]
+  },
+  {
+    "id": "ak-tamu-tamu-refreshments-breakfast",
+    "name": "Tamu Tamu Refreshments (Breakfast)",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tamu-tamu-refreshments/menus/breakfast/",
+    "added": [
+      "— Festive Chocolate Twist"
+    ],
+    "removed": [
+      "— Chocolate Twist"
+    ]
+  },
+  {
+    "id": "ak-terra-treats",
+    "name": "Terra Treats",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/terra-treats/menus/snack/",
+    "added": [
+      "— Reindeer Sundae"
+    ],
+    "removed": []
   }
 ]
