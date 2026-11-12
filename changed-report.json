@@ -1,91 +1,97 @@
 [
   {
-    "id": "ak-creature-comforts",
-    "name": "Creature Comforts (Starbucks)",
+    "id": "ak-tiffins-restaurant-lunch",
+    "name": "Tiffins Restaurant (Lunch)",
     "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/creature-comforts/menus/coffee-%E2%80%93-bakery/",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tiffins/menus/lunch/",
     "added": [
-      "Apple Pomegranate Lemonade Refresher - Grande",
-      "— Iced Tiramisu Velvet Latte - Grande",
-      "— Iced Gingerbread Chai Latte - Grande",
-      "— Snowy Apple Drink - Grande",
-      "— Peppermint Mocha - Grande"
+      "— Plant-based Korean Meatballs"
+    ],
+    "removed": [
+      "— Korean Impossible® Meatballs"
+    ]
+  },
+  {
+    "id": "ak-tiffins-restaurant-dinner",
+    "name": "Tiffins Restaurant (Dinner)",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tiffins/menus/dinner/",
+    "added": [
+      "— Butternut Squash Soup",
+      "— Tamarind-braised Pork Belly",
+      "— Asado Beef Tenderloin*",
+      "— Plant-based Korean Meatballs"
+    ],
+    "removed": [
+      "— Korean Impossible® Meatballs"
+    ]
+  },
+  {
+    "id": "bb-lottawatta-lodge-all-day",
+    "name": "Lottawatta Lodge (All-Day)",
+    "park": "Blizzard Beach",
+    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/lottawatta-lodge/menus/all-day/",
+    "added": [],
+    "removed": [
+      "— Pluto Skeleton Sipper"
+    ]
+  },
+  {
+    "id": "bb-lottawatta-lodge-lunch-and-dinner",
+    "name": "Lottawatta Lodge (Lunch & Dinner)",
+    "park": "Blizzard Beach",
+    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/lottawatta-lodge/menus/lunch-and-dinner/",
+    "added": [],
+    "removed": [
+      "— Pluto Skeleton Sipper"
+    ]
+  },
+  {
+    "id": "dca-aunt-cass-cafe",
+    "name": "Aunt Cass Café",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/aunt-cass-cafe/menus/lunch-and-dinner/",
+    "added": [
+      "Snowman Sourdough Bread [Available starting November 13]",
+      "Christmas Tree Pull-apart Sourdough Bread [Available starting November 13]",
+      "Candy Cane Sourdough Bread [Available starting November 13]",
+      "Turkey Sourdough Bread [Available November 23 - 27]",
+      "Caramel Apple Bread Pudding [Available starting November 13]",
+      "Pumpkin Spice Sweet Cream Cold Brew [Available starting November 13]"
     ],
     "removed": []
   },
   {
-    "id": "ak-flame-tree-barbecue",
-    "name": "Flame Tree Barbecue",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/flame-tree-barbecue/menus/lunch-and-dinner/",
+    "id": "dca-award-wieners",
+    "name": "Award Wieners",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/award-wieners/menus/lunch-and-dinner/",
     "added": [
-      "— Gingerbread Cheesecake Pop"
+      "Holiday Travel Tumbler [Available starting November 13]",
+      "Brewery X, Baja Breeze [Available starting November 13]"
     ],
     "removed": [
-      "— Candy Corn Pop"
+      "— Halloween Travel Tumbler"
     ]
   },
   {
-    "id": "ak-harambe-market",
-    "name": "Harambe Market",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/harambe-market/menus/lunch-and-dinner/",
+    "id": "dca-boardwalk-pizza-and-pasta",
+    "name": "Boardwalk Pizza & Pasta",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/boardwalk-pizza-pasta/menus/lunch-and-dinner/",
     "added": [
-      "— High Noon Pineapple Vodka Hard Seltzer"
-    ],
-    "removed": []
-  },
-  {
-    "id": "ak-isle-of-java-snack",
-    "name": "Isle of Java (Snack)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/isle-of-java/menus/snack/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "ak-kusafiri-coffee-shop-and-bakery-breakfast",
-    "name": "Kusafiri Coffee Shop & Bakery (Breakfast)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/kusafiri-coffee-shop-and-bakery/menus/breakfast/",
-    "added": [
-      "— Festive Chocolate Twist"
+      "Holiday Stainless Steel Tumbler [Available starting November 13]",
+      "Holiday Travel Tumbler [Available starting November 13]",
+      "Stitch Christmas Tree Sipper [Available starting November 13]",
+      "Toy Story Gingerbread House Bucket [Available starting November 13]",
+      "Holiday Train Bucket [Available starting November 13]",
+      "Holiday Ornament Glow Cube [Available starting November 13]",
+      "Italian Sausage Pesto Pizza-Slice [Available starting November 13]",
+      "Italian Sausage Pesto Pizza-Whole [Available starting November 13]"
     ],
     "removed": [
-      "— Chocolate Twist"
+      "— Hades Glow Cube",
+      "— Halloween Travel Tumbler"
     ]
-  },
-  {
-    "id": "ak-kusafiri-coffee-shop-and-bakery-lunch-and-dinner",
-    "name": "Kusafiri Coffee Shop & Bakery (Lunch & Dinner)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/kusafiri-coffee-shop-and-bakery/menus/lunch-and-dinner/",
-    "added": [
-      "— Festive Chocolate Twist"
-    ],
-    "removed": [
-      "— Chocolate Twist"
-    ]
-  },
-  {
-    "id": "ak-tamu-tamu-refreshments-breakfast",
-    "name": "Tamu Tamu Refreshments (Breakfast)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tamu-tamu-refreshments/menus/breakfast/",
-    "added": [
-      "— Festive Chocolate Twist"
-    ],
-    "removed": [
-      "— Chocolate Twist"
-    ]
-  },
-  {
-    "id": "ak-terra-treats",
-    "name": "Terra Treats",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/terra-treats/menus/snack/",
-    "added": [
-      "— Reindeer Sundae"
-    ],
-    "removed": []
   }
 ]
