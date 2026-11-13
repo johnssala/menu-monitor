@@ -1,97 +1,285 @@
 [
   {
-    "id": "ak-tiffins-restaurant-lunch",
-    "name": "Tiffins Restaurant (Lunch)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tiffins/menus/lunch/",
-    "added": [
-      "— Plant-based Korean Meatballs"
-    ],
-    "removed": [
-      "— Korean Impossible® Meatballs"
-    ]
-  },
-  {
-    "id": "ak-tiffins-restaurant-dinner",
-    "name": "Tiffins Restaurant (Dinner)",
-    "park": "Animal Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tiffins/menus/dinner/",
-    "added": [
-      "— Butternut Squash Soup",
-      "— Tamarind-braised Pork Belly",
-      "— Asado Beef Tenderloin*",
-      "— Plant-based Korean Meatballs"
-    ],
-    "removed": [
-      "— Korean Impossible® Meatballs"
-    ]
-  },
-  {
-    "id": "bb-lottawatta-lodge-all-day",
-    "name": "Lottawatta Lodge (All-Day)",
-    "park": "Blizzard Beach",
-    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/lottawatta-lodge/menus/all-day/",
-    "added": [],
-    "removed": [
-      "— Pluto Skeleton Sipper"
-    ]
-  },
-  {
-    "id": "bb-lottawatta-lodge-lunch-and-dinner",
-    "name": "Lottawatta Lodge (Lunch & Dinner)",
-    "park": "Blizzard Beach",
-    "url": "https://disneyworld.disney.go.com/dining/blizzard-beach/lottawatta-lodge/menus/lunch-and-dinner/",
-    "added": [],
-    "removed": [
-      "— Pluto Skeleton Sipper"
-    ]
-  },
-  {
-    "id": "dca-aunt-cass-cafe",
-    "name": "Aunt Cass Café",
+    "id": "dca-clarabelles-hand-scooped-ice-cream-breakfast",
+    "name": "Clarabelle's Hand-Scooped Ice Cream (Breakfast)",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/aunt-cass-cafe/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/clarabelles-hand-scooped-ice-cream/menus/breakfast/",
     "added": [
-      "Snowman Sourdough Bread [Available starting November 13]",
-      "Christmas Tree Pull-apart Sourdough Bread [Available starting November 13]",
-      "Candy Cane Sourdough Bread [Available starting November 13]",
-      "Turkey Sourdough Bread [Available November 23 - 27]",
-      "Caramel Apple Bread Pudding [Available starting November 13]",
-      "Pumpkin Spice Sweet Cream Cold Brew [Available starting November 13]"
+      "— Holiday Mickey Ice Cream Bar",
+      "— Holiday Stainless Steel Tumbler",
+      "— Stitch Christmas Tree Sipper",
+      "— Holiday Ornament Glow Cube"
+    ],
+    "removed": [
+      "— Hades Glow Cube",
+      "— Halloween Mickey Ice Cream Bar",
+      "— Pain and Panic Straw Clip"
+    ]
+  },
+  {
+    "id": "dca-clarabelles-hand-scooped-ice-cream-snack",
+    "name": "Clarabelle's Hand-Scooped Ice Cream (Snack)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/clarabelles-hand-scooped-ice-cream/menus/snack/",
+    "added": [
+      "— Holiday Mickey Ice Cream Bar",
+      "— Holiday Stainless Steel Tumbler",
+      "— Stitch Christmas Tree Sipper",
+      "— Holiday Ornament Glow Cube"
+    ],
+    "removed": [
+      "— Hades Glow Cube",
+      "— Halloween Mickey Ice Cream Bar",
+      "— Pain and Panic Straw Clip"
+    ]
+  },
+  {
+    "id": "dca-cocina-cucamonga-mexican-grill",
+    "name": "Cocina Cucamonga Mexican Grill",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/cocina-cucamonga-mexican-grill/menus/lunch-and-dinner/",
+    "added": [
+      "— Sunset Agua Fresca",
+      "Bottle Logic Brewing, Cranberry Paloma Hard Seltzer",
+      "— Tequila Sunset Agua Fresca Cocktail"
+    ],
+    "removed": [
+      "— Ube Flan Cake",
+      "— Mango Agua Fresca",
+      "Bottle Logic Brewing, Blood Orange Paloma Hard Seltzer",
+      "— Mango Tequila Cocktail"
+    ]
+  },
+  {
+    "id": "dca-corn-dog-castle",
+    "name": "Corn Dog Castle",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/corn-dog-castle/menus/snack/",
+    "added": [
+      "— Holiday Stainless Steel Tumbler",
+      "— Holiday Travel Tumbler",
+      "— Stitch Christmas Tree Sipper"
+    ],
+    "removed": [
+      "— Halloween Travel Tumbler"
+    ]
+  },
+  {
+    "id": "dca-cozy-cone-motel",
+    "name": "Cozy Cone Motel",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/cozy-cone-motel/menus/snack/",
+    "added": [
+      "— Snowy Matcha Foam Iced Coffee",
+      "— Vietnamese Coffee-Matcha Cocktail",
+      "— Cars-mas Tree Cone",
+      "— Peppermint-Vanilla Twist Soft Serve",
+      "— Jerry's Junk Truck Cone",
+      "— Brewery X, Melon Hard Seltzer"
+    ],
+    "removed": [
+      "— Cars Land Lighted Cone Sipper",
+      "Vietnamese Coffee with Ube Sweet Cream Foam",
+      "— Cursed Ube Foam Iced Coffee",
+      "— Ube Soft Serve",
+      "— Ube-Vanilla Twist Soft Serve",
+      "— Slow Burnin' Mac & Cheese Cone",
+      "Mother Earth Brew Co., Cali Screamin' Pumpkin Vanilla Cream Ale",
+      "— Unsung Brewing Co., Poison Apple Seltzer",
+      "— Fantasma Agua Fresca Cocktail",
+      "— Pineapple-Cucumber Agua Fresca"
+    ]
+  },
+  {
+    "id": "dca-fiddler-fifer-and-practical-cafe-breakfast",
+    "name": "Fiddler, Fifer & Practical Cafe - Starbucks (Breakfast)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fiddler-fifer-and-practical-cafe/menus/breakfast/",
+    "added": [
+      "— Iced Tiramisu Velvet Latte - Grande",
+      "— Snowy Apple Drink",
+      "— Beartista Cake Pop",
+      "— Cranberry Bliss Bar",
+      "— Sugar Plum Cheese Danish",
+      "— Mickey Gingerbread",
+      "Apple Pomegranate Lemonade Refresher - Grande"
+    ],
+    "removed": [
+      "Blended Mango Dragonfruit Lemonade Energy Refresher - Grande",
+      "— Blended Pink Energy Drink - Grande",
+      "— Unicorn Cake Pop",
+      "— Pumpkin Spice Latte",
+      "— Iced Pumpkin Cream Chai Latte - Grande",
+      "— Pumpkin Cream Cold Brew - Grande",
+      "— Pecan Crunch Latte - Grande",
+      "— Pumpkin Cream Cheese Muffin",
+      "— Hedgehog Cake Pop",
+      "Java Chip Frappuccino® Blended Beverage - Grande",
+      "Double Chocolaty Chip Crème Frappuccino® Blended Beverage - Grande",
+      "Caramel Ribbon Crunch Frappuccino® - Grande",
+      "— Blue Coconut Lemonade Energy Refresher",
+      "Tropical Butterfly Lemonade Energy Refresher",
+      "— Iced Horchata Shaken Espresso",
+      "— Iced Banana Bread Matcha Tea Latte"
+    ]
+  },
+  {
+    "id": "dca-fiddler-fifer-and-practical-cafe-lunch-and-dinner",
+    "name": "Fiddler, Fifer & Practical Cafe - Starbucks (Lunch & Dinner)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fiddler-fifer-and-practical-cafe/menus/lunch-and-dinner/",
+    "added": [
+      "— Iced Tiramisu Velvet Latte - Grande",
+      "— Snowy Apple Drink",
+      "— Beartista Cake Pop",
+      "— Cranberry Bliss Bar",
+      "— Sugar Plum Cheese Danish",
+      "— Mickey Gingerbread",
+      "Apple Pomegranate Lemonade Refresher - Grande"
+    ],
+    "removed": [
+      "Blended Mango Dragonfruit Lemonade Energy Refresher - Grande",
+      "— Blended Pink Energy Drink - Grande",
+      "— Unicorn Cake Pop",
+      "— Pumpkin Spice Latte",
+      "— Iced Pumpkin Cream Chai Latte - Grande",
+      "— Pumpkin Cream Cold Brew - Grande",
+      "— Pecan Crunch Latte - Grande",
+      "— Pumpkin Cream Cheese Muffin",
+      "— Hedgehog Cake Pop",
+      "Java Chip Frappuccino® Blended Beverage - Grande",
+      "Double Chocolaty Chip Crème Frappuccino® Blended Beverage - Grande",
+      "Caramel Ribbon Crunch Frappuccino® - Grande",
+      "— Blue Coconut Lemonade Energy Refresher",
+      "Tropical Butterfly Lemonade Energy Refresher",
+      "— Iced Horchata Shaken Espresso",
+      "— Iced Banana Bread Matcha Tea Latte"
+    ]
+  },
+  {
+    "id": "dca-flos-v8-cafe",
+    "name": "Flo's V8 Cafe",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/flos-v8-cafe/menus/lunch-and-dinner/",
+    "added": [
+      "Holiday Pineapple-Honey Glazed Chicken Strips",
+      "Thanksgiving Dinner [Available Thanksgiving Day]",
+      "Kids' Thanksgiving Dinner [Available Thanksgiving Day]"
+    ],
+    "removed": [
+      "— Mango-Habanero Chicken Strips"
+    ]
+  },
+  {
+    "id": "dca-ghirardelli-soda-fountain-and-chocolate-shop",
+    "name": "Ghirardelli Soda Fountain and Chocolate Shop",
+    "park": "Disney California Adventure",
+    "url": "https://disneyworld.disney.go.com/dining/disney-springs/ghirardelli-soda-fountain/menus/snack/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "dca-lamplight-lounge-brunch",
+    "name": "Lamplight Lounge (Brunch)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge/menus/brunch/",
+    "added": [
+      "— Little Green Men Straw Clip"
     ],
     "removed": []
   },
   {
-    "id": "dca-award-wieners",
-    "name": "Award Wieners",
+    "id": "dca-lamplight-lounge-lunch",
+    "name": "Lamplight Lounge (Lunch)",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/award-wieners/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge/menus/lunch/",
     "added": [
-      "Holiday Travel Tumbler [Available starting November 13]",
-      "Brewery X, Baja Breeze [Available starting November 13]"
+      "— Holiday Cocktail",
+      "— Little Green Men Straw Clip"
     ],
     "removed": [
-      "— Halloween Travel Tumbler"
+      "— Halloween Cocktail"
     ]
   },
   {
-    "id": "dca-boardwalk-pizza-and-pasta",
-    "name": "Boardwalk Pizza & Pasta",
+    "id": "dca-lamplight-lounge-dinner",
+    "name": "Lamplight Lounge (Dinner)",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/boardwalk-pizza-pasta/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge/menus/dinner/",
     "added": [
-      "Holiday Stainless Steel Tumbler [Available starting November 13]",
-      "Holiday Travel Tumbler [Available starting November 13]",
-      "Stitch Christmas Tree Sipper [Available starting November 13]",
-      "Toy Story Gingerbread House Bucket [Available starting November 13]",
-      "Holiday Train Bucket [Available starting November 13]",
-      "Holiday Ornament Glow Cube [Available starting November 13]",
-      "Italian Sausage Pesto Pizza-Slice [Available starting November 13]",
-      "Italian Sausage Pesto Pizza-Whole [Available starting November 13]"
+      "— Holiday Cocktail",
+      "— Little Green Men Straw Clip"
+    ],
+    "removed": [
+      "— Halloween Cocktail"
+    ]
+  },
+  {
+    "id": "dca-lamplight-lounge-boardwalk-dining-lunch",
+    "name": "Lamplight Lounge Boardwalk Dining (Lunch)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge-boardwalk-dining/menus/lunch/",
+    "added": [
+      "— Holiday Cocktail",
+      "— Little Green Men Straw Clip"
+    ],
+    "removed": [
+      "— Cinnamon Whiskey Cocktail"
+    ]
+  },
+  {
+    "id": "dca-lamplight-lounge-boardwalk-dining-dinner",
+    "name": "Lamplight Lounge Boardwalk Dining (Dinner)",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge-boardwalk-dining/menus/dinner/",
+    "added": [
+      "— Holiday Cocktail",
+      "— Little Green Men Straw Clip"
+    ],
+    "removed": [
+      "— Cinnamon Whiskey Cocktail"
+    ]
+  },
+  {
+    "id": "dca-lucky-fortune-cookery",
+    "name": "Lucky Fortune Cookery",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lucky-fortune-cookery/menus/lunch-and-dinner/",
+    "added": [
+      "— Orange Chicken Rice Bowl",
+      "— Santa Baymax Macaron",
+      "— Cinnamon Pear Mule"
+    ],
+    "removed": [
+      "— Seasonal Baymax Macaron"
+    ]
+  },
+  {
+    "id": "dca-paradise-garden-grill",
+    "name": "Paradise Garden Grill",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/paradise-garden-grill/menus/lunch-and-dinner/",
+    "added": [
+      "— Holiday Stainless Steel Tumbler",
+      "— Holiday Travel Tumbler",
+      "— Stitch Christmas Tree Sipper",
+      "— Holiday Ornament Glow Cube",
+      "Red Velvet Cake Flan [Available starting November 13]"
     ],
     "removed": [
       "— Hades Glow Cube",
-      "— Halloween Travel Tumbler"
+      "— Halloween Travel Tumbler",
+      "— Nuez Gelatina Cake",
+      "— Marigold Margarita"
+    ]
+  },
+  {
+    "id": "dca-port-of-san-fransokyo-cerveceria",
+    "name": "Port of San Fransokyo Cervecería",
+    "park": "Disney California Adventure",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/port-of-san-fransokyo-cerveceria/menus/snack/",
+    "added": [],
+    "removed": [
+      "Karl Strauss® Brewing Company, Oktoberfest"
     ]
   }
 ]
