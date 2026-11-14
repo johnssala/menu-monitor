@@ -1,285 +1,258 @@
 [
   {
-    "id": "dca-clarabelles-hand-scooped-ice-cream-breakfast",
-    "name": "Clarabelle's Hand-Scooped Ice Cream (Breakfast)",
+    "id": "dca-schmoozies",
+    "name": "Schmoozies!",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/clarabelles-hand-scooped-ice-cream/menus/breakfast/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/schmoozies-smoothies/menus/snack/",
     "added": [
-      "— Holiday Mickey Ice Cream Bar",
-      "— Holiday Stainless Steel Tumbler",
-      "— Stitch Christmas Tree Sipper",
-      "— Holiday Ornament Glow Cube"
+      "— Pumpkin Spice Mickey-shaped Waffle",
+      "— Mickey Elf Shake",
+      "— Iced Honey Matcha Tea",
+      "— Soju-Matcha Cocktail",
+      "— {INTERSTITIAL_TITLE_TEXT}",
+      "{INTERSTITIAL_BODY_TEXT}"
     ],
     "removed": [
-      "— Hades Glow Cube",
-      "— Halloween Mickey Ice Cream Bar",
-      "— Pain and Panic Straw Clip"
+      "— Pumpkin Pie Mickey Shake",
+      "— Matcha Mickey-shaped Waffles"
     ]
   },
   {
-    "id": "dca-clarabelles-hand-scooped-ice-cream-snack",
-    "name": "Clarabelle's Hand-Scooped Ice Cream (Snack)",
+    "id": "dca-smokejumpers-grill-breakfast",
+    "name": "Smokejumpers Grill (Breakfast)",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/clarabelles-hand-scooped-ice-cream/menus/snack/",
-    "added": [
-      "— Holiday Mickey Ice Cream Bar",
-      "— Holiday Stainless Steel Tumbler",
-      "— Stitch Christmas Tree Sipper",
-      "— Holiday Ornament Glow Cube"
-    ],
-    "removed": [
-      "— Hades Glow Cube",
-      "— Halloween Mickey Ice Cream Bar",
-      "— Pain and Panic Straw Clip"
-    ]
-  },
-  {
-    "id": "dca-cocina-cucamonga-mexican-grill",
-    "name": "Cocina Cucamonga Mexican Grill",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/cocina-cucamonga-mexican-grill/menus/lunch-and-dinner/",
-    "added": [
-      "— Sunset Agua Fresca",
-      "Bottle Logic Brewing, Cranberry Paloma Hard Seltzer",
-      "— Tequila Sunset Agua Fresca Cocktail"
-    ],
-    "removed": [
-      "— Ube Flan Cake",
-      "— Mango Agua Fresca",
-      "Bottle Logic Brewing, Blood Orange Paloma Hard Seltzer",
-      "— Mango Tequila Cocktail"
-    ]
-  },
-  {
-    "id": "dca-corn-dog-castle",
-    "name": "Corn Dog Castle",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/corn-dog-castle/menus/snack/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/breakfast/",
     "added": [
       "— Holiday Stainless Steel Tumbler",
       "— Holiday Travel Tumbler",
-      "— Stitch Christmas Tree Sipper"
+      "— Mickey Wreath Holiday Straw Clip",
+      "— Stitch Christmas Tree Sipper",
+      "— Toy Story Gingerbread House Bucket",
+      "— Holiday Train Bucket",
+      "— Holiday Ornament Glow Cube",
+      "— Berry Pomegranate Paloma"
     ],
     "removed": [
-      "— Halloween Travel Tumbler"
+      "— Villainous Wings",
+      "— Vampire Mickey Mouse Bucket",
+      "— The Headless Horseman Bucket",
+      "— Green Apple Lemonade Margarita",
+      "— Oogie Boogie Lemonade"
     ]
   },
   {
-    "id": "dca-cozy-cone-motel",
-    "name": "Cozy Cone Motel",
+    "id": "dca-smokejumpers-grill-lunch-and-dinner",
+    "name": "Smokejumpers Grill (Lunch & Dinner)",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/cozy-cone-motel/menus/snack/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/smokejumpers-grill/menus/lunch-and-dinner/",
     "added": [
-      "— Snowy Matcha Foam Iced Coffee",
-      "— Vietnamese Coffee-Matcha Cocktail",
-      "— Cars-mas Tree Cone",
-      "— Peppermint-Vanilla Twist Soft Serve",
-      "— Jerry's Junk Truck Cone",
-      "— Brewery X, Melon Hard Seltzer"
+      "— Holiday Stainless Steel Tumbler",
+      "— Holiday Travel Tumbler",
+      "— Mickey Wreath Holiday Straw Clip",
+      "— Stitch Christmas Tree Sipper",
+      "— Toy Story Gingerbread House Bucket",
+      "— Holiday Train Bucket",
+      "— Holiday Ornament Glow Cube",
+      "— Berry Pomegranate Paloma"
     ],
     "removed": [
-      "— Cars Land Lighted Cone Sipper",
-      "Vietnamese Coffee with Ube Sweet Cream Foam",
-      "— Cursed Ube Foam Iced Coffee",
-      "— Ube Soft Serve",
-      "— Ube-Vanilla Twist Soft Serve",
-      "— Slow Burnin' Mac & Cheese Cone",
-      "Mother Earth Brew Co., Cali Screamin' Pumpkin Vanilla Cream Ale",
-      "— Unsung Brewing Co., Poison Apple Seltzer",
-      "— Fantasma Agua Fresca Cocktail",
-      "— Pineapple-Cucumber Agua Fresca"
+      "— Villainous Wings",
+      "— Vampire Mickey Mouse Bucket",
+      "— The Headless Horseman Bucket",
+      "— Green Apple Lemonade Margarita",
+      "— Oogie Boogie Lemonade"
     ]
   },
   {
-    "id": "dca-fiddler-fifer-and-practical-cafe-breakfast",
-    "name": "Fiddler, Fifer & Practical Cafe - Starbucks (Breakfast)",
+    "id": "dca-studio-catering-co",
+    "name": "Studio Catering Co.",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fiddler-fifer-and-practical-cafe/menus/breakfast/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/studio-catering-co/menus/snack/",
     "added": [
-      "— Iced Tiramisu Velvet Latte - Grande",
-      "— Snowy Apple Drink",
-      "— Beartista Cake Pop",
-      "— Cranberry Bliss Bar",
-      "— Sugar Plum Cheese Danish",
-      "— Mickey Gingerbread",
-      "Apple Pomegranate Lemonade Refresher - Grande"
+      "— Holiday Stainless Steel Tumbler",
+      "— Southern Holiday Brisket Tacos",
+      "— Holiday Leftover Burrito"
     ],
     "removed": [
-      "Blended Mango Dragonfruit Lemonade Energy Refresher - Grande",
-      "— Blended Pink Energy Drink - Grande",
-      "— Unicorn Cake Pop",
-      "— Pumpkin Spice Latte",
-      "— Iced Pumpkin Cream Chai Latte - Grande",
-      "— Pumpkin Cream Cold Brew - Grande",
-      "— Pecan Crunch Latte - Grande",
-      "— Pumpkin Cream Cheese Muffin",
-      "— Hedgehog Cake Pop",
-      "Java Chip Frappuccino® Blended Beverage - Grande",
-      "Double Chocolaty Chip Crème Frappuccino® Blended Beverage - Grande",
-      "Caramel Ribbon Crunch Frappuccino® - Grande",
-      "— Blue Coconut Lemonade Energy Refresher",
-      "Tropical Butterfly Lemonade Energy Refresher",
-      "— Iced Horchata Shaken Espresso",
-      "— Iced Banana Bread Matcha Tea Latte"
+      "— Hades Glow Cube",
+      "— Spicy Oogie Boogie Burrito",
+      "— Beef & Cheese Tamale a la Plancha"
     ]
   },
   {
-    "id": "dca-fiddler-fifer-and-practical-cafe-lunch-and-dinner",
-    "name": "Fiddler, Fifer & Practical Cafe - Starbucks (Lunch & Dinner)",
+    "id": "dca-terran-treats",
+    "name": "Terran Treats",
     "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/fiddler-fifer-and-practical-cafe/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/terran-treats/menus/",
     "added": [
-      "— Iced Tiramisu Velvet Latte - Grande",
-      "— Snowy Apple Drink",
-      "— Beartista Cake Pop",
-      "— Cranberry Bliss Bar",
-      "— Sugar Plum Cheese Danish",
-      "— Mickey Gingerbread",
-      "Apple Pomegranate Lemonade Refresher - Grande"
+      "— Salted Caramel Chocolate Cake"
     ],
     "removed": [
-      "Blended Mango Dragonfruit Lemonade Energy Refresher - Grande",
-      "— Blended Pink Energy Drink - Grande",
-      "— Unicorn Cake Pop",
-      "— Pumpkin Spice Latte",
-      "— Iced Pumpkin Cream Chai Latte - Grande",
-      "— Pumpkin Cream Cold Brew - Grande",
-      "— Pecan Crunch Latte - Grande",
-      "— Pumpkin Cream Cheese Muffin",
-      "— Hedgehog Cake Pop",
-      "Java Chip Frappuccino® Blended Beverage - Grande",
-      "Double Chocolaty Chip Crème Frappuccino® Blended Beverage - Grande",
-      "Caramel Ribbon Crunch Frappuccino® - Grande",
-      "— Blue Coconut Lemonade Energy Refresher",
-      "Tropical Butterfly Lemonade Energy Refresher",
-      "— Iced Horchata Shaken Espresso",
-      "— Iced Banana Bread Matcha Tea Latte"
+      "— Ube Cheesecake Churro",
+      "— Infinity Cream Puffs"
     ]
   },
   {
-    "id": "dca-flos-v8-cafe",
-    "name": "Flo's V8 Cafe",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/flos-v8-cafe/menus/lunch-and-dinner/",
+    "id": "dl-alien-pizza-planet",
+    "name": "Alien Pizza Planet",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/alien-pizza-planet/menus/lunch-and-dinner/",
     "added": [
-      "Holiday Pineapple-Honey Glazed Chicken Strips",
-      "Thanksgiving Dinner [Available Thanksgiving Day]",
-      "Kids' Thanksgiving Dinner [Available Thanksgiving Day]"
+      "— Alien Reindeer Macarooooon",
+      "— Holiday Green Drink",
+      "— Holiday Stainless Steel Tumbler",
+      "— Holiday Travel Tumbler",
+      "— Mickey Wreath Holiday Straw Clip",
+      "— Stitch Christmas Tree Sipper",
+      "— Toy Story Gingerbread House Bucket",
+      "— Holiday Train Bucket"
     ],
     "removed": [
-      "— Mango-Habanero Chicken Strips"
+      "— Halloween Travel Tumbler",
+      "— Vampire Mickey Mouse Bucket",
+      "— Pain and Panic Straw Clip"
     ]
   },
   {
-    "id": "dca-ghirardelli-soda-fountain-and-chocolate-shop",
-    "name": "Ghirardelli Soda Fountain and Chocolate Shop",
-    "park": "Disney California Adventure",
-    "url": "https://disneyworld.disney.go.com/dining/disney-springs/ghirardelli-soda-fountain/menus/snack/",
-    "error": "Navigation timeout of 90000 ms exceeded"
+    "id": "dl-bengal-barbecue",
+    "name": "Bengal Barbecue",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/bengal-barbecue/menus/",
+    "added": [
+      "— Vietnamese Iced Coffee"
+    ],
+    "removed": [
+      "— Iced Pandan Cooler"
+    ]
   },
   {
-    "id": "dca-lamplight-lounge-brunch",
-    "name": "Lamplight Lounge (Brunch)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge/menus/brunch/",
+    "id": "dl-cafe-daisy",
+    "name": "Café Daisy",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/cafe-daisy/menus/lunch-and-dinner/",
     "added": [
-      "— Little Green Men Straw Clip"
+      "— Peppermint S'mores Hot Chocolate",
+      "— Very Merry Cran-Peary"
     ],
     "removed": []
   },
   {
-    "id": "dca-lamplight-lounge-lunch",
-    "name": "Lamplight Lounge (Lunch)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge/menus/lunch/",
+    "id": "dl-carnation-cafe-breakfast",
+    "name": "Carnation Cafe (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/carnation-cafe/menus/breakfast/",
     "added": [
-      "— Holiday Cocktail",
-      "— Little Green Men Straw Clip"
+      "— Eggnog Old-Fashioned"
     ],
     "removed": [
-      "— Halloween Cocktail"
+      "— Caramel Apple Martini",
+      "— Elysian Brewing, Night Owl, Pumpkin Ale",
+      "— Spaten, Oktoberfest Ur-Märzen"
     ]
   },
   {
-    "id": "dca-lamplight-lounge-dinner",
-    "name": "Lamplight Lounge (Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge/menus/dinner/",
+    "id": "dl-carnation-cafe-lunch",
+    "name": "Carnation Cafe (Lunch)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/carnation-cafe/menus/lunch/",
     "added": [
-      "— Holiday Cocktail",
-      "— Little Green Men Straw Clip"
+      "— Eggnog Old-Fashioned"
     ],
     "removed": [
-      "— Halloween Cocktail"
+      "— Spicy Chicken Sandwich",
+      "— Caramel Apple Martini",
+      "— Elysian Brewing, Night Owl, Pumpkin Ale",
+      "— Spaten, Oktoberfest Ur-Märzen"
     ]
   },
   {
-    "id": "dca-lamplight-lounge-boardwalk-dining-lunch",
-    "name": "Lamplight Lounge Boardwalk Dining (Lunch)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge-boardwalk-dining/menus/lunch/",
+    "id": "dl-carnation-cafe-dinner",
+    "name": "Carnation Cafe (Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/carnation-cafe/menus/dinner/",
     "added": [
-      "— Holiday Cocktail",
-      "— Little Green Men Straw Clip"
+      "— Eggnog Old-Fashioned"
     ],
     "removed": [
-      "— Cinnamon Whiskey Cocktail"
+      "— Spicy Chicken Sandwich",
+      "— Caramel Apple Martini",
+      "— Elysian Brewing, Night Owl, Pumpkin Ale",
+      "— Spaten, Oktoberfest Ur-Märzen"
     ]
   },
   {
-    "id": "dca-lamplight-lounge-boardwalk-dining-dinner",
-    "name": "Lamplight Lounge Boardwalk Dining (Dinner)",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lamplight-lounge-boardwalk-dining/menus/dinner/",
+    "id": "dl-docking-bay-7-food-and-cargo",
+    "name": "Docking Bay 7 Food and Cargo",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/docking-bay-7-food-and-cargo/menus/",
     "added": [
-      "— Holiday Cocktail",
-      "— Little Green Men Straw Clip"
+      "Kashyyyk Cake [Available starting November 17]"
     ],
-    "removed": [
-      "— Cinnamon Whiskey Cocktail"
-    ]
+    "removed": []
   },
   {
-    "id": "dca-lucky-fortune-cookery",
-    "name": "Lucky Fortune Cookery",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/lucky-fortune-cookery/menus/lunch-and-dinner/",
-    "added": [
-      "— Orange Chicken Rice Bowl",
-      "— Santa Baymax Macaron",
-      "— Cinnamon Pear Mule"
-    ],
-    "removed": [
-      "— Seasonal Baymax Macaron"
-    ]
-  },
-  {
-    "id": "dca-paradise-garden-grill",
-    "name": "Paradise Garden Grill",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/paradise-garden-grill/menus/lunch-and-dinner/",
+    "id": "dl-galactic-grill-breakfast",
+    "name": "Galactic Grill (Breakfast)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/breakfast/",
     "added": [
       "— Holiday Stainless Steel Tumbler",
       "— Holiday Travel Tumbler",
+      "— Mickey Wreath Holiday Straw Clip",
       "— Stitch Christmas Tree Sipper",
+      "— Toy Story Gingerbread House Bucket",
+      "— Holiday Train Bucket",
       "— Holiday Ornament Glow Cube",
-      "Red Velvet Cake Flan [Available starting November 13]"
+      "Holiday Striped Mickey Mouse-shaped Glow Cube",
+      "— Holiday Parfait",
+      "— Holiday Pomegranate Punch"
     ],
     "removed": [
       "— Hades Glow Cube",
+      "— Pumpkin Cream Sweet Tea",
       "— Halloween Travel Tumbler",
-      "— Nuez Gelatina Cake",
-      "— Marigold Margarita"
+      "— Vampire Mickey Mouse Bucket",
+      "— Pain and Panic Straw Clip",
+      "— Darth by Chocolate"
     ]
   },
   {
-    "id": "dca-port-of-san-fransokyo-cerveceria",
-    "name": "Port of San Fransokyo Cervecería",
-    "park": "Disney California Adventure",
-    "url": "https://disneyland.disney.go.com/dining/disney-california-adventure/port-of-san-fransokyo-cerveceria/menus/snack/",
-    "added": [],
+    "id": "dl-galactic-grill-lunch-and-dinner",
+    "name": "Galactic Grill (Lunch & Dinner)",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/galactic-grill/menus/lunch-and-dinner/",
+    "added": [
+      "— Holiday Stainless Steel Tumbler",
+      "— Holiday Travel Tumbler",
+      "— Mickey Wreath Holiday Straw Clip",
+      "— Stitch Christmas Tree Sipper",
+      "— Toy Story Gingerbread House Bucket",
+      "— Holiday Train Bucket",
+      "— Holiday Ornament Glow Cube",
+      "Holiday Striped Mickey Mouse-shaped Glow Cube",
+      "— Holiday Parfait",
+      "— Holiday Pomegranate Punch"
+    ],
     "removed": [
-      "Karl Strauss® Brewing Company, Oktoberfest"
+      "— Hades Glow Cube",
+      "— Pumpkin Cream Sweet Tea",
+      "— Halloween Travel Tumbler",
+      "— Vampire Mickey Mouse Bucket",
+      "— Pain and Panic Straw Clip",
+      "— Darth by Chocolate"
+    ]
+  },
+  {
+    "id": "dl-gibson-girl-ice-cream-parlor",
+    "name": "Gibson Girl Ice Cream Parlor",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/gibson-girl-ice-cream-parlor/menus/snack/",
+    "added": [
+      "— Peppermint Holiday Sundae"
+    ],
+    "removed": [
+      "Halloween Huey, Dewey, and Louie Bottle Topper",
+      "— Rest In Chocolate"
     ]
   }
 ]

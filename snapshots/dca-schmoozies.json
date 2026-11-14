@@ -4,10 +4,12 @@
       "title": "menu",
       "items": [
         "Schmoozies!",
-        "— Pumpkin Pie Mickey Shake",
-        "— Matcha Mickey-shaped Waffles",
+        "— Pumpkin Spice Mickey-shaped Waffle",
+        "— Mickey Elf Shake",
+        "— Iced Honey Matcha Tea",
         "— Seaborn, Lavender Lemonade",
         "Arrow Lodge Brewing, Pink Lemonade Seltzer",
+        "— Soju-Matcha Cocktail",
         "— Unsung Brewing Co., Mimosa Hard Seltzer",
         "— Strawberry Banana Sensation with Liquor",
         "— Mango Madness with Liquor",
@@ -31,7 +33,9 @@
         "— Iced Americano",
         "— Whole Milk",
         "— DASANI® Bottled Water",
-        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients."
+        "* This item is cooked to Guest preference and/or may contain raw or undercooked ingredients.",
+        "— {INTERSTITIAL_TITLE_TEXT}",
+        "{INTERSTITIAL_BODY_TEXT}"
       ]
     }
   ]
