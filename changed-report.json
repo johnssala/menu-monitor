@@ -1,342 +1,115 @@
 [
   {
-    "id": "dl-harbour-galley",
-    "name": "Harbour Galley",
+    "id": "dl-the-golden-horseshoe",
+    "name": "The Golden Horseshoe",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/harbour-galley/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/golden-horseshoe-restaurant/menus/lunch-and-dinner/",
     "added": [
-      "— Holiday Royal Icing Dipping Sauce",
       "— Holiday Stainless Steel Tumbler",
+      "Includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply.",
       "— Holiday Travel Tumbler",
-      "— Mickey Wreath Holiday Straw Clip",
       "— Stitch Christmas Tree Sipper",
-      "— Toy Story Gingerbread House Bucket",
-      "— Holiday Train Bucket",
       "— Holiday Ornament Glow Cube"
-    ],
-    "removed": [
-      "— Hades Glow Cube",
-      "— Whipped Cream Cheese Dip",
-      "— Pain and Panic Straw Clip",
-      "— Vampire Mickey Mouse Bucket",
-      "— Halloween Travel Tumbler"
-    ]
-  },
-  {
-    "id": "dl-hungry-bear-barbecue-jamboree",
-    "name": "Hungry Bear Barbecue Jamboree",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/hungry-bear-barbecue/menus/lunch-and-dinner/",
-    "added": [
-      "— Holiday Stainless Steel Tumbler",
-      "— Holiday Travel Tumbler",
-      "— Stitch Christmas Tree Sipper",
-      "— Holiday Ornament Glow Cube",
-      "\"Bear\"giving Sandwich [Available November 26 - 29]"
-    ],
-    "removed": [
-      "— Hades Glow Cube",
-      "— Halloween Travel Tumbler"
-    ]
-  },
-  {
-    "id": "dl-jolly-holiday-bakery-cafe-breakfast",
-    "name": "Jolly Holiday Bakery Cafe (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/breakfast/",
-    "added": [
-      "— Turkey Pot Pie Soup",
-      "— Peppermint Mocha Cold Brew",
-      "— Mickey Gingerbread",
-      "— Holiday Stainless Steel Tumbler",
-      "— Holiday Travel Tumbler",
-      "— Stitch Christmas Tree Sipper",
-      "Mickey Birthday Cupcake [Available starting November 18]",
-      "Minnie Birthday Cupcake [Available starting November 18]",
-      "— Holiday Ornament Glow Cube",
-      "— Orange-Cranberry Loaf",
-      "— Sticky Toffee Bundt Cake",
-      "— S'mores Cheesecake",
-      "— Holiday Matterhorn Macaroon"
-    ],
-    "removed": [
-      "— Hades Glow Cube",
-      "— Halloween Travel Tumbler",
-      "— Halloween Matterhorn Macaroon",
-      "— Caramel Apple Cheesecake",
-      "— Mickey Mummy Macaron",
-      "— Mickey Pumpkin Cupcake",
-      "— Brownie Pie",
-      "— Pumpkin Cold Brew"
-    ]
-  },
-  {
-    "id": "dl-jolly-holiday-bakery-cafe-lunch-and-dinner",
-    "name": "Jolly Holiday Bakery Cafe (Lunch & Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/menus/lunch-and-dinner/",
-    "added": [
-      "— Turkey Pot Pie Soup",
-      "— Peppermint Mocha Cold Brew",
-      "— Mickey Gingerbread",
-      "— Holiday Stainless Steel Tumbler",
-      "— Holiday Travel Tumbler",
-      "— Stitch Christmas Tree Sipper",
-      "Mickey Birthday Cupcake [Available starting November 18]",
-      "Minnie Birthday Cupcake [Available starting November 18]",
-      "— Holiday Ornament Glow Cube",
-      "— Orange-Cranberry Loaf",
-      "— Sticky Toffee Bundt Cake",
-      "— S'mores Cheesecake",
-      "— Holiday Matterhorn Macaroon"
-    ],
-    "removed": [
-      "— Hades Glow Cube",
-      "— Halloween Travel Tumbler",
-      "— Halloween Matterhorn Macaroon",
-      "— Caramel Apple Cheesecake",
-      "— Mickey Mummy Macaron",
-      "— Mickey Pumpkin Cupcake",
-      "— Brownie Pie",
-      "— Pumpkin Cold Brew"
-    ]
-  },
-  {
-    "id": "dl-market-house-breakfast",
-    "name": "Market House - Starbucks (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/breakfast/",
-    "added": [
-      "— Iced Tiramisu Velvet Latte - Grande",
-      "— Snowy Apple Drink",
-      "— Beartista Cake Pop",
-      "— Sugar Plum Cheese Danish",
-      "— Cranberry Bliss Bar",
-      "— Mickey Gingerbread",
-      "— Apple Pomegranate Lemonade Refresher"
-    ],
-    "removed": [
-      "— Pumpkin Spice Latte - Grande",
-      "— Iced Pumpkin Cream Chai Latte - Grande",
-      "— Pumpkin Cream Cold Brew - Grande",
-      "— Pecan Crunch Latte - Grande",
-      "— Pumpkin Cream Cheese Muffin",
-      "— Hedgehog Cake Pop",
-      "— Impossible™ Breakfast Sandwich",
-      "Java Chip Frappuccino® Blended Beverage - Grande",
-      "Double Chocolaty Chip Crème Frappuccino® Blended Beverage- Grande",
-      "— Blue Coconut Lemonade Energy Refresher",
-      "Tropical Butterfly Lemonade Energy Refresher",
-      "— Iced Horchata Shaken Espresso",
-      "— Iced Banana Bread Matcha Tea Latte"
-    ]
-  },
-  {
-    "id": "dl-market-house-lunch-and-dinner",
-    "name": "Market House - Starbucks (Lunch & Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/market-house/menus/lunch-and-dinner/",
-    "added": [
-      "— Iced Tiramisu Velvet Latte - Grande",
-      "— Snowy Apple Drink",
-      "— Beartista Cake Pop",
-      "— Sugar Plum Cheese Danish",
-      "— Cranberry Bliss Bar",
-      "— Mickey Gingerbread",
-      "— Apple Pomegranate Lemonade Refresher"
-    ],
-    "removed": [
-      "— Pumpkin Spice Latte - Grande",
-      "— Iced Pumpkin Cream Chai Latte - Grande",
-      "— Pumpkin Cream Cold Brew - Grande",
-      "— Pecan Crunch Latte - Grande",
-      "— Pumpkin Cream Cheese Muffin",
-      "— Hedgehog Cake Pop",
-      "— Impossible™ Breakfast Sandwich",
-      "Java Chip Frappuccino® Blended Beverage - Grande",
-      "Double Chocolaty Chip Crème Frappuccino® Blended Beverage- Grande",
-      "— Blue Coconut Lemonade Energy Refresher",
-      "Tropical Butterfly Lemonade Energy Refresher",
-      "— Iced Horchata Shaken Espresso",
-      "— Iced Banana Bread Matcha Tea Latte"
-    ]
-  },
-  {
-    "id": "dl-maurices-treats",
-    "name": "Maurice's Treats",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/maurices-treats/menus/snack/",
-    "added": [],
-    "removed": [
-      "— Sea Salt Vanilla Cream"
-    ]
-  },
-  {
-    "id": "dl-milk-stand-galaxys-edge",
-    "name": "Milk Stand – Star Wars: Galaxy's Edge",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/milk-stand/menus/",
-    "added": [
-      "Wookiee Ookiee [Available starting November 17]",
-      "Blue Milk with Golden Lichen Paddy Frog Eggs [Available starting November 17]"
     ],
     "removed": []
   },
   {
-    "id": "dl-mint-julep-bar",
-    "name": "Mint Julep Bar",
+    "id": "dl-tianas-palace",
+    "name": "Tiana's Palace",
     "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/mint-julep-bar/menus/snack/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/tianas-palace/menus/lunch-and-dinner/",
     "added": [
-      "— Enchanted Holiday Cocoa Dip",
-      "— Holiday Travel Tumbler",
-      "— Holiday Ornament Glow Cube"
+      "Tiana's Palace Thanksgiving Dinner [Available November 26]",
+      "Kids Homestyle Thanksgiving Dinner [Available November 26]",
+      "Sweet Potato-filled Beignet [Available November 26]"
+    ],
+    "removed": []
+  },
+  {
+    "id": "dl-tiki-juice-bar",
+    "name": "Tiki Juice Bar",
+    "park": "Disneyland Park",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/tiki-juice-bar/menus/snack/",
+    "added": [
+      "DOLE Whip® Pineapple Soft Serve in a Sugar Cone"
     ],
     "removed": [
-      "— Hades Glow Cube",
-      "— Frightfully Festive Cocoa Dip",
-      "— Halloween Travel Tumbler"
+      "— DOLE Whip® Cone"
     ]
   },
   {
-    "id": "dl-ogas-cantina-lunch",
-    "name": "Oga's Cantina (Lunch)",
+    "id": "dl-troubadour-tavern",
+    "name": "Troubadour Tavern",
     "park": "Disneyland Park",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/lunch/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "dl-ogas-cantina-dinner",
-    "name": "Oga's Cantina (Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/dinner/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "dl-rancho-del-zocalo-restaurante",
-    "name": "Rancho del Zocalo Restaurante",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/rancho-del-zocalo-restaurante/menus/lunch-and-dinner/",
+    "url": "https://disneyland.disney.go.com/dining/disneyland/troubadour-tavern/menus/",
     "added": [
-      "— Honey Crisp Apple Crumble Cake",
-      "— Abuelita® Hot Chocolate"
-    ],
-    "removed": [
-      "— Iced Chocolate Café"
-    ]
-  },
-  {
-    "id": "dl-red-rose-taverne-breakfast",
-    "name": "Red Rose Taverne (Breakfast)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/breakfast/",
-    "added": [
-      "— Christmas Stuff",
-      "— Mickey Gingerbread",
       "— Holiday Stainless Steel Tumbler",
       "— Holiday Travel Tumbler",
       "— Mickey Wreath Holiday Straw Clip",
-      "— Holiday Ornament Glow Cube"
-    ],
-    "removed": [
-      "— Hades Glow Cube",
-      "— Enchanted Pumpkin Stuff",
-      "— Halloween Travel Tumbler"
-    ]
-  },
-  {
-    "id": "dl-red-rose-taverne-lunch-and-dinner",
-    "name": "Red Rose Taverne (Lunch & Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/red-rose-taverne/menus/lunch-and-dinner/",
-    "added": [
-      "— Christmas Stuff",
-      "— Mickey Gingerbread",
-      "— Holiday Stainless Steel Tumbler",
-      "— Holiday Travel Tumbler",
-      "— Mickey Wreath Holiday Straw Clip",
-      "— Holiday Ornament Glow Cube"
-    ],
-    "removed": [
-      "— Hades Glow Cube",
-      "— Enchanted Pumpkin Stuff",
-      "— Halloween Travel Tumbler"
-    ]
-  },
-  {
-    "id": "dl-refreshment-corner",
-    "name": "Refreshment Corner",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/refreshment-corner/menus/lunch-and-dinner/",
-    "added": [
-      "— Warm Spiced Apple Tea",
-      "— Holiday Stainless Steel Tumbler",
-      "— Holiday Travel Tumbler",
-      "— Stitch Christmas Tree Sipper",
-      "— Toy Story Gingerbread House Bucket",
-      "— Holiday Ornament Glow Cube",
-      "— Philly Cheese Potato"
-    ],
-    "removed": [
-      "— Hades Glow Cube",
-      "— Vampire Mickey Mouse Bucket",
-      "— Halloween Travel Tumbler",
-      "— Birria Potato"
-    ]
-  },
-  {
-    "id": "dl-river-belle-terrace-lunch",
-    "name": "River Belle Terrace (Lunch)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/lunch/",
-    "added": [
-      "— Plant Based Meat Loaf"
-    ],
-    "removed": [
-      "— Pumpkin Crunch Cake"
-    ]
-  },
-  {
-    "id": "dl-river-belle-terrace-dinner",
-    "name": "River Belle Terrace (Dinner)",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/river-belle-terrace/menus/dinner/",
-    "added": [
-      "— Plant Based Meat Loaf"
-    ],
-    "removed": [
-      "— Pumpkin Crunch Cake"
-    ]
-  },
-  {
-    "id": "dl-royal-street-veranda",
-    "name": "Royal Street Veranda",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/royal-street-veranda/menus/lunch-and-dinner/",
-    "added": [
-      "— Holiday Travel Tumbler",
-      "— Mickey Wreath Holiday Straw Clip"
-    ],
-    "removed": [
-      "— Halloween Travel Tumbler",
-      "— Pain and Panic Straw Clip"
-    ]
-  },
-  {
-    "id": "dl-stage-door-cafe",
-    "name": "Stage Door Cafe",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/stage-door-cafe/menus/lunch-and-dinner/",
-    "added": [
-      "— Holiday Stainless Steel Tumbler",
-      "— Holiday Travel Tumbler",
       "— Stitch Christmas Tree Sipper",
       "— Holiday Ornament Glow Cube"
     ],
     "removed": [
       "— Hades Glow Cube",
+      "Halloween Huey, Dewey, and Louie Bottle Topper",
       "— Halloween Travel Tumbler",
       "— Pain and Panic Straw Clip"
     ]
+  },
+  {
+    "id": "epcot-biergarten-restaurant-lunch",
+    "name": "Biergarten Restaurant (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/biergarten-restaurant/menus/lunch/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "epcot-block-and-hans",
+    "name": "Block & Hans",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/block-hans/menus/bar-%E2%80%93-lounge/",
+    "added": [
+      "— Frozen Merry Punch"
+    ],
+    "removed": []
+  },
+  {
+    "id": "epcot-connections-cafe",
+    "name": "Connections Café (Starbucks)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/connections-cafe/menus/coffee-%E2%80%93-bakery/",
+    "added": [
+      "Apple Pomegranate Lemonade Refresher - Grande",
+      "— Iced Tiramisu Velvet Latte - Grande",
+      "— Iced Gingerbread Chai Latte - Grande",
+      "— Snowy Apple Drink - Grande",
+      "— Peppermint Mocha - Grande",
+      "— Wreath Matcha Mochi Doughnut"
+    ],
+    "removed": []
+  },
+  {
+    "id": "epcot-connections-eatery",
+    "name": "Connections Eatery",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/connections-eatery/menus/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "epcot-fife-and-drum-tavern",
+    "name": "Fife & Drum Tavern",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/fife-and-drum-tavern/menus/snack/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "epcot-funnel-cake",
+    "name": "Funnel Cake – EPCOT",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/funnel-cake/menus/",
+    "added": [
+      "— Hot Cocoa Funnel Cake"
+    ],
+    "removed": []
   }
 ]

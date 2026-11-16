@@ -18,6 +18,7 @@
         "Frozen Starbucks Refreshers™ with Lemonade - Grande",
         "— Pink Drink - Grande",
         "— Starbucks Refreshers™",
+        "Apple Pomegranate Lemonade Refresher - Grande",
         "— Caramel Macchiato - Grande",
         "— Iced White Chocolate Mocha - Grande",
         "— Caffè Latte - Grande",
@@ -28,6 +29,10 @@
         "— Freshly Brewed Coffee - Grande",
         "— Pecan Crunch Oatmilk Latte - Grande",
         "— Pumpkin Spice Latte - Grande",
+        "— Iced Tiramisu Velvet Latte - Grande",
+        "— Iced Gingerbread Chai Latte - Grande",
+        "— Snowy Apple Drink - Grande",
+        "— Peppermint Mocha - Grande",
         "— Nitro Cold Brew - Grande",
         "Vanilla Sweet Cream Nitro Cold Brew - Grande",
         "— Salted Caramel Cream Cold Brew - Grande",
@@ -55,6 +60,7 @@
         "— Liege Waffle",
         "— Pumpkin Cream Cheese Muffin",
         "— Assorted Pastries",
+        "— Wreath Matcha Mochi Doughnut",
         "— {INTERSTITIAL_TITLE_TEXT}",
         "{INTERSTITIAL_BODY_TEXT}"
       ]
