@@ -1,114 +1,91 @@
 [
   {
-    "id": "dl-the-golden-horseshoe",
-    "name": "The Golden Horseshoe",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/golden-horseshoe-restaurant/menus/lunch-and-dinner/",
+    "id": "epcot-geo-82-lunch",
+    "name": "GEO-82 (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/geo-82-lounge/menus/lunch/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "epcot-geo-82-dinner",
+    "name": "GEO-82 (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/geo-82-lounge/menus/dinner/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "epcot-katsura-grill",
+    "name": "Katsura Grill",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/katsura-grill/menus/lunch-and-dinner/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "epcot-kringla-bakeri-og-kafe",
+    "name": "Kringla Bakeri Og Kafe",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/kringla-bakeri-og-kafe/menus/snack/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "epcot-la-cantina-de-san-angel",
+    "name": "La Cantina de San Angel",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/cantina-de-san-angel/menus/lunch-and-dinner/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "epcot-la-creperie-de-paris-breakfast",
+    "name": "La Crêperie de Paris (Breakfast)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/creperie-de-paris/menus/breakfast/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "epcot-lotus-blossom-cafe",
+    "name": "Lotus Blossom Café",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/lotus-blossom-cafe/menus/lunch-and-dinner/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "epcot-pizza-al-taglio",
+    "name": "Pizza al Taglio",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/pizza-taglio/menus/lunch-and-dinner/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "epcot-regal-eagle-smokehouse",
+    "name": "Regal Eagle Smokehouse",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/regal-eagle-smokehouse/menus/lunch-and-dinner/",
     "added": [
-      "— Holiday Stainless Steel Tumbler",
-      "Includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply.",
-      "— Holiday Travel Tumbler",
       "— Stitch Christmas Tree Sipper",
-      "— Holiday Ornament Glow Cube"
+      "Holiday Chip 'n Dale Candy Cane Straw Clip",
+      "— Chocolate-covered Cherry Shake"
     ],
     "removed": []
   },
   {
-    "id": "dl-tianas-palace",
-    "name": "Tiana's Palace",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/tianas-palace/menus/lunch-and-dinner/",
+    "id": "epcot-san-angel-inn-restaurante-lunch",
+    "name": "San Angel Inn Restaurante (Lunch)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/san-angel-inn-restaurante/menus/lunch/",
     "added": [
-      "Tiana's Palace Thanksgiving Dinner [Available November 26]",
-      "Kids Homestyle Thanksgiving Dinner [Available November 26]",
-      "Sweet Potato-filled Beignet [Available November 26]"
+      "— Cocktail de Camaron* **",
+      "— Old Fashioned **"
     ],
     "removed": []
   },
   {
-    "id": "dl-tiki-juice-bar",
-    "name": "Tiki Juice Bar",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/tiki-juice-bar/menus/snack/",
+    "id": "epcot-san-angel-inn-restaurante-dinner",
+    "name": "San Angel Inn Restaurante (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/san-angel-inn-restaurante/menus/dinner/",
     "added": [
-      "DOLE Whip® Pineapple Soft Serve in a Sugar Cone"
-    ],
-    "removed": [
-      "— DOLE Whip® Cone"
-    ]
-  },
-  {
-    "id": "dl-troubadour-tavern",
-    "name": "Troubadour Tavern",
-    "park": "Disneyland Park",
-    "url": "https://disneyland.disney.go.com/dining/disneyland/troubadour-tavern/menus/",
-    "added": [
-      "— Holiday Stainless Steel Tumbler",
-      "— Holiday Travel Tumbler",
-      "— Mickey Wreath Holiday Straw Clip",
-      "— Stitch Christmas Tree Sipper",
-      "— Holiday Ornament Glow Cube"
-    ],
-    "removed": [
-      "— Hades Glow Cube",
-      "Halloween Huey, Dewey, and Louie Bottle Topper",
-      "— Halloween Travel Tumbler",
-      "— Pain and Panic Straw Clip"
-    ]
-  },
-  {
-    "id": "epcot-biergarten-restaurant-lunch",
-    "name": "Biergarten Restaurant (Lunch)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/biergarten-restaurant/menus/lunch/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "epcot-block-and-hans",
-    "name": "Block & Hans",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/block-hans/menus/bar-%E2%80%93-lounge/",
-    "added": [
-      "— Frozen Merry Punch"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-connections-cafe",
-    "name": "Connections Café (Starbucks)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/connections-cafe/menus/coffee-%E2%80%93-bakery/",
-    "added": [
-      "Apple Pomegranate Lemonade Refresher - Grande",
-      "— Iced Tiramisu Velvet Latte - Grande",
-      "— Iced Gingerbread Chai Latte - Grande",
-      "— Snowy Apple Drink - Grande",
-      "— Peppermint Mocha - Grande",
-      "— Wreath Matcha Mochi Doughnut"
-    ],
-    "removed": []
-  },
-  {
-    "id": "epcot-connections-eatery",
-    "name": "Connections Eatery",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/connections-eatery/menus/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "epcot-fife-and-drum-tavern",
-    "name": "Fife & Drum Tavern",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/fife-and-drum-tavern/menus/snack/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "epcot-funnel-cake",
-    "name": "Funnel Cake – EPCOT",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/funnel-cake/menus/",
-    "added": [
-      "— Hot Cocoa Funnel Cake"
+      "— Cocktail de Camaron* **",
+      "— Old Fashioned **"
     ],
     "removed": []
   }
