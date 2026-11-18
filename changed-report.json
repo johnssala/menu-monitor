@@ -1,92 +1,85 @@
 [
   {
-    "id": "epcot-geo-82-lunch",
-    "name": "GEO-82 (Lunch)",
+    "id": "epcot-sommerfest",
+    "name": "Sommerfest",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/geo-82-lounge/menus/lunch/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "epcot-geo-82-dinner",
-    "name": "GEO-82 (Dinner)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/geo-82-lounge/menus/dinner/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "epcot-katsura-grill",
-    "name": "Katsura Grill",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/katsura-grill/menus/lunch-and-dinner/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "epcot-kringla-bakeri-og-kafe",
-    "name": "Kringla Bakeri Og Kafe",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/kringla-bakeri-og-kafe/menus/snack/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "epcot-la-cantina-de-san-angel",
-    "name": "La Cantina de San Angel",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/cantina-de-san-angel/menus/lunch-and-dinner/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "epcot-la-creperie-de-paris-breakfast",
-    "name": "La Crêperie de Paris (Breakfast)",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/creperie-de-paris/menus/breakfast/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "epcot-lotus-blossom-cafe",
-    "name": "Lotus Blossom Café",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/lotus-blossom-cafe/menus/lunch-and-dinner/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "epcot-pizza-al-taglio",
-    "name": "Pizza al Taglio",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/pizza-taglio/menus/lunch-and-dinner/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "epcot-regal-eagle-smokehouse",
-    "name": "Regal Eagle Smokehouse",
-    "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/regal-eagle-smokehouse/menus/lunch-and-dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/sommerfest/menus/lunch-and-dinner/",
     "added": [
-      "— Stitch Christmas Tree Sipper",
-      "Holiday Chip 'n Dale Candy Cane Straw Clip",
-      "— Chocolate-covered Cherry Shake"
+      "— Assorted Fountain Beverages",
+      "— Christmas Market Bratwurst"
     ],
     "removed": []
   },
   {
-    "id": "epcot-san-angel-inn-restaurante-lunch",
-    "name": "San Angel Inn Restaurante (Lunch)",
+    "id": "epcot-sunshine-seasons-breakfast",
+    "name": "Sunshine Seasons (Breakfast)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/san-angel-inn-restaurante/menus/lunch/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/sunshine-seasons/menus/breakfast/",
     "added": [
-      "— Cocktail de Camaron* **",
-      "— Old Fashioned **"
+      "Mickey-shaped Caramel-Gingerbread Macaron",
+      "— Snickerdoodle Milkshake"
     ],
     "removed": []
   },
   {
-    "id": "epcot-san-angel-inn-restaurante-dinner",
-    "name": "San Angel Inn Restaurante (Dinner)",
+    "id": "epcot-sunshine-seasons-lunch",
+    "name": "Sunshine Seasons (Lunch)",
     "park": "EPCOT",
-    "url": "https://disneyworld.disney.go.com/dining/epcot/san-angel-inn-restaurante/menus/dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/sunshine-seasons/menus/lunch/",
     "added": [
-      "— Cocktail de Camaron* **",
-      "— Old Fashioned **"
+      "Mickey-shaped Caramel-Gingerbread Macaron",
+      "— Snickerdoodle Milkshake"
     ],
     "removed": []
+  },
+  {
+    "id": "epcot-sunshine-seasons-snack",
+    "name": "Sunshine Seasons (Snack)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/sunshine-seasons/menus/snack/",
+    "added": [
+      "Mickey-shaped Caramel-Gingerbread Macaron",
+      "— Snickerdoodle Milkshake"
+    ],
+    "removed": []
+  },
+  {
+    "id": "epcot-teppan-edo-dinner",
+    "name": "Teppan Edo (Dinner)",
+    "park": "EPCOT",
+    "url": "https://disneyworld.disney.go.com/dining/epcot/teppan-edo/menus/dinner/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "eu-cafe-lair-de-la-sirene",
+    "name": "Café L'air De La Sirène",
+    "park": "Epic Universe",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/cafe-lair-de-la-sirene/menu.html",
+    "added": [
+      "Crème Brûlée Chocolat Blanc a la Menthe Poivree"
+    ],
+    "removed": [
+      "Crème Brûlée",
+      "— Crème Brûlée"
+    ]
+  },
+  {
+    "id": "eu-frosty-moon",
+    "name": "Frosty Moon",
+    "park": "Epic Universe",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/frosty-moon/menu.html",
+    "added": [
+      "Allergen Note",
+      "— Allergen Note",
+      "The Winter Owl",
+      "— The Winter Owl",
+      "Special Holiday Coca-Cola Freestyle® Offer",
+      "Buy 2, Get 1 Free Coca-Cola Freestyle® Souvenir",
+      "Holiday Coca-Cola Freestyle® Souvenir Cups"
+    ],
+    "removed": [
+      "The Frosted Owl",
+      "— The Frosted Owl"
+    ]
   }
 ]
