@@ -1,185 +1,233 @@
 [
   {
-    "id": "eu-hooligans-grog-and-gruel",
-    "name": "Hooligan's Grog & Gruel",
-    "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/hooligans-grog-and-gruel/menu.html",
+    "id": "hs-fairfax-fare-breakfast",
+    "name": "Fairfax Fare (Breakfast)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/breakfast/",
     "added": [
-      "Snoggletog Harvest",
-      "— Snoggletog Harvest"
+      "— Stitch Christmas Tree Sipper",
+      "Tim Burton's The Nightmare Before Christmas Mayor Sipper"
     ],
+    "removed": []
+  },
+  {
+    "id": "hs-fairfax-fare-lunch-and-dinner",
+    "name": "Fairfax Fare (Lunch & Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/lunch-and-dinner/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-food-by-swedish-chef",
+    "name": "FØØD by Swedish Chef",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/food-by-swedish-chef/menus/all-day/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-hollywood-and-vine-breakfast",
+    "name": "Hollywood & Vine (Breakfast)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-and-vine/menus/breakfast/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-hollywood-and-vine-lunch",
+    "name": "Hollywood & Vine (Lunch)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-and-vine/menus/lunch/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-hollywood-and-vine-dinner",
+    "name": "Hollywood & Vine (Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-and-vine/menus/dinner/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-hollywood-scoops",
+    "name": "Hollywood Scoops",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-scoops/menus/snack/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-ice-cold-hydraulics",
+    "name": "Ice Cold Hydraulics",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ice-cold-hydraulics/menus/all-day/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-kat-sakas-kettle",
+    "name": "Kat Saka's Kettle",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/kat-sakas-kettle/menus/snack/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-market",
+    "name": "Market",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/market/menus/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-milk-stand-galaxys-edge",
+    "name": "Milk Stand – Star Wars: Galaxy's Edge",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/milk-stand/menus/snack/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-neighborhood-bakery",
+    "name": "Neighborhood Bakery",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/neighborhood-bakery/menus/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-ogas-cantina-breakfast",
+    "name": "Oga's Cantina (Breakfast)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/breakfast/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-ogas-cantina-lunch",
+    "name": "Oga's Cantina (Lunch)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/lunch/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-ogas-cantina-dinner",
+    "name": "Oga's Cantina (Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/dinner/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-ronto-roasters-breakfast",
+    "name": "Ronto Roasters (Breakfast)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/breakfast/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-ronto-roasters-lunch-and-dinner",
+    "name": "Ronto Roasters (Lunch & Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/lunch-and-dinner/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-rosies-all-american-cafe",
+    "name": "Rosie's All-American Café",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/rosies-all-american-cafe/menus/lunch-and-dinner/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-roundup-rodeo-bbq-dinner",
+    "name": "Roundup Rodeo BBQ (Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/roundup-rodeo-bbq/menus/dinner/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-sci-fi-dine-in-theater-restaurant-lunch",
+    "name": "Sci-Fi Dine-In Theater Restaurant (Lunch)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/sci-fi-dine-in-theater/menus/lunch/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-sci-fi-dine-in-theater-restaurant-dinner",
+    "name": "Sci-Fi Dine-In Theater Restaurant (Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/sci-fi-dine-in-theater/menus/dinner/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-the-hollywood-brown-derby-lunch",
+    "name": "The Hollywood Brown Derby (Lunch)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/lunch/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-the-hollywood-brown-derby-dinner",
+    "name": "The Hollywood Brown Derby (Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/dinner/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-the-hollywood-brown-derby-lounge",
+    "name": "The Hollywood Brown Derby Lounge",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby-lounge/menus/bar-%E2%80%93-lounge/",
+    "added": [],
     "removed": [
-      "Dragon Fire Chicken Spire",
-      "— Dragon Fire Chicken Spire"
+      "The Hollywood Brown Derby Lounge",
+      "— Beet and Kale Salad",
+      "— Roasted Butternut Squash Soup",
+      "— Escargot",
+      "— House-made Ravioli",
+      "— Prosciutto Croquettes",
+      "— Shrimp Cocktail",
+      "— Char-grilled Octopus",
+      "— Pan-roasted Halibut",
+      "— Half Roasted Chicken",
+      "— Filet Mignon*",
+      "— Our Famous Cobb Salad",
+      "— Stuffed Butternut Squash",
+      "— Braised Center-cut Short Rib",
+      "— Fried Pork Chop",
+      "— Braised Duck Pappardelle Pasta",
+      "— Au Gratin Potato",
+      "— Glazed Carrots",
+      "— Braised Wild Mushrooms",
+      "— Grapefruit Cake",
+      "— Orange-Hazelnut Chocolate Cake",
+      "— Decadent Chocolate Cake",
+      "— Honey Pot de Crème",
+      "— Pumpkin Cheesecake",
+      "— Chicken Noodle Soup",
+      "— Chopped Salad",
+      "— Grilled Chicken Breast",
+      "— Grilled Seasonal Fish",
+      "— Grilled Beef Steak",
+      "— Macaroni & Cheese",
+      "— Seasonal Vegetables",
+      "— Mashed Potatoes",
+      "— Fresh Fruit Cup",
+      "— Apple Slices",
+      "— Strawberry and Yogurt Parfait",
+      "— Vanilla Cake Bar",
+      "Peru Alto Mayo Protected Forest Coffee Roasted by Joffrey’s Coffee™",
+      "Domaine Serene Evenstad Reserve Chardonnay, Dundee Hills",
+      "Castello Banfi Brunello di Montalcino, Tuscany",
+      "Jarvis Finch Hollow Chardonnay, Napa Valley",
+      "— Caymus Cabernet Sauvignon, Napa Valley",
+      "— Dessert Wine Flight",
+      "— Tawny Port Flight",
+      "— Nutty Irishman",
+      "— Grapefruit Cake Martini",
+      "Inniskillin Vidal Icewine, Niagara Estate",
+      "Royal Tokaji Red Label 5 Puttonyos, Hungary",
+      "Banfi Rosa Regale Sparkling Red, Piedmont",
+      "— Vietti Moscato d'Asti, Piedmont",
+      "— Fonesca Bin 27 Reserve Port",
+      "— Dow's 10 year Tawny Port",
+      "— Dow's 20 year Tawny Port",
+      "— Dow's 30 year Tawny Port",
+      "— Louis XIII de Rémy Martin",
+      "— Rémy Martin VSOP",
+      "— Rémy Martin XO",
+      "— Brown Derby Original Grapefruit Cake"
     ]
-  },
-  {
-    "id": "eu-le-gobelet-noir",
-    "name": "Le Gobelet Noir",
-    "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/le-gobelet-noir/menu.html",
-    "added": [
-      "The Noir Holiday Supper",
-      "— The Noir Holiday Supper"
-    ],
-    "removed": []
-  },
-  {
-    "id": "eu-mead-hall",
-    "name": "Mead Hall",
-    "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/mead-hall/menu.html",
-    "added": [
-      "Souvenir Frozen Yaknog (Dessert Beverage)",
-      "— Holiday Cocktail",
-      "Winterwick Wassail",
-      "— Winterwick Wassail"
-    ],
-    "removed": []
-  },
-  {
-    "id": "eu-meteor-astropub",
-    "name": "Meteor Astropub",
-    "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/meteor-astropub/menu.html",
-    "added": [
-      "Gingerbread Galaxy",
-      "— Gingerbread Galaxy",
-      "Hot Cocoa",
-      "— Hot Cocoa",
-      "Special Holiday Coca-Cola Freestyle® Offer",
-      "Buy 2, Get 1 Free Coca-Cola Freestyle® Souvenir",
-      "Holiday Coca-Cola Freestyle® Souvenir Cups",
-      "Ivanhoe Park Hazel Nutty Cracker"
-    ],
-    "removed": []
-  },
-  {
-    "id": "eu-spit-fyre-grill",
-    "name": "Spit Fyre Grill",
-    "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/spit-fyre-grill/menu.html",
-    "added": [
-      "Snoggletog Harvest",
-      "— Snoggletog Harvest"
-    ],
-    "removed": [
-      "Dragon Fire Chicken Spire",
-      "— Dragon Fire Chicken Spire"
-    ]
-  },
-  {
-    "id": "eu-the-blue-dragon-pan-asian-restaurant",
-    "name": "The Blue Dragon Pan-Asian Restaurant",
-    "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-blue-dragon-pan-asian-restaurant/menu.html",
-    "added": [
-      "Dongzhi Nights18.50",
-      "— Dongzhi Nights"
-    ],
-    "removed": [
-      "Dalgona Khaosan Road",
-      "— Dalgona Khaosan Road"
-    ]
-  },
-  {
-    "id": "eu-the-oak-and-star-tavern",
-    "name": "The Oak & Star Tavern",
-    "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-oak-and-star-tavern/menu.html",
-    "added": [
-      "Special Holiday Coca-Cola Freestyle® Offer",
-      "Buy 2, Get 1 Free Coca-Cola Freestyle® Souvenir",
-      "Holiday Coca-Cola Freestyle® Souvenir Cups"
-    ],
-    "removed": []
-  },
-  {
-    "id": "eu-toadstool-cafe",
-    "name": "Toadstool Cafe",
-    "park": "Epic Universe",
-    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/toadstool-cafe/menu.html",
-    "added": [
-      "Snowman Cake (Mario)",
-      "— Snowman Cake (Mario)"
-    ],
-    "removed": []
-  },
-  {
-    "id": "hs-50s-prime-time-cafe-lunch",
-    "name": "50's Prime Time Café (Lunch)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/50s-prime-time-cafe/menus/lunch/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-50s-prime-time-cafe-dinner",
-    "name": "50's Prime Time Café (Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/50s-prime-time-cafe/menus/dinner/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-abc-commissary",
-    "name": "ABC Commissary",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/abc-commissary/menus/lunch-and-dinner/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-anaheim-produce",
-    "name": "Anaheim Produce",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/anaheim-produce/menus/all-day/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-backlot-express",
-    "name": "Backlot Express",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/backlot-express/menus/lunch-and-dinner/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-baseline-tap-house",
-    "name": "BaseLine Tap House",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/baseline-tap-house/menus/bar-%E2%80%93-lounge/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-catalina-eddies",
-    "name": "Catalina Eddie's",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/catalina-eddies/menus/lunch-and-dinner/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-docking-bay-7-food-and-cargo-lunch",
-    "name": "Docking Bay 7 Food and Cargo (Lunch)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/docking-bay-7-food-and-cargo/menus/lunch/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-docking-bay-7-food-and-cargo-dinner",
-    "name": "Docking Bay 7 Food and Cargo (Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/docking-bay-7-food-and-cargo/menus/dinner/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-dockside-diner",
-    "name": "Dockside Diner",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/dockside-diner/menus/lunch-and-dinner/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-epic-eats",
-    "name": "Epic Eats",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/epic-eats/menus/all-day/",
-    "error": "Navigation timeout of 90000 ms exceeded"
   }
 ]
