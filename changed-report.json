@@ -1,233 +1,136 @@
 [
   {
-    "id": "hs-fairfax-fare-breakfast",
-    "name": "Fairfax Fare (Breakfast)",
+    "id": "hs-the-trolley-car-cafe",
+    "name": "The Trolley Car Café (Starbucks)",
     "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/breakfast/",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/trolley-car-cafe/menus/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-woodys-lunch-box-breakfast",
+    "name": "Woody's Lunch Box (Breakfast)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/breakfast/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "hs-woodys-lunch-box-lunch-and-dinner",
+    "name": "Woody's Lunch Box (Lunch & Dinner)",
+    "park": "Hollywood Studios",
+    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/menus/lunch-and-dinner/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "ioa-cafe-4",
+    "name": "Cafe 4",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/cafe-4/menu.html",
     "added": [
-      "— Stitch Christmas Tree Sipper",
-      "Tim Burton's The Nightmare Before Christmas Mayor Sipper"
+      "Porchetta Sandwich Platter",
+      "Porchetta Sandwich Combo",
+      "Buy 2, Get 1 Free Coca-Cola Freestyle® Souvenir"
     ],
     "removed": []
   },
   {
-    "id": "hs-fairfax-fare-lunch-and-dinner",
-    "name": "Fairfax Fare (Lunch & Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/lunch-and-dinner/",
-    "error": "Navigation timeout of 90000 ms exceeded"
+    "id": "ioa-captain-america-diner",
+    "name": "Captain America Diner",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/captain-america-diner/menu.html",
+    "added": [
+      "Buy 2, Get 1 Free Coca-Cola Freestyle® Souvenir"
+    ],
+    "removed": []
   },
   {
-    "id": "hs-food-by-swedish-chef",
-    "name": "FØØD by Swedish Chef",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/food-by-swedish-chef/menus/all-day/",
-    "error": "Navigation timeout of 90000 ms exceeded"
+    "id": "ioa-circus-mcgurkus-cafe-stoo-pendous",
+    "name": "Circus McGurkus Cafe Stoo-pendous",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/circus-mcgurkus-cafe-stoo-pendous/menu.html",
+    "added": [
+      "Grinch Frozen Sour Apple",
+      "sour green apple ICEE® with whipped topping and red sugar crystals",
+      "Buy 2, Get 1 Free Coca-Cola Freestyle® Souvenir"
+    ],
+    "removed": []
   },
   {
-    "id": "hs-hollywood-and-vine-breakfast",
-    "name": "Hollywood & Vine (Breakfast)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-and-vine/menus/breakfast/",
-    "error": "Navigation timeout of 90000 ms exceeded"
+    "id": "ioa-comic-strip-cafe",
+    "name": "Comic Strip Cafe",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/comic-strip-cafe/menu.html",
+    "added": [
+      "Buy 2, Get 1 Free Coca-Cola Freestyle® Souvenir"
+    ],
+    "removed": []
   },
   {
-    "id": "hs-hollywood-and-vine-lunch",
-    "name": "Hollywood & Vine (Lunch)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-and-vine/menus/lunch/",
-    "error": "Navigation timeout of 90000 ms exceeded"
+    "id": "ioa-confisco-grille-everyday",
+    "name": "Confisco Grille (Everyday)",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/confisco-grille/menu.html",
+    "added": [
+      "Holiday Pork Schnitzel",
+      "A traditional Pork Schnitzel with Braised Red Cabbage, Spaetzle and Mushroom Sauce"
+    ],
+    "removed": []
   },
   {
-    "id": "hs-hollywood-and-vine-dinner",
-    "name": "Hollywood & Vine (Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-and-vine/menus/dinner/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-hollywood-scoops",
-    "name": "Hollywood Scoops",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-scoops/menus/snack/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-ice-cold-hydraulics",
-    "name": "Ice Cold Hydraulics",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ice-cold-hydraulics/menus/all-day/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-kat-sakas-kettle",
-    "name": "Kat Saka's Kettle",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/kat-sakas-kettle/menus/snack/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-market",
-    "name": "Market",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/market/menus/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-milk-stand-galaxys-edge",
-    "name": "Milk Stand – Star Wars: Galaxy's Edge",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/milk-stand/menus/snack/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-neighborhood-bakery",
-    "name": "Neighborhood Bakery",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/neighborhood-bakery/menus/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-ogas-cantina-breakfast",
-    "name": "Oga's Cantina (Breakfast)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/breakfast/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-ogas-cantina-lunch",
-    "name": "Oga's Cantina (Lunch)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/lunch/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-ogas-cantina-dinner",
-    "name": "Oga's Cantina (Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/dinner/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-ronto-roasters-breakfast",
-    "name": "Ronto Roasters (Breakfast)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/breakfast/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-ronto-roasters-lunch-and-dinner",
-    "name": "Ronto Roasters (Lunch & Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/lunch-and-dinner/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-rosies-all-american-cafe",
-    "name": "Rosie's All-American Café",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/rosies-all-american-cafe/menus/lunch-and-dinner/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-roundup-rodeo-bbq-dinner",
-    "name": "Roundup Rodeo BBQ (Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/roundup-rodeo-bbq/menus/dinner/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-sci-fi-dine-in-theater-restaurant-lunch",
-    "name": "Sci-Fi Dine-In Theater Restaurant (Lunch)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/sci-fi-dine-in-theater/menus/lunch/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-sci-fi-dine-in-theater-restaurant-dinner",
-    "name": "Sci-Fi Dine-In Theater Restaurant (Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/sci-fi-dine-in-theater/menus/dinner/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-the-hollywood-brown-derby-lunch",
-    "name": "The Hollywood Brown Derby (Lunch)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/lunch/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-the-hollywood-brown-derby-dinner",
-    "name": "The Hollywood Brown Derby (Dinner)",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/menus/dinner/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "hs-the-hollywood-brown-derby-lounge",
-    "name": "The Hollywood Brown Derby Lounge",
-    "park": "Hollywood Studios",
-    "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby-lounge/menus/bar-%E2%80%93-lounge/",
-    "added": [],
+    "id": "ioa-croissant-moon-bakery",
+    "name": "Croissant Moon Bakery",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/croissant-moon-bakery/menu.html",
+    "added": [
+      "Holiday Desserts",
+      "choose from a variety of festive holiday desserts",
+      "Buy 2, Get 1 Free Coca-Cola Freestyle® Souvenir"
+    ],
     "removed": [
-      "The Hollywood Brown Derby Lounge",
-      "— Beet and Kale Salad",
-      "— Roasted Butternut Squash Soup",
-      "— Escargot",
-      "— House-made Ravioli",
-      "— Prosciutto Croquettes",
-      "— Shrimp Cocktail",
-      "— Char-grilled Octopus",
-      "— Pan-roasted Halibut",
-      "— Half Roasted Chicken",
-      "— Filet Mignon*",
-      "— Our Famous Cobb Salad",
-      "— Stuffed Butternut Squash",
-      "— Braised Center-cut Short Rib",
-      "— Fried Pork Chop",
-      "— Braised Duck Pappardelle Pasta",
-      "— Au Gratin Potato",
-      "— Glazed Carrots",
-      "— Braised Wild Mushrooms",
-      "— Grapefruit Cake",
-      "— Orange-Hazelnut Chocolate Cake",
-      "— Decadent Chocolate Cake",
-      "— Honey Pot de Crème",
-      "— Pumpkin Cheesecake",
-      "— Chicken Noodle Soup",
-      "— Chopped Salad",
-      "— Grilled Chicken Breast",
-      "— Grilled Seasonal Fish",
-      "— Grilled Beef Steak",
-      "— Macaroni & Cheese",
-      "— Seasonal Vegetables",
-      "— Mashed Potatoes",
-      "— Fresh Fruit Cup",
-      "— Apple Slices",
-      "— Strawberry and Yogurt Parfait",
-      "— Vanilla Cake Bar",
-      "Peru Alto Mayo Protected Forest Coffee Roasted by Joffrey’s Coffee™",
-      "Domaine Serene Evenstad Reserve Chardonnay, Dundee Hills",
-      "Castello Banfi Brunello di Montalcino, Tuscany",
-      "Jarvis Finch Hollow Chardonnay, Napa Valley",
-      "— Caymus Cabernet Sauvignon, Napa Valley",
-      "— Dessert Wine Flight",
-      "— Tawny Port Flight",
-      "— Nutty Irishman",
-      "— Grapefruit Cake Martini",
-      "Inniskillin Vidal Icewine, Niagara Estate",
-      "Royal Tokaji Red Label 5 Puttonyos, Hungary",
-      "Banfi Rosa Regale Sparkling Red, Piedmont",
-      "— Vietti Moscato d'Asti, Piedmont",
-      "— Fonesca Bin 27 Reserve Port",
-      "— Dow's 10 year Tawny Port",
-      "— Dow's 20 year Tawny Port",
-      "— Dow's 30 year Tawny Port",
-      "— Louis XIII de Rémy Martin",
-      "— Rémy Martin VSOP",
-      "— Rémy Martin XO",
-      "— Brown Derby Original Grapefruit Cake"
+      "Halloween Horror Nights desserts",
+      "choose from a variety of Halloween Horror Nights desserts."
     ]
+  },
+  {
+    "id": "ioa-fire-eaters-grill",
+    "name": "Fire Eater's Grill",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/fire-eaters-grill/menu.html",
+    "added": [
+      "Buy 2, Get 1 Free Coca-Cola Freestyle® Souvenir"
+    ],
+    "removed": []
+  },
+  {
+    "id": "ioa-pizza-predattoria",
+    "name": "Pizza Predattoria",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/pizza-predattoria/menu.html",
+    "added": [
+      "Buy 2, Get 1 Free Coca-Cola Freestyle® Souvenir"
+    ],
+    "removed": []
+  },
+  {
+    "id": "ioa-the-burger-digs",
+    "name": "The Burger Digs",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/the-burger-digs/menu.html",
+    "added": [
+      "Buy 2, Get 1 Free Coca-Cola Freestyle® Souvenir"
+    ],
+    "removed": []
+  },
+  {
+    "id": "ioa-three-broomsticks",
+    "name": "Three Broomsticks",
+    "park": "Islands of Adventure",
+    "url": "https://www.universalorlando.com/web/en/us/things-to-do/dining/three-broomsticks/menu.html",
+    "added": [
+      "Holiday Smoked Turkey Dinner",
+      "Fire Whisky, apple whiskey, apple cider, cinnamon, cloves, star anise and nutmeg",
+      "Spice Apple Cider",
+      "apple cider, cinnamon, cloves, star anise and nutmeg"
+    ],
+    "removed": []
   }
 ]
