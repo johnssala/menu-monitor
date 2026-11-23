@@ -1,159 +1,135 @@
 [
   {
-    "id": "mk-astrofizz",
-    "name": "Astrofizz",
+    "id": "mk-plaza-ice-cream-parlor",
+    "name": "Plaza Ice Cream Parlor",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/astrofizz/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-ice-cream-parlor/menus/snack/",
     "error": "Navigation timeout of 90000 ms exceeded"
   },
   {
-    "id": "mk-auntie-gravitys-galactic-goodies",
-    "name": "Auntie Gravity's Galactic Goodies",
+    "id": "mk-prince-erics-village-market",
+    "name": "Prince Eric's Village Market",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/auntie-gravitys-galactic-goodies/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/prince-eric-village-market/menus/snack/",
     "error": "Navigation timeout of 90000 ms exceeded"
   },
   {
-    "id": "mk-be-our-guest-restaurant-special",
-    "name": "Be Our Guest Restaurant (Special)",
+    "id": "mk-sleepy-hollow",
+    "name": "Sleepy Hollow",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/special/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/sleepy-hollow/menus/all-day/",
     "error": "Navigation timeout of 90000 ms exceeded"
   },
   {
-    "id": "mk-be-our-guest-restaurant-lunch",
-    "name": "Be Our Guest Restaurant (Lunch)",
+    "id": "mk-storybook-treats",
+    "name": "Storybook Treats",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/lunch/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/storybook-treats/menus/snack/",
     "error": "Navigation timeout of 90000 ms exceeded"
   },
   {
-    "id": "mk-be-our-guest-restaurant-dinner",
-    "name": "Be Our Guest Restaurant (Dinner)",
+    "id": "mk-sunshine-tree-terrace",
+    "name": "Sunshine Tree Terrace",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/be-our-guest-restaurant/menus/dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/sunshine-tree-terrace/menus/snack/",
     "error": "Navigation timeout of 90000 ms exceeded"
   },
   {
-    "id": "mk-caseys-corner",
-    "name": "Casey's Corner",
+    "id": "mk-the-beak-and-barrel-lunch",
+    "name": "The Beak and Barrel (Lunch)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/caseys-corner/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/beak-barrel/menus/lunch/",
     "error": "Navigation timeout of 90000 ms exceeded"
   },
   {
-    "id": "mk-chesire-cafe",
-    "name": "Cheshire Café",
+    "id": "mk-the-beak-and-barrel-dinner",
+    "name": "The Beak and Barrel (Dinner)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cheshire-cafe/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/beak-barrel/menus/dinner/",
     "error": "Navigation timeout of 90000 ms exceeded"
   },
   {
-    "id": "mk-cinderellas-royal-table-breakfast",
-    "name": "Cinderella's Royal Table (Breakfast)",
+    "id": "mk-the-crystal-palace-breakfast",
+    "name": "The Crystal Palace (Breakfast)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cinderella-royal-table/menus/breakfast/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/crystal-palace/menus/breakfast/",
     "error": "Navigation timeout of 90000 ms exceeded"
   },
   {
-    "id": "mk-cinderellas-royal-table-lunch",
-    "name": "Cinderella's Royal Table (Lunch)",
+    "id": "mk-the-diamond-horseshoe-lunch",
+    "name": "The Diamond Horseshoe (Lunch)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cinderella-royal-table/menus/lunch/",
-    "added": [
-      "— Roasted Pork Belly (Party Exclusive)"
-    ],
-    "removed": []
-  },
-  {
-    "id": "mk-cinderellas-royal-table-dinner",
-    "name": "Cinderella's Royal Table (Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cinderella-royal-table/menus/dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/diamond-horseshoe/menus/lunch/",
     "error": "Navigation timeout of 90000 ms exceeded"
   },
   {
-    "id": "mk-columbia-harbour-house",
-    "name": "Columbia Harbour House",
+    "id": "mk-the-diamond-horseshoe-dinner",
+    "name": "The Diamond Horseshoe (Dinner)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/columbia-harbour-house/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/diamond-horseshoe/menus/dinner/",
     "error": "Navigation timeout of 90000 ms exceeded"
   },
   {
-    "id": "mk-cosmic-rays-starlight-cafe",
-    "name": "Cosmic Ray's Starlight Café",
+    "id": "mk-the-friars-nook-breakfast",
+    "name": "The Friar's Nook (Breakfast)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/cosmic-ray-starlight-cafe/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/breakfast/",
     "error": "Navigation timeout of 90000 ms exceeded"
   },
   {
-    "id": "mk-gastons-tavern",
-    "name": "Gaston's Tavern",
+    "id": "mk-the-friars-nook-lunch-and-dinner",
+    "name": "The Friar's Nook (Lunch & Dinner)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/gastons-tavern/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/lunch-and-dinner/",
     "error": "Navigation timeout of 90000 ms exceeded"
   },
   {
-    "id": "mk-golden-oak-outpost-breakfast",
-    "name": "Golden Oak Outpost (Breakfast)",
+    "id": "mk-the-lunching-pad-breakfast",
+    "name": "The Lunching Pad (Breakfast)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/golden-oak-outpost/menus/breakfast/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/lunching-pad/menus/breakfast/",
     "error": "Navigation timeout of 90000 ms exceeded"
   },
   {
-    "id": "mk-golden-oak-outpost-lunch-and-dinner",
-    "name": "Golden Oak Outpost (Lunch & Dinner)",
+    "id": "mk-the-lunching-pad-lunch-and-dinner",
+    "name": "The Lunching Pad (Lunch & Dinner)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/golden-oak-outpost/menus/lunch-and-dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/lunching-pad/menus/lunch-and-dinner/",
     "error": "Navigation timeout of 90000 ms exceeded"
   },
   {
-    "id": "mk-jungle-navigation-skipper-canteen-lunch",
-    "name": "Jungle Navigation Co. LTD Skipper Canteen (Lunch)",
+    "id": "mk-the-plaza-restaurant-lunch",
+    "name": "The Plaza Restaurant (Lunch)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/jungle-navigation-skipper-canteen/menus/lunch/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-restaurant/menus/lunch/",
     "error": "Navigation timeout of 90000 ms exceeded"
   },
   {
-    "id": "mk-jungle-navigation-skipper-canteen-dinner",
-    "name": "Jungle Navigation Co. LTD Skipper Canteen (Dinner)",
+    "id": "mk-the-plaza-restaurant-dinner",
+    "name": "The Plaza Restaurant (Dinner)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/jungle-navigation-skipper-canteen/menus/dinner/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-restaurant/menus/dinner/",
     "error": "Navigation timeout of 90000 ms exceeded"
   },
   {
-    "id": "mk-liberty-square-market",
-    "name": "Liberty Square Market",
+    "id": "mk-tonys-town-square-restaurant-lunch",
+    "name": "Tony's Town Square Restaurant (Lunch)",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/liberty-square-market/menus/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/tonys-town-square-restaurant/menus/lunch/",
     "error": "Navigation timeout of 90000 ms exceeded"
   },
   {
-    "id": "mk-liberty-tree-tavern-lunch",
-    "name": "Liberty Tree Tavern (Lunch)",
+    "id": "mk-tortuga-tavern",
+    "name": "Tortuga Tavern",
     "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/liberty-tree-tavern/menus/lunch/",
+    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/tortuga-tavern/menus/lunch-and-dinner/",
     "error": "Navigation timeout of 90000 ms exceeded"
   },
   {
-    "id": "mk-liberty-tree-tavern-dinner",
-    "name": "Liberty Tree Tavern (Dinner)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/liberty-tree-tavern/menus/dinner/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "mk-main-street-bakery",
-    "name": "Main Street Bakery (Starbucks)",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/main-street-bakery/menus/",
-    "error": "Navigation timeout of 90000 ms exceeded"
-  },
-  {
-    "id": "mk-pecos-bill-tall-tale-inn-and-cafe",
-    "name": "Pecos Bill Tall Tale Inn and Cafe",
-    "park": "Magic Kingdom",
-    "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/pecos-bill-tall-tale-inn-and-cafe/menus/",
+    "id": "tl-happy-landings-ice-cream",
+    "name": "Happy Landings Ice Cream",
+    "park": "Typhoon Lagoon",
+    "url": "https://disneyworld.disney.go.com/dining/typhoon-lagoon/happy-landings-ice-cream/menus/snack/",
     "error": "Navigation timeout of 90000 ms exceeded"
   }
 ]
