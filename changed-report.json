@@ -1,113 +1,142 @@
 [
   {
-    "id": "ush-three-broomsticks",
-    "name": "Three Broomsticks",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/three-broomsticks/menu.html",
-    "added": [
-      "Holiday Dinner",
-      "Pumpkin Pasty",
-      "Pumpkin shaped pastry filled with a pumpkin spice cream filling.",
-      "Hot Spiced Apple Toddy",
-      "Apple cider, apple whiskey, and fire whiskey topped with an apple slice and star anise",
-      "Spiced Apple Cider",
-      "Apple cider, topped with an apple slice and star anise",
-      "Pumpkin shaped pastry filled with a pumpkin spice cream filling. Contains: Milk, Egg, Wheat",
-      "Apple cider, topped with an apple slice and star anise. Contains: No Major Food Allergens*",
-      "Apple cider, topped with an apple slice and star anise.",
-      "Hot Spiced Apple Toddy**",
-      "Apple cider, apple whiskey, and fire whiskey topped with an apple slice and star anise."
-    ],
-    "removed": []
+    "id": "ak-caravan-road",
+    "name": "Caravan Road",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/caravan-road/menus/snack/",
+    "error": "Navigation timeout of 90000 ms exceeded"
   },
   {
-    "id": "ush-toadstool-cafe",
-    "name": "Toadstool Cafe",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/toadstool-cafe/menu.html",
-    "added": [
-      "Braised short rib, with beef demi-glace, mushrooms, and polenta.",
-      "Contains: Milk, Egg, Wheat, Soy",
-      "Snowman Cake (Mario)",
-      "Chef Toad Chicken Special - Seasonal Item (request no parmesan crisp):",
-      "Grilled chicken, basil pesto aioli, Swiss cheese, green pepper, and spinach served on a brioche bun with a side of fries",
-      "Chef Toad Chicken Special - Seasonal Item (request no parmesan crisp)",
-      "Alfredo sauce, grilled chicken, broccoli, and mushrooms topped with egg shaped crisp"
-    ],
-    "removed": [
-      "All beef patty, bacon, mushroom, lettuce, tomato, and American cheese served on a brioche bun with a side of fries.",
-      "Drinks - Super Star Lemon Squash",
-      "Chef Toad Chicken Special (request no parmesan crisp):",
-      "Grilled chicken, basil pesto, Swiss cheese, green pepper, and spinach served on a brioche bun with a side of fries",
-      "Super Mushroom Soup (request no crackers)",
-      "Chef Toad Chicken Special (request no parmesan crisp)",
-      "Pesto alfredo sauce, grilled chicken, broccoli, and mushrooms topped with egg shaped crisp",
-      "Drink - Super Star Lemon Squash"
-    ]
+    "id": "ak-creature-comforts",
+    "name": "Creature Comforts (Starbucks)",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/creature-comforts/menus/coffee-%E2%80%93-bakery/",
+    "error": "Navigation timeout of 90000 ms exceeded"
   },
   {
-    "id": "ush-universal-tower-snack-bar",
-    "name": "Universal Tower Snack Bar",
-    "park": "Universal Studios Hollywood",
-    "url": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/universal-tower-snack-bar/menu.html",
-    "added": [
-      "Holiday Offerings",
-      "Max Dog",
-      "22” All beef hot dog topped with chili, cheese, and crispy onions",
-      "Who Hash",
-      "Loaded tater tots with brisket, cheese sauce, grilled onions and Thousand Island dressing.",
-      "Letter from the Grinch™",
-      "Grinch™ Donut",
-      "Giant donut decorated with colored icing.",
-      "Grinchmas™ Themed Kettle Corn",
-      "Green and red colored kettle corn in a Grinchmas themed bag.",
-      "Spiked Hot Chocolate",
-      "Peppermint liqueur and classic hot chocolate topped with a jumbo marshmallow",
-      "Whoville Snowball Fight",
-      "iced oat milk hot chocolate with a snowball on top",
-      "Who Cold Brew",
-      "Grinch's Heart Lemonade",
-      "Green apple lemonade with 3 gummy hearts",
-      "Max's Reindeer Fuel",
-      "Peppermint Hot Chocolate",
-      "Hot Chocolate w/Marshmallow",
-      "22” All beef hot dog topped with chili, cheese, and crispy onions. Contains: Milk, Egg, Wheat, Soy",
-      "22” All beef hot dog topped with chili, cheese, and crispy onions.",
-      "Contains: Milk, Egg, Wheat, Soy, Fish (Cod)",
-      "Giant donut decorated with colored icing. Contains: Milk, Egg, Wheat, Soy",
-      "Grinchmas™ Kettle Corn",
-      "Green and red colored kettle corn in a Grinchmas themed bag. Contains: Soy",
-      "Letter from the Grinch™ (Vegetarian)",
-      "Contains: Milk, Egg, Wheat",
-      "Heart Grew 3 Sizes (Vegetarian)",
-      "Grinch’s ™ Heart Lemonade",
-      "Max’s Reindeer Fuel",
-      "Contains: Milk, Soy",
-      "Who-Ville Snowball Fight",
-      "Classic Hot Cocoa",
-      "Peppermint Hot Cocoa",
-      "Spiked Hot Cocoa**",
-      "Peppermint liqueur and classic hot chocolate topped with a jumbo marshmallow. Contains: Milk",
-      "Peppermint liqueur and classic hot chocolate topped with a jumbo marshmallow."
-    ],
-    "removed": [
-      "Giant Bavarian Pretzel",
-      "Giant Everything Seasoning Pretzel",
-      "Frozen Treats",
-      "Häagen-Dazs® Ice Cream Bar",
-      "Minute Maid® Frozen Lemonade",
-      "Minute Maid® Frozen Strawberry Lemonade",
-      "Nestlé® Ice Cream Sandwich",
-      "Nestlé® Vanilla Dibs with Crunch®",
-      "Oreo® King Size Cone",
-      "Battle Bus Dog",
-      "Point Zero Pretzel",
-      "Soft pretzel dipped in dark chocolate and topped with purple sugar. Contains: Milk, Wheat, Soy",
-      "Soft pretzel dipped in dark chocolate and topped with purple sugar.",
-      "The Final Peel (Vegetarian)",
-      "Green vanilla whoopie pie filled with banana buttercream, salted toffee sauce and salted caramel crisp pearls.",
-      "Slurp Juice",
-      "POWERADE® Mountain Berry Blast, Sprite®, pineapple juice, blue curacao syrup and edible glitter."
-    ]
+    "id": "ak-drinkwallah",
+    "name": "Drinkwallah",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/drinkwallah/menus/snack/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "ak-flame-tree-barbecue",
+    "name": "Flame Tree Barbecue",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/flame-tree-barbecue/menus/lunch-and-dinner/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "ak-harambe-fruit-market",
+    "name": "Harambe Fruit Market",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/harambe-fruit-market/menus/snack/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "ak-harambe-market",
+    "name": "Harambe Market",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/harambe-market/menus/lunch-and-dinner/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "ak-isle-of-java-snack",
+    "name": "Isle of Java (Snack)",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/isle-of-java/menus/snack/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "ak-kusafiri-coffee-shop-and-bakery-lunch-and-dinner",
+    "name": "Kusafiri Coffee Shop & Bakery (Lunch & Dinner)",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/kusafiri-coffee-shop-and-bakery/menus/lunch-and-dinner/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "ak-mahindi",
+    "name": "Mahindi",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/mahindi/menus/snack/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "ak-nomad-lounge",
+    "name": "Nomad Lounge",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/nomad-lounge/menus/bar-%E2%80%93-lounge/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "ak-pizzafari",
+    "name": "Pizzafari",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/pizzafari/menus/lunch-and-dinner/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "ak-pongu-pongu",
+    "name": "Pongu Pongu",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/pongu-pongu/menus/snack/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "ak-rainforest-cafe-breakfast",
+    "name": "Rainforest Cafe (Breakfast)",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/rainforest-cafe-animal-kingdom/menus/breakfast/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "ak-rainforest-cafe-lunch",
+    "name": "Rainforest Cafe (Lunch)",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/rainforest-cafe-animal-kingdom/menus/lunch/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "ak-satuli-canteen-breakfast",
+    "name": "Satu'li Canteen (Breakfast)",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/satuli-canteen/menus/breakfast/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "ak-satuli-canteen-lunch-and-dinner",
+    "name": "Satu'li Canteen (Lunch & Dinner)",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/satuli-canteen/menus/lunch-and-dinner/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "ak-tamu-tamu-refreshments-breakfast",
+    "name": "Tamu Tamu Refreshments (Breakfast)",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tamu-tamu-refreshments/menus/breakfast/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "ak-tamu-tamu-refreshments-snack",
+    "name": "Tamu Tamu Refreshments (Snack)",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/tamu-tamu-refreshments/menus/snack/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "ak-terra-treats",
+    "name": "Terra Treats",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/terra-treats/menus/snack/",
+    "error": "Navigation timeout of 90000 ms exceeded"
+  },
+  {
+    "id": "ak-the-smiling-crocodile",
+    "name": "The Smiling Crocodile",
+    "park": "Animal Kingdom",
+    "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/smiling-crocodile/menus/lunch-and-dinner/",
+    "error": "Navigation timeout of 90000 ms exceeded"
   }
 ]
